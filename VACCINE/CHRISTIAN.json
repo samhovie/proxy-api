@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 10751,
+        "AdministeredCount": 11423,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 241.0,
+        "AdministeredCountRollAvg": 252.0,
         "AllocatedDoses": 200,
-        "CommunityReportedInventory": 200,
+        "CommunityReportedInventory": 290,
         "CountyName": "Christian",
-        "InventoryReportDate": "2021-03-17T00:00:00",
+        "InventoryReportDate": "2021-03-19T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 39.5672,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.13637059489911516,
-        "PersonsFullyVaccinated": 4454,
-        "PersonsFullyVaccinatedChange": 4454,
+        "PctVaccinatedPopulation": 0.14570894951164998,
+        "PersonsFullyVaccinated": 4759,
+        "PersonsFullyVaccinatedChange": 4759,
         "Population": 32661,
-        "Report_Date": "2021-03-17T00:00:00",
-        "TotalReportedInventory": 200
+        "Report_Date": "2021-03-19T00:00:00",
+        "TotalReportedInventory": 290
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 52,
             "AdministeredCountChange": 48,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 102,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 105,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 109,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 112,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 113,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 115,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 115,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 9.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 115,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 116,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 116,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 128,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 219,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 237,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 271,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 279,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 282,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 283,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 318,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 27.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 349,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 454,
             "AdministeredCountChange": 105,
             "AdministeredCountRollAvg": 31.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 32661,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 616,
             "AdministeredCountChange": 162,
             "AdministeredCountRollAvg": 49.0,
             "AllocatedDoses": 100,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 32661,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 820,
             "AdministeredCountChange": 204,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 52,
             "Population": 32661,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 829,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 78.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 32661,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 837,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 79.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 32661,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 896,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 32661,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 934,
             "AdministeredCountChange": 38,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1086,
             "AdministeredCountChange": 152,
             "AdministeredCountRollAvg": 90.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 32661,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1119,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 32661,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1241,
             "AdministeredCountChange": 122,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1247,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 32661,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1252,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 59.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1270,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 53.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1416,
             "AdministeredCountChange": 146,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1532,
             "AdministeredCountChange": 116,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 32661,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1764,
             "AdministeredCountChange": 232,
             "AdministeredCountRollAvg": 92.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 32661,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1939,
             "AdministeredCountChange": 175,
             "AdministeredCountRollAvg": 100.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 32661,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1946,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 100.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 32661,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1951,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 100.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 32661,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 1999,
             "AdministeredCountChange": 48,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 32661,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 2376,
             "AdministeredCountChange": 377,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 32661,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 2663,
             "AdministeredCountChange": 287,
             "AdministeredCountRollAvg": 162.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 32661,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 2754,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 141.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 32661,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 2807,
             "AdministeredCountChange": 53,
             "AdministeredCountRollAvg": 124.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 32661,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 2882,
             "AdministeredCountChange": 75,
             "AdministeredCountRollAvg": 134.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 32661,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 2893,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 135.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 32661,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 2942,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 135.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 32661,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 3172,
             "AdministeredCountChange": 230,
             "AdministeredCountRollAvg": 114.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 32661,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 3351,
             "AdministeredCountChange": 179,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 32661,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 3616,
             "AdministeredCountChange": 265,
             "AdministeredCountRollAvg": 123.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 74,
             "Population": 32661,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 3828,
             "AdministeredCountChange": 212,
             "AdministeredCountRollAvg": 146.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 32661,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 3857,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 139.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 32661,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 3861,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 138.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 32661,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 4052,
             "AdministeredCountChange": 191,
             "AdministeredCountRollAvg": 159.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 32661,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 4130,
             "AdministeredCountChange": 78,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 32661,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 4269,
             "AdministeredCountChange": 139,
             "AdministeredCountRollAvg": 131.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 114,
             "Population": 32661,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 4331,
             "AdministeredCountChange": 62,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 32661,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 4474,
             "AdministeredCountChange": 143,
             "AdministeredCountRollAvg": 92.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 32661,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 4545,
             "AdministeredCountChange": 71,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 32661,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 4599,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 105.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 32661,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 4650,
             "AdministeredCountChange": 51,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 32661,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 4694,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 32661,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 5160,
             "AdministeredCountChange": 466,
             "AdministeredCountRollAvg": 127.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 167,
             "Population": 32661,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 5407,
             "AdministeredCountChange": 247,
             "AdministeredCountRollAvg": 154.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 32661,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 5929,
             "AdministeredCountChange": 522,
             "AdministeredCountRollAvg": 208.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 298,
             "Population": 32661,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 5960,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 202.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 32661,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 6154,
             "AdministeredCountChange": 194,
             "AdministeredCountRollAvg": 222.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 140,
             "Population": 32661,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 6411,
             "AdministeredCountChange": 257,
             "AdministeredCountRollAvg": 252.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 188,
             "Population": 32661,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 6578,
             "AdministeredCountChange": 167,
             "AdministeredCountRollAvg": 269.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 106,
             "Population": 32661,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 6684,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 218.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 32661,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 6954,
             "AdministeredCountChange": 270,
             "AdministeredCountRollAvg": 221.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 172,
             "Population": 32661,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 7322,
             "AdministeredCountChange": 368,
             "AdministeredCountRollAvg": 199.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 323,
             "Population": 32661,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 7380,
             "AdministeredCountChange": 58,
             "AdministeredCountRollAvg": 203.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 32661,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 7469,
             "AdministeredCountChange": 89,
             "AdministeredCountRollAvg": 188.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 32661,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 7523,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 159.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 32661,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 7767,
             "AdministeredCountChange": 244,
             "AdministeredCountRollAvg": 170.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 32661,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 7875,
             "AdministeredCountChange": 108,
             "AdministeredCountRollAvg": 170.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 32661,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 8053,
             "AdministeredCountChange": 178,
             "AdministeredCountRollAvg": 157.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 120,
             "Population": 32661,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 8330,
             "AdministeredCountChange": 277,
             "AdministeredCountRollAvg": 144.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 215,
             "Population": 32661,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 8443,
             "AdministeredCountChange": 113,
             "AdministeredCountRollAvg": 152.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 32661,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 8471,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 143.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 32661,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 8771,
             "AdministeredCountChange": 300,
             "AdministeredCountRollAvg": 178.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 254,
             "Population": 32661,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 8946,
             "AdministeredCountChange": 175,
             "AdministeredCountRollAvg": 168.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 32661,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 9067,
             "AdministeredCountChange": 121,
             "AdministeredCountRollAvg": 170.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 32661,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 9244,
             "AdministeredCountChange": 177,
             "AdministeredCountRollAvg": 170.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 148,
             "Population": 32661,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 9660,
             "AdministeredCountChange": 416,
             "AdministeredCountRollAvg": 190.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 300,
             "Population": 32661,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 9788,
             "AdministeredCountChange": 128,
             "AdministeredCountRollAvg": 192.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 87,
             "Population": 32661,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 9893,
             "AdministeredCountChange": 105,
             "AdministeredCountRollAvg": 203.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 32661,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 10139,
             "AdministeredCountChange": 246,
             "AdministeredCountRollAvg": 195.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 226,
             "Population": 32661,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 10419,
             "AdministeredCountChange": 280,
             "AdministeredCountRollAvg": 210.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 165,
             "Population": 32661,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
         },
         {
             "AdministeredCount": 10751,
             "AdministeredCountChange": 332,
             "AdministeredCountRollAvg": 241.0,
             "AllocatedDoses": 200,
-            "CommunityReportedInventory": 200,
+            "CommunityReportedInventory": 290,
             "CountyName": "Christian",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.5672,
             "Longitude": -89.3227,
@@ -1672,11 +1672,47 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 32661,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 200
+            "TotalReportedInventory": 290
+        },
+        {
+            "AdministeredCount": 11103,
+            "AdministeredCountChange": 352,
+            "AdministeredCountRollAvg": 266.0,
+            "AllocatedDoses": 200,
+            "CommunityReportedInventory": 290,
+            "CountyName": "Christian",
+            "InventoryReportDate": "2021-03-19T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.5672,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.13906493983650225,
+            "PersonsFullyVaccinated": 4542,
+            "PersonsFullyVaccinatedChange": 88,
+            "Population": 32661,
+            "Report_Date": "2021-03-18T00:00:00",
+            "TotalReportedInventory": 290
+        },
+        {
+            "AdministeredCount": 11423,
+            "AdministeredCountChange": 320,
+            "AdministeredCountRollAvg": 252.0,
+            "AllocatedDoses": 200,
+            "CommunityReportedInventory": 290,
+            "CountyName": "Christian",
+            "InventoryReportDate": "2021-03-19T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.5672,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.14570894951164998,
+            "PersonsFullyVaccinated": 4759,
+            "PersonsFullyVaccinatedChange": 217,
+            "Population": 32661,
+            "Report_Date": "2021-03-19T00:00:00",
+            "TotalReportedInventory": 290
         }
     ],
     "lastUpdatedDate": {
-        "day": 17,
+        "day": 19,
         "month": 3,
         "year": 2021
     }

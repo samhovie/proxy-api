@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 8338,
+        "AdministeredCount": 8688,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 172.0,
+        "AdministeredCountRollAvg": 126.0,
         "AllocatedDoses": 220,
-        "CommunityReportedInventory": 2335,
+        "CommunityReportedInventory": 2235,
         "CountyName": "Saline",
-        "InventoryReportDate": "2021-03-17T00:00:00",
+        "InventoryReportDate": "2021-03-19T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 37.715,
         "Longitude": -88.5565,
-        "PctVaccinatedPopulation": 0.14720153936250313,
-        "PersonsFullyVaccinated": 3519,
-        "PersonsFullyVaccinatedChange": 3519,
+        "PctVaccinatedPopulation": 0.15757550405755877,
+        "PersonsFullyVaccinated": 3767,
+        "PersonsFullyVaccinatedChange": 3767,
         "Population": 23906,
-        "Report_Date": "2021-03-17T00:00:00",
-        "TotalReportedInventory": 2335
+        "Report_Date": "2021-03-19T00:00:00",
+        "TotalReportedInventory": 2235
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 4.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 125,
             "AdministeredCountChange": 98,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 127,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 131,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 131,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 131,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 133,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 133,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 133,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 133,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 133,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 144,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 192,
             "AdministeredCountChange": 48,
             "AdministeredCountRollAvg": 9.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 228,
             "AdministeredCountChange": 36,
             "AdministeredCountRollAvg": 14.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 235,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 287,
             "AdministeredCountChange": 52,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 297,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 297,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 329,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 360,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 369,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 23906,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 488,
             "AdministeredCountChange": 119,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 110,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 79,
             "Population": 23906,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 555,
             "AdministeredCountChange": 67,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 23906,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 607,
             "AdministeredCountChange": 52,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 23906,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 686,
             "AdministeredCountChange": 79,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 23906,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 717,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 747,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 766,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 783,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 813,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 833,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 916,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 969,
             "AdministeredCountChange": 53,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 1011,
             "AdministeredCountChange": 42,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 1042,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 23906,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 1231,
             "AdministeredCountChange": 189,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 23906,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 1475,
             "AdministeredCountChange": 244,
             "AdministeredCountRollAvg": 95.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 71,
             "Population": 23906,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 1515,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 97.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 1518,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 23906,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 1563,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 23906,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 1636,
             "AdministeredCountChange": 73,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 23906,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 1781,
             "AdministeredCountChange": 145,
             "AdministeredCountRollAvg": 106.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 23906,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 1883,
             "AdministeredCountChange": 102,
             "AdministeredCountRollAvg": 93.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 23906,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2040,
             "AdministeredCountChange": 157,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 23906,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2165,
             "AdministeredCountChange": 125,
             "AdministeredCountRollAvg": 93.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 78,
             "Population": 23906,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2172,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 93.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2329,
             "AdministeredCountChange": 157,
             "AdministeredCountRollAvg": 109.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 23906,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2488,
             "AdministeredCountChange": 159,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 23906,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2560,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 23906,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2624,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 106.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 23906,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2681,
             "AdministeredCountChange": 57,
             "AdministeredCountRollAvg": 92.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 23906,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2686,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 23906,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2775,
             "AdministeredCountChange": 89,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 23906,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2821,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 23906,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2860,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 53.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 23906,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2907,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 23906,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 2951,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 23906,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 3118,
             "AdministeredCountChange": 167,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 23906,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 3179,
             "AdministeredCountChange": 61,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 23906,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 3238,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 23906,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 3344,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 75.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 23906,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 3389,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 23906,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 3419,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 23906,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 3522,
             "AdministeredCountChange": 103,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 52,
             "Population": 23906,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 3767,
             "AdministeredCountChange": 245,
             "AdministeredCountRollAvg": 93.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 23906,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 4027,
             "AdministeredCountChange": 260,
             "AdministeredCountRollAvg": 121.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 250,
             "Population": 23906,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 4144,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 129.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 23906,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 4163,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 117.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 23906,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 4290,
             "AdministeredCountChange": 127,
             "AdministeredCountRollAvg": 129.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 86,
             "Population": 23906,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 4597,
             "AdministeredCountChange": 307,
             "AdministeredCountRollAvg": 168.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 23906,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 4846,
             "AdministeredCountChange": 249,
             "AdministeredCountRollAvg": 189.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 162,
             "Population": 23906,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 5257,
             "AdministeredCountChange": 411,
             "AdministeredCountRollAvg": 213.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 23906,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 5363,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 191.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 86,
             "Population": 23906,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 5406,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 180.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 23906,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 5474,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 187.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 23906,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 5623,
             "AdministeredCountChange": 149,
             "AdministeredCountRollAvg": 190.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 23906,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 5711,
             "AdministeredCountChange": 88,
             "AdministeredCountRollAvg": 159.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 23906,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 5999,
             "AdministeredCountChange": 288,
             "AdministeredCountRollAvg": 165.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 188,
             "Population": 23906,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 6281,
             "AdministeredCountChange": 282,
             "AdministeredCountRollAvg": 146.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 171,
             "Population": 23906,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 6422,
             "AdministeredCountChange": 141,
             "AdministeredCountRollAvg": 151.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 23906,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 6446,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 149.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 23906,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 6700,
             "AdministeredCountChange": 254,
             "AdministeredCountRollAvg": 175.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 211,
             "Population": 23906,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 7015,
             "AdministeredCountChange": 315,
             "AdministeredCountRollAvg": 199.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 276,
             "Population": 23906,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 7132,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 203.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 23906,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 7335,
             "AdministeredCountChange": 203,
             "AdministeredCountRollAvg": 191.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 23906,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 7808,
             "AdministeredCountChange": 473,
             "AdministeredCountRollAvg": 218.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 284,
             "Population": 23906,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 7919,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 214.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 77,
             "Population": 23906,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 7966,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 217.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 23906,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 8070,
             "AdministeredCountChange": 104,
             "AdministeredCountRollAvg": 196.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 23906,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 8140,
             "AdministeredCountChange": 70,
             "AdministeredCountRollAvg": 161.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 23906,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
         },
         {
             "AdministeredCount": 8338,
             "AdministeredCountChange": 198,
             "AdministeredCountRollAvg": 172.0,
             "AllocatedDoses": 220,
-            "CommunityReportedInventory": 2335,
+            "CommunityReportedInventory": 2235,
             "CountyName": "Saline",
-            "InventoryReportDate": "2021-03-17T00:00:00",
+            "InventoryReportDate": "2021-03-19T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 37.715,
             "Longitude": -88.5565,
@@ -1654,11 +1654,47 @@
             "PersonsFullyVaccinatedChange": 175,
             "Population": 23906,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 2335
+            "TotalReportedInventory": 2235
+        },
+        {
+            "AdministeredCount": 8420,
+            "AdministeredCountChange": 82,
+            "AdministeredCountRollAvg": 155.0,
+            "AllocatedDoses": 220,
+            "CommunityReportedInventory": 2235,
+            "CountyName": "Saline",
+            "InventoryReportDate": "2021-03-19T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 37.715,
+            "Longitude": -88.5565,
+            "PctVaccinatedPopulation": 0.1487910984690036,
+            "PersonsFullyVaccinated": 3557,
+            "PersonsFullyVaccinatedChange": 38,
+            "Population": 23906,
+            "Report_Date": "2021-03-18T00:00:00",
+            "TotalReportedInventory": 2235
+        },
+        {
+            "AdministeredCount": 8688,
+            "AdministeredCountChange": 268,
+            "AdministeredCountRollAvg": 126.0,
+            "AllocatedDoses": 220,
+            "CommunityReportedInventory": 2235,
+            "CountyName": "Saline",
+            "InventoryReportDate": "2021-03-19T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 37.715,
+            "Longitude": -88.5565,
+            "PctVaccinatedPopulation": 0.15757550405755877,
+            "PersonsFullyVaccinated": 3767,
+            "PersonsFullyVaccinatedChange": 210,
+            "Population": 23906,
+            "Report_Date": "2021-03-19T00:00:00",
+            "TotalReportedInventory": 2235
         }
     ],
     "lastUpdatedDate": {
-        "day": 17,
+        "day": 19,
         "month": 3,
         "year": 2021
     }

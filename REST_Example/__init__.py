@@ -89,6 +89,7 @@ def get_users_list():
 if __name__ == "__main__":
 	app.run(host="localhost", port=8000, debug=True)
 
+
 @app.cli.command()
 def scheduled():
     """Run scheduled job."""
@@ -453,5 +454,3 @@ def scheduled():
     jsonpath = base / ("GetResurgenceDataCLIAdmissions.json")
     base.mkdir(exist_ok=True)
     jsonpath.write_text(json.dumps(json_data, indent=4))
-
-    print ("Done")

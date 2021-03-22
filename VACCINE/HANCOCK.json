@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7170,
+        "AdministeredCount": 7267,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 52.0,
+        "AdministeredCountRollAvg": 65.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 110,
         "CountyName": "Hancock",
-        "InventoryReportDate": "2021-03-19T00:00:00",
-        "LHDReportedInventory": 500,
+        "InventoryReportDate": "2021-03-21T00:00:00",
+        "LHDReportedInventory": 150,
         "Latitude": 40.3849,
         "Longitude": -91.1353,
-        "PctVaccinatedPopulation": 0.17826720466263168,
-        "PersonsFullyVaccinated": 3181,
-        "PersonsFullyVaccinatedChange": 3181,
+        "PctVaccinatedPopulation": 0.1835350818202197,
+        "PersonsFullyVaccinated": 3275,
+        "PersonsFullyVaccinatedChange": 3275,
         "Population": 17844,
-        "Report_Date": "2021-03-19T00:00:00",
-        "TotalReportedInventory": 610
+        "Report_Date": "2021-03-21T00:00:00",
+        "TotalReportedInventory": 260
     },
     "VaccineAdministration": [
         {
@@ -25,8 +25,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -34,7 +34,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 9,
@@ -43,8 +43,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -52,7 +52,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 10,
@@ -61,8 +61,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -70,7 +70,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 10,
@@ -79,8 +79,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -88,7 +88,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 10,
@@ -97,8 +97,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -106,7 +106,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 10,
@@ -115,8 +115,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -124,7 +124,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 21,
@@ -133,8 +133,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -142,7 +142,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 29,
@@ -151,8 +151,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -160,7 +160,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 29,
@@ -169,8 +169,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -178,7 +178,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 29,
@@ -187,8 +187,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -196,7 +196,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 30,
@@ -205,8 +205,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -214,7 +214,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 55,
@@ -223,8 +223,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -232,7 +232,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 102,
@@ -241,8 +241,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -250,7 +250,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 177,
@@ -259,8 +259,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -268,7 +268,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 198,
@@ -277,8 +277,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -286,7 +286,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 200,
@@ -295,8 +295,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -304,7 +304,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 200,
@@ -313,8 +313,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -322,7 +322,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 200,
@@ -331,8 +331,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -340,7 +340,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 238,
@@ -349,8 +349,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -358,7 +358,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 244,
@@ -367,8 +367,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -376,7 +376,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 264,
@@ -385,8 +385,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -394,7 +394,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 270,
@@ -403,8 +403,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -412,7 +412,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 286,
@@ -421,8 +421,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -430,7 +430,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 287,
@@ -439,8 +439,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0,
@@ -448,7 +448,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 290,
@@ -457,8 +457,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.00011208249271463797,
@@ -466,7 +466,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17844,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 296,
@@ -475,8 +475,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.00011208249271463797,
@@ -484,7 +484,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 315,
@@ -493,8 +493,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.00011208249271463797,
@@ -502,7 +502,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 328,
@@ -511,8 +511,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0005604124635731899,
@@ -520,7 +520,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 17844,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 349,
@@ -529,8 +529,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0012329074198610178,
@@ -538,7 +538,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 17844,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 368,
@@ -547,8 +547,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0013449899125756557,
@@ -556,7 +556,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17844,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 372,
@@ -565,8 +565,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0013449899125756557,
@@ -574,7 +574,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 402,
@@ -583,8 +583,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0013449899125756557,
@@ -592,7 +592,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 424,
@@ -601,8 +601,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0017372786370768885,
@@ -610,7 +610,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 17844,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 467,
@@ -619,8 +619,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0017372786370768885,
@@ -628,7 +628,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 542,
@@ -637,8 +637,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0020174848688634837,
@@ -646,7 +646,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17844,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 611,
@@ -655,8 +655,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0021295673615781214,
@@ -664,7 +664,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17844,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 620,
@@ -673,8 +673,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0022976911006500783,
@@ -682,7 +682,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17844,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 622,
@@ -691,8 +691,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0022976911006500783,
@@ -700,7 +700,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 622,
@@ -709,8 +709,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0022976911006500783,
@@ -718,7 +718,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 713,
@@ -727,8 +727,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.003138309796009863,
@@ -736,7 +736,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 17844,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 844,
@@ -745,8 +745,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0036426810132257344,
@@ -754,7 +754,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 17844,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 1026,
@@ -763,8 +763,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.004315175969513562,
@@ -772,7 +772,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 17844,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 1331,
@@ -781,8 +781,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.01165657924232235,
@@ -790,7 +790,7 @@
             "PersonsFullyVaccinatedChange": 131,
             "Population": 17844,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 1559,
@@ -799,8 +799,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.012945527908540685,
@@ -808,7 +808,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 17844,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 1759,
@@ -817,8 +817,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.013001569154898005,
@@ -826,7 +826,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17844,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 1761,
@@ -835,8 +835,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.013001569154898005,
@@ -844,7 +844,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 1851,
@@ -853,8 +853,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.013169692893969962,
@@ -862,7 +862,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17844,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2048,
@@ -871,8 +871,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.015131136516476126,
@@ -880,7 +880,7 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 17844,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2228,
@@ -889,8 +889,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.015579466487334678,
@@ -898,7 +898,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 17844,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2416,
@@ -907,8 +907,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.01608383770455055,
@@ -916,7 +916,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 17844,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2429,
@@ -925,8 +925,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.01658820892176642,
@@ -934,7 +934,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 17844,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2435,
@@ -943,8 +943,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.01664425016812374,
@@ -952,7 +952,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17844,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2474,
@@ -961,8 +961,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.017933198834342075,
@@ -970,7 +970,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 17844,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2596,
@@ -979,8 +979,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.018493611297915265,
@@ -988,7 +988,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 17844,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2606,
@@ -997,8 +997,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.018605693790629905,
@@ -1006,7 +1006,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17844,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2798,
@@ -1015,8 +1015,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.019614436225061645,
@@ -1024,7 +1024,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 17844,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2816,
@@ -1033,8 +1033,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.02000672494956288,
@@ -1042,7 +1042,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 17844,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2920,
@@ -1051,8 +1051,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.020735261152208025,
@@ -1060,7 +1060,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 17844,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2923,
@@ -1069,8 +1069,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.020735261152208025,
@@ -1078,7 +1078,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2940,
@@ -1087,8 +1087,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.020735261152208025,
@@ -1096,7 +1096,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 2987,
@@ -1105,8 +1105,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.02196816857206904,
@@ -1114,7 +1114,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 17844,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 3168,
@@ -1123,8 +1123,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.028524994395875365,
@@ -1132,7 +1132,7 @@
             "PersonsFullyVaccinatedChange": 117,
             "Population": 17844,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 3470,
@@ -1141,8 +1141,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.043880295897780766,
@@ -1150,7 +1150,7 @@
             "PersonsFullyVaccinatedChange": 274,
             "Population": 17844,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 3717,
@@ -1159,8 +1159,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.05234252409773593,
@@ -1168,7 +1168,7 @@
             "PersonsFullyVaccinatedChange": 151,
             "Population": 17844,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 4129,
@@ -1177,8 +1177,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.06265411342748263,
@@ -1186,7 +1186,7 @@
             "PersonsFullyVaccinatedChange": 184,
             "Population": 17844,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 4130,
@@ -1195,8 +1195,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.06271015467383995,
@@ -1204,7 +1204,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17844,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 4150,
@@ -1213,8 +1213,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0634386908764851,
@@ -1222,7 +1222,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 17844,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 4264,
@@ -1231,8 +1231,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.06713741313606815,
@@ -1240,7 +1240,7 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 17844,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 4383,
@@ -1249,8 +1249,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.07302174400358664,
@@ -1258,7 +1258,7 @@
             "PersonsFullyVaccinatedChange": 105,
             "Population": 17844,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 4650,
@@ -1267,8 +1267,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.08271687962340282,
@@ -1276,7 +1276,7 @@
             "PersonsFullyVaccinatedChange": 173,
             "Population": 17844,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 4772,
@@ -1285,8 +1285,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.0882649630127774,
@@ -1294,7 +1294,7 @@
             "PersonsFullyVaccinatedChange": 99,
             "Population": 17844,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 4900,
@@ -1303,8 +1303,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.08949787043263842,
@@ -1312,7 +1312,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 17844,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 5225,
@@ -1321,8 +1321,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.10115444967496078,
@@ -1330,7 +1330,7 @@
             "PersonsFullyVaccinatedChange": 208,
             "Population": 17844,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 5226,
@@ -1339,8 +1339,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.10115444967496078,
@@ -1348,7 +1348,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17844,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 5325,
@@ -1357,8 +1357,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.10642232683254875,
@@ -1366,7 +1366,7 @@
             "PersonsFullyVaccinatedChange": 94,
             "Population": 17844,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 5364,
@@ -1375,8 +1375,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.10737502802062318,
@@ -1384,7 +1384,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 17844,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 5738,
@@ -1393,8 +1393,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.12149742210266756,
@@ -1402,7 +1402,7 @@
             "PersonsFullyVaccinatedChange": 252,
             "Population": 17844,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 5781,
@@ -1411,8 +1411,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.12323470073974445,
@@ -1420,7 +1420,7 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 17844,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 5952,
@@ -1429,8 +1429,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.12906299036090563,
@@ -1438,7 +1438,7 @@
             "PersonsFullyVaccinatedChange": 104,
             "Population": 17844,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 5978,
@@ -1447,8 +1447,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.130183815288052,
@@ -1456,7 +1456,7 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 17844,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 5994,
@@ -1465,8 +1465,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.13091235149069716,
@@ -1474,7 +1474,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 17844,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 6044,
@@ -1483,8 +1483,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.13332212508406188,
@@ -1492,7 +1492,7 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 17844,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 6123,
@@ -1501,8 +1501,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.13679668235821565,
@@ -1510,7 +1510,7 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 17844,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 6421,
@@ -1519,8 +1519,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.14766868415153553,
@@ -1528,7 +1528,7 @@
             "PersonsFullyVaccinatedChange": 194,
             "Population": 17844,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 6522,
@@ -1537,8 +1537,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.15304864380183816,
@@ -1546,7 +1546,7 @@
             "PersonsFullyVaccinatedChange": 96,
             "Population": 17844,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 6806,
@@ -1555,8 +1555,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.16834790405738623,
@@ -1564,7 +1564,7 @@
             "PersonsFullyVaccinatedChange": 273,
             "Population": 17844,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 6812,
@@ -1573,8 +1573,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.1684599865501009,
@@ -1582,7 +1582,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17844,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 6815,
@@ -1591,8 +1591,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.16862811028917282,
@@ -1600,7 +1600,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17844,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 6882,
@@ -1609,8 +1609,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.17171037883882537,
@@ -1618,7 +1618,7 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 17844,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 6930,
@@ -1627,8 +1627,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.17389598744676082,
@@ -1636,7 +1636,7 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 17844,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 7049,
@@ -1645,8 +1645,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.17496077112754987,
@@ -1654,7 +1654,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 17844,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 7106,
@@ -1663,8 +1663,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.17658596727191211,
@@ -1672,7 +1672,7 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 17844,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
         },
         {
             "AdministeredCount": 7170,
@@ -1681,8 +1681,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 110,
             "CountyName": "Hancock",
-            "InventoryReportDate": "2021-03-19T00:00:00",
-            "LHDReportedInventory": 500,
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
             "Latitude": 40.3849,
             "Longitude": -91.1353,
             "PctVaccinatedPopulation": 0.17826720466263168,
@@ -1690,11 +1690,47 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 17844,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 610
+            "TotalReportedInventory": 260
+        },
+        {
+            "AdministeredCount": 7256,
+            "AdministeredCountChange": 86,
+            "AdministeredCountRollAvg": 63.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 110,
+            "CountyName": "Hancock",
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
+            "Latitude": 40.3849,
+            "Longitude": -91.1353,
+            "PctVaccinatedPopulation": 0.1829746693566465,
+            "PersonsFullyVaccinated": 3265,
+            "PersonsFullyVaccinatedChange": 84,
+            "Population": 17844,
+            "Report_Date": "2021-03-20T00:00:00",
+            "TotalReportedInventory": 260
+        },
+        {
+            "AdministeredCount": 7267,
+            "AdministeredCountChange": 11,
+            "AdministeredCountRollAvg": 65.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 110,
+            "CountyName": "Hancock",
+            "InventoryReportDate": "2021-03-21T00:00:00",
+            "LHDReportedInventory": 150,
+            "Latitude": 40.3849,
+            "Longitude": -91.1353,
+            "PctVaccinatedPopulation": 0.1835350818202197,
+            "PersonsFullyVaccinated": 3275,
+            "PersonsFullyVaccinatedChange": 10,
+            "Population": 17844,
+            "Report_Date": "2021-03-21T00:00:00",
+            "TotalReportedInventory": 260
         }
     ],
     "lastUpdatedDate": {
-        "day": 19,
+        "day": 21,
         "month": 3,
         "year": 2021
     }

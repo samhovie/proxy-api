@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 5752,
+        "AdministeredCount": 5795,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 147.0,
+        "AdministeredCountRollAvg": 149.0,
         "AllocatedDoses": 0,
-        "CommunityReportedInventory": 230,
+        "CommunityReportedInventory": 520,
         "CountyName": "Edgar",
-        "InventoryReportDate": "2021-03-29T00:00:00",
+        "InventoryReportDate": "2021-03-30T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 39.7131,
         "Longitude": -87.7763,
-        "PctVaccinatedPopulation": 0.12459677419354839,
-        "PersonsFullyVaccinated": 2163,
-        "PersonsFullyVaccinatedChange": 2163,
+        "PctVaccinatedPopulation": 0.12684331797235024,
+        "PersonsFullyVaccinated": 2202,
+        "PersonsFullyVaccinatedChange": 2202,
         "Population": 17360,
-        "Report_Date": "2021-03-29T00:00:00",
-        "TotalReportedInventory": 230
+        "Report_Date": "2021-03-30T00:00:00",
+        "TotalReportedInventory": 520
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 8,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 8,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 9,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 9,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 9,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 74,
             "AdministeredCountChange": 65,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 117,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 188,
             "AdministeredCountChange": 71,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 233,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 233,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 234,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 234,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 235,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 237,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 282,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 290,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 305,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17360,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 307,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 307,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 317,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 318,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 373,
             "AdministeredCountChange": 55,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17360,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 391,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 14.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 395,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17360,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 399,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 401,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 410,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 454,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 548,
             "AdministeredCountChange": 94,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17360,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 657,
             "AdministeredCountChange": 109,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 17360,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 795,
             "AdministeredCountChange": 138,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 795,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 796,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 839,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 61.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 17360,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 951,
             "AdministeredCountChange": 112,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 17360,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1167,
             "AdministeredCountChange": 216,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 112,
             "Population": 17360,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1277,
             "AdministeredCountChange": 110,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 17360,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1325,
             "AdministeredCountChange": 48,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17360,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1333,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17360,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1335,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17360,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1387,
             "AdministeredCountChange": 52,
             "AdministeredCountRollAvg": 78.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 17360,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1415,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 17360,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1462,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 17360,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1475,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 28.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 17360,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1488,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17360,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1492,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17360,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1495,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17360,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1505,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 17360,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1676,
             "AdministeredCountChange": 171,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 17360,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1726,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17360,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1822,
             "AdministeredCountChange": 96,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 17360,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1891,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 58.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 17360,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1915,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17360,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 1943,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17360,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2009,
             "AdministeredCountChange": 66,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 17360,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2011,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17360,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2096,
             "AdministeredCountChange": 85,
             "AdministeredCountRollAvg": 53.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 17360,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2212,
             "AdministeredCountChange": 116,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 103,
             "Population": 17360,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2302,
             "AdministeredCountChange": 90,
             "AdministeredCountRollAvg": 59.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 17360,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2305,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2324,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 54.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 17360,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2330,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 46.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 17360,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2369,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 17360,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2435,
             "AdministeredCountChange": 66,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 17360,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2485,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 17360,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2779,
             "AdministeredCountChange": 294,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 174,
             "Population": 17360,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2826,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17360,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2836,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2919,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 17360,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 2963,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17360,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3012,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 17360,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3255,
             "AdministeredCountChange": 243,
             "AdministeredCountRollAvg": 110.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 17360,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3287,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 17360,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3303,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17360,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3311,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17360,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3625,
             "AdministeredCountChange": 314,
             "AdministeredCountRollAvg": 101.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17360,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3676,
             "AdministeredCountChange": 51,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 17360,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3847,
             "AdministeredCountChange": 171,
             "AdministeredCountRollAvg": 119.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 105,
             "Population": 17360,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 3865,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17360,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4080,
             "AdministeredCountChange": 215,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 135,
             "Population": 17360,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4109,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 17360,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4141,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 119.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 17360,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4155,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 17360,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4171,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17360,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4239,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 17360,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4596,
             "AdministeredCountChange": 357,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17360,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4672,
             "AdministeredCountChange": 76,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 17360,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4684,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17360,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4709,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 17360,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4721,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17360,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4755,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17360,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 4794,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 79.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 17360,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 5128,
             "AdministeredCountChange": 334,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 126,
             "Population": 17360,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 5226,
             "AdministeredCountChange": 98,
             "AdministeredCountRollAvg": 79.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 84,
             "Population": 17360,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 5664,
             "AdministeredCountChange": 438,
             "AdministeredCountRollAvg": 140.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 435,
             "Population": 17360,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 5680,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 139.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 17360,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
         },
         {
             "AdministeredCount": 5752,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 230,
+            "CommunityReportedInventory": 520,
             "CountyName": "Edgar",
-            "InventoryReportDate": "2021-03-29T00:00:00",
+            "InventoryReportDate": "2021-03-30T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 39.7131,
             "Longitude": -87.7763,
@@ -1870,11 +1870,29 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 17360,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 230
+            "TotalReportedInventory": 520
+        },
+        {
+            "AdministeredCount": 5795,
+            "AdministeredCountChange": 43,
+            "AdministeredCountRollAvg": 149.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 520,
+            "CountyName": "Edgar",
+            "InventoryReportDate": "2021-03-30T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.7131,
+            "Longitude": -87.7763,
+            "PctVaccinatedPopulation": 0.12684331797235024,
+            "PersonsFullyVaccinated": 2202,
+            "PersonsFullyVaccinatedChange": 39,
+            "Population": 17360,
+            "Report_Date": "2021-03-30T00:00:00",
+            "TotalReportedInventory": 520
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 3,
         "year": 2021
     }

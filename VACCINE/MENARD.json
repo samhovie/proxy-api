@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 6371,
+        "AdministeredCount": 6497,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 121.0,
+        "AdministeredCountRollAvg": 118.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Menard",
-        "InventoryReportDate": "2021-03-29T00:00:00",
+        "InventoryReportDate": "2021-03-30T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 40.0221,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.22371419270833334,
-        "PersonsFullyVaccinated": 2749,
-        "PersonsFullyVaccinatedChange": 2749,
+        "PctVaccinatedPopulation": 0.229736328125,
+        "PersonsFullyVaccinated": 2823,
+        "PersonsFullyVaccinatedChange": 2823,
         "Population": 12288,
-        "Report_Date": "2021-03-29T00:00:00",
+        "Report_Date": "2021-03-30T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -1889,10 +1889,28 @@
             "Population": 12288,
             "Report_Date": "2021-03-29T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 6497,
+            "AdministeredCountChange": 126,
+            "AdministeredCountRollAvg": 118.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Menard",
+            "InventoryReportDate": "2021-03-30T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.0221,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.229736328125,
+            "PersonsFullyVaccinated": 2823,
+            "PersonsFullyVaccinatedChange": 74,
+            "Population": 12288,
+            "Report_Date": "2021-03-30T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 3,
         "year": 2021
     }

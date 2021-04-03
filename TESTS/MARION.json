@@ -3423,11 +3423,20 @@
         {
             "CountyName": "Marion",
             "confirmed_cases": 4365,
-            "deaths": 114,
+            "deaths": 113,
             "latitude": 38.7313,
             "longitude": -88.8647,
             "reportDate": "2021-04-01T00:00:00",
             "tested": 80384
+        },
+        {
+            "CountyName": "Marion",
+            "confirmed_cases": 4364,
+            "deaths": 113,
+            "latitude": 38.7313,
+            "longitude": -88.8647,
+            "reportDate": "2021-04-02T00:00:00",
+            "tested": 80554
         }
     ]
 }

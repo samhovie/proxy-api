@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 14199,
+        "AdministeredCount": 14444,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 173.0,
+        "AdministeredCountRollAvg": 186.0,
         "AllocatedDoses": 650,
-        "CommunityReportedInventory": 970,
+        "CommunityReportedInventory": 890,
         "CountyName": "Marion",
-        "InventoryReportDate": "2021-04-01T00:00:00",
+        "InventoryReportDate": "2021-04-02T00:00:00",
         "LHDReportedInventory": 845,
         "Latitude": 38.7313,
         "Longitude": -88.8647,
-        "PctVaccinatedPopulation": 0.14364699627857522,
-        "PersonsFullyVaccinated": 5404,
-        "PersonsFullyVaccinatedChange": 5404,
+        "PctVaccinatedPopulation": 0.1480595427963849,
+        "PersonsFullyVaccinated": 5570,
+        "PersonsFullyVaccinatedChange": 5570,
         "Population": 37620,
-        "Report_Date": "2021-04-01T00:00:00",
-        "TotalReportedInventory": 1815
+        "Report_Date": "2021-04-02T00:00:00",
+        "TotalReportedInventory": 1735
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 118,
             "AdministeredCountChange": 78,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 255,
             "AdministeredCountChange": 137,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 271,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 274,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 276,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 276,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 277,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 278,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 278,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 278,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 278,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 280,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 314,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 359,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 364,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 366,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 366,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 366,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 373,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 458,
             "AdministeredCountChange": 85,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 523,
             "AdministeredCountChange": 65,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 37620,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 738,
             "AdministeredCountChange": 215,
             "AdministeredCountRollAvg": 53.0,
             "AllocatedDoses": 325,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 192,
             "Population": 37620,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 836,
             "AdministeredCountChange": 98,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 85,
             "Population": 37620,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 852,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 37620,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 933,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 37620,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 944,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 37620,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 972,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 37620,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1095,
             "AdministeredCountChange": 123,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 37620,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1222,
             "AdministeredCountChange": 127,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1339,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1408,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 79.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 37620,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1409,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1411,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1417,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1523,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 61.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 37620,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1569,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1678,
             "AdministeredCountChange": 109,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 37620,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1687,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 40.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1699,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 41.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 37620,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1721,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 37620,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1858,
             "AdministeredCountChange": 137,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 44,
             "Population": 37620,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 1968,
             "AdministeredCountChange": 110,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 37620,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 2048,
             "AdministeredCountChange": 80,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 37620,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 2343,
             "AdministeredCountChange": 295,
             "AdministeredCountRollAvg": 95.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 37620,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 2511,
             "AdministeredCountChange": 168,
             "AdministeredCountRollAvg": 118.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 78,
             "Population": 37620,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 2521,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 117.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 37620,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 2565,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 121.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 37620,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 2734,
             "AdministeredCountChange": 169,
             "AdministeredCountRollAvg": 125.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 117,
             "Population": 37620,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 2869,
             "AdministeredCountChange": 135,
             "AdministeredCountRollAvg": 129.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 37620,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 3123,
             "AdministeredCountChange": 254,
             "AdministeredCountRollAvg": 154.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 115,
             "Population": 37620,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 3341,
             "AdministeredCountChange": 218,
             "AdministeredCountRollAvg": 143.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 37620,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 3559,
             "AdministeredCountChange": 218,
             "AdministeredCountRollAvg": 150.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 37620,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 3563,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 149.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 37620,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 3799,
             "AdministeredCountChange": 236,
             "AdministeredCountRollAvg": 176.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 37620,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 4052,
             "AdministeredCountChange": 253,
             "AdministeredCountRollAvg": 188.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 37620,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 4285,
             "AdministeredCountChange": 233,
             "AdministeredCountRollAvg": 202.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 114,
             "Population": 37620,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 4540,
             "AdministeredCountChange": 255,
             "AdministeredCountRollAvg": 202.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 71,
             "Population": 37620,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 4858,
             "AdministeredCountChange": 318,
             "AdministeredCountRollAvg": 217.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 37620,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 4882,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 189.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 37620,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 4979,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 202.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 37620,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 4987,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 170.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 37620,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 4991,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 134.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 37620,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 5004,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 103.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 37620,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 5064,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 75.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 37620,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 5186,
             "AdministeredCountChange": 122,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 93,
             "Population": 37620,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 5255,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 53.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 37620,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 5280,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 37620,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 5317,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 37620,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 5525,
             "AdministeredCountChange": 208,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 37620,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 5779,
             "AdministeredCountChange": 254,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 37620,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 6191,
             "AdministeredCountChange": 412,
             "AdministeredCountRollAvg": 161.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 238,
             "Population": 37620,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 6388,
             "AdministeredCountChange": 197,
             "AdministeredCountRollAvg": 172.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 140,
             "Population": 37620,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 6586,
             "AdministeredCountChange": 198,
             "AdministeredCountRollAvg": 190.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 127,
             "Population": 37620,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 6734,
             "AdministeredCountChange": 148,
             "AdministeredCountRollAvg": 208.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 37620,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 6835,
             "AdministeredCountChange": 101,
             "AdministeredCountRollAvg": 217.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 37620,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 6945,
             "AdministeredCountChange": 110,
             "AdministeredCountRollAvg": 203.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 37620,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 7051,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 182.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 37620,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 7404,
             "AdministeredCountChange": 353,
             "AdministeredCountRollAvg": 173.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 259,
             "Population": 37620,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 7759,
             "AdministeredCountChange": 355,
             "AdministeredCountRollAvg": 196.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 146,
             "Population": 37620,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 7964,
             "AdministeredCountChange": 205,
             "AdministeredCountRollAvg": 197.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 148,
             "Population": 37620,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 7975,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 177.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 37620,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 8333,
             "AdministeredCountChange": 358,
             "AdministeredCountRollAvg": 214.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 245,
             "Population": 37620,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 8661,
             "AdministeredCountChange": 328,
             "AdministeredCountRollAvg": 245.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 37620,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 9132,
             "AdministeredCountChange": 471,
             "AdministeredCountRollAvg": 297.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 136,
             "Population": 37620,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 9503,
             "AdministeredCountChange": 371,
             "AdministeredCountRollAvg": 300.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 256,
             "Population": 37620,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 9768,
             "AdministeredCountChange": 265,
             "AdministeredCountRollAvg": 287.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 191,
             "Population": 37620,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 9902,
             "AdministeredCountChange": 134,
             "AdministeredCountRollAvg": 277.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 37620,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 9964,
             "AdministeredCountChange": 62,
             "AdministeredCountRollAvg": 284.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 54,
             "Population": 37620,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 10380,
             "AdministeredCountChange": 416,
             "AdministeredCountRollAvg": 292.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 37620,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 10737,
             "AdministeredCountChange": 357,
             "AdministeredCountRollAvg": 297.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 37620,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 11000,
             "AdministeredCountChange": 263,
             "AdministeredCountRollAvg": 267.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 37620,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 11199,
             "AdministeredCountChange": 199,
             "AdministeredCountRollAvg": 242.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 37620,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 11400,
             "AdministeredCountChange": 201,
             "AdministeredCountRollAvg": 233.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 52,
             "Population": 37620,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 11506,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 229.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 37620,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 11583,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 231.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 37620,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 11867,
             "AdministeredCountChange": 284,
             "AdministeredCountRollAvg": 212.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 37620,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 12267,
             "AdministeredCountChange": 400,
             "AdministeredCountRollAvg": 219.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 216,
             "Population": 37620,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 12575,
             "AdministeredCountChange": 308,
             "AdministeredCountRollAvg": 225.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 111,
             "Population": 37620,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 12991,
             "AdministeredCountChange": 416,
             "AdministeredCountRollAvg": 256.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 144,
             "Population": 37620,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 13139,
             "AdministeredCountChange": 148,
             "AdministeredCountRollAvg": 248.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 37620,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 13308,
             "AdministeredCountChange": 169,
             "AdministeredCountRollAvg": 257.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 68,
             "Population": 37620,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 13347,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 252.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 37620,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 13537,
             "AdministeredCountChange": 190,
             "AdministeredCountRollAvg": 239.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 148,
             "Population": 37620,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 13709,
             "AdministeredCountChange": 172,
             "AdministeredCountRollAvg": 206.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 106,
             "Population": 37620,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 13942,
             "AdministeredCountChange": 233,
             "AdministeredCountRollAvg": 195.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 110,
             "Population": 37620,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
         },
         {
             "AdministeredCount": 14199,
             "AdministeredCountChange": 257,
             "AdministeredCountRollAvg": 173.0,
             "AllocatedDoses": 650,
-            "CommunityReportedInventory": 970,
+            "CommunityReportedInventory": 890,
             "CountyName": "Marion",
-            "InventoryReportDate": "2021-04-01T00:00:00",
+            "InventoryReportDate": "2021-04-02T00:00:00",
             "LHDReportedInventory": 845,
             "Latitude": 38.7313,
             "Longitude": -88.8647,
@@ -1942,11 +1942,29 @@
             "PersonsFullyVaccinatedChange": 178,
             "Population": 37620,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 1815
+            "TotalReportedInventory": 1735
+        },
+        {
+            "AdministeredCount": 14444,
+            "AdministeredCountChange": 245,
+            "AdministeredCountRollAvg": 186.0,
+            "AllocatedDoses": 650,
+            "CommunityReportedInventory": 890,
+            "CountyName": "Marion",
+            "InventoryReportDate": "2021-04-02T00:00:00",
+            "LHDReportedInventory": 845,
+            "Latitude": 38.7313,
+            "Longitude": -88.8647,
+            "PctVaccinatedPopulation": 0.1480595427963849,
+            "PersonsFullyVaccinated": 5570,
+            "PersonsFullyVaccinatedChange": 166,
+            "Population": 37620,
+            "Report_Date": "2021-04-02T00:00:00",
+            "TotalReportedInventory": 1735
         }
     ],
     "lastUpdatedDate": {
-        "day": 1,
+        "day": 2,
         "month": 4,
         "year": 2021
     }

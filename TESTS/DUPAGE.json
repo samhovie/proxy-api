@@ -3432,11 +3432,20 @@
         {
             "CountyName": "DuPage",
             "confirmed_cases": 82391,
-            "deaths": 1234,
+            "deaths": 1233,
             "latitude": 41.8244,
             "longitude": -88.0901,
             "reportDate": "2021-04-02T00:00:00",
             "tested": 1166497
+        },
+        {
+            "CountyName": "DuPage",
+            "confirmed_cases": 82635,
+            "deaths": 1233,
+            "latitude": 41.8244,
+            "longitude": -88.0901,
+            "reportDate": "2021-04-03T00:00:00",
+            "tested": 1170305
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 122298,
+        "AdministeredCount": 122403,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 1223.0,
+        "AdministeredCountRollAvg": 1219.0,
         "AllocatedDoses": 920,
-        "CommunityReportedInventory": 1006,
+        "CommunityReportedInventory": 548,
         "CountyName": "Champaign",
-        "InventoryReportDate": "2021-04-03T00:00:00",
+        "InventoryReportDate": "2021-04-04T00:00:00",
         "LHDReportedInventory": 6050,
         "Latitude": 40.2139,
         "Longitude": -88.2461,
-        "PctVaccinatedPopulation": 0.24200530519137264,
-        "PersonsFullyVaccinated": 50817,
-        "PersonsFullyVaccinatedChange": 50817,
+        "PctVaccinatedPopulation": 0.24216722306091445,
+        "PersonsFullyVaccinated": 50851,
+        "PersonsFullyVaccinatedChange": 50851,
         "Population": 209983,
-        "Report_Date": "2021-04-03T00:00:00",
-        "TotalReportedInventory": 7056
+        "Report_Date": "2021-04-04T00:00:00",
+        "TotalReportedInventory": 6598
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 190,
             "AdministeredCountChange": 181,
             "AdministeredCountRollAvg": 27.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 435,
             "AdministeredCountChange": 245,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 209983,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 438,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 438,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 439,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 468,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 883,
             "AdministeredCountChange": 415,
             "AdministeredCountRollAvg": 125.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 1104,
             "AdministeredCountChange": 221,
             "AdministeredCountRollAvg": 131.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 1292,
             "AdministeredCountChange": 188,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 1460,
             "AdministeredCountChange": 168,
             "AdministeredCountRollAvg": 146.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 1460,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 146.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 1655,
             "AdministeredCountChange": 195,
             "AdministeredCountRollAvg": 174.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 1812,
             "AdministeredCountChange": 157,
             "AdministeredCountRollAvg": 192.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 2425,
             "AdministeredCountChange": 613,
             "AdministeredCountRollAvg": 220.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 2813,
             "AdministeredCountChange": 388,
             "AdministeredCountRollAvg": 244.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 3051,
             "AdministeredCountChange": 238,
             "AdministeredCountRollAvg": 251.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 3441,
             "AdministeredCountChange": 390,
             "AdministeredCountRollAvg": 283.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 3788,
             "AdministeredCountChange": 347,
             "AdministeredCountRollAvg": 333.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 4266,
             "AdministeredCountChange": 478,
             "AdministeredCountRollAvg": 373.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 4782,
             "AdministeredCountChange": 516,
             "AdministeredCountRollAvg": 424.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 5115,
             "AdministeredCountChange": 333,
             "AdministeredCountRollAvg": 384.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 209983,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 5418,
             "AdministeredCountChange": 303,
             "AdministeredCountRollAvg": 372.0,
             "AllocatedDoses": 460,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 190,
             "Population": 209983,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 5899,
             "AdministeredCountChange": 481,
             "AdministeredCountRollAvg": 407.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 284,
             "Population": 209983,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 6331,
             "AdministeredCountChange": 432,
             "AdministeredCountRollAvg": 413.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 209983,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 6611,
             "AdministeredCountChange": 280,
             "AdministeredCountRollAvg": 403.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 6708,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 349.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 209983,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 7605,
             "AdministeredCountChange": 897,
             "AdministeredCountRollAvg": 403.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 209983,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 9075,
             "AdministeredCountChange": 1470,
             "AdministeredCountRollAvg": 566.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 400,
             "Population": 209983,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 10565,
             "AdministeredCountChange": 1490,
             "AdministeredCountRollAvg": 735.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 468,
             "Population": 209983,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 11450,
             "AdministeredCountChange": 885,
             "AdministeredCountRollAvg": 793.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 434,
             "Population": 209983,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 11766,
             "AdministeredCountChange": 316,
             "AdministeredCountRollAvg": 776.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 202,
             "Population": 209983,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 11858,
             "AdministeredCountChange": 92,
             "AdministeredCountRollAvg": 750.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 209983,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 12147,
             "AdministeredCountChange": 289,
             "AdministeredCountRollAvg": 777.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 209983,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 13585,
             "AdministeredCountChange": 1438,
             "AdministeredCountRollAvg": 854.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 209983,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 15098,
             "AdministeredCountChange": 1513,
             "AdministeredCountRollAvg": 860.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 156,
             "Population": 209983,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 16415,
             "AdministeredCountChange": 1317,
             "AdministeredCountRollAvg": 836.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 209983,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 17895,
             "AdministeredCountChange": 1480,
             "AdministeredCountRollAvg": 921.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 138,
             "Population": 209983,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 18214,
             "AdministeredCountChange": 319,
             "AdministeredCountRollAvg": 921.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 209983,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 18229,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 910.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 209983,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 18365,
             "AdministeredCountChange": 136,
             "AdministeredCountRollAvg": 888.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 209983,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 20680,
             "AdministeredCountChange": 2315,
             "AdministeredCountRollAvg": 1014.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 175,
             "Population": 209983,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 23172,
             "AdministeredCountChange": 2492,
             "AdministeredCountRollAvg": 1153.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 493,
             "Population": 209983,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 25710,
             "AdministeredCountChange": 2538,
             "AdministeredCountRollAvg": 1328.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 473,
             "Population": 209983,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 26943,
             "AdministeredCountChange": 1233,
             "AdministeredCountRollAvg": 1293.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 428,
             "Population": 209983,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 27866,
             "AdministeredCountChange": 923,
             "AdministeredCountRollAvg": 1379.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 471,
             "Population": 209983,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 29002,
             "AdministeredCountChange": 1136,
             "AdministeredCountRollAvg": 1539.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 458,
             "Population": 209983,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 29867,
             "AdministeredCountChange": 865,
             "AdministeredCountRollAvg": 1643.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 412,
             "Population": 209983,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 32228,
             "AdministeredCountChange": 2361,
             "AdministeredCountRollAvg": 1650.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 668,
             "Population": 209983,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 34360,
             "AdministeredCountChange": 2132,
             "AdministeredCountRollAvg": 1598.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 407,
             "Population": 209983,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 37021,
             "AdministeredCountChange": 2661,
             "AdministeredCountRollAvg": 1616.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 579,
             "Population": 209983,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 39488,
             "AdministeredCountChange": 2467,
             "AdministeredCountRollAvg": 1792.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 712,
             "Population": 209983,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 40987,
             "AdministeredCountChange": 1499,
             "AdministeredCountRollAvg": 1874.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 260,
             "Population": 209983,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 41638,
             "AdministeredCountChange": 651,
             "AdministeredCountRollAvg": 1805.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 209983,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 43130,
             "AdministeredCountChange": 1492,
             "AdministeredCountRollAvg": 1895.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 690,
             "Population": 209983,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 44221,
             "AdministeredCountChange": 1091,
             "AdministeredCountRollAvg": 1713.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 368,
             "Population": 209983,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 46384,
             "AdministeredCountChange": 2163,
             "AdministeredCountRollAvg": 1718.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 1183,
             "Population": 209983,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 48830,
             "AdministeredCountChange": 2446,
             "AdministeredCountRollAvg": 1687.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 802,
             "Population": 209983,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 51037,
             "AdministeredCountChange": 2207,
             "AdministeredCountRollAvg": 1650.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 837,
             "Population": 209983,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 52295,
             "AdministeredCountChange": 1258,
             "AdministeredCountRollAvg": 1615.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 230,
             "Population": 209983,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 53040,
             "AdministeredCountChange": 745,
             "AdministeredCountRollAvg": 1629.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 209983,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 53505,
             "AdministeredCountChange": 465,
             "AdministeredCountRollAvg": 1482.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 159,
             "Population": 209983,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 54609,
             "AdministeredCountChange": 1104,
             "AdministeredCountRollAvg": 1484.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 834,
             "Population": 209983,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 57070,
             "AdministeredCountChange": 2461,
             "AdministeredCountRollAvg": 1527.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 953,
             "Population": 209983,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 59212,
             "AdministeredCountChange": 2142,
             "AdministeredCountRollAvg": 1483.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 1076,
             "Population": 209983,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 61330,
             "AdministeredCountChange": 2118,
             "AdministeredCountRollAvg": 1470.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 901,
             "Population": 209983,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 61341,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 1292.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 209983,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 62829,
             "AdministeredCountChange": 1488,
             "AdministeredCountRollAvg": 1398.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 209983,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 64091,
             "AdministeredCountChange": 1262,
             "AdministeredCountRollAvg": 1512.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 780,
             "Population": 209983,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 64833,
             "AdministeredCountChange": 742,
             "AdministeredCountRollAvg": 1461.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 508,
             "Population": 209983,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 68117,
             "AdministeredCountChange": 3284,
             "AdministeredCountRollAvg": 1578.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 3077,
             "Population": 209983,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 71735,
             "AdministeredCountChange": 3618,
             "AdministeredCountRollAvg": 1789.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 3325,
             "Population": 209983,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 74568,
             "AdministeredCountChange": 2833,
             "AdministeredCountRollAvg": 1891.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 2735,
             "Population": 209983,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 76200,
             "AdministeredCountChange": 1632,
             "AdministeredCountRollAvg": 2123.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 1517,
             "Population": 209983,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 77557,
             "AdministeredCountChange": 1357,
             "AdministeredCountRollAvg": 2104.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 1224,
             "Population": 209983,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 79598,
             "AdministeredCountChange": 2041,
             "AdministeredCountRollAvg": 2215.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 1726,
             "Population": 209983,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 81650,
             "AdministeredCountChange": 2052,
             "AdministeredCountRollAvg": 2402.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 1530,
             "Population": 209983,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 83495,
             "AdministeredCountChange": 1845,
             "AdministeredCountRollAvg": 2197.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 1231,
             "Population": 209983,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 85585,
             "AdministeredCountChange": 2090,
             "AdministeredCountRollAvg": 1979.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 1825,
             "Population": 209983,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 86925,
             "AdministeredCountChange": 1340,
             "AdministeredCountRollAvg": 1765.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 936,
             "Population": 209983,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 88247,
             "AdministeredCountChange": 1322,
             "AdministeredCountRollAvg": 1721.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 862,
             "Population": 209983,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 88576,
             "AdministeredCountChange": 329,
             "AdministeredCountRollAvg": 1574.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 262,
             "Population": 209983,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 89396,
             "AdministeredCountChange": 820,
             "AdministeredCountRollAvg": 1400.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 621,
             "Population": 209983,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 90643,
             "AdministeredCountChange": 1247,
             "AdministeredCountRollAvg": 1285.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 270,
             "Population": 209983,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 92171,
             "AdministeredCountChange": 1528,
             "AdministeredCountRollAvg": 1239.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 1108,
             "Population": 209983,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 92443,
             "AdministeredCountChange": 272,
             "AdministeredCountRollAvg": 980.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 99,
             "Population": 209983,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 93464,
             "AdministeredCountChange": 1021,
             "AdministeredCountRollAvg": 934.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 608,
             "Population": 209983,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 94065,
             "AdministeredCountChange": 601,
             "AdministeredCountRollAvg": 831.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 401,
             "Population": 209983,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 95065,
             "AdministeredCountChange": 1000,
             "AdministeredCountRollAvg": 927.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 899,
             "Population": 209983,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 96689,
             "AdministeredCountChange": 1624,
             "AdministeredCountRollAvg": 1042.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 771,
             "Population": 209983,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 98252,
             "AdministeredCountChange": 1563,
             "AdministeredCountRollAvg": 1087.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 1237,
             "Population": 209983,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 99675,
             "AdministeredCountChange": 1423,
             "AdministeredCountRollAvg": 1072.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 729,
             "Population": 209983,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 102116,
             "AdministeredCountChange": 2441,
             "AdministeredCountRollAvg": 1382.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 794,
             "Population": 209983,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 104573,
             "AdministeredCountChange": 2457,
             "AdministeredCountRollAvg": 1587.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 853,
             "Population": 209983,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 105344,
             "AdministeredCountChange": 771,
             "AdministeredCountRollAvg": 1611.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 319,
             "Population": 209983,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 105655,
             "AdministeredCountChange": 311,
             "AdministeredCountRollAvg": 1513.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 163,
             "Population": 209983,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 106993,
             "AdministeredCountChange": 1338,
             "AdministeredCountRollAvg": 1472.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 412,
             "Population": 209983,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 108251,
             "AdministeredCountChange": 1258,
             "AdministeredCountRollAvg": 1428.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 674,
             "Population": 209983,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 109850,
             "AdministeredCountChange": 1599,
             "AdministeredCountRollAvg": 1454.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 218,
             "Population": 209983,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 111828,
             "AdministeredCountChange": 1978,
             "AdministeredCountRollAvg": 1387.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 222,
             "Population": 209983,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 113240,
             "AdministeredCountChange": 1412,
             "AdministeredCountRollAvg": 1238.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 331,
             "Population": 209983,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 113735,
             "AdministeredCountChange": 495,
             "AdministeredCountRollAvg": 1199.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 209,
             "Population": 209983,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 113868,
             "AdministeredCountChange": 133,
             "AdministeredCountRollAvg": 1173.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 90,
             "Population": 209983,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 115099,
             "AdministeredCountChange": 1231,
             "AdministeredCountRollAvg": 1158.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 125,
             "Population": 209983,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 116797,
             "AdministeredCountChange": 1698,
             "AdministeredCountRollAvg": 1221.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 217,
             "Population": 209983,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 118517,
             "AdministeredCountChange": 1720,
             "AdministeredCountRollAvg": 1238.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 603,
             "Population": 209983,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 119645,
             "AdministeredCountChange": 1128,
             "AdministeredCountRollAvg": 1117.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 305,
             "Population": 209983,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 121069,
             "AdministeredCountChange": 1424,
             "AdministeredCountRollAvg": 1118.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 421,
             "Population": 209983,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
         },
         {
             "AdministeredCount": 122298,
             "AdministeredCountChange": 1229,
             "AdministeredCountRollAvg": 1223.0,
             "AllocatedDoses": 920,
-            "CommunityReportedInventory": 1006,
+            "CommunityReportedInventory": 548,
             "CountyName": "Champaign",
-            "InventoryReportDate": "2021-04-03T00:00:00",
+            "InventoryReportDate": "2021-04-04T00:00:00",
             "LHDReportedInventory": 6050,
             "Latitude": 40.2139,
             "Longitude": -88.2461,
@@ -1978,11 +1978,29 @@
             "PersonsFullyVaccinatedChange": 503,
             "Population": 209983,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 7056
+            "TotalReportedInventory": 6598
+        },
+        {
+            "AdministeredCount": 122403,
+            "AdministeredCountChange": 105,
+            "AdministeredCountRollAvg": 1219.0,
+            "AllocatedDoses": 920,
+            "CommunityReportedInventory": 548,
+            "CountyName": "Champaign",
+            "InventoryReportDate": "2021-04-04T00:00:00",
+            "LHDReportedInventory": 6050,
+            "Latitude": 40.2139,
+            "Longitude": -88.2461,
+            "PctVaccinatedPopulation": 0.24216722306091445,
+            "PersonsFullyVaccinated": 50851,
+            "PersonsFullyVaccinatedChange": 34,
+            "Population": 209983,
+            "Report_Date": "2021-04-04T00:00:00",
+            "TotalReportedInventory": 6598
         }
     ],
     "lastUpdatedDate": {
-        "day": 3,
+        "day": 4,
         "month": 4,
         "year": 2021
     }

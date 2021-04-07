@@ -3459,11 +3459,20 @@
         {
             "CountyName": "St. Clair",
             "confirmed_cases": 26750,
-            "deaths": 497,
+            "deaths": 496,
             "latitude": 38.4008,
             "longitude": -89.9253,
             "reportDate": "2021-04-05T00:00:00",
             "tested": 356838
+        },
+        {
+            "CountyName": "St. Clair",
+            "confirmed_cases": 26774,
+            "deaths": 496,
+            "latitude": 38.4008,
+            "longitude": -89.9253,
+            "reportDate": "2021-04-06T00:00:00",
+            "tested": 357455
         }
     ]
 }

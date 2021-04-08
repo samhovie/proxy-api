@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 27064,
+        "AdministeredCount": 27276,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 279.0,
+        "AdministeredCountRollAvg": 234.0,
         "AllocatedDoses": 1600,
-        "CommunityReportedInventory": 1340,
+        "CommunityReportedInventory": 970,
         "CountyName": "Knox",
-        "InventoryReportDate": "2021-04-05T00:00:00",
+        "InventoryReportDate": "2021-04-06T00:00:00",
         "LHDReportedInventory": 2165,
         "Latitude": 40.8776,
         "Longitude": -90.2245,
-        "PctVaccinatedPopulation": 0.20781449553001277,
-        "PersonsFullyVaccinated": 10414,
-        "PersonsFullyVaccinatedChange": 10414,
+        "PctVaccinatedPopulation": 0.2096902937420179,
+        "PersonsFullyVaccinated": 10508,
+        "PersonsFullyVaccinatedChange": 10508,
         "Population": 50112,
-        "Report_Date": "2021-04-05T00:00:00",
-        "TotalReportedInventory": 3505
+        "Report_Date": "2021-04-06T00:00:00",
+        "TotalReportedInventory": 3135
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 41,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 266,
             "AdministeredCountChange": 225,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 466,
             "AdministeredCountChange": 200,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 562,
             "AdministeredCountChange": 96,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 563,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 587,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 587,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 593,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 79.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 597,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 597,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 597,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 607,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 614,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 4.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 640,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 668,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 11.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 680,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 734,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 755,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 755,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 824,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 1034,
             "AdministeredCountChange": 210,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 1197,
             "AdministeredCountChange": 163,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 50112,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 1441,
             "AdministeredCountChange": 244,
             "AdministeredCountRollAvg": 109.0,
             "AllocatedDoses": 800,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 181,
             "Population": 50112,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 1715,
             "AdministeredCountChange": 274,
             "AdministeredCountRollAvg": 140.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 195,
             "Population": 50112,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 1724,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 138.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 50112,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 1881,
             "AdministeredCountChange": 157,
             "AdministeredCountRollAvg": 161.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 156,
             "Population": 50112,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 2011,
             "AdministeredCountChange": 130,
             "AdministeredCountRollAvg": 170.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 2045,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 144.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 50112,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 2152,
             "AdministeredCountChange": 107,
             "AdministeredCountRollAvg": 136.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 2328,
             "AdministeredCountChange": 176,
             "AdministeredCountRollAvg": 127.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 50112,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 2470,
             "AdministeredCountChange": 142,
             "AdministeredCountRollAvg": 108.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 50112,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 2484,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 109.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 2490,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 2499,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 50112,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 2555,
             "AdministeredCountChange": 56,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 2808,
             "AdministeredCountChange": 253,
             "AdministeredCountRollAvg": 94.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 50112,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 3360,
             "AdministeredCountChange": 552,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 75,
             "Population": 50112,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 4293,
             "AdministeredCountChange": 933,
             "AdministeredCountRollAvg": 260.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 50112,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 4454,
             "AdministeredCountChange": 161,
             "AdministeredCountRollAvg": 281.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 50112,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 4467,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 282.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 50112,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 4628,
             "AdministeredCountChange": 161,
             "AdministeredCountRollAvg": 304.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 50112,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 4832,
             "AdministeredCountChange": 204,
             "AdministeredCountRollAvg": 325.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 50112,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 5110,
             "AdministeredCountChange": 278,
             "AdministeredCountRollAvg": 329.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 90,
             "Population": 50112,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 5531,
             "AdministeredCountChange": 421,
             "AdministeredCountRollAvg": 310.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 50112,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 5909,
             "AdministeredCountChange": 378,
             "AdministeredCountRollAvg": 231.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 50112,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 6003,
             "AdministeredCountChange": 94,
             "AdministeredCountRollAvg": 221.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 50112,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 6174,
             "AdministeredCountChange": 171,
             "AdministeredCountRollAvg": 244.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 103,
             "Population": 50112,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 6323,
             "AdministeredCountChange": 149,
             "AdministeredCountRollAvg": 242.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 50112,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 6809,
             "AdministeredCountChange": 486,
             "AdministeredCountRollAvg": 282.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 74,
             "Population": 50112,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 6917,
             "AdministeredCountChange": 108,
             "AdministeredCountRollAvg": 258.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 50112,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 7217,
             "AdministeredCountChange": 300,
             "AdministeredCountRollAvg": 241.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 50112,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 7841,
             "AdministeredCountChange": 624,
             "AdministeredCountRollAvg": 276.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 87,
             "Population": 50112,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 8036,
             "AdministeredCountChange": 195,
             "AdministeredCountRollAvg": 290.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 50112,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 8119,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 278.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 50112,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 8347,
             "AdministeredCountChange": 228,
             "AdministeredCountRollAvg": 289.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 50112,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 8631,
             "AdministeredCountChange": 284,
             "AdministeredCountRollAvg": 260.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 50112,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 9026,
             "AdministeredCountChange": 395,
             "AdministeredCountRollAvg": 301.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 146,
             "Population": 50112,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 9794,
             "AdministeredCountChange": 768,
             "AdministeredCountRollAvg": 368.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 296,
             "Population": 50112,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 10055,
             "AdministeredCountChange": 261,
             "AdministeredCountRollAvg": 316.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 86,
             "Population": 50112,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 10170,
             "AdministeredCountChange": 115,
             "AdministeredCountRollAvg": 305.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 50112,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 10300,
             "AdministeredCountChange": 130,
             "AdministeredCountRollAvg": 312.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 50112,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 10381,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 291.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 50112,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 10831,
             "AdministeredCountChange": 450,
             "AdministeredCountRollAvg": 314.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 227,
             "Population": 50112,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 11429,
             "AdministeredCountChange": 598,
             "AdministeredCountRollAvg": 343.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 361,
             "Population": 50112,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 11982,
             "AdministeredCountChange": 553,
             "AdministeredCountRollAvg": 313.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 422,
             "Population": 50112,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 12476,
             "AdministeredCountChange": 494,
             "AdministeredCountRollAvg": 346.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 350,
             "Population": 50112,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 12480,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 330.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50112,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 12818,
             "AdministeredCountChange": 338,
             "AdministeredCountRollAvg": 360.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 202,
             "Population": 50112,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 13010,
             "AdministeredCountChange": 192,
             "AdministeredCountRollAvg": 376.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 161,
             "Population": 50112,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 13041,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 316.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 50112,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 13101,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 239.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 50112,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 13609,
             "AdministeredCountChange": 508,
             "AdministeredCountRollAvg": 232.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 409,
             "Population": 50112,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 14537,
             "AdministeredCountChange": 928,
             "AdministeredCountRollAvg": 294.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 843,
             "Population": 50112,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 14746,
             "AdministeredCountChange": 209,
             "AdministeredCountRollAvg": 324.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 150,
             "Population": 50112,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 14924,
             "AdministeredCountChange": 178,
             "AdministeredCountRollAvg": 301.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 50112,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 15061,
             "AdministeredCountChange": 137,
             "AdministeredCountRollAvg": 293.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 85,
             "Population": 50112,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 15438,
             "AdministeredCountChange": 377,
             "AdministeredCountRollAvg": 342.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 189,
             "Population": 50112,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 15774,
             "AdministeredCountChange": 336,
             "AdministeredCountRollAvg": 382.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 50112,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 16374,
             "AdministeredCountChange": 600,
             "AdministeredCountRollAvg": 395.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 498,
             "Population": 50112,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 17062,
             "AdministeredCountChange": 688,
             "AdministeredCountRollAvg": 361.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 564,
             "Population": 50112,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 17408,
             "AdministeredCountChange": 346,
             "AdministeredCountRollAvg": 380.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 165,
             "Population": 50112,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 17460,
             "AdministeredCountChange": 52,
             "AdministeredCountRollAvg": 362.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 50112,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 17605,
             "AdministeredCountChange": 145,
             "AdministeredCountRollAvg": 363.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 50112,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 18317,
             "AdministeredCountChange": 712,
             "AdministeredCountRollAvg": 411.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 315,
             "Population": 50112,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 18907,
             "AdministeredCountChange": 590,
             "AdministeredCountRollAvg": 448.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 474,
             "Population": 50112,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 19484,
             "AdministeredCountChange": 577,
             "AdministeredCountRollAvg": 444.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 50112,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 19931,
             "AdministeredCountChange": 447,
             "AdministeredCountRollAvg": 410.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 317,
             "Population": 50112,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 20111,
             "AdministeredCountChange": 180,
             "AdministeredCountRollAvg": 386.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 120,
             "Population": 50112,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 20263,
             "AdministeredCountChange": 152,
             "AdministeredCountRollAvg": 400.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 120,
             "Population": 50112,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 20834,
             "AdministeredCountChange": 571,
             "AdministeredCountRollAvg": 461.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 88,
             "Population": 50112,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 21225,
             "AdministeredCountChange": 391,
             "AdministeredCountRollAvg": 415.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 134,
             "Population": 50112,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 21601,
             "AdministeredCountChange": 376,
             "AdministeredCountRollAvg": 385.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 110,
             "Population": 50112,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 22129,
             "AdministeredCountChange": 528,
             "AdministeredCountRollAvg": 378.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 233,
             "Population": 50112,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 22737,
             "AdministeredCountChange": 608,
             "AdministeredCountRollAvg": 401.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 136,
             "Population": 50112,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 22883,
             "AdministeredCountChange": 146,
             "AdministeredCountRollAvg": 396.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 75,
             "Population": 50112,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 22959,
             "AdministeredCountChange": 76,
             "AdministeredCountRollAvg": 385.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 50112,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 23293,
             "AdministeredCountChange": 334,
             "AdministeredCountRollAvg": 351.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 50112,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 23679,
             "AdministeredCountChange": 386,
             "AdministeredCountRollAvg": 351.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 50112,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 23967,
             "AdministeredCountChange": 288,
             "AdministeredCountRollAvg": 338.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 50112,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 24257,
             "AdministeredCountChange": 290,
             "AdministeredCountRollAvg": 304.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 74,
             "Population": 50112,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 24615,
             "AdministeredCountChange": 358,
             "AdministeredCountRollAvg": 268.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 75,
             "Population": 50112,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 24760,
             "AdministeredCountChange": 145,
             "AdministeredCountRollAvg": 268.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 50112,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 24899,
             "AdministeredCountChange": 139,
             "AdministeredCountRollAvg": 277.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 50112,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 25112,
             "AdministeredCountChange": 213,
             "AdministeredCountRollAvg": 260.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 50112,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 25638,
             "AdministeredCountChange": 526,
             "AdministeredCountRollAvg": 280.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 232,
             "Population": 50112,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 25895,
             "AdministeredCountChange": 257,
             "AdministeredCountRollAvg": 275.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 175,
             "Population": 50112,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 26209,
             "AdministeredCountChange": 314,
             "AdministeredCountRollAvg": 279.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 138,
             "Population": 50112,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 26755,
             "AdministeredCountChange": 546,
             "AdministeredCountRollAvg": 306.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 142,
             "Population": 50112,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 26926,
             "AdministeredCountChange": 171,
             "AdministeredCountRollAvg": 309.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 50112,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 26959,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 294.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 50112,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
         },
         {
             "AdministeredCount": 27064,
             "AdministeredCountChange": 105,
             "AdministeredCountRollAvg": 279.0,
             "AllocatedDoses": 1600,
-            "CommunityReportedInventory": 1340,
+            "CommunityReportedInventory": 970,
             "CountyName": "Knox",
-            "InventoryReportDate": "2021-04-05T00:00:00",
+            "InventoryReportDate": "2021-04-06T00:00:00",
             "LHDReportedInventory": 2165,
             "Latitude": 40.8776,
             "Longitude": -90.2245,
@@ -2014,11 +2014,29 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 50112,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 3505
+            "TotalReportedInventory": 3135
+        },
+        {
+            "AdministeredCount": 27276,
+            "AdministeredCountChange": 212,
+            "AdministeredCountRollAvg": 234.0,
+            "AllocatedDoses": 1600,
+            "CommunityReportedInventory": 970,
+            "CountyName": "Knox",
+            "InventoryReportDate": "2021-04-06T00:00:00",
+            "LHDReportedInventory": 2165,
+            "Latitude": 40.8776,
+            "Longitude": -90.2245,
+            "PctVaccinatedPopulation": 0.2096902937420179,
+            "PersonsFullyVaccinated": 10508,
+            "PersonsFullyVaccinatedChange": 94,
+            "Population": 50112,
+            "Report_Date": "2021-04-06T00:00:00",
+            "TotalReportedInventory": 3135
         }
     ],
     "lastUpdatedDate": {
-        "day": 5,
+        "day": 6,
         "month": 4,
         "year": 2021
     }

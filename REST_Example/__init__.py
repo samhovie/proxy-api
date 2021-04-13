@@ -41,6 +41,20 @@ def get_cdt(county):
     )
     return response
 
+# returns list of API end points
+@app.route("/api/CDT/", methods=["GET"])
+def get_cdt(county):
+    SITE_ROOT = os.path.realpath(os.path.dirname(os.path.dirname(__file__)))
+    json_url = os.path.join(SITE_ROOT, 'CDT.json')
+    data = json.load(open(json_url))
+    response = app.response_class(
+        response=json.dumps(data),
+        status=200,
+        mimetype='application/json'
+    )
+    return response
+
+
 @app.route("/api/VACCINE/<county>", methods=["GET"])
 def get_vaccine(county):
     SITE_ROOT = os.path.realpath(os.path.dirname(os.path.dirname(__file__)))

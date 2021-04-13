@@ -466,8 +466,8 @@ def scheduled():
     
     r = requests.get(cli_url)
     json_data = json.loads(r.text)
-    base = Path('CLI')
-    jsonpath = base / ("GetResurgenceDataCLIAdmissions.json")
+    base = Path()
+    jsonpath = base / ("CLI.json")
     base.mkdir(exist_ok=True)
     jsonpath.write_text(json.dumps(json_data, indent=4))
 

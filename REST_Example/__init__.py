@@ -41,7 +41,6 @@ def get_cdt(county):
     )
     return response
 
-
 @app.route("/api/VACCINE/<county>", methods=["GET"])
 def get_vaccine(county):
     SITE_ROOT = os.path.realpath(os.path.dirname(os.path.dirname(__file__)))
@@ -417,6 +416,8 @@ def scheduled():
     test_urls = []
     vacc_urls = []
     CDT = []
+    TESTS = []
+    VACCINE = []
     
     for county in countyMap:
        cdt_urls.append(cdt_url + county)
@@ -427,18 +428,9 @@ def scheduled():
         r = requests.get(url)
         json_data = json.loads(r.text)
         county = url.split('=')[-1]
-        # CDT[county] = json_data
-        # CDT.append(json_data['values'])
         for entry in json_data['values']:
             CDT.append(entry)
-
-    # print(json.dumps(CDT, indent=4))
-        # CDT[county].append(json.dumps(json_data, indent=4))
-
-        # base = Path('CDT')
-        # jsonpath = base / (county + ".json")
-        # base.mkdir(exist_ok=True)
-        # jsonpath.write_text(json.dumps(json_data, indent=4))
+    
     base = Path()
     jsonpath = base / ("CDT.json")
     # base.mkdir(exist_ok=True)
@@ -448,19 +440,29 @@ def scheduled():
         r = requests.get(url)
         json_data = json.loads(r.text)
         county = url.split('=')[-1]
-        base = Path('TESTS')
-        jsonpath = base / (county + ".json")
-        base.mkdir(exist_ok=True)
-        jsonpath.write_text(json.dumps(json_data, indent=4))
+        for entry in json_data['values']:
+            TESTS.append(entry)
+    
+    base = Path()
+    jsonpath = base / ("TESTS.json")
+    # base.mkdir(exist_ok=True)
+    jsonpath.write_text(json.dumps(TESTS, indent=4))
 
     for url in vacc_urls:
         r = requests.get(url)
         json_data = json.loads(r.text)
         county = url.split('=')[-1]
-        base = Path('VACCINE')
-        jsonpath = base / (county + ".json")
-        base.mkdir(exist_ok=True)
-        jsonpath.write_text(json.dumps(json_data, indent=4))
+        for entry in json_data['VaccineAdministration']:
+            VACCINE.append(entry)
+    
+    base = Path()
+    jsonpath = base / ("VACCINE.json")
+    # base.mkdir(exist_ok=True)
+    jsonpath.write_text(json.dumps(VACCINE, indent=4))
+        # base = Path('VACCINE')
+        # jsonpath = base / (county + ".json")
+        # base.mkdir(exist_ok=True)
+        # jsonpath.write_text(json.dumps(json_data, indent=4))
     
     r = requests.get(cli_url)
     json_data = json.loads(r.text)

@@ -415,6 +415,7 @@ def scheduled():
     cdt_urls = []
     test_urls = []
     vacc_urls = []
+    CDT = []
     
     for county in countyMap:
        cdt_urls.append(cdt_url + county)
@@ -425,11 +426,23 @@ def scheduled():
         r = requests.get(url)
         json_data = json.loads(r.text)
         county = url.split('=')[-1]
-        base = Path('CDT')
-        jsonpath = base / (county + ".json")
-        base.mkdir(exist_ok=True)
-        jsonpath.write_text(json.dumps(json_data, indent=4))
-    
+        # CDT[county] = json_data
+        # CDT.append(json_data['values'])
+        for entry in json_data['values']:
+            CDT.append(entry)
+
+    # print(json.dumps(CDT, indent=4))
+        # CDT[county].append(json.dumps(json_data, indent=4))
+
+        # base = Path('CDT')
+        # jsonpath = base / (county + ".json")
+        # base.mkdir(exist_ok=True)
+        # jsonpath.write_text(json.dumps(json_data, indent=4))
+    base = Path()
+    jsonpath = base / ("CDT.json")
+    # base.mkdir(exist_ok=True)
+    jsonpath.write_text(json.dumps(CDT, indent=4))
+
     for url in test_urls:
         r = requests.get(url)
         json_data = json.loads(r.text)
@@ -454,6 +467,12 @@ def scheduled():
     jsonpath = base / ("GetResurgenceDataCLIAdmissions.json")
     base.mkdir(exist_ok=True)
     jsonpath.write_text(json.dumps(json_data, indent=4))
+
+
+
+    
+
+
 
 
     print ("Done")

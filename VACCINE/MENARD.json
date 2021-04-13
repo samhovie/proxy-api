@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7428,
+        "AdministeredCount": 7464,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 92.0,
+        "AdministeredCountRollAvg": 93.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Menard",
-        "InventoryReportDate": "2021-04-11T00:00:00",
+        "InventoryReportDate": "2021-04-12T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 40.0221,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.27685546875,
-        "PersonsFullyVaccinated": 3402,
-        "PersonsFullyVaccinatedChange": 3402,
+        "PctVaccinatedPopulation": 0.2791341145833333,
+        "PersonsFullyVaccinated": 3430,
+        "PersonsFullyVaccinatedChange": 3430,
         "Population": 12288,
-        "Report_Date": "2021-04-11T00:00:00",
+        "Report_Date": "2021-04-12T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -2123,10 +2123,28 @@
             "Population": 12288,
             "Report_Date": "2021-04-11T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 7464,
+            "AdministeredCountChange": 36,
+            "AdministeredCountRollAvg": 93.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Menard",
+            "InventoryReportDate": "2021-04-12T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.0221,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.2791341145833333,
+            "PersonsFullyVaccinated": 3430,
+            "PersonsFullyVaccinatedChange": 28,
+            "Population": 12288,
+            "Report_Date": "2021-04-12T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 11,
+        "day": 12,
         "month": 4,
         "year": 2021
     }

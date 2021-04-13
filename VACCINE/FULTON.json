@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 20569,
+        "AdministeredCount": 20695,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 297.0,
+        "AdministeredCountRollAvg": 284.0,
         "AllocatedDoses": 0,
-        "CommunityReportedInventory": 680,
+        "CommunityReportedInventory": 1000,
         "CountyName": "Fulton",
-        "InventoryReportDate": "2021-04-11T00:00:00",
+        "InventoryReportDate": "2021-04-12T00:00:00",
         "LHDReportedInventory": 1620,
         "Latitude": 40.5532,
         "Longitude": -90.2245,
-        "PctVaccinatedPopulation": 0.25789232005510276,
-        "PersonsFullyVaccinated": 8986,
-        "PersonsFullyVaccinatedChange": 8986,
+        "PctVaccinatedPopulation": 0.2605326598553553,
+        "PersonsFullyVaccinated": 9078,
+        "PersonsFullyVaccinatedChange": 9078,
         "Population": 34844,
-        "Report_Date": "2021-04-11T00:00:00",
-        "TotalReportedInventory": 2300
+        "Report_Date": "2021-04-12T00:00:00",
+        "TotalReportedInventory": 2620
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 57,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 87,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 91,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 91,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 92,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 92,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 97,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 98,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 98,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 98,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 98,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 98,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 119,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 4.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 135,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 153,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 155,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 165,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 165,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 357,
             "AdministeredCountChange": 192,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 747,
             "AdministeredCountChange": 390,
             "AdministeredCountRollAvg": 90.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 805,
             "AdministeredCountChange": 58,
             "AdministeredCountRollAvg": 96.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 876,
             "AdministeredCountChange": 71,
             "AdministeredCountRollAvg": 103.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 34844,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1052,
             "AdministeredCountChange": 176,
             "AdministeredCountRollAvg": 128.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 34844,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1087,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 132.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 34844,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1110,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 135.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 34844,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1129,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 110.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 34844,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1307,
             "AdministeredCountChange": 178,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1370,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 34844,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1462,
             "AdministeredCountChange": 92,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 34844,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1559,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1841,
             "AdministeredCountChange": 282,
             "AdministeredCountRollAvg": 108.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1874,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 109.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1906,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 1990,
             "AdministeredCountChange": 84,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 2401,
             "AdministeredCountChange": 411,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 83,
             "Population": 34844,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 2735,
             "AdministeredCountChange": 334,
             "AdministeredCountRollAvg": 182.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 34844,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 2781,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 175.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 34844,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 2799,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 34844,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 2832,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 3021,
             "AdministeredCountChange": 189,
             "AdministeredCountRollAvg": 159.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 135,
             "Population": 34844,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 3199,
             "AdministeredCountChange": 178,
             "AdministeredCountRollAvg": 173.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 34844,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 3473,
             "AdministeredCountChange": 274,
             "AdministeredCountRollAvg": 153.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 34844,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 3906,
             "AdministeredCountChange": 433,
             "AdministeredCountRollAvg": 167.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 34844,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 3986,
             "AdministeredCountChange": 80,
             "AdministeredCountRollAvg": 172.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 34844,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 4058,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 180.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 34844,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 4067,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 176.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 34844,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 4393,
             "AdministeredCountChange": 326,
             "AdministeredCountRollAvg": 196.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 188,
             "Population": 34844,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 4771,
             "AdministeredCountChange": 378,
             "AdministeredCountRollAvg": 225.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 322,
             "Population": 34844,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 5003,
             "AdministeredCountChange": 232,
             "AdministeredCountRollAvg": 219.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 119,
             "Population": 34844,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 5122,
             "AdministeredCountChange": 119,
             "AdministeredCountRollAvg": 174.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 34844,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 5309,
             "AdministeredCountChange": 187,
             "AdministeredCountRollAvg": 189.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 109,
             "Population": 34844,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 5580,
             "AdministeredCountChange": 271,
             "AdministeredCountRollAvg": 217.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 5597,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 219.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34844,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 5993,
             "AdministeredCountChange": 396,
             "AdministeredCountRollAvg": 229.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 227,
             "Population": 34844,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 6152,
             "AdministeredCountChange": 159,
             "AdministeredCountRollAvg": 197.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 77,
             "Population": 34844,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 6370,
             "AdministeredCountChange": 218,
             "AdministeredCountRollAvg": 195.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 117,
             "Population": 34844,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 6588,
             "AdministeredCountChange": 218,
             "AdministeredCountRollAvg": 209.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 117,
             "Population": 34844,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 6768,
             "AdministeredCountChange": 180,
             "AdministeredCountRollAvg": 208.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 34844,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 7032,
             "AdministeredCountChange": 264,
             "AdministeredCountRollAvg": 207.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 34844,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 7168,
             "AdministeredCountChange": 136,
             "AdministeredCountRollAvg": 224.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 34844,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 7280,
             "AdministeredCountChange": 112,
             "AdministeredCountRollAvg": 184.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 34844,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 7385,
             "AdministeredCountChange": 105,
             "AdministeredCountRollAvg": 176.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 34844,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 7889,
             "AdministeredCountChange": 504,
             "AdministeredCountRollAvg": 217.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 294,
             "Population": 34844,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 8414,
             "AdministeredCountChange": 525,
             "AdministeredCountRollAvg": 261.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 310,
             "Population": 34844,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 8540,
             "AdministeredCountChange": 126,
             "AdministeredCountRollAvg": 253.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 34844,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 8557,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 218.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 34844,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 8645,
             "AdministeredCountChange": 88,
             "AdministeredCountRollAvg": 211.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 34844,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 8775,
             "AdministeredCountChange": 130,
             "AdministeredCountRollAvg": 214.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 34844,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 8817,
             "AdministeredCountChange": 42,
             "AdministeredCountRollAvg": 205.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 34844,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 9127,
             "AdministeredCountChange": 310,
             "AdministeredCountRollAvg": 177.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 294,
             "Population": 34844,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 9518,
             "AdministeredCountChange": 391,
             "AdministeredCountRollAvg": 158.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 311,
             "Population": 34844,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 9656,
             "AdministeredCountChange": 138,
             "AdministeredCountRollAvg": 159.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 75,
             "Population": 34844,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 9752,
             "AdministeredCountChange": 96,
             "AdministeredCountRollAvg": 171.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 34844,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 9897,
             "AdministeredCountChange": 145,
             "AdministeredCountRollAvg": 179.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 34844,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 10289,
             "AdministeredCountChange": 392,
             "AdministeredCountRollAvg": 216.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 175,
             "Population": 34844,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 10403,
             "AdministeredCountChange": 114,
             "AdministeredCountRollAvg": 227.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 34844,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 10533,
             "AdministeredCountChange": 130,
             "AdministeredCountRollAvg": 201.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 34844,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 10696,
             "AdministeredCountChange": 163,
             "AdministeredCountRollAvg": 168.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 34844,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 11377,
             "AdministeredCountChange": 681,
             "AdministeredCountRollAvg": 246.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 100,
             "Population": 34844,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 11709,
             "AdministeredCountChange": 332,
             "AdministeredCountRollAvg": 280.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 268,
             "Population": 34844,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 11754,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 265.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 34844,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 11871,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 226.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 34844,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 12005,
             "AdministeredCountChange": 134,
             "AdministeredCountRollAvg": 229.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 34844,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 12169,
             "AdministeredCountChange": 164,
             "AdministeredCountRollAvg": 234.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 103,
             "Population": 34844,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 12354,
             "AdministeredCountChange": 185,
             "AdministeredCountRollAvg": 237.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 34844,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 13244,
             "AdministeredCountChange": 890,
             "AdministeredCountRollAvg": 267.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 303,
             "Population": 34844,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 13591,
             "AdministeredCountChange": 347,
             "AdministeredCountRollAvg": 269.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 268,
             "Population": 34844,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 13729,
             "AdministeredCountChange": 138,
             "AdministeredCountRollAvg": 282.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 124,
             "Population": 34844,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 14008,
             "AdministeredCountChange": 279,
             "AdministeredCountRollAvg": 305.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 106,
             "Population": 34844,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 14168,
             "AdministeredCountChange": 160,
             "AdministeredCountRollAvg": 309.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 97,
             "Population": 34844,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 14476,
             "AdministeredCountChange": 308,
             "AdministeredCountRollAvg": 330.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 99,
             "Population": 34844,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 14681,
             "AdministeredCountChange": 205,
             "AdministeredCountRollAvg": 332.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 73,
             "Population": 34844,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 15128,
             "AdministeredCountChange": 447,
             "AdministeredCountRollAvg": 269.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 134,
             "Population": 34844,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 15227,
             "AdministeredCountChange": 99,
             "AdministeredCountRollAvg": 234.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 34844,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 15291,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 223.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 34844,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 15453,
             "AdministeredCountChange": 162,
             "AdministeredCountRollAvg": 206.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 34844,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 15617,
             "AdministeredCountChange": 164,
             "AdministeredCountRollAvg": 207.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 34844,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 15801,
             "AdministeredCountChange": 184,
             "AdministeredCountRollAvg": 189.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 34844,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 16000,
             "AdministeredCountChange": 199,
             "AdministeredCountRollAvg": 188.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 34844,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 16182,
             "AdministeredCountChange": 182,
             "AdministeredCountRollAvg": 151.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 88,
             "Population": 34844,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 16602,
             "AdministeredCountChange": 420,
             "AdministeredCountRollAvg": 196.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 34844,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 16652,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 194.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 34844,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 17195,
             "AdministeredCountChange": 543,
             "AdministeredCountRollAvg": 249.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 218,
             "Population": 34844,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 17432,
             "AdministeredCountChange": 237,
             "AdministeredCountRollAvg": 259.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 106,
             "Population": 34844,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 17553,
             "AdministeredCountChange": 121,
             "AdministeredCountRollAvg": 250.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 34844,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 17787,
             "AdministeredCountChange": 234,
             "AdministeredCountRollAvg": 255.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 148,
             "Population": 34844,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 18353,
             "AdministeredCountChange": 566,
             "AdministeredCountRollAvg": 310.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 481,
             "Population": 34844,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 18437,
             "AdministeredCountChange": 84,
             "AdministeredCountRollAvg": 262.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 34844,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 18488,
             "AdministeredCountChange": 51,
             "AdministeredCountRollAvg": 262.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 34844,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 18705,
             "AdministeredCountChange": 217,
             "AdministeredCountRollAvg": 216.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 161,
             "Population": 34844,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 18876,
             "AdministeredCountChange": 171,
             "AdministeredCountRollAvg": 206.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 129,
             "Population": 34844,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 19073,
             "AdministeredCountChange": 197,
             "AdministeredCountRollAvg": 217.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 138,
             "Population": 34844,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 19686,
             "AdministeredCountChange": 613,
             "AdministeredCountRollAvg": 271.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 545,
             "Population": 34844,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 20407,
             "AdministeredCountChange": 721,
             "AdministeredCountRollAvg": 293.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 623,
             "Population": 34844,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 20518,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 297.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 34844,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
         },
         {
             "AdministeredCount": 20569,
             "AdministeredCountChange": 51,
             "AdministeredCountRollAvg": 297.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 680,
+            "CommunityReportedInventory": 1000,
             "CountyName": "Fulton",
-            "InventoryReportDate": "2021-04-11T00:00:00",
+            "InventoryReportDate": "2021-04-12T00:00:00",
             "LHDReportedInventory": 1620,
             "Latitude": 40.5532,
             "Longitude": -90.2245,
@@ -2122,11 +2122,29 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 34844,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 2300
+            "TotalReportedInventory": 2620
+        },
+        {
+            "AdministeredCount": 20695,
+            "AdministeredCountChange": 126,
+            "AdministeredCountRollAvg": 284.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 1000,
+            "CountyName": "Fulton",
+            "InventoryReportDate": "2021-04-12T00:00:00",
+            "LHDReportedInventory": 1620,
+            "Latitude": 40.5532,
+            "Longitude": -90.2245,
+            "PctVaccinatedPopulation": 0.2605326598553553,
+            "PersonsFullyVaccinated": 9078,
+            "PersonsFullyVaccinatedChange": 92,
+            "Population": 34844,
+            "Report_Date": "2021-04-12T00:00:00",
+            "TotalReportedInventory": 2620
         }
     ],
     "lastUpdatedDate": {
-        "day": 11,
+        "day": 12,
         "month": 4,
         "year": 2021
     }

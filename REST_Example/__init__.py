@@ -415,9 +415,6 @@ def scheduled():
     cdt_urls = []
     test_urls = []
     vacc_urls = []
-    CDT = []
-    TESTS = []
-    VACCINE = []
     
     for county in countyMap:
        cdt_urls.append(cdt_url + county)
@@ -428,54 +425,35 @@ def scheduled():
         r = requests.get(url)
         json_data = json.loads(r.text)
         county = url.split('=')[-1]
-        for entry in json_data['values']:
-            CDT.append(entry)
+        base = Path('CDT')
+        jsonpath = base / (county + ".json")
+        base.mkdir(exist_ok=True)
+        jsonpath.write_text(json.dumps(json_data, indent=4))
     
-    base = Path()
-    jsonpath = base / ("CDT.json")
-    # base.mkdir(exist_ok=True)
-    jsonpath.write_text(json.dumps(CDT, indent=4))
-
     for url in test_urls:
         r = requests.get(url)
         json_data = json.loads(r.text)
         county = url.split('=')[-1]
-        for entry in json_data['values']:
-            TESTS.append(entry)
-    
-    base = Path()
-    jsonpath = base / ("TESTS.json")
-    # base.mkdir(exist_ok=True)
-    jsonpath.write_text(json.dumps(TESTS, indent=4))
+        base = Path('TESTS')
+        jsonpath = base / (county + ".json")
+        base.mkdir(exist_ok=True)
+        jsonpath.write_text(json.dumps(json_data, indent=4))
 
     for url in vacc_urls:
         r = requests.get(url)
         json_data = json.loads(r.text)
         county = url.split('=')[-1]
-        for entry in json_data['VaccineAdministration']:
-            VACCINE.append(entry)
-    
-    base = Path()
-    jsonpath = base / ("VACCINE.json")
-    # base.mkdir(exist_ok=True)
-    jsonpath.write_text(json.dumps(VACCINE, indent=4))
-        # base = Path('VACCINE')
-        # jsonpath = base / (county + ".json")
-        # base.mkdir(exist_ok=True)
-        # jsonpath.write_text(json.dumps(json_data, indent=4))
+        base = Path('VACCINE')
+        jsonpath = base / (county + ".json")
+        base.mkdir(exist_ok=True)
+        jsonpath.write_text(json.dumps(json_data, indent=4))
     
     r = requests.get(cli_url)
     json_data = json.loads(r.text)
-    base = Path()
-    jsonpath = base / ("CLI.json")
+    base = Path('CLI')
+    jsonpath = base / ("GetResurgenceDataCLIAdmissions.json")
     base.mkdir(exist_ok=True)
     jsonpath.write_text(json.dumps(json_data, indent=4))
-
-
-
-    
-
-
 
 
     print ("Done")

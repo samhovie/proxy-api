@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 6034,
+        "AdministeredCount": 6050,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 12.0,
+        "AdministeredCountRollAvg": 14.0,
         "AllocatedDoses": 280,
-        "CommunityReportedInventory": 560,
+        "CommunityReportedInventory": 850,
         "CountyName": "Clay",
-        "InventoryReportDate": "2021-04-26T00:00:00",
+        "InventoryReportDate": "2021-04-27T00:00:00",
         "LHDReportedInventory": 980,
         "Latitude": 38.7279,
         "Longitude": -88.5565,
-        "PctVaccinatedPopulation": 0.22568475062250057,
-        "PersonsFullyVaccinated": 2991,
-        "PersonsFullyVaccinatedChange": 2991,
+        "PctVaccinatedPopulation": 0.226665660605146,
+        "PersonsFullyVaccinated": 3004,
+        "PersonsFullyVaccinatedChange": 3004,
         "Population": 13253,
-        "Report_Date": "2021-04-26T00:00:00",
-        "TotalReportedInventory": 1540
+        "Report_Date": "2021-04-27T00:00:00",
+        "TotalReportedInventory": 1830
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 51,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 85,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 105,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 105,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 108,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 108,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 109,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 110,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 110,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 4.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 112,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 112,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 112,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 122,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 134,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 4.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 146,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 148,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 149,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 149,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 150,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 219,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 14.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 238,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 311,
             "AdministeredCountChange": 73,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 140,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 13253,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 371,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 13253,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 372,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 372,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 375,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13253,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 387,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 422,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 518,
             "AdministeredCountChange": 96,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 521,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 522,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 522,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 522,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 639,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 651,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 658,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13253,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 804,
             "AdministeredCountChange": 146,
             "AdministeredCountRollAvg": 40.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 805,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 40.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 805,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 40.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 806,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 41.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 830,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 27.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13253,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 915,
             "AdministeredCountChange": 85,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 13253,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1041,
             "AdministeredCountChange": 126,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13253,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1129,
             "AdministeredCountChange": 88,
             "AdministeredCountRollAvg": 46.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 13253,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1134,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1135,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1138,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1205,
             "AdministeredCountChange": 67,
             "AdministeredCountRollAvg": 54.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 13253,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1314,
             "AdministeredCountChange": 109,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 13253,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1434,
             "AdministeredCountChange": 120,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13253,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1588,
             "AdministeredCountChange": 154,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13253,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1589,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1592,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13253,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1596,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1657,
             "AdministeredCountChange": 61,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1748,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13253,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1787,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 13253,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1952,
             "AdministeredCountChange": 165,
             "AdministeredCountRollAvg": 52.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 88,
             "Population": 13253,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1953,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 52.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1956,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 52.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1958,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 52.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13253,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 1960,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2019,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 13253,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2024,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13253,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2173,
             "AdministeredCountChange": 149,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 146,
             "Population": 13253,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2182,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2190,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 13253,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2195,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13253,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2268,
             "AdministeredCountChange": 73,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 13253,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2367,
             "AdministeredCountChange": 99,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 13253,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2506,
             "AdministeredCountChange": 139,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 124,
             "Population": 13253,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2648,
             "AdministeredCountChange": 142,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 57,
             "Population": 13253,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2649,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2650,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2654,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13253,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2811,
             "AdministeredCountChange": 157,
             "AdministeredCountRollAvg": 78.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 13253,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 2916,
             "AdministeredCountChange": 105,
             "AdministeredCountRollAvg": 78.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 93,
             "Population": 13253,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3028,
             "AdministeredCountChange": 112,
             "AdministeredCountRollAvg": 75.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 91,
             "Population": 13253,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3222,
             "AdministeredCountChange": 194,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 163,
             "Population": 13253,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3299,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 93.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 13253,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3307,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 94.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3331,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 97.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13253,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3517,
             "AdministeredCountChange": 186,
             "AdministeredCountRollAvg": 101.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 164,
             "Population": 13253,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3769,
             "AdministeredCountChange": 252,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13253,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3907,
             "AdministeredCountChange": 138,
             "AdministeredCountRollAvg": 126.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 13253,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3928,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 101.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 13253,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3942,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 92.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 13253,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3945,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3952,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 3959,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13253,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4116,
             "AdministeredCountChange": 157,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 13253,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4135,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13253,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4146,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 31.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13253,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4154,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13253,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4158,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13253,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4431,
             "AdministeredCountChange": 273,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 265,
             "Population": 13253,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4445,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13253,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4472,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13253,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4494,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13253,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4715,
             "AdministeredCountChange": 221,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 168,
             "Population": 13253,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4727,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13253,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4740,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13253,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 4759,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13253,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5001,
             "AdministeredCountChange": 242,
             "AdministeredCountRollAvg": 79.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 183,
             "Population": 13253,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5265,
             "AdministeredCountChange": 264,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 251,
             "Population": 13253,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5302,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 13253,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5323,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 13253,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5335,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13253,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5345,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 13253,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5361,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13253,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5380,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 54.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 13253,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5408,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 13253,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5535,
             "AdministeredCountChange": 127,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 121,
             "Population": 13253,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5622,
             "AdministeredCountChange": 87,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 13253,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5634,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13253,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5645,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2122,16 +2122,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13253,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5660,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2140,16 +2140,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13253,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5666,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 41.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2158,16 +2158,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 13253,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5845,
             "AdministeredCountChange": 179,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2176,16 +2176,16 @@
             "PersonsFullyVaccinatedChange": 154,
             "Population": 13253,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5865,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2194,16 +2194,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 13253,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5877,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2212,16 +2212,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13253,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5884,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2230,16 +2230,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13253,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5904,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2248,16 +2248,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 13253,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5952,
             "AdministeredCountChange": 48,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2266,16 +2266,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 13253,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5955,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 41.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2284,16 +2284,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13253,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5974,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2302,16 +2302,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 13253,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 5996,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2320,16 +2320,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 13253,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 6013,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2338,16 +2338,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 13253,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 6021,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2356,16 +2356,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13253,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 6027,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2374,16 +2374,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13253,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
         },
         {
             "AdministeredCount": 6034,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 280,
-            "CommunityReportedInventory": 560,
+            "CommunityReportedInventory": 850,
             "CountyName": "Clay",
-            "InventoryReportDate": "2021-04-26T00:00:00",
+            "InventoryReportDate": "2021-04-27T00:00:00",
             "LHDReportedInventory": 980,
             "Latitude": 38.7279,
             "Longitude": -88.5565,
@@ -2392,11 +2392,29 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13253,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 1540
+            "TotalReportedInventory": 1830
+        },
+        {
+            "AdministeredCount": 6050,
+            "AdministeredCountChange": 16,
+            "AdministeredCountRollAvg": 14.0,
+            "AllocatedDoses": 280,
+            "CommunityReportedInventory": 850,
+            "CountyName": "Clay",
+            "InventoryReportDate": "2021-04-27T00:00:00",
+            "LHDReportedInventory": 980,
+            "Latitude": 38.7279,
+            "Longitude": -88.5565,
+            "PctVaccinatedPopulation": 0.226665660605146,
+            "PersonsFullyVaccinated": 3004,
+            "PersonsFullyVaccinatedChange": 13,
+            "Population": 13253,
+            "Report_Date": "2021-04-27T00:00:00",
+            "TotalReportedInventory": 1830
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 27,
         "month": 4,
         "year": 2021
     }

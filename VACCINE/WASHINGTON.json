@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9235,
+        "AdministeredCount": 9267,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 57.0,
+        "AdministeredCountRollAvg": 52.0,
         "AllocatedDoses": 0,
-        "CommunityReportedInventory": 140,
+        "CommunityReportedInventory": 110,
         "CountyName": "Washington",
-        "InventoryReportDate": "2021-04-29T00:00:00",
+        "InventoryReportDate": "2021-04-30T00:00:00",
         "LHDReportedInventory": 500,
         "Latitude": 38.3989,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.33297606287959985,
-        "PersonsFullyVaccinated": 4660,
-        "PersonsFullyVaccinatedChange": 4660,
+        "PctVaccinatedPopulation": 0.33440514469453375,
+        "PersonsFullyVaccinated": 4680,
+        "PersonsFullyVaccinatedChange": 4680,
         "Population": 13995,
-        "Report_Date": "2021-04-29T00:00:00",
-        "TotalReportedInventory": 640
+        "Report_Date": "2021-04-30T00:00:00",
+        "TotalReportedInventory": 610
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 27,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 4.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 66,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 9.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 81,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 85,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 86,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 90,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 95,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 98,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 98,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 98,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 98,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 103,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 108,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 121,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 4.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 144,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 147,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 148,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 148,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 157,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 174,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 9.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 190,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13995,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 253,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 13995,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 305,
             "AdministeredCountChange": 52,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 13995,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 315,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13995,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 321,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13995,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 338,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13995,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 354,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13995,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 382,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 27.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13995,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 432,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13995,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 451,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 455,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 457,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 468,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13995,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 542,
             "AdministeredCountChange": 74,
             "AdministeredCountRollAvg": 27.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 612,
             "AdministeredCountChange": 70,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13995,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 662,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13995,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 699,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 35.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13995,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 706,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13995,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 746,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 41.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 753,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 41.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13995,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 818,
             "AdministeredCountChange": 65,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13995,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 964,
             "AdministeredCountChange": 146,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 84,
             "Population": 13995,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 996,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 13995,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1056,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13995,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1086,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 54.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13995,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1108,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 52.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1134,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 54.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13995,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1211,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13995,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1314,
             "AdministeredCountChange": 103,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 13995,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1437,
             "AdministeredCountChange": 123,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 13995,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1534,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 13995,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1703,
             "AdministeredCountChange": 169,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13995,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1703,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1728,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 13995,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1811,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 13995,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1865,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 79.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 13995,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 1973,
             "AdministeredCountChange": 108,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 13995,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2115,
             "AdministeredCountChange": 142,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 13995,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2299,
             "AdministeredCountChange": 184,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 13995,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2320,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13995,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2342,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13995,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2350,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13995,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2371,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13995,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2388,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 59.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13995,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2492,
             "AdministeredCountChange": 104,
             "AdministeredCountRollAvg": 54.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 13995,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2504,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 29.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13995,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2585,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 13995,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2604,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13995,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2668,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 45.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 13995,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2773,
             "AdministeredCountChange": 105,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 13995,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 2922,
             "AdministeredCountChange": 149,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 13995,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 3019,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 75.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 13995,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 3088,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 13995,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 3223,
             "AdministeredCountChange": 135,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 13995,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 3264,
             "AdministeredCountChange": 41,
             "AdministeredCountRollAvg": 94.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 13995,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 3347,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 97.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 13995,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 3449,
             "AdministeredCountChange": 102,
             "AdministeredCountRollAvg": 97.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 13995,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 3657,
             "AdministeredCountChange": 208,
             "AdministeredCountRollAvg": 105.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 97,
             "Population": 13995,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 3932,
             "AdministeredCountChange": 275,
             "AdministeredCountRollAvg": 130.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 128,
             "Population": 13995,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 4180,
             "AdministeredCountChange": 248,
             "AdministeredCountRollAvg": 156.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 172,
             "Population": 13995,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 4189,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 138.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13995,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 4295,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 65,
             "Population": 13995,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 4500,
             "AdministeredCountChange": 205,
             "AdministeredCountRollAvg": 165.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 157,
             "Population": 13995,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 4638,
             "AdministeredCountChange": 138,
             "AdministeredCountRollAvg": 170.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 13995,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 4796,
             "AdministeredCountChange": 158,
             "AdministeredCountRollAvg": 163.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 96,
             "Population": 13995,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 5087,
             "AdministeredCountChange": 291,
             "AdministeredCountRollAvg": 165.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 226,
             "Population": 13995,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 5355,
             "AdministeredCountChange": 268,
             "AdministeredCountRollAvg": 168.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 201,
             "Population": 13995,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 5384,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 171.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 13995,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 5512,
             "AdministeredCountChange": 128,
             "AdministeredCountRollAvg": 174.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 13995,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 5712,
             "AdministeredCountChange": 200,
             "AdministeredCountRollAvg": 173.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 177,
             "Population": 13995,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 5858,
             "AdministeredCountChange": 146,
             "AdministeredCountRollAvg": 174.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 13995,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 5964,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 167.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 13995,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 6071,
             "AdministeredCountChange": 107,
             "AdministeredCountRollAvg": 141.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 13995,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 6254,
             "AdministeredCountChange": 183,
             "AdministeredCountRollAvg": 128.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 13995,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 6268,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 126.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13995,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 6347,
             "AdministeredCountChange": 79,
             "AdministeredCountRollAvg": 119.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 44,
             "Population": 13995,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 6420,
             "AdministeredCountChange": 73,
             "AdministeredCountRollAvg": 101.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 13995,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 6490,
             "AdministeredCountChange": 70,
             "AdministeredCountRollAvg": 90.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 13995,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 6601,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 77,
             "Population": 13995,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 6772,
             "AdministeredCountChange": 171,
             "AdministeredCountRollAvg": 100.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 125,
             "Population": 13995,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7001,
             "AdministeredCountChange": 229,
             "AdministeredCountRollAvg": 107.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 112,
             "Population": 13995,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7019,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 107.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 13995,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7131,
             "AdministeredCountChange": 112,
             "AdministeredCountRollAvg": 112.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 13995,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7197,
             "AdministeredCountChange": 66,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 13995,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7295,
             "AdministeredCountChange": 98,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 13995,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7422,
             "AdministeredCountChange": 127,
             "AdministeredCountRollAvg": 117.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 103,
             "Population": 13995,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7520,
             "AdministeredCountChange": 98,
             "AdministeredCountRollAvg": 107.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 13995,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7548,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 78.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 13995,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7551,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13995,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7630,
             "AdministeredCountChange": 79,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 13995,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7707,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 13995,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7806,
             "AdministeredCountChange": 99,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 86,
             "Population": 13995,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 7891,
             "AdministeredCountChange": 85,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 13995,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8002,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 13995,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8046,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 13995,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8174,
             "AdministeredCountChange": 128,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2122,16 +2122,16 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 13995,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8242,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2140,16 +2140,16 @@
             "PersonsFullyVaccinatedChange": 44,
             "Population": 13995,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8283,
             "AdministeredCountChange": 41,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2158,16 +2158,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 13995,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8320,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2176,16 +2176,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 13995,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8394,
             "AdministeredCountChange": 74,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2194,16 +2194,16 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 13995,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8496,
             "AdministeredCountChange": 102,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2212,16 +2212,16 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 13995,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8573,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 75.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2230,16 +2230,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 13995,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8722,
             "AdministeredCountChange": 149,
             "AdministeredCountRollAvg": 78.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2248,16 +2248,16 @@
             "PersonsFullyVaccinatedChange": 78,
             "Population": 13995,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8750,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2266,16 +2266,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 13995,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8784,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2284,16 +2284,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 13995,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8804,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2302,16 +2302,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13995,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8833,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2320,16 +2320,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 13995,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8904,
             "AdministeredCountChange": 71,
             "AdministeredCountRollAvg": 58.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2338,16 +2338,16 @@
             "PersonsFullyVaccinatedChange": 57,
             "Population": 13995,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8925,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2356,16 +2356,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 13995,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 8963,
             "AdministeredCountChange": 38,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2374,16 +2374,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 13995,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 9084,
             "AdministeredCountChange": 121,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2392,16 +2392,16 @@
             "PersonsFullyVaccinatedChange": 106,
             "Population": 13995,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 9145,
             "AdministeredCountChange": 61,
             "AdministeredCountRollAvg": 52.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2410,16 +2410,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 13995,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 9177,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 53.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2428,16 +2428,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 13995,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
         },
         {
             "AdministeredCount": 9235,
             "AdministeredCountChange": 58,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 140,
+            "CommunityReportedInventory": 110,
             "CountyName": "Washington",
-            "InventoryReportDate": "2021-04-29T00:00:00",
+            "InventoryReportDate": "2021-04-30T00:00:00",
             "LHDReportedInventory": 500,
             "Latitude": 38.3989,
             "Longitude": -89.3227,
@@ -2446,11 +2446,29 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 13995,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 640
+            "TotalReportedInventory": 610
+        },
+        {
+            "AdministeredCount": 9267,
+            "AdministeredCountChange": 32,
+            "AdministeredCountRollAvg": 52.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 110,
+            "CountyName": "Washington",
+            "InventoryReportDate": "2021-04-30T00:00:00",
+            "LHDReportedInventory": 500,
+            "Latitude": 38.3989,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.33440514469453375,
+            "PersonsFullyVaccinated": 4680,
+            "PersonsFullyVaccinatedChange": 20,
+            "Population": 13995,
+            "Report_Date": "2021-04-30T00:00:00",
+            "TotalReportedInventory": 610
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 4,
         "year": 2021
     }

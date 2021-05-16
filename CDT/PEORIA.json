@@ -3810,11 +3810,20 @@
         {
             "CountyName": "Peoria",
             "confirmed_cases": 23136,
-            "deaths": 315,
+            "deaths": 314,
             "latitude": 40.7156,
             "longitude": -89.7755,
             "reportDate": "2021-05-14T00:00:00",
             "tested": 342113
+        },
+        {
+            "CountyName": "Peoria",
+            "confirmed_cases": 23156,
+            "deaths": 316,
+            "latitude": 40.7156,
+            "longitude": -89.7755,
+            "reportDate": "2021-05-15T00:00:00",
+            "tested": 343814
         }
     ]
 }

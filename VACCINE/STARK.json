@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 3711,
+        "AdministeredCount": 3749,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 25.0,
+        "AdministeredCountRollAvg": 22.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2021-05-13T00:00:00",
+        "InventoryReportDate": "2021-05-14T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.3289110005527916,
-        "PersonsFullyVaccinated": 1785,
-        "PersonsFullyVaccinatedChange": 1785,
+        "PctVaccinatedPopulation": 0.33480744426018055,
+        "PersonsFullyVaccinated": 1817,
+        "PersonsFullyVaccinatedChange": 1817,
         "Population": 5427,
-        "Report_Date": "2021-05-13T00:00:00",
+        "Report_Date": "2021-05-14T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -2699,10 +2699,28 @@
             "Population": 5427,
             "Report_Date": "2021-05-13T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 3749,
+            "AdministeredCountChange": 38,
+            "AdministeredCountRollAvg": 22.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2021-05-14T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.33480744426018055,
+            "PersonsFullyVaccinated": 1817,
+            "PersonsFullyVaccinatedChange": 32,
+            "Population": 5427,
+            "Report_Date": "2021-05-14T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 13,
+        "day": 14,
         "month": 5,
         "year": 2021
     }

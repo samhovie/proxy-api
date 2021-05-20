@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 19244,
+        "AdministeredCount": 19326,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 80.0,
+        "AdministeredCountRollAvg": 62.0,
         "AllocatedDoses": 410,
-        "CommunityReportedInventory": 786,
+        "CommunityReportedInventory": 785,
         "CountyName": "McDonough",
-        "InventoryReportDate": "2021-05-17T00:00:00",
+        "InventoryReportDate": "2021-05-18T00:00:00",
         "LHDReportedInventory": 5865,
         "Latitude": 40.3885,
         "Longitude": -90.6773,
-        "PctVaccinatedPopulation": 0.3228509430812886,
-        "PersonsFullyVaccinated": 9671,
-        "PersonsFullyVaccinatedChange": 9671,
+        "PctVaccinatedPopulation": 0.32445334668669673,
+        "PersonsFullyVaccinated": 9719,
+        "PersonsFullyVaccinatedChange": 9719,
         "Population": 29955,
-        "Report_Date": "2021-05-17T00:00:00",
-        "TotalReportedInventory": 6651
+        "Report_Date": "2021-05-18T00:00:00",
+        "TotalReportedInventory": 6650
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 73,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 151,
             "AdministeredCountChange": 78,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 152,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 152,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 153,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 153,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 174,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 185,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 185,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 201,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 211,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 221,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 250,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 14.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 268,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 269,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 351,
             "AdministeredCountChange": 82,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 373,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 373,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 420,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 28.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 458,
             "AdministeredCountChange": 38,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 467,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 28.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 513,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 35.0,
             "AllocatedDoses": 205,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 29955,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 703,
             "AdministeredCountChange": 190,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 29955,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 710,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 29955,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 711,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 29955,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 722,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 29955,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 804,
             "AdministeredCountChange": 82,
             "AdministeredCountRollAvg": 49.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 29955,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 925,
             "AdministeredCountChange": 121,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 85,
             "Population": 29955,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 1046,
             "AdministeredCountChange": 121,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 29955,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 1148,
             "AdministeredCountChange": 102,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 29955,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 1168,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 1172,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 1342,
             "AdministeredCountChange": 170,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 1388,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 29955,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 1628,
             "AdministeredCountChange": 240,
             "AdministeredCountRollAvg": 100.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 194,
             "Population": 29955,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2025,
             "AdministeredCountChange": 397,
             "AdministeredCountRollAvg": 140.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 29955,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2076,
             "AdministeredCountChange": 51,
             "AdministeredCountRollAvg": 133.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 29955,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2101,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 133.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2102,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 133.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 29955,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2208,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 124.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 78,
             "Population": 29955,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2257,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 124.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 29955,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2395,
             "AdministeredCountChange": 138,
             "AdministeredCountRollAvg": 110.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 29955,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2594,
             "AdministeredCountChange": 199,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 29955,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2685,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 29955,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2758,
             "AdministeredCountChange": 73,
             "AdministeredCountRollAvg": 94.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 29955,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2794,
             "AdministeredCountChange": 36,
             "AdministeredCountRollAvg": 99.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 29955,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 2924,
             "AdministeredCountChange": 130,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 29955,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 3177,
             "AdministeredCountChange": 253,
             "AdministeredCountRollAvg": 131.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 29955,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 3334,
             "AdministeredCountChange": 157,
             "AdministeredCountRollAvg": 134.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 29955,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 3544,
             "AdministeredCountChange": 210,
             "AdministeredCountRollAvg": 136.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 29955,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 3604,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 131.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 29955,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 3636,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 125.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 29955,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 3662,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 124.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 29955,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 3835,
             "AdministeredCountChange": 173,
             "AdministeredCountRollAvg": 130.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 29955,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 4006,
             "AdministeredCountChange": 171,
             "AdministeredCountRollAvg": 118.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 29955,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 4186,
             "AdministeredCountChange": 180,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 85,
             "Population": 29955,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 4592,
             "AdministeredCountChange": 406,
             "AdministeredCountRollAvg": 150.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 120,
             "Population": 29955,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 4768,
             "AdministeredCountChange": 176,
             "AdministeredCountRollAvg": 166.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 87,
             "Population": 29955,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 4800,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 166.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 29955,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 4842,
             "AdministeredCountChange": 42,
             "AdministeredCountRollAvg": 169.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 29955,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 5133,
             "AdministeredCountChange": 291,
             "AdministeredCountRollAvg": 185.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 248,
             "Population": 29955,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 5173,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 167.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 29955,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 5303,
             "AdministeredCountChange": 130,
             "AdministeredCountRollAvg": 160.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 92,
             "Population": 29955,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 5671,
             "AdministeredCountChange": 368,
             "AdministeredCountRollAvg": 154.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 29955,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 5814,
             "AdministeredCountChange": 143,
             "AdministeredCountRollAvg": 149.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 29955,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 5815,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 145.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 29955,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 5890,
             "AdministeredCountChange": 75,
             "AdministeredCountRollAvg": 150.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 29955,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 5985,
             "AdministeredCountChange": 95,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 29955,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 6216,
             "AdministeredCountChange": 231,
             "AdministeredCountRollAvg": 149.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 29955,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 6358,
             "AdministeredCountChange": 142,
             "AdministeredCountRollAvg": 151.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 128,
             "Population": 29955,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 6836,
             "AdministeredCountChange": 478,
             "AdministeredCountRollAvg": 166.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 219,
             "Population": 29955,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 6967,
             "AdministeredCountChange": 131,
             "AdministeredCountRollAvg": 165.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 86,
             "Population": 29955,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 7078,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 180.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 29955,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 7132,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 177.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 29955,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 7455,
             "AdministeredCountChange": 323,
             "AdministeredCountRollAvg": 210.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 263,
             "Population": 29955,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 7737,
             "AdministeredCountChange": 282,
             "AdministeredCountRollAvg": 217.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 29955,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 8036,
             "AdministeredCountChange": 299,
             "AdministeredCountRollAvg": 240.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 226,
             "Population": 29955,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 8148,
             "AdministeredCountChange": 112,
             "AdministeredCountRollAvg": 187.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 29955,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 8324,
             "AdministeredCountChange": 176,
             "AdministeredCountRollAvg": 194.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 118,
             "Population": 29955,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 8412,
             "AdministeredCountChange": 88,
             "AdministeredCountRollAvg": 191.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 54,
             "Population": 29955,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 8503,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 196.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 73,
             "Population": 29955,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 8732,
             "AdministeredCountChange": 229,
             "AdministeredCountRollAvg": 182.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 68,
             "Population": 29955,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 9048,
             "AdministeredCountChange": 316,
             "AdministeredCountRollAvg": 187.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 237,
             "Population": 29955,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 9368,
             "AdministeredCountChange": 320,
             "AdministeredCountRollAvg": 190.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 279,
             "Population": 29955,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 9571,
             "AdministeredCountChange": 203,
             "AdministeredCountRollAvg": 203.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 181,
             "Population": 29955,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 9850,
             "AdministeredCountChange": 279,
             "AdministeredCountRollAvg": 218.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 219,
             "Population": 29955,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 9904,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 213.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 29955,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 9951,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 207.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 29955,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 10226,
             "AdministeredCountChange": 275,
             "AdministeredCountRollAvg": 213.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 213,
             "Population": 29955,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 10554,
             "AdministeredCountChange": 328,
             "AdministeredCountRollAvg": 215.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 29955,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 10803,
             "AdministeredCountChange": 249,
             "AdministeredCountRollAvg": 205.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 206,
             "Population": 29955,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 11023,
             "AdministeredCountChange": 220,
             "AdministeredCountRollAvg": 207.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 29955,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 11167,
             "AdministeredCountChange": 144,
             "AdministeredCountRollAvg": 188.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 85,
             "Population": 29955,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 11262,
             "AdministeredCountChange": 95,
             "AdministeredCountRollAvg": 194.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 29955,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 11307,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 194.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 29955,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 11509,
             "AdministeredCountChange": 202,
             "AdministeredCountRollAvg": 183.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 29955,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 11754,
             "AdministeredCountChange": 245,
             "AdministeredCountRollAvg": 171.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 29955,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 12022,
             "AdministeredCountChange": 268,
             "AdministeredCountRollAvg": 174.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 205,
             "Population": 29955,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 12298,
             "AdministeredCountChange": 276,
             "AdministeredCountRollAvg": 182.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 29955,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 12429,
             "AdministeredCountChange": 131,
             "AdministeredCountRollAvg": 180.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 75,
             "Population": 29955,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 12511,
             "AdministeredCountChange": 82,
             "AdministeredCountRollAvg": 178.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 54,
             "Population": 29955,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 12578,
             "AdministeredCountChange": 67,
             "AdministeredCountRollAvg": 182.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 29955,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 12874,
             "AdministeredCountChange": 296,
             "AdministeredCountRollAvg": 195.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 222,
             "Population": 29955,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 13062,
             "AdministeredCountChange": 188,
             "AdministeredCountRollAvg": 187.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 54,
             "Population": 29955,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 13337,
             "AdministeredCountChange": 275,
             "AdministeredCountRollAvg": 188.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 212,
             "Population": 29955,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 13561,
             "AdministeredCountChange": 224,
             "AdministeredCountRollAvg": 180.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 29955,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 13675,
             "AdministeredCountChange": 114,
             "AdministeredCountRollAvg": 178.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 68,
             "Population": 29955,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 13751,
             "AdministeredCountChange": 76,
             "AdministeredCountRollAvg": 177.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 29955,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 13782,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 172.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 29955,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 13988,
             "AdministeredCountChange": 206,
             "AdministeredCountRollAvg": 159.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 162,
             "Population": 29955,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 14218,
             "AdministeredCountChange": 230,
             "AdministeredCountRollAvg": 165.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 127,
             "Population": 29955,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 14369,
             "AdministeredCountChange": 151,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 54,
             "Population": 29955,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 14501,
             "AdministeredCountChange": 132,
             "AdministeredCountRollAvg": 134.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 29955,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 14609,
             "AdministeredCountChange": 108,
             "AdministeredCountRollAvg": 133.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 29955,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 15050,
             "AdministeredCountChange": 441,
             "AdministeredCountRollAvg": 186.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 404,
             "Population": 29955,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 15074,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 185.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2122,16 +2122,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 29955,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 15339,
             "AdministeredCountChange": 265,
             "AdministeredCountRollAvg": 193.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2140,16 +2140,16 @@
             "PersonsFullyVaccinatedChange": 235,
             "Population": 29955,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 15441,
             "AdministeredCountChange": 102,
             "AdministeredCountRollAvg": 175.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2158,16 +2158,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 29955,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 15669,
             "AdministeredCountChange": 228,
             "AdministeredCountRollAvg": 186.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2176,16 +2176,16 @@
             "PersonsFullyVaccinatedChange": 107,
             "Population": 29955,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 15827,
             "AdministeredCountChange": 158,
             "AdministeredCountRollAvg": 189.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2194,16 +2194,16 @@
             "PersonsFullyVaccinatedChange": 44,
             "Population": 29955,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 15931,
             "AdministeredCountChange": 104,
             "AdministeredCountRollAvg": 189.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2212,16 +2212,16 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 29955,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 16125,
             "AdministeredCountChange": 194,
             "AdministeredCountRollAvg": 154.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2230,16 +2230,16 @@
             "PersonsFullyVaccinatedChange": 52,
             "Population": 29955,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 16146,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 153.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2248,16 +2248,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 29955,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 16327,
             "AdministeredCountChange": 181,
             "AdministeredCountRollAvg": 141.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2266,16 +2266,16 @@
             "PersonsFullyVaccinatedChange": 148,
             "Population": 29955,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 16534,
             "AdministeredCountChange": 207,
             "AdministeredCountRollAvg": 156.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2284,16 +2284,16 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 29955,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 16747,
             "AdministeredCountChange": 213,
             "AdministeredCountRollAvg": 154.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2302,16 +2302,16 @@
             "PersonsFullyVaccinatedChange": 189,
             "Population": 29955,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 16972,
             "AdministeredCountChange": 225,
             "AdministeredCountRollAvg": 164.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2320,16 +2320,16 @@
             "PersonsFullyVaccinatedChange": 196,
             "Population": 29955,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17073,
             "AdministeredCountChange": 101,
             "AdministeredCountRollAvg": 163.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2338,16 +2338,16 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 29955,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17115,
             "AdministeredCountChange": 42,
             "AdministeredCountRollAvg": 141.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2356,16 +2356,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 29955,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17148,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 143.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2374,16 +2374,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 29955,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17286,
             "AdministeredCountChange": 138,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2392,16 +2392,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 29955,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17393,
             "AdministeredCountChange": 107,
             "AdministeredCountRollAvg": 123.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2410,16 +2410,16 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 29955,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17485,
             "AdministeredCountChange": 92,
             "AdministeredCountRollAvg": 105.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2428,16 +2428,16 @@
             "PersonsFullyVaccinatedChange": 73,
             "Population": 29955,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17768,
             "AdministeredCountChange": 283,
             "AdministeredCountRollAvg": 114.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2446,16 +2446,16 @@
             "PersonsFullyVaccinatedChange": 202,
             "Population": 29955,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17861,
             "AdministeredCountChange": 93,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2464,16 +2464,16 @@
             "PersonsFullyVaccinatedChange": 79,
             "Population": 29955,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17876,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 109.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2482,16 +2482,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 29955,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17889,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 106.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2500,16 +2500,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 29955,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 17949,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 95.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2518,16 +2518,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 29955,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 18074,
             "AdministeredCountChange": 125,
             "AdministeredCountRollAvg": 97.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2536,16 +2536,16 @@
             "PersonsFullyVaccinatedChange": 111,
             "Population": 29955,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 18181,
             "AdministeredCountChange": 107,
             "AdministeredCountRollAvg": 99.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2554,16 +2554,16 @@
             "PersonsFullyVaccinatedChange": 78,
             "Population": 29955,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 18283,
             "AdministeredCountChange": 102,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2572,16 +2572,16 @@
             "PersonsFullyVaccinatedChange": 74,
             "Population": 29955,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 18452,
             "AdministeredCountChange": 169,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2590,16 +2590,16 @@
             "PersonsFullyVaccinatedChange": 151,
             "Population": 29955,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 18496,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2608,16 +2608,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 29955,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 18526,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2626,16 +2626,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 29955,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 18681,
             "AdministeredCountChange": 155,
             "AdministeredCountRollAvg": 105.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2644,16 +2644,16 @@
             "PersonsFullyVaccinatedChange": 122,
             "Population": 29955,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 18892,
             "AdministeredCountChange": 211,
             "AdministeredCountRollAvg": 117.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2662,16 +2662,16 @@
             "PersonsFullyVaccinatedChange": 167,
             "Population": 29955,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 19038,
             "AdministeredCountChange": 146,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2680,16 +2680,16 @@
             "PersonsFullyVaccinatedChange": 98,
             "Population": 29955,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 19066,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 112.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2698,16 +2698,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 29955,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 19120,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 95.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2716,16 +2716,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 29955,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 19135,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2734,16 +2734,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 29955,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 19170,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 92.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2752,16 +2752,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 29955,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
         },
         {
             "AdministeredCount": 19244,
             "AdministeredCountChange": 74,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 410,
-            "CommunityReportedInventory": 786,
+            "CommunityReportedInventory": 785,
             "CountyName": "McDonough",
-            "InventoryReportDate": "2021-05-17T00:00:00",
+            "InventoryReportDate": "2021-05-18T00:00:00",
             "LHDReportedInventory": 5865,
             "Latitude": 40.3885,
             "Longitude": -90.6773,
@@ -2770,11 +2770,29 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 29955,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 6651
+            "TotalReportedInventory": 6650
+        },
+        {
+            "AdministeredCount": 19326,
+            "AdministeredCountChange": 82,
+            "AdministeredCountRollAvg": 62.0,
+            "AllocatedDoses": 410,
+            "CommunityReportedInventory": 785,
+            "CountyName": "McDonough",
+            "InventoryReportDate": "2021-05-18T00:00:00",
+            "LHDReportedInventory": 5865,
+            "Latitude": 40.3885,
+            "Longitude": -90.6773,
+            "PctVaccinatedPopulation": 0.32445334668669673,
+            "PersonsFullyVaccinated": 9719,
+            "PersonsFullyVaccinatedChange": 48,
+            "Population": 29955,
+            "Report_Date": "2021-05-18T00:00:00",
+            "TotalReportedInventory": 6650
         }
     ],
     "lastUpdatedDate": {
-        "day": 17,
+        "day": 18,
         "month": 5,
         "year": 2021
     }

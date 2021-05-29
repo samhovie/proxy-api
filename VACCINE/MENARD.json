@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9441,
+        "AdministeredCount": 9471,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 27.0,
+        "AdministeredCountRollAvg": 28.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Menard",
-        "InventoryReportDate": "2021-05-26T00:00:00",
+        "InventoryReportDate": "2021-05-27T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 40.0221,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.3793131510416667,
-        "PersonsFullyVaccinated": 4661,
-        "PersonsFullyVaccinatedChange": 4661,
+        "PctVaccinatedPopulation": 0.381103515625,
+        "PersonsFullyVaccinated": 4683,
+        "PersonsFullyVaccinatedChange": 4683,
         "Population": 12288,
-        "Report_Date": "2021-05-26T00:00:00",
+        "Report_Date": "2021-05-27T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -2933,10 +2933,28 @@
             "Population": 12288,
             "Report_Date": "2021-05-26T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 9471,
+            "AdministeredCountChange": 30,
+            "AdministeredCountRollAvg": 28.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Menard",
+            "InventoryReportDate": "2021-05-27T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.0221,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.381103515625,
+            "PersonsFullyVaccinated": 4683,
+            "PersonsFullyVaccinatedChange": 22,
+            "Population": 12288,
+            "Report_Date": "2021-05-27T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 27,
         "month": 5,
         "year": 2021
     }

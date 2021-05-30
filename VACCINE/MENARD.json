@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9471,
+        "AdministeredCount": 9502,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 28.0,
+        "AdministeredCountRollAvg": 26.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Menard",
-        "InventoryReportDate": "2021-05-27T00:00:00",
+        "InventoryReportDate": "2021-05-28T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 40.0221,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.381103515625,
-        "PersonsFullyVaccinated": 4683,
-        "PersonsFullyVaccinatedChange": 4683,
+        "PctVaccinatedPopulation": 0.3824869791666667,
+        "PersonsFullyVaccinated": 4700,
+        "PersonsFullyVaccinatedChange": 4700,
         "Population": 12288,
-        "Report_Date": "2021-05-27T00:00:00",
+        "Report_Date": "2021-05-28T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -2951,10 +2951,28 @@
             "Population": 12288,
             "Report_Date": "2021-05-27T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 9502,
+            "AdministeredCountChange": 31,
+            "AdministeredCountRollAvg": 26.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Menard",
+            "InventoryReportDate": "2021-05-28T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.0221,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.3824869791666667,
+            "PersonsFullyVaccinated": 4700,
+            "PersonsFullyVaccinatedChange": 17,
+            "Population": 12288,
+            "Report_Date": "2021-05-28T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 27,
+        "day": 28,
         "month": 5,
         "year": 2021
     }

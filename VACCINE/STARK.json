@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 3960,
+        "AdministeredCount": 3967,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 15.0,
+        "AdministeredCountRollAvg": 12.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2021-05-28T00:00:00",
+        "InventoryReportDate": "2021-05-29T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.35710337202874515,
-        "PersonsFullyVaccinated": 1938,
-        "PersonsFullyVaccinatedChange": 1938,
+        "PctVaccinatedPopulation": 0.35747189976045696,
+        "PersonsFullyVaccinated": 1940,
+        "PersonsFullyVaccinatedChange": 1940,
         "Population": 5427,
-        "Report_Date": "2021-05-28T00:00:00",
+        "Report_Date": "2021-05-29T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -2969,10 +2969,28 @@
             "Population": 5427,
             "Report_Date": "2021-05-28T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 3967,
+            "AdministeredCountChange": 7,
+            "AdministeredCountRollAvg": 12.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.35747189976045696,
+            "PersonsFullyVaccinated": 1940,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 5427,
+            "Report_Date": "2021-05-29T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 28,
+        "day": 29,
         "month": 5,
         "year": 2021
     }

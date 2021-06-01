@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 18738,
+        "AdministeredCount": 18762,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 52.0,
         "AllocatedDoses": 0,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1851,
         "Latitude": 40.0613,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.33452031114952463,
-        "PersonsFullyVaccinated": 9676,
-        "PersonsFullyVaccinatedChange": 9676,
+        "PctVaccinatedPopulation": 0.3347968885047537,
+        "PersonsFullyVaccinated": 9684,
+        "PersonsFullyVaccinatedChange": 9684,
         "Population": 28925,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 2441
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 28925,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 2441
+        },
+        {
+            "AdministeredCount": 18762,
+            "AdministeredCountChange": 24,
+            "AdministeredCountRollAvg": 52.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 590,
+            "CountyName": "Logan",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1851,
+            "Latitude": 40.0613,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.3347968885047537,
+            "PersonsFullyVaccinated": 9684,
+            "PersonsFullyVaccinatedChange": 8,
+            "Population": 28925,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 2441
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

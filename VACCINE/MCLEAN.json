@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 147847,
+        "AdministeredCount": 148085,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 594.0,
+        "AdministeredCountRollAvg": 592.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 1609,
         "CountyName": "McLean",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 6097,
         "Latitude": 40.5478,
         "Longitude": -88.8647,
-        "PctVaccinatedPopulation": 0.40498646052722936,
-        "PersonsFullyVaccinated": 69993,
-        "PersonsFullyVaccinatedChange": 69993,
+        "PctVaccinatedPopulation": 0.40550142338047074,
+        "PersonsFullyVaccinated": 70082,
+        "PersonsFullyVaccinatedChange": 70082,
         "Population": 172828,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 7706
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 172828,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 7706
+        },
+        {
+            "AdministeredCount": 148085,
+            "AdministeredCountChange": 238,
+            "AdministeredCountRollAvg": 592.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 1609,
+            "CountyName": "McLean",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 6097,
+            "Latitude": 40.5478,
+            "Longitude": -88.8647,
+            "PctVaccinatedPopulation": 0.40550142338047074,
+            "PersonsFullyVaccinated": 70082,
+            "PersonsFullyVaccinatedChange": 89,
+            "Population": 172828,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 7706
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

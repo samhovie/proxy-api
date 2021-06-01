@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 2933,
+        "AdministeredCount": 2934,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 5.0,
         "AllocatedDoses": 0,
@@ -14,7 +14,7 @@
         "PersonsFullyVaccinated": 1463,
         "PersonsFullyVaccinatedChange": 1463,
         "Population": 4802,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 85
     },
     "VaccineAdministration": [
@@ -2969,10 +2969,28 @@
             "Population": 4802,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 85
+        },
+        {
+            "AdministeredCount": 2934,
+            "AdministeredCountChange": 1,
+            "AdministeredCountRollAvg": 5.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Calhoun",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 85,
+            "Latitude": 39.1733,
+            "Longitude": -90.6583,
+            "PctVaccinatedPopulation": 0.30466472303207,
+            "PersonsFullyVaccinated": 1463,
+            "PersonsFullyVaccinatedChange": 0,
+            "Population": 4802,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 85
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

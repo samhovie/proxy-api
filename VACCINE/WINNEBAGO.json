@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 215411,
+        "AdministeredCount": 215652,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 792.0,
+        "AdministeredCountRollAvg": 740.0,
         "AllocatedDoses": 4680,
         "CommunityReportedInventory": 8985,
         "CountyName": "Winnebago",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 12288,
         "Latitude": 42.3121,
         "Longitude": -89.1706,
-        "PctVaccinatedPopulation": 0.36343859673825424,
-        "PersonsFullyVaccinated": 103246,
-        "PersonsFullyVaccinatedChange": 103246,
+        "PctVaccinatedPopulation": 0.3637659681569693,
+        "PersonsFullyVaccinated": 103339,
+        "PersonsFullyVaccinatedChange": 103339,
         "Population": 284081,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 21273
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 284081,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 21273
+        },
+        {
+            "AdministeredCount": 215652,
+            "AdministeredCountChange": 241,
+            "AdministeredCountRollAvg": 740.0,
+            "AllocatedDoses": 4680,
+            "CommunityReportedInventory": 8985,
+            "CountyName": "Winnebago",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 12288,
+            "Latitude": 42.3121,
+            "Longitude": -89.1706,
+            "PctVaccinatedPopulation": 0.3637659681569693,
+            "PersonsFullyVaccinated": 103339,
+            "PersonsFullyVaccinatedChange": 93,
+            "Population": 284081,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 21273
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

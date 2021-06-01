@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 16999,
+        "AdministeredCount": 17017,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 49.0,
         "AllocatedDoses": 400,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 240,
         "Latitude": 40.774,
         "Longitude": -87.6976,
-        "PctVaccinatedPopulation": 0.30600637588755253,
-        "PersonsFullyVaccinated": 8447,
-        "PersonsFullyVaccinatedChange": 8447,
+        "PctVaccinatedPopulation": 0.30640486885958557,
+        "PersonsFullyVaccinated": 8458,
+        "PersonsFullyVaccinatedChange": 8458,
         "Population": 27604,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 1530
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 27604,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 1530
+        },
+        {
+            "AdministeredCount": 17017,
+            "AdministeredCountChange": 18,
+            "AdministeredCountRollAvg": 49.0,
+            "AllocatedDoses": 400,
+            "CommunityReportedInventory": 1290,
+            "CountyName": "Iroquois",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 240,
+            "Latitude": 40.774,
+            "Longitude": -87.6976,
+            "PctVaccinatedPopulation": 0.30640486885958557,
+            "PersonsFullyVaccinated": 8458,
+            "PersonsFullyVaccinatedChange": 11,
+            "Population": 27604,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 1530
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 24756,
+        "AdministeredCount": 24780,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 86.0,
         "AllocatedDoses": 520,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 248,
         "Latitude": 41.3599,
         "Longitude": -89.4742,
-        "PctVaccinatedPopulation": 0.3490437365501773,
-        "PersonsFullyVaccinated": 11516,
-        "PersonsFullyVaccinatedChange": 11516,
+        "PctVaccinatedPopulation": 0.3494074500651653,
+        "PersonsFullyVaccinated": 11528,
+        "PersonsFullyVaccinatedChange": 11528,
         "Population": 32993,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 298
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 32993,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 298
+        },
+        {
+            "AdministeredCount": 24780,
+            "AdministeredCountChange": 24,
+            "AdministeredCountRollAvg": 86.0,
+            "AllocatedDoses": 520,
+            "CommunityReportedInventory": 50,
+            "CountyName": "Bureau",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 248,
+            "Latitude": 41.3599,
+            "Longitude": -89.4742,
+            "PctVaccinatedPopulation": 0.3494074500651653,
+            "PersonsFullyVaccinated": 11528,
+            "PersonsFullyVaccinatedChange": 12,
+            "Population": 32993,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 298
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

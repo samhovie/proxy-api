@@ -14,7 +14,7 @@
         "PersonsFullyVaccinated": 2407,
         "PersonsFullyVaccinatedChange": 2407,
         "Population": 6907,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 520
     },
     "VaccineAdministration": [
@@ -2969,10 +2969,28 @@
             "Population": 6907,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 520
+        },
+        {
+            "AdministeredCount": 4838,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 11.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 70,
+            "CountyName": "Schuyler",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 450,
+            "Latitude": 40.1845,
+            "Longitude": -90.6394,
+            "PctVaccinatedPopulation": 0.34848704213117127,
+            "PersonsFullyVaccinated": 2407,
+            "PersonsFullyVaccinatedChange": 0,
+            "Population": 6907,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 520
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 79823,
+        "AdministeredCount": 79972,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 443.0,
+        "AdministeredCountRollAvg": 436.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 460,
         "CountyName": "DeKalb",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 4595,
         "Latitude": 41.833,
         "Longitude": -88.7109,
-        "PctVaccinatedPopulation": 0.34959622826306136,
-        "PersonsFullyVaccinated": 36408,
-        "PersonsFullyVaccinatedChange": 36408,
+        "PctVaccinatedPopulation": 0.35043161806362405,
+        "PersonsFullyVaccinated": 36495,
+        "PersonsFullyVaccinatedChange": 36495,
         "Population": 104143,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 5055
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 104143,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 5055
+        },
+        {
+            "AdministeredCount": 79972,
+            "AdministeredCountChange": 149,
+            "AdministeredCountRollAvg": 436.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 460,
+            "CountyName": "DeKalb",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 4595,
+            "Latitude": 41.833,
+            "Longitude": -88.7109,
+            "PctVaccinatedPopulation": 0.35043161806362405,
+            "PersonsFullyVaccinated": 36495,
+            "PersonsFullyVaccinatedChange": 87,
+            "Population": 104143,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 5055
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

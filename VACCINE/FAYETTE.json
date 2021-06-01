@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 8702,
+        "AdministeredCount": 8707,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 28.0,
         "AllocatedDoses": 340,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 610,
         "Latitude": 39.067,
         "Longitude": -89.0179,
-        "PctVaccinatedPopulation": 0.2072282405677998,
-        "PersonsFullyVaccinated": 4438,
-        "PersonsFullyVaccinatedChange": 4438,
+        "PctVaccinatedPopulation": 0.2074150168098618,
+        "PersonsFullyVaccinated": 4442,
+        "PersonsFullyVaccinatedChange": 4442,
         "Population": 21416,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 660
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 21416,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 660
+        },
+        {
+            "AdministeredCount": 8707,
+            "AdministeredCountChange": 5,
+            "AdministeredCountRollAvg": 28.0,
+            "AllocatedDoses": 340,
+            "CommunityReportedInventory": 50,
+            "CountyName": "Fayette",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 610,
+            "Latitude": 39.067,
+            "Longitude": -89.0179,
+            "PctVaccinatedPopulation": 0.2074150168098618,
+            "PersonsFullyVaccinated": 4442,
+            "PersonsFullyVaccinatedChange": 4,
+            "Population": 21416,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 660
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

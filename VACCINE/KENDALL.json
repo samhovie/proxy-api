@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 115546,
+        "AdministeredCount": 115832,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 611.0,
+        "AdministeredCountRollAvg": 576.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 288,
         "CountyName": "Kendall",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 3148,
         "Latitude": 41.5507,
         "Longitude": -88.4404,
-        "PctVaccinatedPopulation": 0.4080522221787906,
-        "PersonsFullyVaccinated": 52196,
-        "PersonsFullyVaccinatedChange": 52196,
+        "PctVaccinatedPopulation": 0.409209240511277,
+        "PersonsFullyVaccinated": 52344,
+        "PersonsFullyVaccinatedChange": 52344,
         "Population": 127915,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 3436
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 127915,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 3436
+        },
+        {
+            "AdministeredCount": 115832,
+            "AdministeredCountChange": 286,
+            "AdministeredCountRollAvg": 576.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 288,
+            "CountyName": "Kendall",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 3148,
+            "Latitude": 41.5507,
+            "Longitude": -88.4404,
+            "PctVaccinatedPopulation": 0.409209240511277,
+            "PersonsFullyVaccinated": 52344,
+            "PersonsFullyVaccinatedChange": 148,
+            "Population": 127915,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 3436
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

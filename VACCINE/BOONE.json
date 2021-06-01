@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 41220,
+        "AdministeredCount": 41283,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 180.0,
+        "AdministeredCountRollAvg": 176.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 1850,
         "CountyName": "Boone",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1742,
         "Latitude": 42.3485,
         "Longitude": -88.8263,
-        "PctVaccinatedPopulation": 0.3581947477462344,
-        "PersonsFullyVaccinated": 19191,
-        "PersonsFullyVaccinatedChange": 19191,
+        "PctVaccinatedPopulation": 0.35873602478675554,
+        "PersonsFullyVaccinated": 19220,
+        "PersonsFullyVaccinatedChange": 19220,
         "Population": 53577,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 3592
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 53577,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 3592
+        },
+        {
+            "AdministeredCount": 41283,
+            "AdministeredCountChange": 63,
+            "AdministeredCountRollAvg": 176.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 1850,
+            "CountyName": "Boone",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1742,
+            "Latitude": 42.3485,
+            "Longitude": -88.8263,
+            "PctVaccinatedPopulation": 0.35873602478675554,
+            "PersonsFullyVaccinated": 19220,
+            "PersonsFullyVaccinatedChange": 29,
+            "Population": 53577,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 3592
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

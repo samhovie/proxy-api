@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 38894,
+        "AdministeredCount": 38933,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 125.0,
+        "AdministeredCountRollAvg": 122.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 405,
         "CountyName": "Henry",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 4901,
         "Latitude": 41.3611,
         "Longitude": -90.0747,
-        "PctVaccinatedPopulation": 0.3825422693012834,
-        "PersonsFullyVaccinated": 18779,
-        "PersonsFullyVaccinatedChange": 18779,
+        "PctVaccinatedPopulation": 0.38292931350580567,
+        "PersonsFullyVaccinated": 18798,
+        "PersonsFullyVaccinatedChange": 18798,
         "Population": 49090,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 5306
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 49090,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 5306
+        },
+        {
+            "AdministeredCount": 38933,
+            "AdministeredCountChange": 39,
+            "AdministeredCountRollAvg": 122.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 405,
+            "CountyName": "Henry",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 4901,
+            "Latitude": 41.3611,
+            "Longitude": -90.0747,
+            "PctVaccinatedPopulation": 0.38292931350580567,
+            "PersonsFullyVaccinated": 18798,
+            "PersonsFullyVaccinatedChange": 19,
+            "Population": 49090,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 5306
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

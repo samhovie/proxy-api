@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 268251,
+        "AdministeredCount": 268871,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 1430.0,
+        "AdministeredCountRollAvg": 1311.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 1956,
         "CountyName": "McHenry",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 11493,
         "Latitude": 42.304,
         "Longitude": -88.4016,
-        "PctVaccinatedPopulation": 0.39910231065884566,
-        "PersonsFullyVaccinated": 123151,
-        "PersonsFullyVaccinatedChange": 123151,
+        "PctVaccinatedPopulation": 0.4001879638331659,
+        "PersonsFullyVaccinated": 123486,
+        "PersonsFullyVaccinatedChange": 123486,
         "Population": 308570,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 13449
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 308570,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 13449
+        },
+        {
+            "AdministeredCount": 268871,
+            "AdministeredCountChange": 620,
+            "AdministeredCountRollAvg": 1311.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 1956,
+            "CountyName": "McHenry",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 11493,
+            "Latitude": 42.304,
+            "Longitude": -88.4016,
+            "PctVaccinatedPopulation": 0.4001879638331659,
+            "PersonsFullyVaccinated": 123486,
+            "PersonsFullyVaccinatedChange": 335,
+            "Population": 308570,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 13449
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

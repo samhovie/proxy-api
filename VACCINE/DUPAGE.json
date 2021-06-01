@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 972247,
+        "AdministeredCount": 974621,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 4956.0,
+        "AdministeredCountRollAvg": 4744.0,
         "AllocatedDoses": 13650,
         "CommunityReportedInventory": 82757,
         "CountyName": "DuPage",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 6791,
         "Latitude": 41.8244,
         "Longitude": -88.0901,
-        "PctVaccinatedPopulation": 0.4890355151740975,
-        "PersonsFullyVaccinated": 454113,
-        "PersonsFullyVaccinatedChange": 454113,
+        "PctVaccinatedPopulation": 0.49030949106655364,
+        "PersonsFullyVaccinated": 455296,
+        "PersonsFullyVaccinatedChange": 455296,
         "Population": 928589,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 89548
     },
     "VaccineAdministration": [
@@ -3041,10 +3041,28 @@
             "Population": 928589,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 89548
+        },
+        {
+            "AdministeredCount": 974621,
+            "AdministeredCountChange": 2374,
+            "AdministeredCountRollAvg": 4744.0,
+            "AllocatedDoses": 13650,
+            "CommunityReportedInventory": 82757,
+            "CountyName": "DuPage",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 6791,
+            "Latitude": 41.8244,
+            "Longitude": -88.0901,
+            "PctVaccinatedPopulation": 0.49030949106655364,
+            "PersonsFullyVaccinated": 455296,
+            "PersonsFullyVaccinatedChange": 1183,
+            "Population": 928589,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 89548
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

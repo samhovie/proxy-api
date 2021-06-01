@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 29237,
+        "AdministeredCount": 29260,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 62.0,
+        "AdministeredCountRollAvg": 50.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Monroe",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 806,
         "Latitude": 38.2743,
         "Longitude": -90.187,
-        "PctVaccinatedPopulation": 0.417853502257172,
-        "PersonsFullyVaccinated": 14347,
-        "PersonsFullyVaccinatedChange": 14347,
+        "PctVaccinatedPopulation": 0.418202999854376,
+        "PersonsFullyVaccinated": 14359,
+        "PersonsFullyVaccinatedChange": 14359,
         "Population": 34335,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 806
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 34335,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 806
+        },
+        {
+            "AdministeredCount": 29260,
+            "AdministeredCountChange": 23,
+            "AdministeredCountRollAvg": 50.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Monroe",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 806,
+            "Latitude": 38.2743,
+            "Longitude": -90.187,
+            "PctVaccinatedPopulation": 0.418202999854376,
+            "PersonsFullyVaccinated": 14359,
+            "PersonsFullyVaccinatedChange": 12,
+            "Population": 34335,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 806
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

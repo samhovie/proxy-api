@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 12153,
+        "AdministeredCount": 12157,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 21.0,
         "AllocatedDoses": 0,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 355,
         "Latitude": 41.1985,
         "Longitude": -90.6773,
-        "PctVaccinatedPopulation": 0.3802961348631498,
-        "PersonsFullyVaccinated": 5933,
-        "PersonsFullyVaccinatedChange": 5933,
+        "PctVaccinatedPopulation": 0.38042433177360424,
+        "PersonsFullyVaccinated": 5935,
+        "PersonsFullyVaccinatedChange": 5935,
         "Population": 15601,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 555
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 15601,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 555
+        },
+        {
+            "AdministeredCount": 12157,
+            "AdministeredCountChange": 4,
+            "AdministeredCountRollAvg": 21.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 200,
+            "CountyName": "Mercer",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 355,
+            "Latitude": 41.1985,
+            "Longitude": -90.6773,
+            "PctVaccinatedPopulation": 0.38042433177360424,
+            "PersonsFullyVaccinated": 5935,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 15601,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 555
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

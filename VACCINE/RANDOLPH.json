@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 19271,
+        "AdministeredCount": 19293,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 55.0,
+        "AdministeredCountRollAvg": 56.0,
         "AllocatedDoses": 660,
         "CommunityReportedInventory": 107,
         "CountyName": "Randolph",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 756,
         "Latitude": 38.0629,
         "Longitude": -89.7755,
-        "PctVaccinatedPopulation": 0.2975767769264312,
-        "PersonsFullyVaccinated": 9554,
-        "PersonsFullyVaccinatedChange": 9554,
+        "PctVaccinatedPopulation": 0.29785709836167695,
+        "PersonsFullyVaccinated": 9563,
+        "PersonsFullyVaccinatedChange": 9563,
         "Population": 32106,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 863
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 32106,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 863
+        },
+        {
+            "AdministeredCount": 19293,
+            "AdministeredCountChange": 22,
+            "AdministeredCountRollAvg": 56.0,
+            "AllocatedDoses": 660,
+            "CommunityReportedInventory": 107,
+            "CountyName": "Randolph",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 756,
+            "Latitude": 38.0629,
+            "Longitude": -89.7755,
+            "PctVaccinatedPopulation": 0.29785709836167695,
+            "PersonsFullyVaccinated": 9563,
+            "PersonsFullyVaccinatedChange": 9,
+            "Population": 32106,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 863
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

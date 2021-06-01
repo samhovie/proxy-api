@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9104,
+        "AdministeredCount": 9112,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 14.0,
         "AllocatedDoses": 130,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1635,
         "Latitude": 42.0386,
         "Longitude": -89.9627,
-        "PctVaccinatedPopulation": 0.33147009502515373,
-        "PersonsFullyVaccinated": 4744,
-        "PersonsFullyVaccinatedChange": 4744,
+        "PctVaccinatedPopulation": 0.33167970933482394,
+        "PersonsFullyVaccinated": 4747,
+        "PersonsFullyVaccinatedChange": 4747,
         "Population": 14312,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 1668
     },
     "VaccineAdministration": [
@@ -2969,10 +2969,28 @@
             "Population": 14312,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 1668
+        },
+        {
+            "AdministeredCount": 9112,
+            "AdministeredCountChange": 8,
+            "AdministeredCountRollAvg": 14.0,
+            "AllocatedDoses": 130,
+            "CommunityReportedInventory": 33,
+            "CountyName": "Carroll",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1635,
+            "Latitude": 42.0386,
+            "Longitude": -89.9627,
+            "PctVaccinatedPopulation": 0.33167970933482394,
+            "PersonsFullyVaccinated": 4747,
+            "PersonsFullyVaccinatedChange": 3,
+            "Population": 14312,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 1668
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

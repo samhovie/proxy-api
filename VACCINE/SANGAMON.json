@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 176481,
+        "AdministeredCount": 176603,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 501.0,
+        "AdministeredCountRollAvg": 470.0,
         "AllocatedDoses": 1410,
         "CommunityReportedInventory": 15014,
         "CountyName": "Sangamon",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 5073,
         "Latitude": 39.7337,
         "Longitude": -89.6252,
-        "PctVaccinatedPopulation": 0.43604234494338306,
-        "PersonsFullyVaccinated": 85180,
-        "PersonsFullyVaccinatedChange": 85180,
+        "PctVaccinatedPopulation": 0.4362778221430473,
+        "PersonsFullyVaccinated": 85226,
+        "PersonsFullyVaccinatedChange": 85226,
         "Population": 195348,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 20087
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 195348,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 20087
+        },
+        {
+            "AdministeredCount": 176603,
+            "AdministeredCountChange": 122,
+            "AdministeredCountRollAvg": 470.0,
+            "AllocatedDoses": 1410,
+            "CommunityReportedInventory": 15014,
+            "CountyName": "Sangamon",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 5073,
+            "Latitude": 39.7337,
+            "Longitude": -89.6252,
+            "PctVaccinatedPopulation": 0.4362778221430473,
+            "PersonsFullyVaccinated": 85226,
+            "PersonsFullyVaccinatedChange": 46,
+            "Population": 195348,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 20087
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

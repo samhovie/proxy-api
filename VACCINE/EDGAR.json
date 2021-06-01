@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9491,
+        "AdministeredCount": 9503,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 33.0,
+        "AdministeredCountRollAvg": 34.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 830,
         "CountyName": "Edgar",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 0,
         "Latitude": 39.7131,
         "Longitude": -87.7763,
-        "PctVaccinatedPopulation": 0.27442396313364054,
-        "PersonsFullyVaccinated": 4764,
-        "PersonsFullyVaccinatedChange": 4764,
+        "PctVaccinatedPopulation": 0.27453917050691246,
+        "PersonsFullyVaccinated": 4766,
+        "PersonsFullyVaccinatedChange": 4766,
         "Population": 17360,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 830
     },
     "VaccineAdministration": [
@@ -2969,10 +2969,28 @@
             "Population": 17360,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 830
+        },
+        {
+            "AdministeredCount": 9503,
+            "AdministeredCountChange": 12,
+            "AdministeredCountRollAvg": 34.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 830,
+            "CountyName": "Edgar",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.7131,
+            "Longitude": -87.7763,
+            "PctVaccinatedPopulation": 0.27453917050691246,
+            "PersonsFullyVaccinated": 4766,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 17360,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 830
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

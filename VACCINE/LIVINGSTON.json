@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 23155,
+        "AdministeredCount": 23177,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 63.0,
+        "AdministeredCountRollAvg": 62.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 200,
         "CountyName": "Livingston",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 539,
         "Latitude": 40.8689,
         "Longitude": -88.5565,
-        "PctVaccinatedPopulation": 0.31039400464192834,
-        "PersonsFullyVaccinated": 11100,
-        "PersonsFullyVaccinatedChange": 11100,
+        "PctVaccinatedPopulation": 0.310785492575711,
+        "PersonsFullyVaccinated": 11114,
+        "PersonsFullyVaccinatedChange": 11114,
         "Population": 35761,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 739
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 35761,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 739
+        },
+        {
+            "AdministeredCount": 23177,
+            "AdministeredCountChange": 22,
+            "AdministeredCountRollAvg": 62.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 200,
+            "CountyName": "Livingston",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 539,
+            "Latitude": 40.8689,
+            "Longitude": -88.5565,
+            "PctVaccinatedPopulation": 0.310785492575711,
+            "PersonsFullyVaccinated": 11114,
+            "PersonsFullyVaccinatedChange": 14,
+            "Population": 35761,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 739
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 101862,
+        "AdministeredCount": 101985,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 352.0,
+        "AdministeredCountRollAvg": 341.0,
         "AllocatedDoses": 1025,
         "CommunityReportedInventory": 3638,
         "CountyName": "Rock Island",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 9308,
         "Latitude": 41.5095,
         "Longitude": -90.5787,
-        "PctVaccinatedPopulation": 0.3250764930964545,
-        "PersonsFullyVaccinated": 46641,
-        "PersonsFullyVaccinatedChange": 46641,
+        "PctVaccinatedPopulation": 0.3254319507656279,
+        "PersonsFullyVaccinated": 46692,
+        "PersonsFullyVaccinatedChange": 46692,
         "Population": 143477,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 12946
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 143477,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 12946
+        },
+        {
+            "AdministeredCount": 101985,
+            "AdministeredCountChange": 123,
+            "AdministeredCountRollAvg": 341.0,
+            "AllocatedDoses": 1025,
+            "CommunityReportedInventory": 3638,
+            "CountyName": "Rock Island",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 9308,
+            "Latitude": 41.5095,
+            "Longitude": -90.5787,
+            "PctVaccinatedPopulation": 0.3254319507656279,
+            "PersonsFullyVaccinated": 46692,
+            "PersonsFullyVaccinatedChange": 51,
+            "Population": 143477,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 12946
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

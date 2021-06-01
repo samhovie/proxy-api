@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 200969,
+        "AdministeredCount": 201208,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 659.0,
+        "AdministeredCountRollAvg": 638.0,
         "AllocatedDoses": 2925,
         "CommunityReportedInventory": 3637,
         "CountyName": "Madison",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 6900,
         "Latitude": 38.9041,
         "Longitude": -89.9253,
-        "PctVaccinatedPopulation": 0.3715065737481141,
-        "PersonsFullyVaccinated": 98249,
-        "PersonsFullyVaccinatedChange": 98249,
+        "PctVaccinatedPopulation": 0.3718052945424845,
+        "PersonsFullyVaccinated": 98328,
+        "PersonsFullyVaccinatedChange": 98328,
         "Population": 264461,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 10537
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 264461,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 10537
+        },
+        {
+            "AdministeredCount": 201208,
+            "AdministeredCountChange": 239,
+            "AdministeredCountRollAvg": 638.0,
+            "AllocatedDoses": 2925,
+            "CommunityReportedInventory": 3637,
+            "CountyName": "Madison",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 6900,
+            "Latitude": 38.9041,
+            "Longitude": -89.9253,
+            "PctVaccinatedPopulation": 0.3718052945424845,
+            "PersonsFullyVaccinated": 98328,
+            "PersonsFullyVaccinatedChange": 79,
+            "Population": 264461,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 10537
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 602163,
+        "AdministeredCount": 603549,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 3231.0,
+        "AdministeredCountRollAvg": 3095.0,
         "AllocatedDoses": 4960,
         "CommunityReportedInventory": 4783,
         "CountyName": "Will",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 15112,
         "Latitude": 41.5055,
         "Longitude": -88.0901,
-        "PctVaccinatedPopulation": 0.3951221273706865,
-        "PersonsFullyVaccinated": 273547,
-        "PersonsFullyVaccinatedChange": 273547,
+        "PctVaccinatedPopulation": 0.39601045774291865,
+        "PersonsFullyVaccinated": 274162,
+        "PersonsFullyVaccinatedChange": 274162,
         "Population": 692310,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 19895
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 692310,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 19895
+        },
+        {
+            "AdministeredCount": 603549,
+            "AdministeredCountChange": 1386,
+            "AdministeredCountRollAvg": 3095.0,
+            "AllocatedDoses": 4960,
+            "CommunityReportedInventory": 4783,
+            "CountyName": "Will",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 15112,
+            "Latitude": 41.5055,
+            "Longitude": -88.0901,
+            "PctVaccinatedPopulation": 0.39601045774291865,
+            "PersonsFullyVaccinated": 274162,
+            "PersonsFullyVaccinatedChange": 615,
+            "Population": 692310,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 19895
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

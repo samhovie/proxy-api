@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 16130,
+        "AdministeredCount": 16153,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 45.0,
         "AllocatedDoses": 250,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 381,
         "Latitude": 39.0705,
         "Longitude": -90.3748,
-        "PctVaccinatedPopulation": 0.36215498695473064,
-        "PersonsFullyVaccinated": 7912,
-        "PersonsFullyVaccinatedChange": 7912,
+        "PctVaccinatedPopulation": 0.3628415800796448,
+        "PersonsFullyVaccinated": 7927,
+        "PersonsFullyVaccinatedChange": 7927,
         "Population": 21847,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 381
     },
     "VaccineAdministration": [
@@ -2969,10 +2969,28 @@
             "Population": 21847,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 381
+        },
+        {
+            "AdministeredCount": 16153,
+            "AdministeredCountChange": 23,
+            "AdministeredCountRollAvg": 45.0,
+            "AllocatedDoses": 250,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Jersey",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 381,
+            "Latitude": 39.0705,
+            "Longitude": -90.3748,
+            "PctVaccinatedPopulation": 0.3628415800796448,
+            "PersonsFullyVaccinated": 7927,
+            "PersonsFullyVaccinatedChange": 15,
+            "Population": 21847,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 381
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

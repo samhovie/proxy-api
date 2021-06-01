@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 2887,
+        "AdministeredCount": 2889,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 8.0,
         "AllocatedDoses": 0,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 0,
         "Latitude": 37.7108,
         "Longitude": -88.2461,
-        "PctVaccinatedPopulation": 0.29062870699881377,
-        "PersonsFullyVaccinated": 1470,
-        "PersonsFullyVaccinatedChange": 1470,
+        "PctVaccinatedPopulation": 0.29102412020561486,
+        "PersonsFullyVaccinated": 1472,
+        "PersonsFullyVaccinatedChange": 1472,
         "Population": 5058,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 10
     },
     "VaccineAdministration": [
@@ -2969,10 +2969,28 @@
             "Population": 5058,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 10
+        },
+        {
+            "AdministeredCount": 2889,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 8.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 10,
+            "CountyName": "Gallatin",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 37.7108,
+            "Longitude": -88.2461,
+            "PctVaccinatedPopulation": 0.29102412020561486,
+            "PersonsFullyVaccinated": 1472,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 5058,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 10
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

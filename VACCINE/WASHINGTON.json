@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 10054,
+        "AdministeredCount": 10064,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 28.0,
         "AllocatedDoses": 0,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1031,
         "Latitude": 38.3989,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.369989281886388,
-        "PersonsFullyVaccinated": 5178,
-        "PersonsFullyVaccinatedChange": 5178,
+        "PctVaccinatedPopulation": 0.3703465523401215,
+        "PersonsFullyVaccinated": 5183,
+        "PersonsFullyVaccinatedChange": 5183,
         "Population": 13995,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 1131
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 13995,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 1131
+        },
+        {
+            "AdministeredCount": 10064,
+            "AdministeredCountChange": 10,
+            "AdministeredCountRollAvg": 28.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 100,
+            "CountyName": "Washington",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1031,
+            "Latitude": 38.3989,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.3703465523401215,
+            "PersonsFullyVaccinated": 5183,
+            "PersonsFullyVaccinatedChange": 5,
+            "Population": 13995,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 1131
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

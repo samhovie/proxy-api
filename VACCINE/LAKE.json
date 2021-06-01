@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 611975,
+        "AdministeredCount": 613562,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 3975.0,
+        "AdministeredCountRollAvg": 3687.0,
         "AllocatedDoses": 11925,
         "CommunityReportedInventory": 13517,
         "CountyName": "Lake",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 24345,
         "Latitude": 42.3689,
         "Longitude": -87.8272,
-        "PctVaccinatedPopulation": 0.4011161020044747,
-        "PersonsFullyVaccinated": 281115,
-        "PersonsFullyVaccinatedChange": 281115,
+        "PctVaccinatedPopulation": 0.4021705629879914,
+        "PersonsFullyVaccinated": 281854,
+        "PersonsFullyVaccinatedChange": 281854,
         "Population": 700832,
-        "Report_Date": "2021-05-29T00:00:00",
+        "Report_Date": "2021-05-30T00:00:00",
         "TotalReportedInventory": 37862
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 700832,
             "Report_Date": "2021-05-29T00:00:00",
             "TotalReportedInventory": 37862
+        },
+        {
+            "AdministeredCount": 613562,
+            "AdministeredCountChange": 1587,
+            "AdministeredCountRollAvg": 3687.0,
+            "AllocatedDoses": 11925,
+            "CommunityReportedInventory": 13517,
+            "CountyName": "Lake",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 24345,
+            "Latitude": 42.3689,
+            "Longitude": -87.8272,
+            "PctVaccinatedPopulation": 0.4021705629879914,
+            "PersonsFullyVaccinated": 281854,
+            "PersonsFullyVaccinatedChange": 739,
+            "Population": 700832,
+            "Report_Date": "2021-05-30T00:00:00",
+            "TotalReportedInventory": 37862
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 5,
         "year": 2021
     }

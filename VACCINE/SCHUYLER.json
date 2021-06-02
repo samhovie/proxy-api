@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 4838,
+        "AdministeredCount": 4840,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 11.0,
+        "AdministeredCountRollAvg": 10.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 70,
         "CountyName": "Schuyler",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 450,
         "Latitude": 40.1845,
         "Longitude": -90.6394,
-        "PctVaccinatedPopulation": 0.34848704213117127,
-        "PersonsFullyVaccinated": 2407,
-        "PersonsFullyVaccinatedChange": 2407,
+        "PctVaccinatedPopulation": 0.34877660344577965,
+        "PersonsFullyVaccinated": 2409,
+        "PersonsFullyVaccinatedChange": 2409,
         "Population": 6907,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 520
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 6907,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 520
+        },
+        {
+            "AdministeredCount": 4840,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 10.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 70,
+            "CountyName": "Schuyler",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 450,
+            "Latitude": 40.1845,
+            "Longitude": -90.6394,
+            "PctVaccinatedPopulation": 0.34877660344577965,
+            "PersonsFullyVaccinated": 2409,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 6907,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 520
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9903,
+        "AdministeredCount": 9905,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 13.0,
+        "AdministeredCountRollAvg": 11.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 472,
         "CountyName": "Hancock",
@@ -14,7 +14,7 @@
         "PersonsFullyVaccinated": 5062,
         "PersonsFullyVaccinatedChange": 5062,
         "Population": 17844,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 572
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 17844,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 572
+        },
+        {
+            "AdministeredCount": 9905,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 11.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 472,
+            "CountyName": "Hancock",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 100,
+            "Latitude": 40.3849,
+            "Longitude": -91.1353,
+            "PctVaccinatedPopulation": 0.28368078906074873,
+            "PersonsFullyVaccinated": 5062,
+            "PersonsFullyVaccinatedChange": 0,
+            "Population": 17844,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 572
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

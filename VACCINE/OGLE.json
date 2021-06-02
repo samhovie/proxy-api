@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 38170,
+        "AdministeredCount": 38212,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 141.0,
+        "AdministeredCountRollAvg": 133.0,
         "AllocatedDoses": 710,
         "CommunityReportedInventory": 1230,
         "CountyName": "Ogle",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1215,
         "Latitude": 41.997,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.36121202600003927,
-        "PersonsFullyVaccinated": 18394,
-        "PersonsFullyVaccinatedChange": 18394,
+        "PctVaccinatedPopulation": 0.36174223828132673,
+        "PersonsFullyVaccinated": 18421,
+        "PersonsFullyVaccinatedChange": 18421,
         "Population": 50923,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 2445
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 50923,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 2445
+        },
+        {
+            "AdministeredCount": 38212,
+            "AdministeredCountChange": 42,
+            "AdministeredCountRollAvg": 133.0,
+            "AllocatedDoses": 710,
+            "CommunityReportedInventory": 1230,
+            "CountyName": "Ogle",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1215,
+            "Latitude": 41.997,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.36174223828132673,
+            "PersonsFullyVaccinated": 18421,
+            "PersonsFullyVaccinatedChange": 27,
+            "Population": 50923,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 2445
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

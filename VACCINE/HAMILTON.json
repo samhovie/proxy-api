@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 3470,
+        "AdministeredCount": 3472,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 7.0,
+        "AdministeredCountRollAvg": 6.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 390,
         "CountyName": "Hamilton",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 50,
         "Latitude": 38.0543,
         "Longitude": -88.5565,
-        "PctVaccinatedPopulation": 0.21977214259463432,
-        "PersonsFullyVaccinated": 1794,
-        "PersonsFullyVaccinatedChange": 1794,
+        "PctVaccinatedPopulation": 0.2198946465760137,
+        "PersonsFullyVaccinated": 1795,
+        "PersonsFullyVaccinatedChange": 1795,
         "Population": 8163,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 440
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 8163,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 440
+        },
+        {
+            "AdministeredCount": 3472,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 6.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 390,
+            "CountyName": "Hamilton",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 50,
+            "Latitude": 38.0543,
+            "Longitude": -88.5565,
+            "PctVaccinatedPopulation": 0.2198946465760137,
+            "PersonsFullyVaccinated": 1795,
+            "PersonsFullyVaccinatedChange": 1,
+            "Population": 8163,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 440
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

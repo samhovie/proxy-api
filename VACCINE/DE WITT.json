@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 10404,
+        "AdministeredCount": 10416,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 39.0,
+        "AdministeredCountRollAvg": 38.0,
         "AllocatedDoses": 100,
         "CommunityReportedInventory": 0,
         "CountyName": "De Witt",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 3690,
         "Latitude": 40.181,
         "Longitude": -88.9031,
-        "PctVaccinatedPopulation": 0.3237998604857632,
-        "PersonsFullyVaccinated": 5106,
-        "PersonsFullyVaccinatedChange": 5106,
+        "PctVaccinatedPopulation": 0.3239266916101211,
+        "PersonsFullyVaccinated": 5108,
+        "PersonsFullyVaccinatedChange": 5108,
         "Population": 15769,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 3690
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 15769,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 3690
+        },
+        {
+            "AdministeredCount": 10416,
+            "AdministeredCountChange": 12,
+            "AdministeredCountRollAvg": 38.0,
+            "AllocatedDoses": 100,
+            "CommunityReportedInventory": 0,
+            "CountyName": "De Witt",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 3690,
+            "Latitude": 40.181,
+            "Longitude": -88.9031,
+            "PctVaccinatedPopulation": 0.3239266916101211,
+            "PersonsFullyVaccinated": 5108,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 15769,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 3690
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

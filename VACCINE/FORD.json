@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9869,
+        "AdministeredCount": 9871,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 30.0,
+        "AdministeredCountRollAvg": 28.0,
         "AllocatedDoses": 210,
         "CommunityReportedInventory": 4478,
         "CountyName": "Ford",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 225,
         "Latitude": 40.4989,
         "Longitude": -88.2072,
-        "PctVaccinatedPopulation": 0.3444662243667069,
-        "PersonsFullyVaccinated": 4569,
-        "PersonsFullyVaccinatedChange": 4569,
+        "PctVaccinatedPopulation": 0.3445416164053076,
+        "PersonsFullyVaccinated": 4570,
+        "PersonsFullyVaccinatedChange": 4570,
         "Population": 13264,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 4703
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 13264,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 4703
+        },
+        {
+            "AdministeredCount": 9871,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 28.0,
+            "AllocatedDoses": 210,
+            "CommunityReportedInventory": 4478,
+            "CountyName": "Ford",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 225,
+            "Latitude": 40.4989,
+            "Longitude": -88.2072,
+            "PctVaccinatedPopulation": 0.3445416164053076,
+            "PersonsFullyVaccinated": 4570,
+            "PersonsFullyVaccinatedChange": 1,
+            "Population": 13264,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 4703
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

@@ -14,7 +14,7 @@
         "PersonsFullyVaccinated": 1548,
         "PersonsFullyVaccinatedChange": 1548,
         "Population": 6556,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 1443
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 6556,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 1443
+        },
+        {
+            "AdministeredCount": 3147,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 28.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Brown",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1443,
+            "Latitude": 39.938,
+            "Longitude": -90.7153,
+            "PctVaccinatedPopulation": 0.2361195851128737,
+            "PersonsFullyVaccinated": 1548,
+            "PersonsFullyVaccinatedChange": 0,
+            "Population": 6556,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 1443
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 12129,
+        "AdministeredCount": 12138,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 45.0,
+        "AdministeredCountRollAvg": 40.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Douglas",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 270,
         "Latitude": 39.7618,
         "Longitude": -88.2072,
-        "PctVaccinatedPopulation": 0.298731967760152,
-        "PersonsFullyVaccinated": 5819,
-        "PersonsFullyVaccinatedChange": 5819,
+        "PctVaccinatedPopulation": 0.29909132912367165,
+        "PersonsFullyVaccinated": 5826,
+        "PersonsFullyVaccinatedChange": 5826,
         "Population": 19479,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 270
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 19479,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 270
+        },
+        {
+            "AdministeredCount": 12138,
+            "AdministeredCountChange": 9,
+            "AdministeredCountRollAvg": 40.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Douglas",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 270,
+            "Latitude": 39.7618,
+            "Longitude": -88.2072,
+            "PctVaccinatedPopulation": 0.29909132912367165,
+            "PersonsFullyVaccinated": 5826,
+            "PersonsFullyVaccinatedChange": 7,
+            "Population": 19479,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 270
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

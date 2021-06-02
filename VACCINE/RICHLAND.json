@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9323,
+        "AdministeredCount": 9328,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 18.0,
+        "AdministeredCountRollAvg": 15.0,
         "AllocatedDoses": 310,
         "CommunityReportedInventory": 0,
         "CountyName": "Richland",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 797,
         "Latitude": 38.7213,
         "Longitude": -88.0901,
-        "PctVaccinatedPopulation": 0.29518492672714586,
-        "PersonsFullyVaccinated": 4653,
-        "PersonsFullyVaccinatedChange": 4653,
+        "PctVaccinatedPopulation": 0.29531180612827507,
+        "PersonsFullyVaccinated": 4655,
+        "PersonsFullyVaccinatedChange": 4655,
         "Population": 15763,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 797
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 15763,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 797
+        },
+        {
+            "AdministeredCount": 9328,
+            "AdministeredCountChange": 5,
+            "AdministeredCountRollAvg": 15.0,
+            "AllocatedDoses": 310,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Richland",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 797,
+            "Latitude": 38.7213,
+            "Longitude": -88.0901,
+            "PctVaccinatedPopulation": 0.29531180612827507,
+            "PersonsFullyVaccinated": 4655,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 15763,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 797
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 188400,
+        "AdministeredCount": 188543,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 626.0,
+        "AdministeredCountRollAvg": 550.0,
         "AllocatedDoses": 920,
         "CommunityReportedInventory": 2462,
         "CountyName": "Champaign",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 8020,
         "Latitude": 40.2139,
         "Longitude": -88.2461,
-        "PctVaccinatedPopulation": 0.4226532624069568,
-        "PersonsFullyVaccinated": 88750,
-        "PersonsFullyVaccinatedChange": 88750,
+        "PctVaccinatedPopulation": 0.42294852440435654,
+        "PersonsFullyVaccinated": 88812,
+        "PersonsFullyVaccinatedChange": 88812,
         "Population": 209983,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 10482
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 209983,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 10482
+        },
+        {
+            "AdministeredCount": 188543,
+            "AdministeredCountChange": 143,
+            "AdministeredCountRollAvg": 550.0,
+            "AllocatedDoses": 920,
+            "CommunityReportedInventory": 2462,
+            "CountyName": "Champaign",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 8020,
+            "Latitude": 40.2139,
+            "Longitude": -88.2461,
+            "PctVaccinatedPopulation": 0.42294852440435654,
+            "PersonsFullyVaccinated": 88812,
+            "PersonsFullyVaccinatedChange": 62,
+            "Population": 209983,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 10482
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

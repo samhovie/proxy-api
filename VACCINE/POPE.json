@@ -2,7 +2,7 @@
     "CurrentVaccineAdministration": {
         "AdministeredCount": 1777,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 5.0,
+        "AdministeredCountRollAvg": 4.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Pope",
@@ -14,7 +14,7 @@
         "PersonsFullyVaccinated": 875,
         "PersonsFullyVaccinatedChange": 875,
         "Population": 4212,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 4212,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 1777,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 4.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Pope",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 37.4171,
+            "Longitude": -88.5952,
+            "PctVaccinatedPopulation": 0.2077397910731244,
+            "PersonsFullyVaccinated": 875,
+            "PersonsFullyVaccinatedChange": 0,
+            "Population": 4212,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

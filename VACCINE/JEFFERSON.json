@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 20651,
+        "AdministeredCount": 20667,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 59.0,
+        "AdministeredCountRollAvg": 52.0,
         "AllocatedDoses": 750,
         "CommunityReportedInventory": 1115,
         "CountyName": "Jefferson",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 830,
         "Latitude": 38.2267,
         "Longitude": -88.8647,
-        "PctVaccinatedPopulation": 0.2631676361713379,
-        "PersonsFullyVaccinated": 9953,
-        "PersonsFullyVaccinatedChange": 9953,
+        "PctVaccinatedPopulation": 0.26337916446324694,
+        "PersonsFullyVaccinated": 9961,
+        "PersonsFullyVaccinatedChange": 9961,
         "Population": 37820,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 1945
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 37820,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 1945
+        },
+        {
+            "AdministeredCount": 20667,
+            "AdministeredCountChange": 16,
+            "AdministeredCountRollAvg": 52.0,
+            "AllocatedDoses": 750,
+            "CommunityReportedInventory": 1115,
+            "CountyName": "Jefferson",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 830,
+            "Latitude": 38.2267,
+            "Longitude": -88.8647,
+            "PctVaccinatedPopulation": 0.26337916446324694,
+            "PersonsFullyVaccinated": 9961,
+            "PersonsFullyVaccinatedChange": 8,
+            "Population": 37820,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 1945
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

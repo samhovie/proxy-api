@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 41309,
+        "AdministeredCount": 41358,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 152.0,
+        "AdministeredCountRollAvg": 148.0,
         "AllocatedDoses": 930,
         "CommunityReportedInventory": 856,
         "CountyName": "Whiteside",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1168,
         "Latitude": 41.7606,
         "Longitude": -89.8505,
-        "PctVaccinatedPopulation": 0.35983173336209684,
-        "PersonsFullyVaccinated": 20016,
-        "PersonsFullyVaccinatedChange": 20016,
+        "PctVaccinatedPopulation": 0.3603890267141265,
+        "PersonsFullyVaccinated": 20047,
+        "PersonsFullyVaccinatedChange": 20047,
         "Population": 55626,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 2024
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 55626,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 2024
+        },
+        {
+            "AdministeredCount": 41358,
+            "AdministeredCountChange": 49,
+            "AdministeredCountRollAvg": 148.0,
+            "AllocatedDoses": 930,
+            "CommunityReportedInventory": 856,
+            "CountyName": "Whiteside",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1168,
+            "Latitude": 41.7606,
+            "Longitude": -89.8505,
+            "PctVaccinatedPopulation": 0.3603890267141265,
+            "PersonsFullyVaccinated": 20047,
+            "PersonsFullyVaccinatedChange": 31,
+            "Population": 55626,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 2024
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 19352,
+        "AdministeredCount": 19362,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 65.0,
+        "AdministeredCountRollAvg": 53.0,
         "AllocatedDoses": 200,
         "CommunityReportedInventory": 1025,
         "CountyName": "Christian",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 0,
         "Latitude": 39.5672,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.2976332629129543,
-        "PersonsFullyVaccinated": 9721,
-        "PersonsFullyVaccinatedChange": 9721,
+        "PctVaccinatedPopulation": 0.29775573313738096,
+        "PersonsFullyVaccinated": 9725,
+        "PersonsFullyVaccinatedChange": 9725,
         "Population": 32661,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 1025
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 32661,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 1025
+        },
+        {
+            "AdministeredCount": 19362,
+            "AdministeredCountChange": 10,
+            "AdministeredCountRollAvg": 53.0,
+            "AllocatedDoses": 200,
+            "CommunityReportedInventory": 1025,
+            "CountyName": "Christian",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.5672,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.29775573313738096,
+            "PersonsFullyVaccinated": 9725,
+            "PersonsFullyVaccinatedChange": 4,
+            "Population": 32661,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 1025
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

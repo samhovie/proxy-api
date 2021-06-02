@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 38799,
+        "AdministeredCount": 38826,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 103.0,
+        "AdministeredCountRollAvg": 101.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 2400,
         "CountyName": "Vermilion",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 0,
         "Latitude": 40.1225,
         "Longitude": -87.6976,
-        "PctVaccinatedPopulation": 0.23203916360700988,
-        "PersonsFullyVaccinated": 17822,
-        "PersonsFullyVaccinatedChange": 17822,
+        "PctVaccinatedPopulation": 0.23219540140093223,
+        "PersonsFullyVaccinated": 17834,
+        "PersonsFullyVaccinatedChange": 17834,
         "Population": 76806,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 2400
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 76806,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 2400
+        },
+        {
+            "AdministeredCount": 38826,
+            "AdministeredCountChange": 27,
+            "AdministeredCountRollAvg": 101.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 2400,
+            "CountyName": "Vermilion",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.1225,
+            "Longitude": -87.6976,
+            "PctVaccinatedPopulation": 0.23219540140093223,
+            "PersonsFullyVaccinated": 17834,
+            "PersonsFullyVaccinatedChange": 12,
+            "Population": 76806,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 2400
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

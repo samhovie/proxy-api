@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 46166,
+        "AdministeredCount": 46194,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 86.0,
+        "AdministeredCountRollAvg": 85.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 340,
         "CountyName": "Adams",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 3878,
         "Latitude": 40.0578,
         "Longitude": -91.1353,
-        "PctVaccinatedPopulation": 0.37624636555997015,
-        "PersonsFullyVaccinated": 24716,
-        "PersonsFullyVaccinatedChange": 24716,
+        "PctVaccinatedPopulation": 0.37650515291288,
+        "PersonsFullyVaccinated": 24733,
+        "PersonsFullyVaccinatedChange": 24733,
         "Population": 65691,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 4218
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 65691,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 4218
+        },
+        {
+            "AdministeredCount": 46194,
+            "AdministeredCountChange": 28,
+            "AdministeredCountRollAvg": 85.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 340,
+            "CountyName": "Adams",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 3878,
+            "Latitude": 40.0578,
+            "Longitude": -91.1353,
+            "PctVaccinatedPopulation": 0.37650515291288,
+            "PersonsFullyVaccinated": 24733,
+            "PersonsFullyVaccinatedChange": 17,
+            "Population": 65691,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 4218
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

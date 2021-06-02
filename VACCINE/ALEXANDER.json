@@ -2,7 +2,7 @@
     "CurrentVaccineAdministration": {
         "AdministeredCount": 1575,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 5.0,
+        "AdministeredCountRollAvg": 4.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 50,
         "CountyName": "Alexander",
@@ -14,7 +14,7 @@
         "PersonsFullyVaccinated": 742,
         "PersonsFullyVaccinatedChange": 742,
         "Population": 6060,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 50
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 6060,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 50
+        },
+        {
+            "AdministeredCount": 1575,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 4.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 50,
+            "CountyName": "Alexander",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 37.167,
+            "Longitude": -89.3606,
+            "PctVaccinatedPopulation": 0.12244224422442244,
+            "PersonsFullyVaccinated": 742,
+            "PersonsFullyVaccinatedChange": 0,
+            "Population": 6060,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 50
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

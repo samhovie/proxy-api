@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 460343,
+        "AdministeredCount": 461083,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 2095.0,
+        "AdministeredCountRollAvg": 1965.0,
         "AllocatedDoses": 4795,
         "CommunityReportedInventory": 9563,
         "CountyName": "Kane",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 50126,
         "Latitude": 41.9879,
         "Longitude": -88.4016,
-        "PctVaccinatedPopulation": 0.3957388022822229,
-        "PersonsFullyVaccinated": 211410,
-        "PersonsFullyVaccinatedChange": 211410,
+        "PctVaccinatedPopulation": 0.3963902241789838,
+        "PersonsFullyVaccinated": 211758,
+        "PersonsFullyVaccinatedChange": 211758,
         "Population": 534216,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 59689
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 534216,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 59689
+        },
+        {
+            "AdministeredCount": 461083,
+            "AdministeredCountChange": 740,
+            "AdministeredCountRollAvg": 1965.0,
+            "AllocatedDoses": 4795,
+            "CommunityReportedInventory": 9563,
+            "CountyName": "Kane",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 50126,
+            "Latitude": 41.9879,
+            "Longitude": -88.4016,
+            "PctVaccinatedPopulation": 0.3963902241789838,
+            "PersonsFullyVaccinated": 211758,
+            "PersonsFullyVaccinatedChange": 348,
+            "Population": 534216,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 59689
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

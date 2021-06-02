@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 192743,
+        "AdministeredCount": 192955,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 682.0,
+        "AdministeredCountRollAvg": 599.0,
         "AllocatedDoses": 2925,
         "CommunityReportedInventory": 19329,
         "CountyName": "St. Clair",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 13957,
         "Latitude": 38.4008,
         "Longitude": -89.9253,
-        "PctVaccinatedPopulation": 0.3551572633006332,
-        "PersonsFullyVaccinated": 92717,
-        "PersonsFullyVaccinatedChange": 92717,
+        "PctVaccinatedPopulation": 0.3554943518514972,
+        "PersonsFullyVaccinated": 92805,
+        "PersonsFullyVaccinatedChange": 92805,
         "Population": 261059,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 33286
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 261059,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 33286
+        },
+        {
+            "AdministeredCount": 192955,
+            "AdministeredCountChange": 212,
+            "AdministeredCountRollAvg": 599.0,
+            "AllocatedDoses": 2925,
+            "CommunityReportedInventory": 19329,
+            "CountyName": "St. Clair",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 13957,
+            "Latitude": 38.4008,
+            "Longitude": -89.9253,
+            "PctVaccinatedPopulation": 0.3554943518514972,
+            "PersonsFullyVaccinated": 92805,
+            "PersonsFullyVaccinatedChange": 88,
+            "Population": 261059,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 33286
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

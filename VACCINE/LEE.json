@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 25269,
+        "AdministeredCount": 25285,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 84.0,
+        "AdministeredCountRollAvg": 80.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 1336,
         "CountyName": "Lee",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1114,
         "Latitude": 41.679,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.3655728603570698,
-        "PersonsFullyVaccinated": 12511,
-        "PersonsFullyVaccinatedChange": 12511,
+        "PctVaccinatedPopulation": 0.3658942816234696,
+        "PersonsFullyVaccinated": 12522,
+        "PersonsFullyVaccinatedChange": 12522,
         "Population": 34223,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 2450
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 34223,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 2450
+        },
+        {
+            "AdministeredCount": 25285,
+            "AdministeredCountChange": 16,
+            "AdministeredCountRollAvg": 80.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 1336,
+            "CountyName": "Lee",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1114,
+            "Latitude": 41.679,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.3658942816234696,
+            "PersonsFullyVaccinated": 12522,
+            "PersonsFullyVaccinatedChange": 11,
+            "Population": 34223,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 2450
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

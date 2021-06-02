@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 2512,
+        "AdministeredCount": 2513,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 5.0,
         "AllocatedDoses": 0,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 785,
         "Latitude": 40.8336,
         "Longitude": -90.9438,
-        "PctVaccinatedPopulation": 0.19406767029363542,
-        "PersonsFullyVaccinated": 1302,
-        "PersonsFullyVaccinatedChange": 1302,
+        "PctVaccinatedPopulation": 0.19421672380384558,
+        "PersonsFullyVaccinated": 1303,
+        "PersonsFullyVaccinatedChange": 1303,
         "Population": 6709,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 1432
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 6709,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 1432
+        },
+        {
+            "AdministeredCount": 2513,
+            "AdministeredCountChange": 1,
+            "AdministeredCountRollAvg": 5.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 647,
+            "CountyName": "Henderson",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 785,
+            "Latitude": 40.8336,
+            "Longitude": -90.9438,
+            "PctVaccinatedPopulation": 0.19421672380384558,
+            "PersonsFullyVaccinated": 1303,
+            "PersonsFullyVaccinatedChange": 1,
+            "Population": 6709,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 1432
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 11446,
+        "AdministeredCount": 11451,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 38.0,
+        "AdministeredCountRollAvg": 36.0,
         "AllocatedDoses": 240,
         "CommunityReportedInventory": 440,
         "CountyName": "Warren",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 992,
         "Latitude": 40.8759,
         "Longitude": -90.6773,
-        "PctVaccinatedPopulation": 0.3254462188821043,
-        "PersonsFullyVaccinated": 5543,
-        "PersonsFullyVaccinatedChange": 5543,
+        "PctVaccinatedPopulation": 0.32573978393612024,
+        "PersonsFullyVaccinated": 5548,
+        "PersonsFullyVaccinatedChange": 5548,
         "Population": 17032,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 1432
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 17032,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 1432
+        },
+        {
+            "AdministeredCount": 11451,
+            "AdministeredCountChange": 5,
+            "AdministeredCountRollAvg": 36.0,
+            "AllocatedDoses": 240,
+            "CommunityReportedInventory": 440,
+            "CountyName": "Warren",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 992,
+            "Latitude": 40.8759,
+            "Longitude": -90.6773,
+            "PctVaccinatedPopulation": 0.32573978393612024,
+            "PersonsFullyVaccinated": 5548,
+            "PersonsFullyVaccinatedChange": 5,
+            "Population": 17032,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 1432
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

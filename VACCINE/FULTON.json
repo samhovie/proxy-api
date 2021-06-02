@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 26157,
+        "AdministeredCount": 26176,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 66.0,
+        "AdministeredCountRollAvg": 60.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Fulton",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 947,
         "Latitude": 40.5532,
         "Longitude": -90.2245,
-        "PctVaccinatedPopulation": 0.3739524738835954,
-        "PersonsFullyVaccinated": 13030,
-        "PersonsFullyVaccinatedChange": 13030,
+        "PctVaccinatedPopulation": 0.37426816668579954,
+        "PersonsFullyVaccinated": 13041,
+        "PersonsFullyVaccinatedChange": 13041,
         "Population": 34844,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 947
     },
     "VaccineAdministration": [
@@ -3005,10 +3005,28 @@
             "Population": 34844,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 947
+        },
+        {
+            "AdministeredCount": 26176,
+            "AdministeredCountChange": 19,
+            "AdministeredCountRollAvg": 60.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Fulton",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 947,
+            "Latitude": 40.5532,
+            "Longitude": -90.2245,
+            "PctVaccinatedPopulation": 0.37426816668579954,
+            "PersonsFullyVaccinated": 13041,
+            "PersonsFullyVaccinatedChange": 11,
+            "Population": 34844,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 947
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

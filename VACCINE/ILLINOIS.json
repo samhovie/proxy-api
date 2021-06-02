@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 11291906,
+        "AdministeredCount": 11308983,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 50162.0,
+        "AdministeredCountRollAvg": 45545.0,
         "AllocatedDoses": 95490,
         "CommunityReportedInventory": 382509,
         "CountyName": "Illinois",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 342372,
         "Latitude": 39.839888,
         "Longitude": -89.510168,
-        "PctVaccinatedPopulation": 0.41357836227384176,
-        "PersonsFullyVaccinated": 5269435,
-        "PersonsFullyVaccinatedChange": 5269435,
+        "PctVaccinatedPopulation": 0.4142652742153726,
+        "PersonsFullyVaccinated": 5278187,
+        "PersonsFullyVaccinatedChange": 5278187,
         "Population": 12741080,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 724881
     },
     "VaccineAdministration": [
@@ -3023,10 +3023,28 @@
             "Population": 12741080,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 724881
+        },
+        {
+            "AdministeredCount": 11308983,
+            "AdministeredCountChange": 17077,
+            "AdministeredCountRollAvg": 45545.0,
+            "AllocatedDoses": 95490,
+            "CommunityReportedInventory": 382509,
+            "CountyName": "Illinois",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 342372,
+            "Latitude": 39.839888,
+            "Longitude": -89.510168,
+            "PctVaccinatedPopulation": 0.4142652742153726,
+            "PersonsFullyVaccinated": 5278187,
+            "PersonsFullyVaccinatedChange": 8752,
+            "Population": 12741080,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 724881
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 14688,
+        "AdministeredCount": 14692,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 24.0,
+        "AdministeredCountRollAvg": 21.0,
         "AllocatedDoses": 170,
         "CommunityReportedInventory": 0,
         "CountyName": "Jo Daviess",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 306,
         "Latitude": 42.3149,
         "Longitude": -90.2245,
-        "PctVaccinatedPopulation": 0.3602452494617617,
-        "PersonsFullyVaccinated": 7697,
-        "PersonsFullyVaccinatedChange": 7697,
+        "PctVaccinatedPopulation": 0.3603388561265562,
+        "PersonsFullyVaccinated": 7699,
+        "PersonsFullyVaccinatedChange": 7699,
         "Population": 21366,
-        "Report_Date": "2021-05-30T00:00:00",
+        "Report_Date": "2021-05-31T00:00:00",
         "TotalReportedInventory": 306
     },
     "VaccineAdministration": [
@@ -2987,10 +2987,28 @@
             "Population": 21366,
             "Report_Date": "2021-05-30T00:00:00",
             "TotalReportedInventory": 306
+        },
+        {
+            "AdministeredCount": 14692,
+            "AdministeredCountChange": 4,
+            "AdministeredCountRollAvg": 21.0,
+            "AllocatedDoses": 170,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Jo Daviess",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 306,
+            "Latitude": 42.3149,
+            "Longitude": -90.2245,
+            "PctVaccinatedPopulation": 0.3603388561265562,
+            "PersonsFullyVaccinated": 7699,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 21366,
+            "Report_Date": "2021-05-31T00:00:00",
+            "TotalReportedInventory": 306
         }
     ],
     "lastUpdatedDate": {
-        "day": 30,
+        "day": 31,
         "month": 5,
         "year": 2021
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 461083,
+        "AdministeredCount": 462095,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 1965.0,
+        "AdministeredCountRollAvg": 1781.0,
         "AllocatedDoses": 4795,
         "CommunityReportedInventory": 9563,
         "CountyName": "Kane",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 50126,
         "Latitude": 41.9879,
         "Longitude": -88.4016,
-        "PctVaccinatedPopulation": 0.3963902241789838,
-        "PersonsFullyVaccinated": 211758,
-        "PersonsFullyVaccinatedChange": 211758,
+        "PctVaccinatedPopulation": 0.39774173742456237,
+        "PersonsFullyVaccinated": 212480,
+        "PersonsFullyVaccinatedChange": 212480,
         "Population": 534216,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 59689
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 534216,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 59689
+        },
+        {
+            "AdministeredCount": 462095,
+            "AdministeredCountChange": 1012,
+            "AdministeredCountRollAvg": 1781.0,
+            "AllocatedDoses": 4795,
+            "CommunityReportedInventory": 9563,
+            "CountyName": "Kane",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 50126,
+            "Latitude": 41.9879,
+            "Longitude": -88.4016,
+            "PctVaccinatedPopulation": 0.39774173742456237,
+            "PersonsFullyVaccinated": 212480,
+            "PersonsFullyVaccinatedChange": 722,
+            "Population": 534216,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 59689
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 176716,
+        "AdministeredCount": 177127,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 414.0,
+        "AdministeredCountRollAvg": 394.0,
         "AllocatedDoses": 1410,
         "CommunityReportedInventory": 15014,
         "CountyName": "Sangamon",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 5073,
         "Latitude": 39.7337,
         "Longitude": -89.6252,
-        "PctVaccinatedPopulation": 0.43656960910784853,
-        "PersonsFullyVaccinated": 85283,
-        "PersonsFullyVaccinatedChange": 85283,
+        "PctVaccinatedPopulation": 0.43782378114953824,
+        "PersonsFullyVaccinated": 85528,
+        "PersonsFullyVaccinatedChange": 85528,
         "Population": 195348,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 20087
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 195348,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 20087
+        },
+        {
+            "AdministeredCount": 177127,
+            "AdministeredCountChange": 411,
+            "AdministeredCountRollAvg": 394.0,
+            "AllocatedDoses": 1410,
+            "CommunityReportedInventory": 15014,
+            "CountyName": "Sangamon",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 5073,
+            "Latitude": 39.7337,
+            "Longitude": -89.6252,
+            "PctVaccinatedPopulation": 0.43782378114953824,
+            "PersonsFullyVaccinated": 85528,
+            "PersonsFullyVaccinatedChange": 245,
+            "Population": 195348,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 20087
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

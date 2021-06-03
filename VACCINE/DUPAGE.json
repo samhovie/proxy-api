@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 976545,
+        "AdministeredCount": 978285,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 4307.0,
+        "AdministeredCountRollAvg": 3751.0,
         "AllocatedDoses": 13650,
         "CommunityReportedInventory": 82757,
         "CountyName": "DuPage",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 6791,
         "Latitude": 41.8244,
         "Longitude": -88.0901,
-        "PctVaccinatedPopulation": 0.49131208747896,
-        "PersonsFullyVaccinated": 456227,
-        "PersonsFullyVaccinatedChange": 456227,
+        "PctVaccinatedPopulation": 0.49243960460440517,
+        "PersonsFullyVaccinated": 457274,
+        "PersonsFullyVaccinatedChange": 457274,
         "Population": 928589,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 89548
     },
     "VaccineAdministration": [
@@ -3077,11 +3077,29 @@
             "Population": 928589,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 89548
+        },
+        {
+            "AdministeredCount": 978285,
+            "AdministeredCountChange": 1740,
+            "AdministeredCountRollAvg": 3751.0,
+            "AllocatedDoses": 13650,
+            "CommunityReportedInventory": 82757,
+            "CountyName": "DuPage",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 6791,
+            "Latitude": 41.8244,
+            "Longitude": -88.0901,
+            "PctVaccinatedPopulation": 0.49243960460440517,
+            "PersonsFullyVaccinated": 457274,
+            "PersonsFullyVaccinatedChange": 1047,
+            "Population": 928589,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 89548
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

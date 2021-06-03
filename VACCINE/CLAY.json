@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 6665,
+        "AdministeredCount": 6678,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 12.0,
+        "AdministeredCountRollAvg": 13.0,
         "AllocatedDoses": 280,
         "CommunityReportedInventory": 400,
         "CountyName": "Clay",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 662,
         "Latitude": 38.7279,
         "Longitude": -88.5565,
-        "PctVaccinatedPopulation": 0.2554138685580623,
-        "PersonsFullyVaccinated": 3385,
-        "PersonsFullyVaccinatedChange": 3385,
+        "PctVaccinatedPopulation": 0.25616841469855883,
+        "PersonsFullyVaccinated": 3395,
+        "PersonsFullyVaccinatedChange": 3395,
         "Population": 13253,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 1062
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 13253,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 1062
+        },
+        {
+            "AdministeredCount": 6678,
+            "AdministeredCountChange": 13,
+            "AdministeredCountRollAvg": 13.0,
+            "AllocatedDoses": 280,
+            "CommunityReportedInventory": 400,
+            "CountyName": "Clay",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 662,
+            "Latitude": 38.7279,
+            "Longitude": -88.5565,
+            "PctVaccinatedPopulation": 0.25616841469855883,
+            "PersonsFullyVaccinated": 3395,
+            "PersonsFullyVaccinatedChange": 10,
+            "Population": 13253,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 1062
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

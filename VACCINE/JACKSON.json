@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 39322,
+        "AdministeredCount": 39349,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 65.0,
+        "AdministeredCountRollAvg": 57.0,
         "AllocatedDoses": 230,
         "CommunityReportedInventory": 1759,
         "CountyName": "Jackson",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 3505,
         "Latitude": 37.7218,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.33948692941360875,
-        "PersonsFullyVaccinated": 19493,
-        "PersonsFullyVaccinatedChange": 19493,
+        "PctVaccinatedPopulation": 0.3397829986589805,
+        "PersonsFullyVaccinated": 19510,
+        "PersonsFullyVaccinatedChange": 19510,
         "Population": 57419,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 5264
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 57419,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 5264
+        },
+        {
+            "AdministeredCount": 39349,
+            "AdministeredCountChange": 27,
+            "AdministeredCountRollAvg": 57.0,
+            "AllocatedDoses": 230,
+            "CommunityReportedInventory": 1759,
+            "CountyName": "Jackson",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 3505,
+            "Latitude": 37.7218,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.3397829986589805,
+            "PersonsFullyVaccinated": 19510,
+            "PersonsFullyVaccinatedChange": 17,
+            "Population": 57419,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 5264
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

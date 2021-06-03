@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 10346,
+        "AdministeredCount": 10359,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 24.0,
+        "AdministeredCountRollAvg": 23.0,
         "AllocatedDoses": 100,
         "CommunityReportedInventory": 0,
         "CountyName": "Shelby",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 850,
         "Latitude": 39.3981,
         "Longitude": -88.8647,
-        "PctVaccinatedPopulation": 0.26617910859666066,
-        "PersonsFullyVaccinated": 5787,
-        "PersonsFullyVaccinatedChange": 5787,
+        "PctVaccinatedPopulation": 0.2663630927740214,
+        "PersonsFullyVaccinated": 5791,
+        "PersonsFullyVaccinatedChange": 5791,
         "Population": 21741,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 850
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 21741,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 850
+        },
+        {
+            "AdministeredCount": 10359,
+            "AdministeredCountChange": 13,
+            "AdministeredCountRollAvg": 23.0,
+            "AllocatedDoses": 100,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Shelby",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 850,
+            "Latitude": 39.3981,
+            "Longitude": -88.8647,
+            "PctVaccinatedPopulation": 0.2663630927740214,
+            "PersonsFullyVaccinated": 5791,
+            "PersonsFullyVaccinatedChange": 4,
+            "Population": 21741,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 850
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

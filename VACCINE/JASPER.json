@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 5651,
+        "AdministeredCount": 5663,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 9.0,
+        "AdministeredCountRollAvg": 10.0,
         "AllocatedDoses": 40,
         "CommunityReportedInventory": 0,
         "CountyName": "Jasper",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 470,
         "Latitude": 39.0555,
         "Longitude": -88.0901,
-        "PctVaccinatedPopulation": 0.2745812090313183,
-        "PersonsFullyVaccinated": 2639,
-        "PersonsFullyVaccinatedChange": 2639,
+        "PctVaccinatedPopulation": 0.27551763604203516,
+        "PersonsFullyVaccinated": 2648,
+        "PersonsFullyVaccinatedChange": 2648,
         "Population": 9611,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 470
     },
     "VaccineAdministration": [
@@ -3005,11 +3005,29 @@
             "Population": 9611,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 470
+        },
+        {
+            "AdministeredCount": 5663,
+            "AdministeredCountChange": 12,
+            "AdministeredCountRollAvg": 10.0,
+            "AllocatedDoses": 40,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Jasper",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 470,
+            "Latitude": 39.0555,
+            "Longitude": -88.0901,
+            "PctVaccinatedPopulation": 0.27551763604203516,
+            "PersonsFullyVaccinated": 2648,
+            "PersonsFullyVaccinatedChange": 9,
+            "Population": 9611,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 470
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

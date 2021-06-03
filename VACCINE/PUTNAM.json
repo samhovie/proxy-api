@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 4466,
+        "AdministeredCount": 4468,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 12.0,
+        "AdministeredCountRollAvg": 10.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 90,
         "CountyName": "Putnam",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 35,
         "Latitude": 41.2385,
         "Longitude": -89.2847,
-        "PctVaccinatedPopulation": 0.3710801393728223,
-        "PersonsFullyVaccinated": 2130,
-        "PersonsFullyVaccinatedChange": 2130,
+        "PctVaccinatedPopulation": 0.37125435540069684,
+        "PersonsFullyVaccinated": 2131,
+        "PersonsFullyVaccinatedChange": 2131,
         "Population": 5740,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 125
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 5740,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 125
+        },
+        {
+            "AdministeredCount": 4468,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 10.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 90,
+            "CountyName": "Putnam",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 35,
+            "Latitude": 41.2385,
+            "Longitude": -89.2847,
+            "PctVaccinatedPopulation": 0.37125435540069684,
+            "PersonsFullyVaccinated": 2131,
+            "PersonsFullyVaccinatedChange": 1,
+            "Population": 5740,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 125
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

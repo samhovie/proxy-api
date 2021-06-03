@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 1856,
+        "AdministeredCount": 1859,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 4.0,
         "AllocatedDoses": 0,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 0,
         "Latitude": 37.4995,
         "Longitude": -88.3628,
-        "PctVaccinatedPopulation": 0.2289002557544757,
-        "PersonsFullyVaccinated": 895,
-        "PersonsFullyVaccinatedChange": 895,
+        "PctVaccinatedPopulation": 0.22915601023017904,
+        "PersonsFullyVaccinated": 896,
+        "PersonsFullyVaccinatedChange": 896,
         "Population": 3910,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 270
     },
     "VaccineAdministration": [
@@ -3005,11 +3005,29 @@
             "Population": 3910,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 270
+        },
+        {
+            "AdministeredCount": 1859,
+            "AdministeredCountChange": 3,
+            "AdministeredCountRollAvg": 4.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 270,
+            "CountyName": "Hardin",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 37.4995,
+            "Longitude": -88.3628,
+            "PctVaccinatedPopulation": 0.22915601023017904,
+            "PersonsFullyVaccinated": 896,
+            "PersonsFullyVaccinatedChange": 1,
+            "Population": 3910,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 270
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

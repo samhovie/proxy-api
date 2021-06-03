@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 67500,
+        "AdministeredCount": 67826,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 294.0,
+        "AdministeredCountRollAvg": 254.0,
         "AllocatedDoses": 1570,
         "CommunityReportedInventory": 3036,
         "CountyName": "Kankakee",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 3274,
         "Latitude": 41.1791,
         "Longitude": -87.7763,
-        "PctVaccinatedPopulation": 0.3008525412637243,
-        "PersonsFullyVaccinated": 33101,
-        "PersonsFullyVaccinatedChange": 33101,
+        "PctVaccinatedPopulation": 0.30334290700210864,
+        "PersonsFullyVaccinated": 33375,
+        "PersonsFullyVaccinatedChange": 33375,
         "Population": 110024,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 6310
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 110024,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 6310
+        },
+        {
+            "AdministeredCount": 67826,
+            "AdministeredCountChange": 326,
+            "AdministeredCountRollAvg": 254.0,
+            "AllocatedDoses": 1570,
+            "CommunityReportedInventory": 3036,
+            "CountyName": "Kankakee",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 3274,
+            "Latitude": 41.1791,
+            "Longitude": -87.7763,
+            "PctVaccinatedPopulation": 0.30334290700210864,
+            "PersonsFullyVaccinated": 33375,
+            "PersonsFullyVaccinatedChange": 274,
+            "Population": 110024,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 6310
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

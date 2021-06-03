@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7001,
+        "AdministeredCount": 7002,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 15.0,
+        "AdministeredCountRollAvg": 9.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Lawrence",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 3604,
         "Latitude": 38.7158,
         "Longitude": -87.7763,
-        "PctVaccinatedPopulation": 0.228988265144307,
-        "PersonsFullyVaccinated": 3610,
-        "PersonsFullyVaccinatedChange": 3610,
+        "PctVaccinatedPopulation": 0.22905169679670156,
+        "PersonsFullyVaccinated": 3611,
+        "PersonsFullyVaccinatedChange": 3611,
         "Population": 15765,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 3604
     },
     "VaccineAdministration": [
@@ -3005,11 +3005,29 @@
             "Population": 15765,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 3604
+        },
+        {
+            "AdministeredCount": 7002,
+            "AdministeredCountChange": 1,
+            "AdministeredCountRollAvg": 9.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Lawrence",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 3604,
+            "Latitude": 38.7158,
+            "Longitude": -87.7763,
+            "PctVaccinatedPopulation": 0.22905169679670156,
+            "PersonsFullyVaccinated": 3611,
+            "PersonsFullyVaccinatedChange": 1,
+            "Population": 15765,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 3604
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

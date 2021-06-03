@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 30101,
+        "AdministeredCount": 30169,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 82.0,
+        "AdministeredCountRollAvg": 79.0,
         "AllocatedDoses": 950,
         "CommunityReportedInventory": 2139,
         "CountyName": "Coles",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 635,
         "Latitude": 39.556,
         "Longitude": -88.2461,
-        "PctVaccinatedPopulation": 0.2978677409845731,
-        "PersonsFullyVaccinated": 15157,
-        "PersonsFullyVaccinatedChange": 15157,
+        "PctVaccinatedPopulation": 0.2988110445121352,
+        "PersonsFullyVaccinated": 15205,
+        "PersonsFullyVaccinatedChange": 15205,
         "Population": 50885,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 2774
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 50885,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 2774
+        },
+        {
+            "AdministeredCount": 30169,
+            "AdministeredCountChange": 68,
+            "AdministeredCountRollAvg": 79.0,
+            "AllocatedDoses": 950,
+            "CommunityReportedInventory": 2139,
+            "CountyName": "Coles",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 635,
+            "Latitude": 39.556,
+            "Longitude": -88.2461,
+            "PctVaccinatedPopulation": 0.2988110445121352,
+            "PersonsFullyVaccinated": 15205,
+            "PersonsFullyVaccinatedChange": 48,
+            "Population": 50885,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 2774
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

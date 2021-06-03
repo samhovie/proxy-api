@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9031,
+        "AdministeredCount": 9048,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 36.0,
+        "AdministeredCountRollAvg": 37.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Clark",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1218,
         "Latitude": 39.3824,
         "Longitude": -87.7763,
-        "PctVaccinatedPopulation": 0.27898179020261604,
-        "PersonsFullyVaccinated": 4351,
-        "PersonsFullyVaccinatedChange": 4351,
+        "PctVaccinatedPopulation": 0.27975121826109256,
+        "PersonsFullyVaccinated": 4363,
+        "PersonsFullyVaccinatedChange": 4363,
         "Population": 15596,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 1218
     },
     "VaccineAdministration": [
@@ -2897,11 +2897,29 @@
             "Population": 15596,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 1218
+        },
+        {
+            "AdministeredCount": 9048,
+            "AdministeredCountChange": 17,
+            "AdministeredCountRollAvg": 37.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Clark",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1218,
+            "Latitude": 39.3824,
+            "Longitude": -87.7763,
+            "PctVaccinatedPopulation": 0.27975121826109256,
+            "PersonsFullyVaccinated": 4363,
+            "PersonsFullyVaccinatedChange": 12,
+            "Population": 15596,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 1218
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

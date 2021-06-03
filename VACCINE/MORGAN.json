@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 24921,
+        "AdministeredCount": 24962,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 55.0,
+        "AdministeredCountRollAvg": 56.0,
         "AllocatedDoses": 880,
         "CommunityReportedInventory": 0,
         "CountyName": "Morgan",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1380,
         "Latitude": 39.7341,
         "Longitude": -90.2245,
-        "PctVaccinatedPopulation": 0.3607252178008006,
-        "PersonsFullyVaccinated": 12256,
-        "PersonsFullyVaccinatedChange": 12256,
+        "PctVaccinatedPopulation": 0.361519896397457,
+        "PersonsFullyVaccinated": 12283,
+        "PersonsFullyVaccinatedChange": 12283,
         "Population": 33976,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 1380
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 33976,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 1380
+        },
+        {
+            "AdministeredCount": 24962,
+            "AdministeredCountChange": 41,
+            "AdministeredCountRollAvg": 56.0,
+            "AllocatedDoses": 880,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Morgan",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1380,
+            "Latitude": 39.7341,
+            "Longitude": -90.2245,
+            "PctVaccinatedPopulation": 0.361519896397457,
+            "PersonsFullyVaccinated": 12283,
+            "PersonsFullyVaccinatedChange": 27,
+            "Population": 33976,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 1380
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

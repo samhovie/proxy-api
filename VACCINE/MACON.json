@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 70079,
+        "AdministeredCount": 70197,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 224.0,
+        "AdministeredCountRollAvg": 197.0,
         "AllocatedDoses": 1970,
         "CommunityReportedInventory": 2670,
         "CountyName": "Macon",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 2887,
         "Latitude": 39.8949,
         "Longitude": -89.0179,
-        "PctVaccinatedPopulation": 0.32961838184735276,
-        "PersonsFullyVaccinated": 34515,
-        "PersonsFullyVaccinatedChange": 34515,
+        "PctVaccinatedPopulation": 0.33041103216441287,
+        "PersonsFullyVaccinated": 34598,
+        "PersonsFullyVaccinatedChange": 34598,
         "Population": 104712,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 5557
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 104712,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 5557
+        },
+        {
+            "AdministeredCount": 70197,
+            "AdministeredCountChange": 118,
+            "AdministeredCountRollAvg": 197.0,
+            "AllocatedDoses": 1970,
+            "CommunityReportedInventory": 2670,
+            "CountyName": "Macon",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 2887,
+            "Latitude": 39.8949,
+            "Longitude": -89.0179,
+            "PctVaccinatedPopulation": 0.33041103216441287,
+            "PersonsFullyVaccinated": 34598,
+            "PersonsFullyVaccinatedChange": 83,
+            "Population": 104712,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 5557
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

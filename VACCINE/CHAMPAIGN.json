@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 188543,
+        "AdministeredCount": 189394,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 550.0,
+        "AdministeredCountRollAvg": 538.0,
         "AllocatedDoses": 920,
         "CommunityReportedInventory": 2462,
         "CountyName": "Champaign",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 8020,
         "Latitude": 40.2139,
         "Longitude": -88.2461,
-        "PctVaccinatedPopulation": 0.42294852440435654,
-        "PersonsFullyVaccinated": 88812,
-        "PersonsFullyVaccinatedChange": 88812,
+        "PctVaccinatedPopulation": 0.4250772681598034,
+        "PersonsFullyVaccinated": 89259,
+        "PersonsFullyVaccinatedChange": 89259,
         "Population": 209983,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 10482
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 209983,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 10482
+        },
+        {
+            "AdministeredCount": 189394,
+            "AdministeredCountChange": 851,
+            "AdministeredCountRollAvg": 538.0,
+            "AllocatedDoses": 920,
+            "CommunityReportedInventory": 2462,
+            "CountyName": "Champaign",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 8020,
+            "Latitude": 40.2139,
+            "Longitude": -88.2461,
+            "PctVaccinatedPopulation": 0.4250772681598034,
+            "PersonsFullyVaccinated": 89259,
+            "PersonsFullyVaccinatedChange": 447,
+            "Population": 209983,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 10482
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

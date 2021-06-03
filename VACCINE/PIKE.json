@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 8060,
+        "AdministeredCount": 8062,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 21.0,
+        "AdministeredCountRollAvg": 20.0,
         "AllocatedDoses": 80,
         "CommunityReportedInventory": 0,
         "CountyName": "Pike",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 185,
         "Latitude": 39.5662,
         "Longitude": -90.8294,
-        "PctVaccinatedPopulation": 0.2692972903721735,
-        "PersonsFullyVaccinated": 4204,
-        "PersonsFullyVaccinatedChange": 4204,
+        "PctVaccinatedPopulation": 0.2693613477675998,
+        "PersonsFullyVaccinated": 4205,
+        "PersonsFullyVaccinatedChange": 4205,
         "Population": 15611,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 185
     },
     "VaccineAdministration": [
@@ -3005,11 +3005,29 @@
             "Population": 15611,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 185
+        },
+        {
+            "AdministeredCount": 8062,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 20.0,
+            "AllocatedDoses": 80,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Pike",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 185,
+            "Latitude": 39.5662,
+            "Longitude": -90.8294,
+            "PctVaccinatedPopulation": 0.2693613477675998,
+            "PersonsFullyVaccinated": 4205,
+            "PersonsFullyVaccinatedChange": 1,
+            "Population": 15611,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 185
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

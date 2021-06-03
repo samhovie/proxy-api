@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 39640,
+        "AdministeredCount": 39737,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 91.0,
+        "AdministeredCountRollAvg": 87.0,
         "AllocatedDoses": 1600,
         "CommunityReportedInventory": 1202,
         "CountyName": "Knox",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 4745,
         "Latitude": 40.8776,
         "Longitude": -90.2245,
-        "PctVaccinatedPopulation": 0.37763409961685823,
-        "PersonsFullyVaccinated": 18924,
-        "PersonsFullyVaccinatedChange": 18924,
+        "PctVaccinatedPopulation": 0.3784323116219668,
+        "PersonsFullyVaccinated": 18964,
+        "PersonsFullyVaccinatedChange": 18964,
         "Population": 50112,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 5947
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 50112,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 5947
+        },
+        {
+            "AdministeredCount": 39737,
+            "AdministeredCountChange": 97,
+            "AdministeredCountRollAvg": 87.0,
+            "AllocatedDoses": 1600,
+            "CommunityReportedInventory": 1202,
+            "CountyName": "Knox",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 4745,
+            "Latitude": 40.8776,
+            "Longitude": -90.2245,
+            "PctVaccinatedPopulation": 0.3784323116219668,
+            "PersonsFullyVaccinated": 18964,
+            "PersonsFullyVaccinatedChange": 40,
+            "Population": 50112,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 5947
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

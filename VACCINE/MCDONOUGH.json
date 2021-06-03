@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 20129,
+        "AdministeredCount": 20153,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 45.0,
+        "AdministeredCountRollAvg": 37.0,
         "AllocatedDoses": 410,
         "CommunityReportedInventory": 714,
         "CountyName": "McDonough",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 5950,
         "Latitude": 40.3885,
         "Longitude": -90.6773,
-        "PctVaccinatedPopulation": 0.3370055082623936,
-        "PersonsFullyVaccinated": 10095,
-        "PersonsFullyVaccinatedChange": 10095,
+        "PctVaccinatedPopulation": 0.3375730262059756,
+        "PersonsFullyVaccinated": 10112,
+        "PersonsFullyVaccinatedChange": 10112,
         "Population": 29955,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 6664
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 29955,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 6664
+        },
+        {
+            "AdministeredCount": 20153,
+            "AdministeredCountChange": 24,
+            "AdministeredCountRollAvg": 37.0,
+            "AllocatedDoses": 410,
+            "CommunityReportedInventory": 714,
+            "CountyName": "McDonough",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 5950,
+            "Latitude": 40.3885,
+            "Longitude": -90.6773,
+            "PctVaccinatedPopulation": 0.3375730262059756,
+            "PersonsFullyVaccinated": 10112,
+            "PersonsFullyVaccinatedChange": 17,
+            "Population": 29955,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 6664
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

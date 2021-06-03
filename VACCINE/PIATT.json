@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 12842,
+        "AdministeredCount": 12857,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 34.0,
+        "AdministeredCountRollAvg": 31.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 30,
         "CountyName": "Piatt",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 0,
         "Latitude": 40.02861312,
         "Longitude": -88.57328,
-        "PctVaccinatedPopulation": 0.3705171993169066,
-        "PersonsFullyVaccinated": 6075,
-        "PersonsFullyVaccinatedChange": 6075,
+        "PctVaccinatedPopulation": 0.3709441327152964,
+        "PersonsFullyVaccinated": 6082,
+        "PersonsFullyVaccinatedChange": 6082,
         "Population": 16396,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 30
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 16396,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 30
+        },
+        {
+            "AdministeredCount": 12857,
+            "AdministeredCountChange": 15,
+            "AdministeredCountRollAvg": 31.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 30,
+            "CountyName": "Piatt",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.02861312,
+            "Longitude": -88.57328,
+            "PctVaccinatedPopulation": 0.3709441327152964,
+            "PersonsFullyVaccinated": 6082,
+            "PersonsFullyVaccinatedChange": 7,
+            "Population": 16396,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 30
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

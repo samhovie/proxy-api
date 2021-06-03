@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9772,
+        "AdministeredCount": 9782,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 29.0,
+        "AdministeredCountRollAvg": 22.0,
         "AllocatedDoses": 220,
         "CommunityReportedInventory": 0,
         "CountyName": "Mason",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 185,
         "Latitude": 40.2271,
         "Longitude": -89.9253,
-        "PctVaccinatedPopulation": 0.35775893844452633,
-        "PersonsFullyVaccinated": 4853,
-        "PersonsFullyVaccinatedChange": 4853,
+        "PctVaccinatedPopulation": 0.3582749723553262,
+        "PersonsFullyVaccinated": 4860,
+        "PersonsFullyVaccinatedChange": 4860,
         "Population": 13565,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 185
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 13565,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 185
+        },
+        {
+            "AdministeredCount": 9782,
+            "AdministeredCountChange": 10,
+            "AdministeredCountRollAvg": 22.0,
+            "AllocatedDoses": 220,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Mason",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 185,
+            "Latitude": 40.2271,
+            "Longitude": -89.9253,
+            "PctVaccinatedPopulation": 0.3582749723553262,
+            "PersonsFullyVaccinated": 4860,
+            "PersonsFullyVaccinatedChange": 7,
+            "Population": 13565,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 185
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

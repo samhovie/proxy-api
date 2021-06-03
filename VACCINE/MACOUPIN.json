@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 32974,
+        "AdministeredCount": 33042,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 86.0,
+        "AdministeredCountRollAvg": 73.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 80,
         "CountyName": "Macoupin",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 2405,
         "Latitude": 39.2375,
         "Longitude": -89.9253,
-        "PctVaccinatedPopulation": 0.35201818462692824,
-        "PersonsFullyVaccinated": 15951,
-        "PersonsFullyVaccinatedChange": 15951,
+        "PctVaccinatedPopulation": 0.35276852117493873,
+        "PersonsFullyVaccinated": 15985,
+        "PersonsFullyVaccinatedChange": 15985,
         "Population": 45313,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 2485
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 45313,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 2485
+        },
+        {
+            "AdministeredCount": 33042,
+            "AdministeredCountChange": 68,
+            "AdministeredCountRollAvg": 73.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 80,
+            "CountyName": "Macoupin",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 2405,
+            "Latitude": 39.2375,
+            "Longitude": -89.9253,
+            "PctVaccinatedPopulation": 0.35276852117493873,
+            "PersonsFullyVaccinated": 15985,
+            "PersonsFullyVaccinatedChange": 34,
+            "Population": 45313,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 2485
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 8638,
+        "AdministeredCount": 8654,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 15.0,
+        "AdministeredCountRollAvg": 14.0,
         "AllocatedDoses": 210,
         "CommunityReportedInventory": 445,
         "CountyName": "Wayne",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 290,
         "Latitude": 38.39,
         "Longitude": -88.4016,
-        "PctVaccinatedPopulation": 0.2621234386480529,
-        "PersonsFullyVaccinated": 4281,
-        "PersonsFullyVaccinatedChange": 4281,
+        "PctVaccinatedPopulation": 0.2627969630173892,
+        "PersonsFullyVaccinated": 4292,
+        "PersonsFullyVaccinatedChange": 4292,
         "Population": 16332,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 735
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 16332,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 735
+        },
+        {
+            "AdministeredCount": 8654,
+            "AdministeredCountChange": 16,
+            "AdministeredCountRollAvg": 14.0,
+            "AllocatedDoses": 210,
+            "CommunityReportedInventory": 445,
+            "CountyName": "Wayne",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 290,
+            "Latitude": 38.39,
+            "Longitude": -88.4016,
+            "PctVaccinatedPopulation": 0.2627969630173892,
+            "PersonsFullyVaccinated": 4292,
+            "PersonsFullyVaccinatedChange": 11,
+            "Population": 16332,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 735
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

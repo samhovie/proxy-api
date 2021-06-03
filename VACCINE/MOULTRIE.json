@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7776,
+        "AdministeredCount": 7784,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 17.0,
+        "AdministeredCountRollAvg": 16.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Moultrie",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 485,
         "Latitude": 39.6021,
         "Longitude": -88.5952,
-        "PctVaccinatedPopulation": 0.2808996398722566,
-        "PersonsFullyVaccinated": 4134,
-        "PersonsFullyVaccinatedChange": 4134,
+        "PctVaccinatedPopulation": 0.28110348576476185,
+        "PersonsFullyVaccinated": 4137,
+        "PersonsFullyVaccinatedChange": 4137,
         "Population": 14717,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 485
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 14717,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 485
+        },
+        {
+            "AdministeredCount": 7784,
+            "AdministeredCountChange": 8,
+            "AdministeredCountRollAvg": 16.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Moultrie",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 485,
+            "Latitude": 39.6021,
+            "Longitude": -88.5952,
+            "PctVaccinatedPopulation": 0.28110348576476185,
+            "PersonsFullyVaccinated": 4137,
+            "PersonsFullyVaccinatedChange": 3,
+            "Population": 14717,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 485
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

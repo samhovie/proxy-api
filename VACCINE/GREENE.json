@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 6991,
+        "AdministeredCount": 6999,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 11.0,
         "AllocatedDoses": 140,
         "CommunityReportedInventory": 0,
         "CountyName": "Greene",
-        "InventoryReportDate": "2021-05-31T00:00:00",
+        "InventoryReportDate": "2021-06-01T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 39.403,
         "Longitude": -90.3748,
-        "PctVaccinatedPopulation": 0.2654860472247777,
-        "PersonsFullyVaccinated": 3463,
-        "PersonsFullyVaccinatedChange": 3463,
+        "PctVaccinatedPopulation": 0.2657927016252683,
+        "PersonsFullyVaccinated": 3467,
+        "PersonsFullyVaccinatedChange": 3467,
         "Population": 13044,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 13044,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 6999,
+            "AdministeredCountChange": 8,
+            "AdministeredCountRollAvg": 11.0,
+            "AllocatedDoses": 140,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Greene",
+            "InventoryReportDate": "2021-06-01T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.403,
+            "Longitude": -90.3748,
+            "PctVaccinatedPopulation": 0.2657927016252683,
+            "PersonsFullyVaccinated": 3467,
+            "PersonsFullyVaccinatedChange": 4,
+            "Population": 13044,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

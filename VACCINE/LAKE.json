@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 614645,
+        "AdministeredCount": 616855,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 3252.0,
+        "AdministeredCountRollAvg": 3021.0,
         "AllocatedDoses": 11925,
         "CommunityReportedInventory": 13517,
         "CountyName": "Lake",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 24345,
         "Latitude": 42.3689,
         "Longitude": -87.8272,
-        "PctVaccinatedPopulation": 0.4030752020455687,
-        "PersonsFullyVaccinated": 282488,
-        "PersonsFullyVaccinatedChange": 282488,
+        "PctVaccinatedPopulation": 0.4053810328295512,
+        "PersonsFullyVaccinated": 284104,
+        "PersonsFullyVaccinatedChange": 284104,
         "Population": 700832,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 37862
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 700832,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 37862
+        },
+        {
+            "AdministeredCount": 616855,
+            "AdministeredCountChange": 2210,
+            "AdministeredCountRollAvg": 3021.0,
+            "AllocatedDoses": 11925,
+            "CommunityReportedInventory": 13517,
+            "CountyName": "Lake",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 24345,
+            "Latitude": 42.3689,
+            "Longitude": -87.8272,
+            "PctVaccinatedPopulation": 0.4053810328295512,
+            "PersonsFullyVaccinated": 284104,
+            "PersonsFullyVaccinatedChange": 1616,
+            "Population": 700832,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 37862
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

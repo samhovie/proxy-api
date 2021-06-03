@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 42997,
+        "AdministeredCount": 43066,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 103.0,
+        "AdministeredCountRollAvg": 88.0,
         "AllocatedDoses": 2070,
         "CommunityReportedInventory": 240,
         "CountyName": "Williamson",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 7064,
         "Latitude": 37.7183,
         "Longitude": -88.8647,
-        "PctVaccinatedPopulation": 0.3196581961345741,
-        "PersonsFullyVaccinated": 21435,
-        "PersonsFullyVaccinatedChange": 21435,
+        "PctVaccinatedPopulation": 0.3203143641135767,
+        "PersonsFullyVaccinated": 21479,
+        "PersonsFullyVaccinatedChange": 21479,
         "Population": 67056,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 7304
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 67056,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 7304
+        },
+        {
+            "AdministeredCount": 43066,
+            "AdministeredCountChange": 69,
+            "AdministeredCountRollAvg": 88.0,
+            "AllocatedDoses": 2070,
+            "CommunityReportedInventory": 240,
+            "CountyName": "Williamson",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 7064,
+            "Latitude": 37.7183,
+            "Longitude": -88.8647,
+            "PctVaccinatedPopulation": 0.3203143641135767,
+            "PersonsFullyVaccinated": 21479,
+            "PersonsFullyVaccinatedChange": 44,
+            "Population": 67056,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 7304
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

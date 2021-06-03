@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 106455,
+        "AdministeredCount": 106681,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 278.0,
+        "AdministeredCountRollAvg": 267.0,
         "AllocatedDoses": 1440,
         "CommunityReportedInventory": 783,
         "CountyName": "Tazewell",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 6096,
         "Latitude": 40.5522,
         "Longitude": -89.4742,
-        "PctVaccinatedPopulation": 0.3927966870201318,
-        "PersonsFullyVaccinated": 51978,
-        "PersonsFullyVaccinatedChange": 51978,
+        "PctVaccinatedPopulation": 0.39356749894202286,
+        "PersonsFullyVaccinated": 52080,
+        "PersonsFullyVaccinatedChange": 52080,
         "Population": 132328,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 6879
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 132328,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 6879
+        },
+        {
+            "AdministeredCount": 106681,
+            "AdministeredCountChange": 226,
+            "AdministeredCountRollAvg": 267.0,
+            "AllocatedDoses": 1440,
+            "CommunityReportedInventory": 783,
+            "CountyName": "Tazewell",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 6096,
+            "Latitude": 40.5522,
+            "Longitude": -89.4742,
+            "PctVaccinatedPopulation": 0.39356749894202286,
+            "PersonsFullyVaccinated": 52080,
+            "PersonsFullyVaccinatedChange": 102,
+            "Population": 132328,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 6879
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

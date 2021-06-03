@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 84348,
+        "AdministeredCount": 84500,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 344.0,
+        "AdministeredCountRollAvg": 324.0,
         "AllocatedDoses": 1750,
         "CommunityReportedInventory": 60,
         "CountyName": "LaSalle",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 5940,
         "Latitude": 41.4364,
         "Longitude": -88.9414,
-        "PctVaccinatedPopulation": 0.35338572603490814,
-        "PersonsFullyVaccinated": 38671,
-        "PersonsFullyVaccinatedChange": 38671,
+        "PctVaccinatedPopulation": 0.354272137439459,
+        "PersonsFullyVaccinated": 38768,
+        "PersonsFullyVaccinatedChange": 38768,
         "Population": 109430,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 6000
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 109430,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 6000
+        },
+        {
+            "AdministeredCount": 84500,
+            "AdministeredCountChange": 152,
+            "AdministeredCountRollAvg": 324.0,
+            "AllocatedDoses": 1750,
+            "CommunityReportedInventory": 60,
+            "CountyName": "LaSalle",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 5940,
+            "Latitude": 41.4364,
+            "Longitude": -88.9414,
+            "PctVaccinatedPopulation": 0.354272137439459,
+            "PersonsFullyVaccinated": 38768,
+            "PersonsFullyVaccinatedChange": 97,
+            "Population": 109430,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 6000
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

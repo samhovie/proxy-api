@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 149228,
+        "AdministeredCount": 149669,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 393.0,
+        "AdministeredCountRollAvg": 388.0,
         "AllocatedDoses": 695,
         "CommunityReportedInventory": 6146,
         "CountyName": "Peoria",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1755,
         "Latitude": 40.7156,
         "Longitude": -89.7755,
-        "PctVaccinatedPopulation": 0.39699149046899307,
-        "PersonsFullyVaccinated": 71705,
-        "PersonsFullyVaccinatedChange": 71705,
+        "PctVaccinatedPopulation": 0.3978773232348398,
+        "PersonsFullyVaccinated": 71865,
+        "PersonsFullyVaccinatedChange": 71865,
         "Population": 180621,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 7901
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 180621,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 7901
+        },
+        {
+            "AdministeredCount": 149669,
+            "AdministeredCountChange": 441,
+            "AdministeredCountRollAvg": 388.0,
+            "AllocatedDoses": 695,
+            "CommunityReportedInventory": 6146,
+            "CountyName": "Peoria",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1755,
+            "Latitude": 40.7156,
+            "Longitude": -89.7755,
+            "PctVaccinatedPopulation": 0.3978773232348398,
+            "PersonsFullyVaccinated": 71865,
+            "PersonsFullyVaccinatedChange": 160,
+            "Population": 180621,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 7901
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

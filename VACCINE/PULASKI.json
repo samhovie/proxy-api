@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 2162,
+        "AdministeredCount": 2170,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 6.0,
         "AllocatedDoses": 0,
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 6963,
         "Latitude": 37.2512,
         "Longitude": -89.1325,
-        "PctVaccinatedPopulation": 0.195130880468607,
-        "PersonsFullyVaccinated": 1066,
-        "PersonsFullyVaccinatedChange": 1066,
+        "PctVaccinatedPopulation": 0.19604612850082373,
+        "PersonsFullyVaccinated": 1071,
+        "PersonsFullyVaccinatedChange": 1071,
         "Population": 5463,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 6963
     },
     "VaccineAdministration": [
@@ -3005,11 +3005,29 @@
             "Population": 5463,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 6963
+        },
+        {
+            "AdministeredCount": 2170,
+            "AdministeredCountChange": 8,
+            "AdministeredCountRollAvg": 6.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Pulaski",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 6963,
+            "Latitude": 37.2512,
+            "Longitude": -89.1325,
+            "PctVaccinatedPopulation": 0.19604612850082373,
+            "PersonsFullyVaccinated": 1071,
+            "PersonsFullyVaccinatedChange": 5,
+            "Population": 5463,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 6963
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

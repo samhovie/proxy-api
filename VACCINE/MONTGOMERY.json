@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 18576,
+        "AdministeredCount": 18671,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 47.0,
+        "AdministeredCountRollAvg": 50.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 275,
         "CountyName": "Montgomery",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 1133,
         "Latitude": 39.2364,
         "Longitude": -89.4742,
-        "PctVaccinatedPopulation": 0.31002412503059334,
-        "PersonsFullyVaccinated": 8867,
-        "PersonsFullyVaccinatedChange": 8867,
+        "PctVaccinatedPopulation": 0.3122618090276564,
+        "PersonsFullyVaccinated": 8931,
+        "PersonsFullyVaccinatedChange": 8931,
         "Population": 28601,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 1408
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 28601,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 1408
+        },
+        {
+            "AdministeredCount": 18671,
+            "AdministeredCountChange": 95,
+            "AdministeredCountRollAvg": 50.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 275,
+            "CountyName": "Montgomery",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 1133,
+            "Latitude": 39.2364,
+            "Longitude": -89.4742,
+            "PctVaccinatedPopulation": 0.3122618090276564,
+            "PersonsFullyVaccinated": 8931,
+            "PersonsFullyVaccinatedChange": 64,
+            "Population": 28601,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 1408
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 2366047,
+        "AdministeredCount": 2373015,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 10235.0,
+        "AdministeredCountRollAvg": 9397.0,
         "AllocatedDoses": 23530,
         "CommunityReportedInventory": 164406,
         "CountyName": "Cook",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 55805,
         "Latitude": 42.050784,
         "Longitude": -87.963759,
-        "PctVaccinatedPopulation": 0.44353624713527867,
-        "PersonsFullyVaccinated": 1097530,
-        "PersonsFullyVaccinatedChange": 1097530,
+        "PctVaccinatedPopulation": 0.4455136170998655,
+        "PersonsFullyVaccinated": 1102423,
+        "PersonsFullyVaccinatedChange": 1102423,
         "Population": 2474499,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 220211
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 2474499,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 220211
+        },
+        {
+            "AdministeredCount": 2373015,
+            "AdministeredCountChange": 6968,
+            "AdministeredCountRollAvg": 9397.0,
+            "AllocatedDoses": 23530,
+            "CommunityReportedInventory": 164406,
+            "CountyName": "Cook",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 55805,
+            "Latitude": 42.050784,
+            "Longitude": -87.963759,
+            "PctVaccinatedPopulation": 0.4455136170998655,
+            "PersonsFullyVaccinated": 1102423,
+            "PersonsFullyVaccinatedChange": 4893,
+            "Population": 2474499,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 220211
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

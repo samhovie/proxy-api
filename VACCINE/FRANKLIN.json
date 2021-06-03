@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 21005,
+        "AdministeredCount": 21051,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 57.0,
+        "AdministeredCountRollAvg": 56.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 720,
         "CountyName": "Franklin",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 0,
         "Latitude": 38.0157,
         "Longitude": -88.9031,
-        "PctVaccinatedPopulation": 0.26730575437327203,
-        "PersonsFullyVaccinated": 10345,
-        "PersonsFullyVaccinatedChange": 10345,
+        "PctVaccinatedPopulation": 0.26810676726699567,
+        "PersonsFullyVaccinated": 10376,
+        "PersonsFullyVaccinatedChange": 10376,
         "Population": 38701,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 720
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 38701,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 720
+        },
+        {
+            "AdministeredCount": 21051,
+            "AdministeredCountChange": 46,
+            "AdministeredCountRollAvg": 56.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 720,
+            "CountyName": "Franklin",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 38.0157,
+            "Longitude": -88.9031,
+            "PctVaccinatedPopulation": 0.26810676726699567,
+            "PersonsFullyVaccinated": 10376,
+            "PersonsFullyVaccinatedChange": 31,
+            "Population": 38701,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 720
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 39690,
+        "AdministeredCount": 39772,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 120.0,
+        "AdministeredCountRollAvg": 114.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Grundy",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 3762,
         "Latitude": 41.3501,
         "Longitude": -88.4016,
-        "PctVaccinatedPopulation": 0.36414109707290276,
-        "PersonsFullyVaccinated": 18561,
-        "PersonsFullyVaccinatedChange": 18561,
+        "PctVaccinatedPopulation": 0.36518088362238094,
+        "PersonsFullyVaccinated": 18614,
+        "PersonsFullyVaccinatedChange": 18614,
         "Population": 50972,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 3762
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 50972,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 3762
+        },
+        {
+            "AdministeredCount": 39772,
+            "AdministeredCountChange": 82,
+            "AdministeredCountRollAvg": 114.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Grundy",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 3762,
+            "Latitude": 41.3501,
+            "Longitude": -88.4016,
+            "PctVaccinatedPopulation": 0.36518088362238094,
+            "PersonsFullyVaccinated": 18614,
+            "PersonsFullyVaccinatedChange": 53,
+            "Population": 50972,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 3762
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

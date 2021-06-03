@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 11308983,
+        "AdministeredCount": 11338305,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 45545.0,
+        "AdministeredCountRollAvg": 41234.0,
         "AllocatedDoses": 95490,
         "CommunityReportedInventory": 382509,
         "CountyName": "Illinois",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 342372,
         "Latitude": 39.839888,
         "Longitude": -89.510168,
-        "PctVaccinatedPopulation": 0.4142652742153726,
-        "PersonsFullyVaccinated": 5278187,
-        "PersonsFullyVaccinatedChange": 5278187,
+        "PctVaccinatedPopulation": 0.4157877511168598,
+        "PersonsFullyVaccinated": 5297585,
+        "PersonsFullyVaccinatedChange": 5297585,
         "Population": 12741080,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 724881
     },
     "VaccineAdministration": [
@@ -3041,11 +3041,29 @@
             "Population": 12741080,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 724881
+        },
+        {
+            "AdministeredCount": 11338305,
+            "AdministeredCountChange": 29322,
+            "AdministeredCountRollAvg": 41234.0,
+            "AllocatedDoses": 95490,
+            "CommunityReportedInventory": 382509,
+            "CountyName": "Illinois",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 342372,
+            "Latitude": 39.839888,
+            "Longitude": -89.510168,
+            "PctVaccinatedPopulation": 0.4157877511168598,
+            "PersonsFullyVaccinated": 5297585,
+            "PersonsFullyVaccinatedChange": 19398,
+            "Population": 12741080,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 724881
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

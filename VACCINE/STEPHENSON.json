@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 31199,
+        "AdministeredCount": 31328,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 121.0,
+        "AdministeredCountRollAvg": 110.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 730,
         "CountyName": "Stephenson",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 900,
         "Latitude": 42.3145,
         "Longitude": -89.6252,
-        "PctVaccinatedPopulation": 0.3456081156570509,
-        "PersonsFullyVaccinated": 15467,
-        "PersonsFullyVaccinatedChange": 15467,
+        "PctVaccinatedPopulation": 0.3478202578598083,
+        "PersonsFullyVaccinated": 15566,
+        "PersonsFullyVaccinatedChange": 15566,
         "Population": 44753,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 1630
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 44753,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 1630
+        },
+        {
+            "AdministeredCount": 31328,
+            "AdministeredCountChange": 129,
+            "AdministeredCountRollAvg": 110.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 730,
+            "CountyName": "Stephenson",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 900,
+            "Latitude": 42.3145,
+            "Longitude": -89.6252,
+            "PctVaccinatedPopulation": 0.3478202578598083,
+            "PersonsFullyVaccinated": 15566,
+            "PersonsFullyVaccinatedChange": 99,
+            "Population": 44753,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 1630
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

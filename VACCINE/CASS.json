@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9430,
+        "AdministeredCount": 9451,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 18.0,
+        "AdministeredCountRollAvg": 20.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 707,
         "CountyName": "Cass",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 0,
         "Latitude": 39.9399,
         "Longitude": -90.262,
-        "PctVaccinatedPopulation": 0.3701468189233279,
-        "PersonsFullyVaccinated": 4538,
-        "PersonsFullyVaccinatedChange": 4538,
+        "PctVaccinatedPopulation": 0.37120717781402934,
+        "PersonsFullyVaccinated": 4551,
+        "PersonsFullyVaccinatedChange": 4551,
         "Population": 12260,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 707
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 12260,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 707
+        },
+        {
+            "AdministeredCount": 9451,
+            "AdministeredCountChange": 21,
+            "AdministeredCountRollAvg": 20.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 707,
+            "CountyName": "Cass",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.9399,
+            "Longitude": -90.262,
+            "PctVaccinatedPopulation": 0.37120717781402934,
+            "PersonsFullyVaccinated": 4551,
+            "PersonsFullyVaccinatedChange": 13,
+            "Population": 12260,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 707
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

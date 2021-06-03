@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 2814,
+        "AdministeredCount": 2816,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 5.0,
         "AllocatedDoses": 0,
@@ -14,7 +14,7 @@
         "PersonsFullyVaccinated": 1375,
         "PersonsFullyVaccinatedChange": 1375,
         "Population": 4926,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 394
     },
     "VaccineAdministration": [
@@ -2987,11 +2987,29 @@
             "Population": 4926,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 394
+        },
+        {
+            "AdministeredCount": 2816,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 5.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Scott",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 394,
+            "Latitude": 39.6095,
+            "Longitude": -90.488,
+            "PctVaccinatedPopulation": 0.2791311408850995,
+            "PersonsFullyVaccinated": 1375,
+            "PersonsFullyVaccinatedChange": 0,
+            "Population": 4926,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 394
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

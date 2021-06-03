@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 20846,
+        "AdministeredCount": 20883,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 51.0,
+        "AdministeredCountRollAvg": 40.0,
         "AllocatedDoses": 650,
         "CommunityReportedInventory": 1720,
         "CountyName": "Marion",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 990,
         "Latitude": 38.7313,
         "Longitude": -88.8647,
-        "PctVaccinatedPopulation": 0.2766081871345029,
-        "PersonsFullyVaccinated": 10406,
-        "PersonsFullyVaccinatedChange": 10406,
+        "PctVaccinatedPopulation": 0.27743221690590114,
+        "PersonsFullyVaccinated": 10437,
+        "PersonsFullyVaccinatedChange": 10437,
         "Population": 37620,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 2710
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 37620,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 2710
+        },
+        {
+            "AdministeredCount": 20883,
+            "AdministeredCountChange": 37,
+            "AdministeredCountRollAvg": 40.0,
+            "AllocatedDoses": 650,
+            "CommunityReportedInventory": 1720,
+            "CountyName": "Marion",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 990,
+            "Latitude": 38.7313,
+            "Longitude": -88.8647,
+            "PctVaccinatedPopulation": 0.27743221690590114,
+            "PersonsFullyVaccinated": 10437,
+            "PersonsFullyVaccinatedChange": 31,
+            "Population": 37620,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 2710
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

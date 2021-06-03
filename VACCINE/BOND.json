@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 10260,
+        "AdministeredCount": 10268,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 33.0,
+        "AdministeredCountRollAvg": 27.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Bond",
@@ -10,11 +10,11 @@
         "LHDReportedInventory": 465,
         "Latitude": 38.903,
         "Longitude": -89.4742,
-        "PctVaccinatedPopulation": 0.2999398677089597,
-        "PersonsFullyVaccinated": 4988,
-        "PersonsFullyVaccinatedChange": 4988,
+        "PctVaccinatedPopulation": 0.30018039687312087,
+        "PersonsFullyVaccinated": 4992,
+        "PersonsFullyVaccinatedChange": 4992,
         "Population": 16630,
-        "Report_Date": "2021-05-31T00:00:00",
+        "Report_Date": "2021-06-01T00:00:00",
         "TotalReportedInventory": 465
     },
     "VaccineAdministration": [
@@ -3023,11 +3023,29 @@
             "Population": 16630,
             "Report_Date": "2021-05-31T00:00:00",
             "TotalReportedInventory": 465
+        },
+        {
+            "AdministeredCount": 10268,
+            "AdministeredCountChange": 8,
+            "AdministeredCountRollAvg": 27.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Bond",
+            "InventoryReportDate": "2021-05-29T00:00:00",
+            "LHDReportedInventory": 465,
+            "Latitude": 38.903,
+            "Longitude": -89.4742,
+            "PctVaccinatedPopulation": 0.30018039687312087,
+            "PersonsFullyVaccinated": 4992,
+            "PersonsFullyVaccinatedChange": 4,
+            "Population": 16630,
+            "Report_Date": "2021-06-01T00:00:00",
+            "TotalReportedInventory": 465
         }
     ],
     "lastUpdatedDate": {
-        "day": 31,
-        "month": 5,
+        "day": 1,
+        "month": 6,
         "year": 2021
     }
 }

@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 43066,
+        "AdministeredCount": 43143,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 88.0,
+        "AdministeredCountRollAvg": 76.0,
         "AllocatedDoses": 2070,
-        "CommunityReportedInventory": 240,
+        "CommunityReportedInventory": 170,
         "CountyName": "Williamson",
-        "InventoryReportDate": "2021-05-29T00:00:00",
+        "InventoryReportDate": "2021-06-02T00:00:00",
         "LHDReportedInventory": 7064,
         "Latitude": 37.7183,
         "Longitude": -88.8647,
-        "PctVaccinatedPopulation": 0.3203143641135767,
-        "PersonsFullyVaccinated": 21479,
-        "PersonsFullyVaccinatedChange": 21479,
+        "PctVaccinatedPopulation": 0.320985445001193,
+        "PersonsFullyVaccinated": 21524,
+        "PersonsFullyVaccinatedChange": 21524,
         "Population": 67056,
-        "Report_Date": "2021-06-01T00:00:00",
-        "TotalReportedInventory": 7304
+        "Report_Date": "2021-06-02T00:00:00",
+        "TotalReportedInventory": 7234
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 99,
             "AdministeredCountChange": 98,
             "AdministeredCountRollAvg": 14.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 580,
             "AdministeredCountChange": 481,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 586,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 587,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 587,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 588,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 589,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 589,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 589,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 589,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 589,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 627,
             "AdministeredCountChange": 38,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 677,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 916,
             "AdministeredCountChange": 239,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 1009,
             "AdministeredCountChange": 93,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 1017,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 61.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 1018,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 61.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 1018,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 61.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 1095,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 67056,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 1217,
             "AdministeredCountChange": 122,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 1321,
             "AdministeredCountChange": 104,
             "AdministeredCountRollAvg": 58.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 67056,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 1743,
             "AdministeredCountChange": 422,
             "AdministeredCountRollAvg": 105.0,
             "AllocatedDoses": 1035,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 329,
             "Population": 67056,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 2009,
             "AdministeredCountChange": 266,
             "AdministeredCountRollAvg": 142.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 205,
             "Population": 67056,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 2065,
             "AdministeredCountChange": 56,
             "AdministeredCountRollAvg": 150.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 67056,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 2106,
             "AdministeredCountChange": 41,
             "AdministeredCountRollAvg": 155.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 67056,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 2164,
             "AdministeredCountChange": 58,
             "AdministeredCountRollAvg": 153.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 67056,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 2289,
             "AdministeredCountChange": 125,
             "AdministeredCountRollAvg": 153.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 2361,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 149.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 67056,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 2466,
             "AdministeredCountChange": 105,
             "AdministeredCountRollAvg": 103.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 2686,
             "AdministeredCountChange": 220,
             "AdministeredCountRollAvg": 97.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 2749,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 67056,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 2773,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 95.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 3128,
             "AdministeredCountChange": 355,
             "AdministeredCountRollAvg": 138.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 3621,
             "AdministeredCountChange": 493,
             "AdministeredCountRollAvg": 190.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 4089,
             "AdministeredCountChange": 468,
             "AdministeredCountRollAvg": 247.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 4881,
             "AdministeredCountChange": 792,
             "AdministeredCountRollAvg": 345.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 67056,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 4913,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 318.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 67056,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 4919,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 310.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 67056,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 4925,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 307.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 67056,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 4978,
             "AdministeredCountChange": 53,
             "AdministeredCountRollAvg": 264.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 67056,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 5553,
             "AdministeredCountChange": 575,
             "AdministeredCountRollAvg": 276.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 67056,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 6339,
             "AdministeredCountChange": 786,
             "AdministeredCountRollAvg": 321.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 94,
             "Population": 67056,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 6775,
             "AdministeredCountChange": 436,
             "AdministeredCountRollAvg": 271.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 67056,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 7015,
             "AdministeredCountChange": 240,
             "AdministeredCountRollAvg": 300.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 144,
             "Population": 67056,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 7152,
             "AdministeredCountChange": 137,
             "AdministeredCountRollAvg": 319.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 67056,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 7249,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 332.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 67056,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 7360,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 340.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 67056,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 8032,
             "AdministeredCountChange": 672,
             "AdministeredCountRollAvg": 354.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 123,
             "Population": 67056,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 8763,
             "AdministeredCountChange": 731,
             "AdministeredCountRollAvg": 346.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 67056,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 9108,
             "AdministeredCountChange": 345,
             "AdministeredCountRollAvg": 333.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 67056,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 9384,
             "AdministeredCountChange": 276,
             "AdministeredCountRollAvg": 338.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 144,
             "Population": 67056,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 9434,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 326.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 67056,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 9447,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 314.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 67056,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 9611,
             "AdministeredCountChange": 164,
             "AdministeredCountRollAvg": 322.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 67056,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 10216,
             "AdministeredCountChange": 605,
             "AdministeredCountRollAvg": 312.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 94,
             "Population": 67056,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 10968,
             "AdministeredCountChange": 752,
             "AdministeredCountRollAvg": 315.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 83,
             "Population": 67056,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 11361,
             "AdministeredCountChange": 393,
             "AdministeredCountRollAvg": 322.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 146,
             "Population": 67056,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 11458,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 296.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 67056,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 11521,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 298.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 67056,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 11561,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 302.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 67056,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 11593,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 283.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 67056,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 12102,
             "AdministeredCountChange": 509,
             "AdministeredCountRollAvg": 269.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 406,
             "Population": 67056,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 12783,
             "AdministeredCountChange": 681,
             "AdministeredCountRollAvg": 259.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 580,
             "Population": 67056,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 13200,
             "AdministeredCountChange": 417,
             "AdministeredCountRollAvg": 263.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 321,
             "Population": 67056,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 13637,
             "AdministeredCountChange": 437,
             "AdministeredCountRollAvg": 311.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 101,
             "Population": 67056,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 13711,
             "AdministeredCountChange": 74,
             "AdministeredCountRollAvg": 313.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 67056,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 13931,
             "AdministeredCountChange": 220,
             "AdministeredCountRollAvg": 339.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 106,
             "Population": 67056,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 14089,
             "AdministeredCountChange": 158,
             "AdministeredCountRollAvg": 357.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 67056,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 14886,
             "AdministeredCountChange": 797,
             "AdministeredCountRollAvg": 398.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 447,
             "Population": 67056,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 15833,
             "AdministeredCountChange": 947,
             "AdministeredCountRollAvg": 436.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 324,
             "Population": 67056,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 16431,
             "AdministeredCountChange": 598,
             "AdministeredCountRollAvg": 462.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 217,
             "Population": 67056,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 16835,
             "AdministeredCountChange": 404,
             "AdministeredCountRollAvg": 457.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 67056,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 16918,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 458.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 67056,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 17028,
             "AdministeredCountChange": 110,
             "AdministeredCountRollAvg": 442.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 67056,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 17109,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 431.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 67056,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 17961,
             "AdministeredCountChange": 852,
             "AdministeredCountRollAvg": 439.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 401,
             "Population": 67056,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 18905,
             "AdministeredCountChange": 944,
             "AdministeredCountRollAvg": 439.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 560,
             "Population": 67056,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 19485,
             "AdministeredCountChange": 580,
             "AdministeredCountRollAvg": 436.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 274,
             "Population": 67056,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 19696,
             "AdministeredCountChange": 211,
             "AdministeredCountRollAvg": 409.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 67056,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 19840,
             "AdministeredCountChange": 144,
             "AdministeredCountRollAvg": 417.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 67056,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 19861,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 405.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 67056,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 20005,
             "AdministeredCountChange": 144,
             "AdministeredCountRollAvg": 414.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 67056,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 20807,
             "AdministeredCountChange": 802,
             "AdministeredCountRollAvg": 407.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 601,
             "Population": 67056,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 21702,
             "AdministeredCountChange": 895,
             "AdministeredCountRollAvg": 400.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 602,
             "Population": 67056,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 22216,
             "AdministeredCountChange": 514,
             "AdministeredCountRollAvg": 390.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 276,
             "Population": 67056,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 22639,
             "AdministeredCountChange": 423,
             "AdministeredCountRollAvg": 420.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 325,
             "Population": 67056,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 22804,
             "AdministeredCountChange": 165,
             "AdministeredCountRollAvg": 423.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 97,
             "Population": 67056,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 22875,
             "AdministeredCountChange": 71,
             "AdministeredCountRollAvg": 431.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 67056,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 23114,
             "AdministeredCountChange": 239,
             "AdministeredCountRollAvg": 444.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 184,
             "Population": 67056,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 24030,
             "AdministeredCountChange": 916,
             "AdministeredCountRollAvg": 460.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 604,
             "Population": 67056,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 25122,
             "AdministeredCountChange": 1092,
             "AdministeredCountRollAvg": 489.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 820,
             "Population": 67056,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 25610,
             "AdministeredCountChange": 488,
             "AdministeredCountRollAvg": 485.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 227,
             "Population": 67056,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 26100,
             "AdministeredCountChange": 490,
             "AdministeredCountRollAvg": 494.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 366,
             "Population": 67056,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 26335,
             "AdministeredCountChange": 235,
             "AdministeredCountRollAvg": 504.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 67056,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 26400,
             "AdministeredCountChange": 65,
             "AdministeredCountRollAvg": 504.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 67056,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 26820,
             "AdministeredCountChange": 420,
             "AdministeredCountRollAvg": 529.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 349,
             "Population": 67056,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 27720,
             "AdministeredCountChange": 900,
             "AdministeredCountRollAvg": 527.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 534,
             "Population": 67056,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 28651,
             "AdministeredCountChange": 931,
             "AdministeredCountRollAvg": 504.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 589,
             "Population": 67056,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 29098,
             "AdministeredCountChange": 447,
             "AdministeredCountRollAvg": 498.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 230,
             "Population": 67056,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 29384,
             "AdministeredCountChange": 286,
             "AdministeredCountRollAvg": 469.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 229,
             "Population": 67056,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 29572,
             "AdministeredCountChange": 188,
             "AdministeredCountRollAvg": 462.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 108,
             "Population": 67056,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 29662,
             "AdministeredCountChange": 90,
             "AdministeredCountRollAvg": 466.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 67056,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 29912,
             "AdministeredCountChange": 250,
             "AdministeredCountRollAvg": 442.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 181,
             "Population": 67056,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 30611,
             "AdministeredCountChange": 699,
             "AdministeredCountRollAvg": 413.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 396,
             "Population": 67056,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 31449,
             "AdministeredCountChange": 838,
             "AdministeredCountRollAvg": 400.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 595,
             "Population": 67056,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 31960,
             "AdministeredCountChange": 511,
             "AdministeredCountRollAvg": 409.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 370,
             "Population": 67056,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 32268,
             "AdministeredCountChange": 308,
             "AdministeredCountRollAvg": 412.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 198,
             "Population": 67056,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 32336,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 395.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 67056,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 32356,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 385.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 67056,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 32482,
             "AdministeredCountChange": 126,
             "AdministeredCountRollAvg": 367.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 67056,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 33135,
             "AdministeredCountChange": 653,
             "AdministeredCountRollAvg": 361.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 491,
             "Population": 67056,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 33923,
             "AdministeredCountChange": 788,
             "AdministeredCountRollAvg": 353.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 632,
             "Population": 67056,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 34323,
             "AdministeredCountChange": 400,
             "AdministeredCountRollAvg": 338.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 264,
             "Population": 67056,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 34487,
             "AdministeredCountChange": 164,
             "AdministeredCountRollAvg": 317.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 114,
             "Population": 67056,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 34676,
             "AdministeredCountChange": 189,
             "AdministeredCountRollAvg": 334.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 151,
             "Population": 67056,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 34756,
             "AdministeredCountChange": 80,
             "AdministeredCountRollAvg": 343.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2122,16 +2122,16 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 67056,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 35070,
             "AdministeredCountChange": 314,
             "AdministeredCountRollAvg": 370.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2140,16 +2140,16 @@
             "PersonsFullyVaccinatedChange": 261,
             "Population": 67056,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 35723,
             "AdministeredCountChange": 653,
             "AdministeredCountRollAvg": 370.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2158,16 +2158,16 @@
             "PersonsFullyVaccinatedChange": 523,
             "Population": 67056,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 36154,
             "AdministeredCountChange": 431,
             "AdministeredCountRollAvg": 319.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2176,16 +2176,16 @@
             "PersonsFullyVaccinatedChange": 302,
             "Population": 67056,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 36563,
             "AdministeredCountChange": 409,
             "AdministeredCountRollAvg": 320.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2194,16 +2194,16 @@
             "PersonsFullyVaccinatedChange": 329,
             "Population": 67056,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 36685,
             "AdministeredCountChange": 122,
             "AdministeredCountRollAvg": 314.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2212,16 +2212,16 @@
             "PersonsFullyVaccinatedChange": 87,
             "Population": 67056,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 36797,
             "AdministeredCountChange": 112,
             "AdministeredCountRollAvg": 303.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2230,16 +2230,16 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 67056,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 36859,
             "AdministeredCountChange": 62,
             "AdministeredCountRollAvg": 300.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2248,16 +2248,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 67056,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 36940,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 267.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2266,16 +2266,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 67056,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 37289,
             "AdministeredCountChange": 349,
             "AdministeredCountRollAvg": 224.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2284,16 +2284,16 @@
             "PersonsFullyVaccinatedChange": 247,
             "Population": 67056,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 37742,
             "AdministeredCountChange": 453,
             "AdministeredCountRollAvg": 227.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2302,16 +2302,16 @@
             "PersonsFullyVaccinatedChange": 340,
             "Population": 67056,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 38027,
             "AdministeredCountChange": 285,
             "AdministeredCountRollAvg": 209.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2320,16 +2320,16 @@
             "PersonsFullyVaccinatedChange": 208,
             "Population": 67056,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 38126,
             "AdministeredCountChange": 99,
             "AdministeredCountRollAvg": 206.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2338,16 +2338,16 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 67056,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 38212,
             "AdministeredCountChange": 86,
             "AdministeredCountRollAvg": 202.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2356,16 +2356,16 @@
             "PersonsFullyVaccinatedChange": 57,
             "Population": 67056,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 38251,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 199.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2374,16 +2374,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 67056,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 38302,
             "AdministeredCountChange": 51,
             "AdministeredCountRollAvg": 195.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2392,16 +2392,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 67056,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 38662,
             "AdministeredCountChange": 360,
             "AdministeredCountRollAvg": 196.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2410,16 +2410,16 @@
             "PersonsFullyVaccinatedChange": 257,
             "Population": 67056,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 38956,
             "AdministeredCountChange": 294,
             "AdministeredCountRollAvg": 173.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2428,16 +2428,16 @@
             "PersonsFullyVaccinatedChange": 217,
             "Population": 67056,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 39175,
             "AdministeredCountChange": 219,
             "AdministeredCountRollAvg": 164.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2446,16 +2446,16 @@
             "PersonsFullyVaccinatedChange": 152,
             "Population": 67056,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 39320,
             "AdministeredCountChange": 145,
             "AdministeredCountRollAvg": 171.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2464,16 +2464,16 @@
             "PersonsFullyVaccinatedChange": 93,
             "Population": 67056,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 39358,
             "AdministeredCountChange": 38,
             "AdministeredCountRollAvg": 164.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2482,16 +2482,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 67056,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 39374,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 160.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2500,16 +2500,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 67056,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 39406,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 158.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2518,16 +2518,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 67056,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 39604,
             "AdministeredCountChange": 198,
             "AdministeredCountRollAvg": 135.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2536,16 +2536,16 @@
             "PersonsFullyVaccinatedChange": 159,
             "Population": 67056,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 39818,
             "AdministeredCountChange": 214,
             "AdministeredCountRollAvg": 123.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2554,16 +2554,16 @@
             "PersonsFullyVaccinatedChange": 151,
             "Population": 67056,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 39985,
             "AdministeredCountChange": 167,
             "AdministeredCountRollAvg": 116.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2572,16 +2572,16 @@
             "PersonsFullyVaccinatedChange": 109,
             "Population": 67056,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 40151,
             "AdministeredCountChange": 166,
             "AdministeredCountRollAvg": 119.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2590,16 +2590,16 @@
             "PersonsFullyVaccinatedChange": 110,
             "Population": 67056,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 40226,
             "AdministeredCountChange": 75,
             "AdministeredCountRollAvg": 124.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2608,16 +2608,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 67056,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 40311,
             "AdministeredCountChange": 85,
             "AdministeredCountRollAvg": 134.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2626,16 +2626,16 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 67056,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 40392,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 141.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2644,16 +2644,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 67056,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 40562,
             "AdministeredCountChange": 170,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2662,16 +2662,16 @@
             "PersonsFullyVaccinatedChange": 126,
             "Population": 67056,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 40700,
             "AdministeredCountChange": 138,
             "AdministeredCountRollAvg": 126.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2680,16 +2680,16 @@
             "PersonsFullyVaccinatedChange": 87,
             "Population": 67056,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 40784,
             "AdministeredCountChange": 84,
             "AdministeredCountRollAvg": 114.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2698,16 +2698,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 67056,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 40912,
             "AdministeredCountChange": 128,
             "AdministeredCountRollAvg": 109.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2716,16 +2716,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 67056,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 40972,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 107.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2734,16 +2734,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 67056,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 41028,
             "AdministeredCountChange": 56,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2752,16 +2752,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 67056,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 41062,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 96.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2770,16 +2770,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 67056,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 41336,
             "AdministeredCountChange": 274,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2788,16 +2788,16 @@
             "PersonsFullyVaccinatedChange": 151,
             "Population": 67056,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 41575,
             "AdministeredCountChange": 239,
             "AdministeredCountRollAvg": 125.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2806,16 +2806,16 @@
             "PersonsFullyVaccinatedChange": 128,
             "Population": 67056,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 41869,
             "AdministeredCountChange": 294,
             "AdministeredCountRollAvg": 155.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2824,16 +2824,16 @@
             "PersonsFullyVaccinatedChange": 129,
             "Population": 67056,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42021,
             "AdministeredCountChange": 152,
             "AdministeredCountRollAvg": 158.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2842,16 +2842,16 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 67056,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42111,
             "AdministeredCountChange": 90,
             "AdministeredCountRollAvg": 163.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2860,16 +2860,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 67056,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42168,
             "AdministeredCountChange": 57,
             "AdministeredCountRollAvg": 163.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2878,16 +2878,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 67056,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42276,
             "AdministeredCountChange": 108,
             "AdministeredCountRollAvg": 173.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2896,16 +2896,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 67056,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42448,
             "AdministeredCountChange": 172,
             "AdministeredCountRollAvg": 159.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2914,16 +2914,16 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 67056,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42609,
             "AdministeredCountChange": 161,
             "AdministeredCountRollAvg": 148.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2932,16 +2932,16 @@
             "PersonsFullyVaccinatedChange": 83,
             "Population": 67056,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42746,
             "AdministeredCountChange": 137,
             "AdministeredCountRollAvg": 125.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2950,16 +2950,16 @@
             "PersonsFullyVaccinatedChange": 75,
             "Population": 67056,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42861,
             "AdministeredCountChange": 115,
             "AdministeredCountRollAvg": 120.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2968,16 +2968,16 @@
             "PersonsFullyVaccinatedChange": 74,
             "Population": 67056,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42929,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 117.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -2986,16 +2986,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 67056,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42972,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -3004,16 +3004,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 67056,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 42997,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 103.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -3022,16 +3022,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 67056,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
         },
         {
             "AdministeredCount": 43066,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 2070,
-            "CommunityReportedInventory": 240,
+            "CommunityReportedInventory": 170,
             "CountyName": "Williamson",
-            "InventoryReportDate": "2021-05-29T00:00:00",
+            "InventoryReportDate": "2021-06-02T00:00:00",
             "LHDReportedInventory": 7064,
             "Latitude": 37.7183,
             "Longitude": -88.8647,
@@ -3040,11 +3040,29 @@
             "PersonsFullyVaccinatedChange": 44,
             "Population": 67056,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 7304
+            "TotalReportedInventory": 7234
+        },
+        {
+            "AdministeredCount": 43143,
+            "AdministeredCountChange": 77,
+            "AdministeredCountRollAvg": 76.0,
+            "AllocatedDoses": 2070,
+            "CommunityReportedInventory": 170,
+            "CountyName": "Williamson",
+            "InventoryReportDate": "2021-06-02T00:00:00",
+            "LHDReportedInventory": 7064,
+            "Latitude": 37.7183,
+            "Longitude": -88.8647,
+            "PctVaccinatedPopulation": 0.320985445001193,
+            "PersonsFullyVaccinated": 21524,
+            "PersonsFullyVaccinatedChange": 45,
+            "Population": 67056,
+            "Report_Date": "2021-06-02T00:00:00",
+            "TotalReportedInventory": 7234
         }
     ],
     "lastUpdatedDate": {
-        "day": 1,
+        "day": 2,
         "month": 6,
         "year": 2021
     }

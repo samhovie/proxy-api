@@ -4044,11 +4044,20 @@
         {
             "CountyName": "Winnebago",
             "confirmed_cases": 33993,
-            "deaths": 500,
+            "deaths": 499,
             "latitude": 42.3121,
             "longitude": -89.1706,
             "reportDate": "2021-06-09T00:00:00",
             "tested": 441540
+        },
+        {
+            "CountyName": "Winnebago",
+            "confirmed_cases": 34010,
+            "deaths": 500,
+            "latitude": 42.3121,
+            "longitude": -89.1706,
+            "reportDate": "2021-06-10T00:00:00",
+            "tested": 442403
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7311,
+        "AdministeredCount": 7322,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 20.0,
+        "AdministeredCountRollAvg": 16.0,
         "AllocatedDoses": 140,
         "CommunityReportedInventory": 0,
         "CountyName": "Greene",
-        "InventoryReportDate": "2021-06-10T00:00:00",
+        "InventoryReportDate": "2021-06-11T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 39.403,
         "Longitude": -90.3748,
-        "PctVaccinatedPopulation": 0.28081876724931004,
-        "PersonsFullyVaccinated": 3663,
-        "PersonsFullyVaccinatedChange": 3663,
+        "PctVaccinatedPopulation": 0.2814320760502913,
+        "PersonsFullyVaccinated": 3671,
+        "PersonsFullyVaccinatedChange": 3671,
         "Population": 13044,
-        "Report_Date": "2021-06-10T00:00:00",
+        "Report_Date": "2021-06-11T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -3203,10 +3203,28 @@
             "Population": 13044,
             "Report_Date": "2021-06-10T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 7322,
+            "AdministeredCountChange": 11,
+            "AdministeredCountRollAvg": 16.0,
+            "AllocatedDoses": 140,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Greene",
+            "InventoryReportDate": "2021-06-11T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.403,
+            "Longitude": -90.3748,
+            "PctVaccinatedPopulation": 0.2814320760502913,
+            "PersonsFullyVaccinated": 3671,
+            "PersonsFullyVaccinatedChange": 8,
+            "Population": 13044,
+            "Report_Date": "2021-06-11T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 10,
+        "day": 11,
         "month": 6,
         "year": 2021
     }

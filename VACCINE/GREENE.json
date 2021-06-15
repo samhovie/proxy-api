@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7324,
+        "AdministeredCount": 7326,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 14.0,
+        "AdministeredCountRollAvg": 13.0,
         "AllocatedDoses": 140,
         "CommunityReportedInventory": 0,
         "CountyName": "Greene",
-        "InventoryReportDate": "2021-06-12T00:00:00",
+        "InventoryReportDate": "2021-06-13T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 39.403,
         "Longitude": -90.3748,
-        "PctVaccinatedPopulation": 0.281508739650414,
-        "PersonsFullyVaccinated": 3672,
-        "PersonsFullyVaccinatedChange": 3672,
+        "PctVaccinatedPopulation": 0.2816620668506593,
+        "PersonsFullyVaccinated": 3674,
+        "PersonsFullyVaccinatedChange": 3674,
         "Population": 13044,
-        "Report_Date": "2021-06-12T00:00:00",
+        "Report_Date": "2021-06-13T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -3239,10 +3239,28 @@
             "Population": 13044,
             "Report_Date": "2021-06-12T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 7326,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 13.0,
+            "AllocatedDoses": 140,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Greene",
+            "InventoryReportDate": "2021-06-13T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.403,
+            "Longitude": -90.3748,
+            "PctVaccinatedPopulation": 0.2816620668506593,
+            "PersonsFullyVaccinated": 3674,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 13044,
+            "Report_Date": "2021-06-13T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 12,
+        "day": 13,
         "month": 6,
         "year": 2021
     }

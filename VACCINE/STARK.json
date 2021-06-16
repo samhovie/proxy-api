@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 4062,
+        "AdministeredCount": 4076,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 12.0,
+        "AdministeredCountRollAvg": 13.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2021-06-13T00:00:00",
+        "InventoryReportDate": "2021-06-14T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.37037037037037035,
-        "PersonsFullyVaccinated": 2010,
-        "PersonsFullyVaccinatedChange": 2010,
+        "PctVaccinatedPopulation": 0.37276580062649717,
+        "PersonsFullyVaccinated": 2023,
+        "PersonsFullyVaccinatedChange": 2023,
         "Population": 5427,
-        "Report_Date": "2021-06-13T00:00:00",
+        "Report_Date": "2021-06-14T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -3257,10 +3257,28 @@
             "Population": 5427,
             "Report_Date": "2021-06-13T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 4076,
+            "AdministeredCountChange": 14,
+            "AdministeredCountRollAvg": 13.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2021-06-14T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.37276580062649717,
+            "PersonsFullyVaccinated": 2023,
+            "PersonsFullyVaccinatedChange": 13,
+            "Population": 5427,
+            "Report_Date": "2021-06-14T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 13,
+        "day": 14,
         "month": 6,
         "year": 2021
     }

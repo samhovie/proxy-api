@@ -4089,11 +4089,20 @@
         {
             "CountyName": "Crawford",
             "confirmed_cases": 2145,
-            "deaths": 26,
+            "deaths": 25,
             "latitude": 39.05,
             "longitude": -87.7763,
             "reportDate": "2021-06-14T00:00:00",
             "tested": 38412
+        },
+        {
+            "CountyName": "Crawford",
+            "confirmed_cases": 2144,
+            "deaths": 25,
+            "latitude": 39.05,
+            "longitude": -87.7763,
+            "reportDate": "2021-06-15T00:00:00",
+            "tested": 38440
         }
     ]
 }

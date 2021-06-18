@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 11822,
+        "AdministeredCount": 11925,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 26.0,
+        "AdministeredCountRollAvg": 36.0,
         "AllocatedDoses": 240,
-        "CommunityReportedInventory": 340,
+        "CommunityReportedInventory": 320,
         "CountyName": "Warren",
-        "InventoryReportDate": "2021-06-15T00:00:00",
+        "InventoryReportDate": "2021-06-16T00:00:00",
         "LHDReportedInventory": 738,
         "Latitude": 40.8759,
         "Longitude": -90.6773,
-        "PctVaccinatedPopulation": 0.3415335838421794,
-        "PersonsFullyVaccinated": 5817,
-        "PersonsFullyVaccinatedChange": 5817,
+        "PctVaccinatedPopulation": 0.34699389384687646,
+        "PersonsFullyVaccinated": 5910,
+        "PersonsFullyVaccinatedChange": 5910,
         "Population": 17032,
-        "Report_Date": "2021-06-15T00:00:00",
-        "TotalReportedInventory": 1078
+        "Report_Date": "2021-06-16T00:00:00",
+        "TotalReportedInventory": 1058
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 57,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 112,
             "AdministeredCountChange": 55,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 122,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 122,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 122,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 122,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 125,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 139,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 140,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 4.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 140,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 140,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 142,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 170,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 190,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 9.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 224,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 227,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 229,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 229,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 299,
             "AdministeredCountChange": 70,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 333,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 363,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17032,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 385,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 120,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 17032,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 447,
             "AdministeredCountChange": 62,
             "AdministeredCountRollAvg": 31.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 17032,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 447,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 31.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 471,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 35.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 17032,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 484,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 538,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 29.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17032,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 630,
             "AdministeredCountChange": 92,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 17032,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 661,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 17032,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 689,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 35.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 17032,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 696,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 696,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 699,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 31.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 871,
             "AdministeredCountChange": 172,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 929,
             "AdministeredCountChange": 58,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17032,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 948,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 41.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17032,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 988,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 993,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 993,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1053,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 17032,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1064,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 28.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17032,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1265,
             "AdministeredCountChange": 201,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 17032,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1372,
             "AdministeredCountChange": 107,
             "AdministeredCountRollAvg": 61.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 17032,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1401,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 59.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17032,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1413,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1422,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 61.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17032,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1447,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 17032,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1542,
             "AdministeredCountChange": 95,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 17032,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1765,
             "AdministeredCountChange": 223,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 17032,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1810,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17032,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1840,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 17032,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1871,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17032,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1881,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 17032,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1931,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 17032,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 1995,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 17032,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 2225,
             "AdministeredCountChange": 230,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 17032,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 2410,
             "AdministeredCountChange": 185,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 90,
             "Population": 17032,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 2619,
             "AdministeredCountChange": 209,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 17032,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 2768,
             "AdministeredCountChange": 149,
             "AdministeredCountRollAvg": 128.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 17032,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 2804,
             "AdministeredCountChange": 36,
             "AdministeredCountRollAvg": 132.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17032,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 2996,
             "AdministeredCountChange": 192,
             "AdministeredCountRollAvg": 152.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 17032,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 3148,
             "AdministeredCountChange": 152,
             "AdministeredCountRollAvg": 165.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 118,
             "Population": 17032,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 3245,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 146.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 17032,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 3440,
             "AdministeredCountChange": 195,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 17032,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 3581,
             "AdministeredCountChange": 141,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17032,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 3583,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 116.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17032,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 3611,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17032,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 3626,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 90.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17032,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 3641,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17032,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 3828,
             "AdministeredCountChange": 187,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 179,
             "Population": 17032,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 3954,
             "AdministeredCountChange": 126,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 100,
             "Population": 17032,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 4123,
             "AdministeredCountChange": 169,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 17032,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 4152,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 17032,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 4179,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 17032,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 4211,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 17032,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 4226,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 17032,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 4412,
             "AdministeredCountChange": 186,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 17032,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 4471,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 17032,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 4885,
             "AdministeredCountChange": 414,
             "AdministeredCountRollAvg": 109.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 391,
             "Population": 17032,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 5047,
             "AdministeredCountChange": 162,
             "AdministeredCountRollAvg": 128.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 133,
             "Population": 17032,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 5053,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 125.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17032,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 5236,
             "AdministeredCountChange": 183,
             "AdministeredCountRollAvg": 146.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 167,
             "Population": 17032,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 5290,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 152.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 17032,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 5531,
             "AdministeredCountChange": 241,
             "AdministeredCountRollAvg": 160.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 228,
             "Population": 17032,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 5816,
             "AdministeredCountChange": 285,
             "AdministeredCountRollAvg": 192.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 17032,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6129,
             "AdministeredCountChange": 313,
             "AdministeredCountRollAvg": 178.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 284,
             "Population": 17032,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6197,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 164.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 17032,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6238,
             "AdministeredCountChange": 41,
             "AdministeredCountRollAvg": 169.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 17032,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6297,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 152.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 17032,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6372,
             "AdministeredCountChange": 75,
             "AdministeredCountRollAvg": 155.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 17032,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6613,
             "AdministeredCountChange": 241,
             "AdministeredCountRollAvg": 155.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 17032,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6672,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 17032,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6757,
             "AdministeredCountChange": 85,
             "AdministeredCountRollAvg": 90.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 17032,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6793,
             "AdministeredCountChange": 36,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 17032,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6803,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 17032,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6829,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 17032,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 6863,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 17032,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7093,
             "AdministeredCountChange": 230,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 17032,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7133,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 17032,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7298,
             "AdministeredCountChange": 165,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 136,
             "Population": 17032,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7318,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 75.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 17032,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7483,
             "AdministeredCountChange": 165,
             "AdministeredCountRollAvg": 97.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 17032,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7518,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 17032,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7551,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 17032,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7720,
             "AdministeredCountChange": 169,
             "AdministeredCountRollAvg": 90.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 154,
             "Population": 17032,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7769,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 17032,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7831,
             "AdministeredCountChange": 62,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 17032,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7949,
             "AdministeredCountChange": 118,
             "AdministeredCountRollAvg": 90.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 68,
             "Population": 17032,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7960,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 17032,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 7984,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 17032,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 8019,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 17032,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 8178,
             "AdministeredCountChange": 159,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 17032,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 8228,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 17032,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 8521,
             "AdministeredCountChange": 293,
             "AdministeredCountRollAvg": 99.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 276,
             "Population": 17032,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 8683,
             "AdministeredCountChange": 162,
             "AdministeredCountRollAvg": 105.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 150,
             "Population": 17032,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 8694,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 105.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2122,16 +2122,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 17032,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 8731,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 107.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2140,16 +2140,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 17032,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 8773,
             "AdministeredCountChange": 42,
             "AdministeredCountRollAvg": 108.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2158,16 +2158,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 17032,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 8818,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2176,16 +2176,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 17032,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 8868,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2194,16 +2194,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 17032,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9250,
             "AdministeredCountChange": 382,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2212,16 +2212,16 @@
             "PersonsFullyVaccinatedChange": 236,
             "Population": 17032,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9281,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2230,16 +2230,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 17032,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9287,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2248,16 +2248,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17032,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9317,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 84.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2266,16 +2266,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 17032,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9349,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2284,16 +2284,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 17032,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9447,
             "AdministeredCountChange": 98,
             "AdministeredCountRollAvg": 90.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2302,16 +2302,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 17032,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9513,
             "AdministeredCountChange": 66,
             "AdministeredCountRollAvg": 92.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2320,16 +2320,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 17032,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9750,
             "AdministeredCountChange": 237,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2338,16 +2338,16 @@
             "PersonsFullyVaccinatedChange": 229,
             "Population": 17032,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9762,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2356,16 +2356,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 17032,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9783,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2374,16 +2374,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 17032,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9827,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2392,16 +2392,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 17032,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9856,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2410,16 +2410,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 17032,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9928,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2428,16 +2428,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 17032,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 9986,
             "AdministeredCountChange": 58,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2446,16 +2446,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 17032,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10008,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2464,16 +2464,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 17032,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10014,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2482,16 +2482,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 17032,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10093,
             "AdministeredCountChange": 79,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2500,16 +2500,16 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 17032,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10118,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2518,16 +2518,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 17032,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10164,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2536,16 +2536,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 17032,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10283,
             "AdministeredCountChange": 119,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2554,16 +2554,16 @@
             "PersonsFullyVaccinatedChange": 95,
             "Population": 17032,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10297,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2572,16 +2572,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 17032,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10492,
             "AdministeredCountChange": 195,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2590,16 +2590,16 @@
             "PersonsFullyVaccinatedChange": 161,
             "Population": 17032,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10510,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2608,16 +2608,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 17032,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10533,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2626,16 +2626,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 17032,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10552,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2644,16 +2644,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 17032,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10583,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2662,16 +2662,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 17032,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10669,
             "AdministeredCountChange": 86,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2680,16 +2680,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 17032,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10706,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 58.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2698,16 +2698,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 17032,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10799,
             "AdministeredCountChange": 93,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2716,16 +2716,16 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 17032,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10809,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2734,16 +2734,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17032,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10815,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 40.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2752,16 +2752,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17032,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10844,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2770,16 +2770,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 17032,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10883,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2788,16 +2788,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 17032,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 10944,
             "AdministeredCountChange": 61,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2806,16 +2806,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 17032,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11065,
             "AdministeredCountChange": 121,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2824,16 +2824,16 @@
             "PersonsFullyVaccinatedChange": 77,
             "Population": 17032,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11143,
             "AdministeredCountChange": 78,
             "AdministeredCountRollAvg": 49.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2842,16 +2842,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 17032,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11157,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2860,16 +2860,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17032,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11181,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 52.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2878,16 +2878,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 17032,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11199,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2896,16 +2896,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 17032,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11219,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2914,16 +2914,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 17032,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11323,
             "AdministeredCountChange": 104,
             "AdministeredCountRollAvg": 54.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2932,16 +2932,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 17032,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11387,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 46.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2950,16 +2950,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 17032,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11412,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2968,16 +2968,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 17032,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11435,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 40.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -2986,16 +2986,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 17032,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11447,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3004,16 +3004,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17032,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11452,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3022,16 +3022,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17032,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11466,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 35.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3040,16 +3040,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 17032,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11476,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3058,16 +3058,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 17032,
             "Report_Date": "2021-06-02T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11518,
             "AdministeredCountChange": 42,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3076,16 +3076,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 17032,
             "Report_Date": "2021-06-03T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11557,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3094,16 +3094,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 17032,
             "Report_Date": "2021-06-04T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11589,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3112,16 +3112,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 17032,
             "Report_Date": "2021-06-05T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11610,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3130,16 +3130,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 17032,
             "Report_Date": "2021-06-06T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11628,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3148,16 +3148,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 17032,
             "Report_Date": "2021-06-07T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11641,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3166,16 +3166,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17032,
             "Report_Date": "2021-06-08T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11671,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 28.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3184,16 +3184,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 17032,
             "Report_Date": "2021-06-09T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11697,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3202,16 +3202,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 17032,
             "Report_Date": "2021-06-10T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11757,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 29.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3220,16 +3220,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 17032,
             "Report_Date": "2021-06-11T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11760,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3238,16 +3238,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 17032,
             "Report_Date": "2021-06-12T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11774,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3256,16 +3256,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 17032,
             "Report_Date": "2021-06-13T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11794,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3274,16 +3274,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 17032,
             "Report_Date": "2021-06-14T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
         },
         {
             "AdministeredCount": 11822,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 240,
-            "CommunityReportedInventory": 340,
+            "CommunityReportedInventory": 320,
             "CountyName": "Warren",
-            "InventoryReportDate": "2021-06-15T00:00:00",
+            "InventoryReportDate": "2021-06-16T00:00:00",
             "LHDReportedInventory": 738,
             "Latitude": 40.8759,
             "Longitude": -90.6773,
@@ -3292,11 +3292,29 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 17032,
             "Report_Date": "2021-06-15T00:00:00",
-            "TotalReportedInventory": 1078
+            "TotalReportedInventory": 1058
+        },
+        {
+            "AdministeredCount": 11925,
+            "AdministeredCountChange": 103,
+            "AdministeredCountRollAvg": 36.0,
+            "AllocatedDoses": 240,
+            "CommunityReportedInventory": 320,
+            "CountyName": "Warren",
+            "InventoryReportDate": "2021-06-16T00:00:00",
+            "LHDReportedInventory": 738,
+            "Latitude": 40.8759,
+            "Longitude": -90.6773,
+            "PctVaccinatedPopulation": 0.34699389384687646,
+            "PersonsFullyVaccinated": 5910,
+            "PersonsFullyVaccinatedChange": 93,
+            "Population": 17032,
+            "Report_Date": "2021-06-16T00:00:00",
+            "TotalReportedInventory": 1058
         }
     ],
     "lastUpdatedDate": {
-        "day": 15,
+        "day": 16,
         "month": 6,
         "year": 2021
     }

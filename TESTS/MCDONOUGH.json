@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "McDonough",
-            "confirmed_cases": 895,
+            "confirmed_cases": 923,
             "deaths": 24,
             "latitude": 40.3885,
             "longitude": -90.6773,
@@ -4130,6 +4130,33 @@
             "longitude": -90.6773,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 56534
+        },
+        {
+            "CountyName": "McDonough",
+            "confirmed_cases": 2908,
+            "deaths": 51,
+            "latitude": 40.3885,
+            "longitude": -90.6773,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 56593
+        },
+        {
+            "CountyName": "McDonough",
+            "confirmed_cases": 2909,
+            "deaths": 51,
+            "latitude": 40.3885,
+            "longitude": -90.6773,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 56623
+        },
+        {
+            "CountyName": "McDonough",
+            "confirmed_cases": 2910,
+            "deaths": 51,
+            "latitude": 40.3885,
+            "longitude": -90.6773,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 56645
         }
     ]
 }

@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Tazewell",
-            "confirmed_cases": 3321,
+            "confirmed_cases": 3330,
             "deaths": 62,
             "latitude": 40.5522,
             "longitude": -89.4742,
@@ -4130,6 +4130,33 @@
             "longitude": -89.4742,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 251819
+        },
+        {
+            "CountyName": "Tazewell",
+            "confirmed_cases": 17229,
+            "deaths": 305,
+            "latitude": 40.5522,
+            "longitude": -89.4742,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 252312
+        },
+        {
+            "CountyName": "Tazewell",
+            "confirmed_cases": 17231,
+            "deaths": 305,
+            "latitude": 40.5522,
+            "longitude": -89.4742,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 252542
+        },
+        {
+            "CountyName": "Tazewell",
+            "confirmed_cases": 17232,
+            "deaths": 305,
+            "latitude": 40.5522,
+            "longitude": -89.4742,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 252650
         }
     ]
 }

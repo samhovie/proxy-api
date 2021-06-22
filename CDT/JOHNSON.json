@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Johnson",
-            "confirmed_cases": 425,
+            "confirmed_cases": 430,
             "deaths": 0,
             "latitude": 37.4204,
             "longitude": -88.9031,
@@ -4130,6 +4130,33 @@
             "longitude": -88.9031,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 52180
+        },
+        {
+            "CountyName": "Johnson",
+            "confirmed_cases": 1478,
+            "deaths": 16,
+            "latitude": 37.4204,
+            "longitude": -88.9031,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 52208
+        },
+        {
+            "CountyName": "Johnson",
+            "confirmed_cases": 1480,
+            "deaths": 16,
+            "latitude": 37.4204,
+            "longitude": -88.9031,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 52356
+        },
+        {
+            "CountyName": "Johnson",
+            "confirmed_cases": 1481,
+            "deaths": 16,
+            "latitude": 37.4204,
+            "longitude": -88.9031,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 52372
         }
     ]
 }

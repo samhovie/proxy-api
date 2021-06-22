@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Stark",
-            "confirmed_cases": 108,
+            "confirmed_cases": 124,
             "deaths": 3,
             "latitude": 41.0796,
             "longitude": -89.813,
@@ -4130,6 +4130,33 @@
             "longitude": -89.813,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 10277
+        },
+        {
+            "CountyName": "Stark",
+            "confirmed_cases": 648,
+            "deaths": 24,
+            "latitude": 41.0796,
+            "longitude": -89.813,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 10296
+        },
+        {
+            "CountyName": "Stark",
+            "confirmed_cases": 648,
+            "deaths": 24,
+            "latitude": 41.0796,
+            "longitude": -89.813,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 10305
+        },
+        {
+            "CountyName": "Stark",
+            "confirmed_cases": 648,
+            "deaths": 24,
+            "latitude": 41.0796,
+            "longitude": -89.813,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 10310
         }
     ]
 }

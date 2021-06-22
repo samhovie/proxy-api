@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Henderson",
-            "confirmed_cases": 158,
+            "confirmed_cases": 159,
             "deaths": 0,
             "latitude": 40.8336,
             "longitude": -90.9438,
@@ -4130,6 +4130,33 @@
             "longitude": -90.9438,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 7660
+        },
+        {
+            "CountyName": "Henderson",
+            "confirmed_cases": 528,
+            "deaths": 14,
+            "latitude": 40.8336,
+            "longitude": -90.9438,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 7675
+        },
+        {
+            "CountyName": "Henderson",
+            "confirmed_cases": 528,
+            "deaths": 14,
+            "latitude": 40.8336,
+            "longitude": -90.9438,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 7681
+        },
+        {
+            "CountyName": "Henderson",
+            "confirmed_cases": 528,
+            "deaths": 14,
+            "latitude": 40.8336,
+            "longitude": -90.9438,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 7683
         }
     ]
 }

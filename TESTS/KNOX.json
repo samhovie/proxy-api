@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Knox",
-            "confirmed_cases": 1612,
+            "confirmed_cases": 1638,
             "deaths": 25,
             "latitude": 40.8776,
             "longitude": -90.2245,
@@ -4130,6 +4130,33 @@
             "longitude": -90.2245,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 122149
+        },
+        {
+            "CountyName": "Knox",
+            "confirmed_cases": 5644,
+            "deaths": 154,
+            "latitude": 40.8776,
+            "longitude": -90.2245,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 122291
+        },
+        {
+            "CountyName": "Knox",
+            "confirmed_cases": 5646,
+            "deaths": 154,
+            "latitude": 40.8776,
+            "longitude": -90.2245,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 122343
+        },
+        {
+            "CountyName": "Knox",
+            "confirmed_cases": 5647,
+            "deaths": 154,
+            "latitude": 40.8776,
+            "longitude": -90.2245,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 122380
         }
     ]
 }

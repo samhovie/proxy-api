@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Carroll",
-            "confirmed_cases": 620,
+            "confirmed_cases": 623,
             "deaths": 16,
             "latitude": 42.0386,
             "longitude": -89.9627,
@@ -4130,6 +4130,33 @@
             "longitude": -89.9627,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 22615
+        },
+        {
+            "CountyName": "Carroll",
+            "confirmed_cases": 1783,
+            "deaths": 37,
+            "latitude": 42.0386,
+            "longitude": -89.9627,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 22630
+        },
+        {
+            "CountyName": "Carroll",
+            "confirmed_cases": 1785,
+            "deaths": 37,
+            "latitude": 42.0386,
+            "longitude": -89.9627,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 22648
+        },
+        {
+            "CountyName": "Carroll",
+            "confirmed_cases": 1785,
+            "deaths": 37,
+            "latitude": 42.0386,
+            "longitude": -89.9627,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 22657
         }
     ]
 }

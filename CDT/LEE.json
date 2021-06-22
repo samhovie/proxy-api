@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Lee",
-            "confirmed_cases": 1018,
+            "confirmed_cases": 1022,
             "deaths": 4,
             "latitude": 41.679,
             "longitude": -89.3227,
@@ -4130,6 +4130,33 @@
             "longitude": -89.3227,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 106451
+        },
+        {
+            "CountyName": "Lee",
+            "confirmed_cases": 4193,
+            "deaths": 54,
+            "latitude": 41.679,
+            "longitude": -89.3227,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 106569
+        },
+        {
+            "CountyName": "Lee",
+            "confirmed_cases": 4193,
+            "deaths": 54,
+            "latitude": 41.679,
+            "longitude": -89.3227,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 106740
+        },
+        {
+            "CountyName": "Lee",
+            "confirmed_cases": 4193,
+            "deaths": 54,
+            "latitude": 41.679,
+            "longitude": -89.3227,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 106747
         }
     ]
 }

@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Clinton",
-            "confirmed_cases": 2031,
+            "confirmed_cases": 2059,
             "deaths": 35,
             "latitude": 38.5684,
             "longitude": -89.6252,
@@ -4130,6 +4130,33 @@
             "longitude": -89.6252,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 71803
+        },
+        {
+            "CountyName": "Clinton",
+            "confirmed_cases": 5789,
+            "deaths": 91,
+            "latitude": 38.5684,
+            "longitude": -89.6252,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 71988
+        },
+        {
+            "CountyName": "Clinton",
+            "confirmed_cases": 5789,
+            "deaths": 91,
+            "latitude": 38.5684,
+            "longitude": -89.6252,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 72047
+        },
+        {
+            "CountyName": "Clinton",
+            "confirmed_cases": 5789,
+            "deaths": 91,
+            "latitude": 38.5684,
+            "longitude": -89.6252,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 72073
         }
     ]
 }

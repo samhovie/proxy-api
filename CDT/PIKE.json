@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Pike",
-            "confirmed_cases": 535,
+            "confirmed_cases": 566,
             "deaths": 10,
             "latitude": 39.5662,
             "longitude": -90.8294,
@@ -4130,6 +4130,33 @@
             "longitude": -90.8294,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 21593
+        },
+        {
+            "CountyName": "Pike",
+            "confirmed_cases": 1820,
+            "deaths": 53,
+            "latitude": 39.5662,
+            "longitude": -90.8294,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 21613
+        },
+        {
+            "CountyName": "Pike",
+            "confirmed_cases": 1821,
+            "deaths": 53,
+            "latitude": 39.5662,
+            "longitude": -90.8294,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 21730
+        },
+        {
+            "CountyName": "Pike",
+            "confirmed_cases": 1821,
+            "deaths": 53,
+            "latitude": 39.5662,
+            "longitude": -90.8294,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 21736
         }
     ]
 }

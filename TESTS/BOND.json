@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Bond",
-            "confirmed_cases": 586,
+            "confirmed_cases": 590,
             "deaths": 9,
             "latitude": 38.903,
             "longitude": -89.4742,
@@ -4130,6 +4130,33 @@
             "longitude": -89.4742,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 39579
+        },
+        {
+            "CountyName": "Bond",
+            "confirmed_cases": 2087,
+            "deaths": 24,
+            "latitude": 38.903,
+            "longitude": -89.4742,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 39600
+        },
+        {
+            "CountyName": "Bond",
+            "confirmed_cases": 2087,
+            "deaths": 24,
+            "latitude": 38.903,
+            "longitude": -89.4742,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 39610
+        },
+        {
+            "CountyName": "Bond",
+            "confirmed_cases": 2087,
+            "deaths": 24,
+            "latitude": 38.903,
+            "longitude": -89.4742,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 39622
         }
     ]
 }

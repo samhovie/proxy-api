@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Macon",
-            "confirmed_cases": 4001,
+            "confirmed_cases": 4058,
             "deaths": 68,
             "latitude": 39.8949,
             "longitude": -89.0179,
@@ -4130,6 +4130,33 @@
             "longitude": -89.0179,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 196910
+        },
+        {
+            "CountyName": "Macon",
+            "confirmed_cases": 10998,
+            "deaths": 211,
+            "latitude": 39.8949,
+            "longitude": -89.0179,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 197371
+        },
+        {
+            "CountyName": "Macon",
+            "confirmed_cases": 10997,
+            "deaths": 211,
+            "latitude": 39.8949,
+            "longitude": -89.0179,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 197538
+        },
+        {
+            "CountyName": "Macon",
+            "confirmed_cases": 10998,
+            "deaths": 211,
+            "latitude": 39.8949,
+            "longitude": -89.0179,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 197629
         }
     ]
 }

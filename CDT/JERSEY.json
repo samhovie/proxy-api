@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Jersey",
-            "confirmed_cases": 533,
+            "confirmed_cases": 681,
             "deaths": 21,
             "latitude": 39.0705,
             "longitude": -90.3748,
@@ -4130,6 +4130,33 @@
             "longitude": -90.3748,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 34103
+        },
+        {
+            "CountyName": "Jersey",
+            "confirmed_cases": 2717,
+            "deaths": 52,
+            "latitude": 39.0705,
+            "longitude": -90.3748,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 34142
+        },
+        {
+            "CountyName": "Jersey",
+            "confirmed_cases": 2717,
+            "deaths": 52,
+            "latitude": 39.0705,
+            "longitude": -90.3748,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 34162
+        },
+        {
+            "CountyName": "Jersey",
+            "confirmed_cases": 2717,
+            "deaths": 52,
+            "latitude": 39.0705,
+            "longitude": -90.3748,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 34185
         }
     ]
 }

@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Hancock",
-            "confirmed_cases": 425,
+            "confirmed_cases": 446,
             "deaths": 4,
             "latitude": 40.3849,
             "longitude": -91.1353,
@@ -4130,6 +4130,33 @@
             "longitude": -91.1353,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 19940
+        },
+        {
+            "CountyName": "Hancock",
+            "confirmed_cases": 1807,
+            "deaths": 31,
+            "latitude": 40.3849,
+            "longitude": -91.1353,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 19962
+        },
+        {
+            "CountyName": "Hancock",
+            "confirmed_cases": 1809,
+            "deaths": 31,
+            "latitude": 40.3849,
+            "longitude": -91.1353,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 19978
+        },
+        {
+            "CountyName": "Hancock",
+            "confirmed_cases": 1809,
+            "deaths": 31,
+            "latitude": 40.3849,
+            "longitude": -91.1353,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 19983
         }
     ]
 }

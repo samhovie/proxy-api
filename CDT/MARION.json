@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Marion",
-            "confirmed_cases": 1288,
+            "confirmed_cases": 1298,
             "deaths": 25,
             "latitude": 38.7313,
             "longitude": -88.8647,
@@ -4130,6 +4130,33 @@
             "longitude": -88.8647,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 100737
+        },
+        {
+            "CountyName": "Marion",
+            "confirmed_cases": 4513,
+            "deaths": 117,
+            "latitude": 38.7313,
+            "longitude": -88.8647,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 100820
+        },
+        {
+            "CountyName": "Marion",
+            "confirmed_cases": 4513,
+            "deaths": 117,
+            "latitude": 38.7313,
+            "longitude": -88.8647,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 100870
+        },
+        {
+            "CountyName": "Marion",
+            "confirmed_cases": 4515,
+            "deaths": 117,
+            "latitude": 38.7313,
+            "longitude": -88.8647,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 100899
         }
     ]
 }

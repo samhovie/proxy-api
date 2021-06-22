@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Logan",
-            "confirmed_cases": 759,
+            "confirmed_cases": 780,
             "deaths": 5,
             "latitude": 40.0613,
             "longitude": -89.3227,
@@ -4130,6 +4130,33 @@
             "longitude": -89.3227,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 99774
+        },
+        {
+            "CountyName": "Logan",
+            "confirmed_cases": 3978,
+            "deaths": 64,
+            "latitude": 40.0613,
+            "longitude": -89.3227,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 100233
+        },
+        {
+            "CountyName": "Logan",
+            "confirmed_cases": 3980,
+            "deaths": 64,
+            "latitude": 40.0613,
+            "longitude": -89.3227,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 100272
+        },
+        {
+            "CountyName": "Logan",
+            "confirmed_cases": 3983,
+            "deaths": 64,
+            "latitude": 40.0613,
+            "longitude": -89.3227,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 100299
         }
     ]
 }

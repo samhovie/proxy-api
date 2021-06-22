@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Henry",
-            "confirmed_cases": 957,
+            "confirmed_cases": 1193,
             "deaths": 9,
             "latitude": 41.3611,
             "longitude": -90.0747,
@@ -4130,6 +4130,33 @@
             "longitude": -90.0747,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 75445
+        },
+        {
+            "CountyName": "Henry",
+            "confirmed_cases": 5079,
+            "deaths": 70,
+            "latitude": 41.3611,
+            "longitude": -90.0747,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 75530
+        },
+        {
+            "CountyName": "Henry",
+            "confirmed_cases": 5079,
+            "deaths": 70,
+            "latitude": 41.3611,
+            "longitude": -90.0747,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 75582
+        },
+        {
+            "CountyName": "Henry",
+            "confirmed_cases": 5079,
+            "deaths": 70,
+            "latitude": 41.3611,
+            "longitude": -90.0747,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 75610
         }
     ]
 }

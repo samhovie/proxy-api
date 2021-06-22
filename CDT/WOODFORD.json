@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Woodford",
-            "confirmed_cases": 873,
+            "confirmed_cases": 883,
             "deaths": 17,
             "latitude": 40.7129,
             "longitude": -89.1706,
@@ -4130,6 +4130,33 @@
             "longitude": -89.1706,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 80616
+        },
+        {
+            "CountyName": "Woodford",
+            "confirmed_cases": 4838,
+            "deaths": 82,
+            "latitude": 40.7129,
+            "longitude": -89.1706,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 80816
+        },
+        {
+            "CountyName": "Woodford",
+            "confirmed_cases": 4841,
+            "deaths": 82,
+            "latitude": 40.7129,
+            "longitude": -89.1706,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 80868
+        },
+        {
+            "CountyName": "Woodford",
+            "confirmed_cases": 4844,
+            "deaths": 82,
+            "latitude": 40.7129,
+            "longitude": -89.1706,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 80909
         }
     ]
 }

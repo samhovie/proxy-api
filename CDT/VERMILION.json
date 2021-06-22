@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Vermilion",
-            "confirmed_cases": 2128,
+            "confirmed_cases": 2147,
             "deaths": 16,
             "latitude": 40.1225,
             "longitude": -87.6976,
@@ -4130,6 +4130,33 @@
             "longitude": -87.6976,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 168779
+        },
+        {
+            "CountyName": "Vermilion",
+            "confirmed_cases": 10024,
+            "deaths": 142,
+            "latitude": 40.1225,
+            "longitude": -87.6976,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 169073
+        },
+        {
+            "CountyName": "Vermilion",
+            "confirmed_cases": 10026,
+            "deaths": 143,
+            "latitude": 40.1225,
+            "longitude": -87.6976,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 169328
+        },
+        {
+            "CountyName": "Vermilion",
+            "confirmed_cases": 10035,
+            "deaths": 143,
+            "latitude": 40.1225,
+            "longitude": -87.6976,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 169481
         }
     ]
 }

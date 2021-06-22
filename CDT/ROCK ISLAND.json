@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Rock Island",
-            "confirmed_cases": 4935,
+            "confirmed_cases": 5053,
             "deaths": 97,
             "latitude": 41.5095,
             "longitude": -90.5787,
@@ -4130,6 +4130,33 @@
             "longitude": -90.5787,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 226707
+        },
+        {
+            "CountyName": "Rock Island",
+            "confirmed_cases": 15246,
+            "deaths": 329,
+            "latitude": 41.5095,
+            "longitude": -90.5787,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 226896
+        },
+        {
+            "CountyName": "Rock Island",
+            "confirmed_cases": 15247,
+            "deaths": 329,
+            "latitude": 41.5095,
+            "longitude": -90.5787,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 227106
+        },
+        {
+            "CountyName": "Rock Island",
+            "confirmed_cases": 15247,
+            "deaths": 329,
+            "latitude": 41.5095,
+            "longitude": -90.5787,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 227212
         }
     ]
 }

@@ -2099,7 +2099,7 @@
         },
         {
             "CountyName": "Cumberland",
-            "confirmed_cases": 345,
+            "confirmed_cases": 387,
             "deaths": 6,
             "latitude": 39.2654,
             "longitude": -88.2072,
@@ -4130,6 +4130,33 @@
             "longitude": -88.2072,
             "reportDate": "2021-06-18T00:00:00",
             "tested": 13681
+        },
+        {
+            "CountyName": "Cumberland",
+            "confirmed_cases": 1302,
+            "deaths": 19,
+            "latitude": 39.2654,
+            "longitude": -88.2072,
+            "reportDate": "2021-06-19T00:00:00",
+            "tested": 13703
+        },
+        {
+            "CountyName": "Cumberland",
+            "confirmed_cases": 1302,
+            "deaths": 19,
+            "latitude": 39.2654,
+            "longitude": -88.2072,
+            "reportDate": "2021-06-20T00:00:00",
+            "tested": 13715
+        },
+        {
+            "CountyName": "Cumberland",
+            "confirmed_cases": 1302,
+            "deaths": 19,
+            "latitude": 39.2654,
+            "longitude": -88.2072,
+            "reportDate": "2021-06-21T00:00:00",
+            "tested": 13729
         }
     ]
 }

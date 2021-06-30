@@ -4215,11 +4215,20 @@
         {
             "CountyName": "Chicago",
             "confirmed_cases": 285906,
-            "deaths": 5464,
+            "deaths": 5463,
             "latitude": 41.789896,
             "longitude": -87.627734,
             "reportDate": "2021-06-28T00:00:00",
             "tested": 4841361
+        },
+        {
+            "CountyName": "Chicago",
+            "confirmed_cases": 285935,
+            "deaths": 5468,
+            "latitude": 41.789896,
+            "longitude": -87.627734,
+            "reportDate": "2021-06-29T00:00:00",
+            "tested": 4856550
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 4181,
+        "AdministeredCount": 4185,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 7.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2021-06-27T00:00:00",
+        "InventoryReportDate": "2021-06-28T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.3875069098949696,
-        "PersonsFullyVaccinated": 2103,
-        "PersonsFullyVaccinatedChange": 2103,
+        "PctVaccinatedPopulation": 0.3876911737608255,
+        "PersonsFullyVaccinated": 2104,
+        "PersonsFullyVaccinatedChange": 2104,
         "Population": 5427,
-        "Report_Date": "2021-06-27T00:00:00",
+        "Report_Date": "2021-06-28T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -3509,10 +3509,28 @@
             "Population": 5427,
             "Report_Date": "2021-06-27T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 4185,
+            "AdministeredCountChange": 4,
+            "AdministeredCountRollAvg": 7.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2021-06-28T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.3876911737608255,
+            "PersonsFullyVaccinated": 2104,
+            "PersonsFullyVaccinatedChange": 1,
+            "Population": 5427,
+            "Report_Date": "2021-06-28T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 27,
+        "day": 28,
         "month": 6,
         "year": 2021
     }

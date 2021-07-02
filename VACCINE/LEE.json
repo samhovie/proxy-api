@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 30368,
+        "AdministeredCount": 30462,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 75.0,
+        "AdministeredCountRollAvg": 80.0,
         "AllocatedDoses": 0,
-        "CommunityReportedInventory": 1017,
+        "CommunityReportedInventory": 920,
         "CountyName": "Lee",
-        "InventoryReportDate": "2021-06-29T00:00:00",
+        "InventoryReportDate": "2021-06-30T00:00:00",
         "LHDReportedInventory": 780,
         "Latitude": 41.679,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.45112935744966837,
-        "PersonsFullyVaccinated": 15439,
-        "PersonsFullyVaccinatedChange": 15439,
+        "PctVaccinatedPopulation": 0.4529410045875581,
+        "PersonsFullyVaccinated": 15501,
+        "PersonsFullyVaccinatedChange": 15501,
         "Population": 34223,
-        "Report_Date": "2021-06-29T00:00:00",
-        "TotalReportedInventory": 1797
+        "Report_Date": "2021-06-30T00:00:00",
+        "TotalReportedInventory": 1700
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 62,
             "AdministeredCountChange": 61,
             "AdministeredCountRollAvg": 9.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 122,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 127,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 128,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 130,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 146,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 177,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 178,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 178,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 178,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 179,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 183,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 266,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 361,
             "AdministeredCountChange": 95,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 425,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 35.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 430,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 432,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 432,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 450,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 513,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 35.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 698,
             "AdministeredCountChange": 185,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 34223,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 848,
             "AdministeredCountChange": 150,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 88,
             "Population": 34223,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 964,
             "AdministeredCountChange": 116,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 79,
             "Population": 34223,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 985,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 79.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 34223,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 1006,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 34223,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 1014,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 34223,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 1057,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 78.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 34223,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 1117,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 34223,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 1203,
             "AdministeredCountChange": 86,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 34223,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 1457,
             "AdministeredCountChange": 254,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 1468,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 34223,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 1494,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 1530,
             "AdministeredCountChange": 36,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 1661,
             "AdministeredCountChange": 131,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 34223,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 2021,
             "AdministeredCountChange": 360,
             "AdministeredCountRollAvg": 129.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 34223,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 2236,
             "AdministeredCountChange": 215,
             "AdministeredCountRollAvg": 148.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 34223,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 2488,
             "AdministeredCountChange": 252,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 34223,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 2499,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 34223,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 2501,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 144.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 2587,
             "AdministeredCountChange": 86,
             "AdministeredCountRollAvg": 151.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 34223,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 2657,
             "AdministeredCountChange": 70,
             "AdministeredCountRollAvg": 142.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 34223,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 2912,
             "AdministeredCountChange": 255,
             "AdministeredCountRollAvg": 127.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 141,
             "Population": 34223,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 3142,
             "AdministeredCountChange": 230,
             "AdministeredCountRollAvg": 129.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 149,
             "Population": 34223,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 3352,
             "AdministeredCountChange": 210,
             "AdministeredCountRollAvg": 123.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 34223,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 3422,
             "AdministeredCountChange": 70,
             "AdministeredCountRollAvg": 132.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 34223,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 3424,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 132.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 34223,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 3467,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 126.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 34223,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 3555,
             "AdministeredCountChange": 88,
             "AdministeredCountRollAvg": 128.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 34223,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 3862,
             "AdministeredCountChange": 307,
             "AdministeredCountRollAvg": 136.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 34223,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 4063,
             "AdministeredCountChange": 201,
             "AdministeredCountRollAvg": 132.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 128,
             "Population": 34223,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 4158,
             "AdministeredCountChange": 95,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 34223,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 4302,
             "AdministeredCountChange": 144,
             "AdministeredCountRollAvg": 126.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 91,
             "Population": 34223,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 4304,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 126.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34223,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 4374,
             "AdministeredCountChange": 70,
             "AdministeredCountRollAvg": 130.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 34223,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 4558,
             "AdministeredCountChange": 184,
             "AdministeredCountRollAvg": 143.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 34223,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 4638,
             "AdministeredCountChange": 80,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 34223,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 5086,
             "AdministeredCountChange": 448,
             "AdministeredCountRollAvg": 146.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 78,
             "Population": 34223,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 5197,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 148.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 34223,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 5265,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 138.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 34223,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 5310,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 144.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 34223,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 5358,
             "AdministeredCountChange": 48,
             "AdministeredCountRollAvg": 141.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 34223,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 5598,
             "AdministeredCountChange": 240,
             "AdministeredCountRollAvg": 149.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 220,
             "Population": 34223,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 5848,
             "AdministeredCountChange": 250,
             "AdministeredCountRollAvg": 173.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 182,
             "Population": 34223,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 6174,
             "AdministeredCountChange": 326,
             "AdministeredCountRollAvg": 155.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 227,
             "Population": 34223,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 6210,
             "AdministeredCountChange": 36,
             "AdministeredCountRollAvg": 145.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 34223,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 6230,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 138.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 34223,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 6250,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 134.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 34223,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 6429,
             "AdministeredCountChange": 179,
             "AdministeredCountRollAvg": 153.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 34223,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 6457,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 123.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 34223,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 6581,
             "AdministeredCountChange": 124,
             "AdministeredCountRollAvg": 105.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 34223,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 6901,
             "AdministeredCountChange": 320,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 197,
             "Population": 34223,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 7077,
             "AdministeredCountChange": 176,
             "AdministeredCountRollAvg": 124.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 133,
             "Population": 34223,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 7388,
             "AdministeredCountChange": 311,
             "AdministeredCountRollAvg": 165.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 286,
             "Population": 34223,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 7435,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 169.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 34223,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 7477,
             "AdministeredCountChange": 42,
             "AdministeredCountRollAvg": 150.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 34223,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 7594,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 162.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 34223,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 7889,
             "AdministeredCountChange": 295,
             "AdministeredCountRollAvg": 187.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 239,
             "Population": 34223,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 8239,
             "AdministeredCountChange": 350,
             "AdministeredCountRollAvg": 191.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 95,
             "Population": 34223,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 8540,
             "AdministeredCountChange": 301,
             "AdministeredCountRollAvg": 209.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 34223,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 8748,
             "AdministeredCountChange": 208,
             "AdministeredCountRollAvg": 194.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 34223,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 8761,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 189.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 34223,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 8871,
             "AdministeredCountChange": 110,
             "AdministeredCountRollAvg": 199.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 52,
             "Population": 34223,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 9726,
             "AdministeredCountChange": 855,
             "AdministeredCountRollAvg": 305.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 34223,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 10108,
             "AdministeredCountChange": 382,
             "AdministeredCountRollAvg": 317.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 34223,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 10608,
             "AdministeredCountChange": 500,
             "AdministeredCountRollAvg": 338.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 350,
             "Population": 34223,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 10931,
             "AdministeredCountChange": 323,
             "AdministeredCountRollAvg": 342.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 87,
             "Population": 34223,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 11262,
             "AdministeredCountChange": 331,
             "AdministeredCountRollAvg": 359.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 269,
             "Population": 34223,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 11316,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 365.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 34223,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 11370,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 357.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 34223,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 11486,
             "AdministeredCountChange": 116,
             "AdministeredCountRollAvg": 251.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 34223,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 11739,
             "AdministeredCountChange": 253,
             "AdministeredCountRollAvg": 233.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 34223,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 12456,
             "AdministeredCountChange": 717,
             "AdministeredCountRollAvg": 264.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 83,
             "Population": 34223,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 12742,
             "AdministeredCountChange": 286,
             "AdministeredCountRollAvg": 259.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 34223,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 12819,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 222.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 34223,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 12868,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 222.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 34223,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 12974,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 229.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 74,
             "Population": 34223,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 13080,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 228.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 34223,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 13384,
             "AdministeredCountChange": 304,
             "AdministeredCountRollAvg": 235.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 34223,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 13885,
             "AdministeredCountChange": 501,
             "AdministeredCountRollAvg": 204.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 34223,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 15938,
             "AdministeredCountChange": 2053,
             "AdministeredCountRollAvg": 457.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 1281,
             "Population": 34223,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 16089,
             "AdministeredCountChange": 151,
             "AdministeredCountRollAvg": 467.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 96,
             "Population": 34223,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 16121,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 465.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 34223,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 16184,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 459.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 34223,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 16296,
             "AdministeredCountChange": 112,
             "AdministeredCountRollAvg": 459.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 34223,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 16581,
             "AdministeredCountChange": 285,
             "AdministeredCountRollAvg": 457.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 84,
             "Population": 34223,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 16969,
             "AdministeredCountChange": 388,
             "AdministeredCountRollAvg": 441.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 304,
             "Population": 34223,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 17168,
             "AdministeredCountChange": 199,
             "AdministeredCountRollAvg": 176.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 94,
             "Population": 34223,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 17734,
             "AdministeredCountChange": 566,
             "AdministeredCountRollAvg": 235.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 524,
             "Population": 34223,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 17752,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 233.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 34223,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 17831,
             "AdministeredCountChange": 79,
             "AdministeredCountRollAvg": 235.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 34223,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 18084,
             "AdministeredCountChange": 253,
             "AdministeredCountRollAvg": 255.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 34223,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 18512,
             "AdministeredCountChange": 428,
             "AdministeredCountRollAvg": 276.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 303,
             "Population": 34223,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 19006,
             "AdministeredCountChange": 494,
             "AdministeredCountRollAvg": 291.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 435,
             "Population": 34223,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 19384,
             "AdministeredCountChange": 378,
             "AdministeredCountRollAvg": 317.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 313,
             "Population": 34223,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 19531,
             "AdministeredCountChange": 147,
             "AdministeredCountRollAvg": 257.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 98,
             "Population": 34223,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 19591,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 263.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2122,16 +2122,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 34223,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 19828,
             "AdministeredCountChange": 237,
             "AdministeredCountRollAvg": 285.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2140,16 +2140,16 @@
             "PersonsFullyVaccinatedChange": 189,
             "Population": 34223,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 20125,
             "AdministeredCountChange": 297,
             "AdministeredCountRollAvg": 292.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2158,16 +2158,16 @@
             "PersonsFullyVaccinatedChange": 223,
             "Population": 34223,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 20421,
             "AdministeredCountChange": 296,
             "AdministeredCountRollAvg": 273.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2176,16 +2176,16 @@
             "PersonsFullyVaccinatedChange": 236,
             "Population": 34223,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 21095,
             "AdministeredCountChange": 674,
             "AdministeredCountRollAvg": 298.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2194,16 +2194,16 @@
             "PersonsFullyVaccinatedChange": 590,
             "Population": 34223,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 21500,
             "AdministeredCountChange": 405,
             "AdministeredCountRollAvg": 302.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2212,16 +2212,16 @@
             "PersonsFullyVaccinatedChange": 306,
             "Population": 34223,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 21772,
             "AdministeredCountChange": 272,
             "AdministeredCountRollAvg": 320.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2230,16 +2230,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 34223,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 21830,
             "AdministeredCountChange": 58,
             "AdministeredCountRollAvg": 320.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2248,16 +2248,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 34223,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 21899,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 296.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2266,16 +2266,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 34223,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 22250,
             "AdministeredCountChange": 351,
             "AdministeredCountRollAvg": 304.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2284,16 +2284,16 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 34223,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 22662,
             "AdministeredCountChange": 412,
             "AdministeredCountRollAvg": 320.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2302,16 +2302,16 @@
             "PersonsFullyVaccinatedChange": 252,
             "Population": 34223,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 23151,
             "AdministeredCountChange": 489,
             "AdministeredCountRollAvg": 294.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2320,16 +2320,16 @@
             "PersonsFullyVaccinatedChange": 387,
             "Population": 34223,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 23518,
             "AdministeredCountChange": 367,
             "AdministeredCountRollAvg": 288.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2338,16 +2338,16 @@
             "PersonsFullyVaccinatedChange": 298,
             "Population": 34223,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 23612,
             "AdministeredCountChange": 94,
             "AdministeredCountRollAvg": 263.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2356,16 +2356,16 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 34223,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 23705,
             "AdministeredCountChange": 93,
             "AdministeredCountRollAvg": 268.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2374,16 +2374,16 @@
             "PersonsFullyVaccinatedChange": 52,
             "Population": 34223,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 23782,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 269.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2392,16 +2392,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 34223,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 23888,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 234.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2410,16 +2410,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 34223,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 24200,
             "AdministeredCountChange": 312,
             "AdministeredCountRollAvg": 220.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2428,16 +2428,16 @@
             "PersonsFullyVaccinatedChange": 223,
             "Population": 34223,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 24337,
             "AdministeredCountChange": 137,
             "AdministeredCountRollAvg": 169.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2446,16 +2446,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 34223,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 24474,
             "AdministeredCountChange": 137,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2464,16 +2464,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 34223,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 24499,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 127.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2482,16 +2482,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 34223,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 24510,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2500,16 +2500,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 34223,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 24549,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 110.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2518,16 +2518,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 34223,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 25132,
             "AdministeredCountChange": 583,
             "AdministeredCountRollAvg": 178.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2536,16 +2536,16 @@
             "PersonsFullyVaccinatedChange": 390,
             "Population": 34223,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 25281,
             "AdministeredCountChange": 149,
             "AdministeredCountRollAvg": 154.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2554,16 +2554,16 @@
             "PersonsFullyVaccinatedChange": 97,
             "Population": 34223,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 25355,
             "AdministeredCountChange": 74,
             "AdministeredCountRollAvg": 145.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2572,16 +2572,16 @@
             "PersonsFullyVaccinatedChange": 52,
             "Population": 34223,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 25455,
             "AdministeredCountChange": 100,
             "AdministeredCountRollAvg": 140.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2590,16 +2590,16 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 34223,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 25687,
             "AdministeredCountChange": 232,
             "AdministeredCountRollAvg": 170.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2608,16 +2608,16 @@
             "PersonsFullyVaccinatedChange": 201,
             "Population": 34223,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 25775,
             "AdministeredCountChange": 88,
             "AdministeredCountRollAvg": 181.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2626,16 +2626,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 34223,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 25851,
             "AdministeredCountChange": 76,
             "AdministeredCountRollAvg": 186.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2644,16 +2644,16 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 34223,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 25948,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 117.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2662,16 +2662,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 34223,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 26059,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2680,16 +2680,16 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 34223,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 26185,
             "AdministeredCountChange": 126,
             "AdministeredCountRollAvg": 119.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2698,16 +2698,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 34223,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 26418,
             "AdministeredCountChange": 233,
             "AdministeredCountRollAvg": 138.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2716,16 +2716,16 @@
             "PersonsFullyVaccinatedChange": 154,
             "Population": 34223,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 26455,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 110.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2734,16 +2734,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 34223,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 26486,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2752,16 +2752,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 34223,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 26744,
             "AdministeredCountChange": 258,
             "AdministeredCountRollAvg": 128.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2770,16 +2770,16 @@
             "PersonsFullyVaccinatedChange": 206,
             "Population": 34223,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 26931,
             "AdministeredCountChange": 187,
             "AdministeredCountRollAvg": 140.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2788,16 +2788,16 @@
             "PersonsFullyVaccinatedChange": 130,
             "Population": 34223,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 27234,
             "AdministeredCountChange": 303,
             "AdministeredCountRollAvg": 168.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2806,16 +2806,16 @@
             "PersonsFullyVaccinatedChange": 185,
             "Population": 34223,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 27482,
             "AdministeredCountChange": 248,
             "AdministeredCountRollAvg": 185.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2824,16 +2824,16 @@
             "PersonsFullyVaccinatedChange": 131,
             "Population": 34223,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 27583,
             "AdministeredCountChange": 101,
             "AdministeredCountRollAvg": 166.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2842,16 +2842,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 34223,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 27641,
             "AdministeredCountChange": 58,
             "AdministeredCountRollAvg": 169.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2860,16 +2860,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 34223,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 27671,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 169.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2878,16 +2878,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 34223,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 27718,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 139.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2896,16 +2896,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 34223,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 27835,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 129.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2914,16 +2914,16 @@
             "PersonsFullyVaccinatedChange": 78,
             "Population": 34223,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 27941,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 101.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2932,16 +2932,16 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 34223,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28091,
             "AdministeredCountChange": 150,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2950,16 +2950,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 34223,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28194,
             "AdministeredCountChange": 103,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2968,16 +2968,16 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 34223,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28258,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -2986,16 +2986,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 34223,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28290,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3004,16 +3004,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 34223,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28310,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3022,16 +3022,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 34223,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28330,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3040,16 +3040,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 34223,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28420,
             "AdministeredCountChange": 90,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3058,16 +3058,16 @@
             "PersonsFullyVaccinatedChange": 65,
             "Population": 34223,
             "Report_Date": "2021-06-02T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28533,
             "AdministeredCountChange": 113,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3076,16 +3076,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 34223,
             "Report_Date": "2021-06-03T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28651,
             "AdministeredCountChange": 118,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3094,16 +3094,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 34223,
             "Report_Date": "2021-06-04T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28710,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3112,16 +3112,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 34223,
             "Report_Date": "2021-06-05T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28749,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3130,16 +3130,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 34223,
             "Report_Date": "2021-06-06T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28846,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3148,16 +3148,16 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 34223,
             "Report_Date": "2021-06-07T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 28947,
             "AdministeredCountChange": 101,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3166,16 +3166,16 @@
             "PersonsFullyVaccinatedChange": 68,
             "Population": 34223,
             "Report_Date": "2021-06-08T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29103,
             "AdministeredCountChange": 156,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3184,16 +3184,16 @@
             "PersonsFullyVaccinatedChange": 114,
             "Population": 34223,
             "Report_Date": "2021-06-09T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29248,
             "AdministeredCountChange": 145,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3202,16 +3202,16 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 34223,
             "Report_Date": "2021-06-10T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29313,
             "AdministeredCountChange": 65,
             "AdministeredCountRollAvg": 95.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3220,16 +3220,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 34223,
             "Report_Date": "2021-06-11T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29326,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3238,16 +3238,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 34223,
             "Report_Date": "2021-06-12T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29353,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3256,16 +3256,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 34223,
             "Report_Date": "2021-06-13T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29397,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 79.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3274,16 +3274,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 34223,
             "Report_Date": "2021-06-14T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29476,
             "AdministeredCountChange": 79,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3292,16 +3292,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 34223,
             "Report_Date": "2021-06-15T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29533,
             "AdministeredCountChange": 57,
             "AdministeredCountRollAvg": 61.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3310,16 +3310,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 34223,
             "Report_Date": "2021-06-16T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29645,
             "AdministeredCountChange": 112,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3328,16 +3328,16 @@
             "PersonsFullyVaccinatedChange": 83,
             "Population": 34223,
             "Report_Date": "2021-06-17T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29680,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 52.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3346,16 +3346,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 34223,
             "Report_Date": "2021-06-18T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29743,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3364,16 +3364,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 34223,
             "Report_Date": "2021-06-19T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29772,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3382,16 +3382,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 34223,
             "Report_Date": "2021-06-20T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29797,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3400,16 +3400,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 34223,
             "Report_Date": "2021-06-21T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29846,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 53.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3418,16 +3418,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 34223,
             "Report_Date": "2021-06-22T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 29899,
             "AdministeredCountChange": 53,
             "AdministeredCountRollAvg": 52.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3436,16 +3436,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 34223,
             "Report_Date": "2021-06-23T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 30005,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3454,16 +3454,16 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 34223,
             "Report_Date": "2021-06-24T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 30117,
             "AdministeredCountChange": 112,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3472,16 +3472,16 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 34223,
             "Report_Date": "2021-06-25T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 30263,
             "AdministeredCountChange": 146,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3490,16 +3490,16 @@
             "PersonsFullyVaccinatedChange": 98,
             "Population": 34223,
             "Report_Date": "2021-06-26T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 30278,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3508,16 +3508,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 34223,
             "Report_Date": "2021-06-27T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 30312,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3526,16 +3526,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 34223,
             "Report_Date": "2021-06-28T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
         },
         {
             "AdministeredCount": 30368,
             "AdministeredCountChange": 56,
             "AdministeredCountRollAvg": 75.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1017,
+            "CommunityReportedInventory": 920,
             "CountyName": "Lee",
-            "InventoryReportDate": "2021-06-29T00:00:00",
+            "InventoryReportDate": "2021-06-30T00:00:00",
             "LHDReportedInventory": 780,
             "Latitude": 41.679,
             "Longitude": -89.3227,
@@ -3544,11 +3544,29 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 34223,
             "Report_Date": "2021-06-29T00:00:00",
-            "TotalReportedInventory": 1797
+            "TotalReportedInventory": 1700
+        },
+        {
+            "AdministeredCount": 30462,
+            "AdministeredCountChange": 94,
+            "AdministeredCountRollAvg": 80.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 920,
+            "CountyName": "Lee",
+            "InventoryReportDate": "2021-06-30T00:00:00",
+            "LHDReportedInventory": 780,
+            "Latitude": 41.679,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.4529410045875581,
+            "PersonsFullyVaccinated": 15501,
+            "PersonsFullyVaccinatedChange": 62,
+            "Population": 34223,
+            "Report_Date": "2021-06-30T00:00:00",
+            "TotalReportedInventory": 1700
         }
     ],
     "lastUpdatedDate": {
-        "day": 29,
+        "day": 30,
         "month": 6,
         "year": 2021
     }

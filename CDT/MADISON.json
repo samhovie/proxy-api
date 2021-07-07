@@ -4259,7 +4259,7 @@
         },
         {
             "CountyName": "Madison",
-            "confirmed_cases": 25451,
+            "confirmed_cases": 31195,
             "deaths": 532,
             "latitude": 38.9041,
             "longitude": -89.9253,
@@ -4268,7 +4268,7 @@
         },
         {
             "CountyName": "Madison",
-            "confirmed_cases": 25457,
+            "confirmed_cases": 31204,
             "deaths": 532,
             "latitude": 38.9041,
             "longitude": -89.9253,
@@ -4277,12 +4277,21 @@
         },
         {
             "CountyName": "Madison",
-            "confirmed_cases": 25461,
+            "confirmed_cases": 31213,
             "deaths": 532,
             "latitude": 38.9041,
             "longitude": -89.9253,
             "reportDate": "2021-07-05T00:00:00",
             "tested": 346019
+        },
+        {
+            "CountyName": "Madison",
+            "confirmed_cases": 31242,
+            "deaths": 532,
+            "latitude": 38.9041,
+            "longitude": -89.9253,
+            "reportDate": "2021-07-06T00:00:00",
+            "tested": 346426
         }
     ]
 }

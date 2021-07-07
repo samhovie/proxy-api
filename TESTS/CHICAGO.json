@@ -4259,7 +4259,7 @@
         },
         {
             "CountyName": "Chicago",
-            "confirmed_cases": 274452,
+            "confirmed_cases": 286091,
             "deaths": 5470,
             "latitude": 41.789896,
             "longitude": -87.627734,
@@ -4268,7 +4268,7 @@
         },
         {
             "CountyName": "Chicago",
-            "confirmed_cases": 274456,
+            "confirmed_cases": 286096,
             "deaths": 5471,
             "latitude": 41.789896,
             "longitude": -87.627734,
@@ -4277,12 +4277,21 @@
         },
         {
             "CountyName": "Chicago",
-            "confirmed_cases": 274465,
+            "confirmed_cases": 286105,
             "deaths": 5471,
             "latitude": 41.789896,
             "longitude": -87.627734,
             "reportDate": "2021-07-05T00:00:00",
             "tested": 4903181
+        },
+        {
+            "CountyName": "Chicago",
+            "confirmed_cases": 286204,
+            "deaths": 5476,
+            "latitude": 41.789896,
+            "longitude": -87.627734,
+            "reportDate": "2021-07-06T00:00:00",
+            "tested": 4915242
         }
     ]
 }

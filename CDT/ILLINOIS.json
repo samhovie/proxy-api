@@ -4259,7 +4259,7 @@
         },
         {
             "CountyName": "Illinois",
-            "confirmed_cases": 1257373,
+            "confirmed_cases": 1392971,
             "deaths": 23252,
             "latitude": 39.839888,
             "longitude": -89.510168,
@@ -4268,8 +4268,8 @@
         },
         {
             "CountyName": "Illinois",
-            "confirmed_cases": 1257448,
-            "deaths": 23257,
+            "confirmed_cases": 1393055,
+            "deaths": 23256,
             "latitude": 39.839888,
             "longitude": -89.510168,
             "reportDate": "2021-07-04T00:00:00",
@@ -4277,12 +4277,21 @@
         },
         {
             "CountyName": "Illinois",
-            "confirmed_cases": 1257548,
+            "confirmed_cases": 1393172,
             "deaths": 23256,
             "latitude": 39.839888,
             "longitude": -89.510168,
             "reportDate": "2021-07-05T00:00:00",
             "tested": 25922849
+        },
+        {
+            "CountyName": "Illinois",
+            "confirmed_cases": 1393773,
+            "deaths": 23272,
+            "latitude": 39.839888,
+            "longitude": -89.510168,
+            "reportDate": "2021-07-06T00:00:00",
+            "tested": 25962476
         }
     ]
 }

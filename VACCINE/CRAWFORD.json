@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 12982,
+        "AdministeredCount": 13052,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 11.0,
+        "AdministeredCountRollAvg": 16.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 30,
         "CountyName": "Crawford",
-        "InventoryReportDate": "2021-07-01T00:00:00",
-        "LHDReportedInventory": 238,
+        "InventoryReportDate": "2021-07-05T00:00:00",
+        "LHDReportedInventory": 608,
         "Latitude": 39.05,
         "Longitude": -87.7763,
-        "PctVaccinatedPopulation": 0.34152177380762483,
-        "PersonsFullyVaccinated": 6423,
-        "PersonsFullyVaccinatedChange": 6423,
+        "PctVaccinatedPopulation": 0.3426915510182379,
+        "PersonsFullyVaccinated": 6445,
+        "PersonsFullyVaccinatedChange": 6445,
         "Population": 18807,
-        "Report_Date": "2021-07-01T00:00:00",
-        "TotalReportedInventory": 268
+        "Report_Date": "2021-07-05T00:00:00",
+        "TotalReportedInventory": 638
     },
     "VaccineAdministration": [
         {
@@ -25,8 +25,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -34,7 +34,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1,
@@ -43,8 +43,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -52,7 +52,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1,
@@ -61,8 +61,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -70,7 +70,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1,
@@ -79,8 +79,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -88,7 +88,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1,
@@ -97,8 +97,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -106,7 +106,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1,
@@ -115,8 +115,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -124,7 +124,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1,
@@ -133,8 +133,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -142,7 +142,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2,
@@ -151,8 +151,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -160,7 +160,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2,
@@ -169,8 +169,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -178,7 +178,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3,
@@ -187,8 +187,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -196,7 +196,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 47,
@@ -205,8 +205,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -214,7 +214,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 87,
@@ -223,8 +223,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -232,7 +232,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 121,
@@ -241,8 +241,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -250,7 +250,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 156,
@@ -259,8 +259,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -268,7 +268,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 205,
@@ -277,8 +277,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -286,7 +286,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 206,
@@ -295,8 +295,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -304,7 +304,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 272,
@@ -313,8 +313,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -322,7 +322,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 272,
@@ -331,8 +331,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -340,7 +340,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 272,
@@ -349,8 +349,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -358,7 +358,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 272,
@@ -367,8 +367,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -376,7 +376,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 278,
@@ -385,8 +385,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0,
@@ -394,7 +394,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 309,
@@ -403,8 +403,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 5.317169139150316e-05,
@@ -412,7 +412,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 323,
@@ -421,8 +421,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 5.317169139150316e-05,
@@ -430,7 +430,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 325,
@@ -439,8 +439,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -448,7 +448,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 325,
@@ -457,8 +457,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -466,7 +466,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 330,
@@ -475,8 +475,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -484,7 +484,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 331,
@@ -493,8 +493,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -502,7 +502,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 331,
@@ -511,8 +511,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -520,7 +520,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 341,
@@ -529,8 +529,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -538,7 +538,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 424,
@@ -547,8 +547,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -556,7 +556,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 527,
@@ -565,8 +565,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -574,7 +574,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 529,
@@ -583,8 +583,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -592,7 +592,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 532,
@@ -601,8 +601,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -610,7 +610,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 543,
@@ -619,8 +619,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -628,7 +628,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 545,
@@ -637,8 +637,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00010634338278300632,
@@ -646,7 +646,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 582,
@@ -655,8 +655,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00021268676556601265,
@@ -664,7 +664,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 18807,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 614,
@@ -673,8 +673,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00021268676556601265,
@@ -682,7 +682,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 614,
@@ -691,8 +691,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00021268676556601265,
@@ -700,7 +700,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 614,
@@ -709,8 +709,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00021268676556601265,
@@ -718,7 +718,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 653,
@@ -727,8 +727,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.002286382729834636,
@@ -736,7 +736,7 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 18807,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 670,
@@ -745,8 +745,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.002392726112617642,
@@ -754,7 +754,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 18807,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 821,
@@ -763,8 +763,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.00622108789280587,
@@ -772,7 +772,7 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 18807,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 864,
@@ -781,8 +781,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.007125006646461424,
@@ -790,7 +790,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 18807,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1018,
@@ -799,8 +799,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.012016802254479715,
@@ -808,7 +808,7 @@
             "PersonsFullyVaccinatedChange": 92,
             "Population": 18807,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1419,
@@ -817,8 +817,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.014037326527356835,
@@ -826,7 +826,7 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 18807,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1601,
@@ -835,8 +835,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.01563247726910193,
@@ -844,7 +844,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 18807,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1606,
@@ -853,8 +853,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.01563247726910193,
@@ -862,7 +862,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1637,
@@ -871,8 +871,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.01563247726910193,
@@ -880,7 +880,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1915,
@@ -889,8 +889,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.01579199234327644,
@@ -898,7 +898,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 1985,
@@ -907,8 +907,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.017387143085021536,
@@ -916,7 +916,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 18807,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2073,
@@ -925,8 +925,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.017599829850587546,
@@ -934,7 +934,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 18807,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2077,
@@ -943,8 +943,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.017706173233370554,
@@ -952,7 +952,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 18807,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2079,
@@ -961,8 +961,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.017759344924762055,
@@ -970,7 +970,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2172,
@@ -979,8 +979,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.017759344924762055,
@@ -988,7 +988,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2184,
@@ -997,8 +997,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.01781251661615356,
@@ -1006,7 +1006,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2234,
@@ -1015,8 +1015,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.02047110118572872,
@@ -1024,7 +1024,7 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 18807,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2437,
@@ -1033,8 +1033,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.02052427287712022,
@@ -1042,7 +1042,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2468,
@@ -1051,8 +1051,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.0218535651619078,
@@ -1060,7 +1060,7 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 18807,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 2676,
@@ -1069,8 +1069,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.02435263465730845,
@@ -1078,7 +1078,7 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 18807,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3331,
@@ -1087,8 +1087,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.02759610783219014,
@@ -1096,7 +1096,7 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 18807,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3599,
@@ -1105,8 +1105,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.02759610783219014,
@@ -1114,7 +1114,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3601,
@@ -1123,8 +1123,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.02759610783219014,
@@ -1132,7 +1132,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3611,
@@ -1141,8 +1141,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.027649279523581646,
@@ -1150,7 +1150,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3715,
@@ -1159,8 +1159,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.028819056734194715,
@@ -1168,7 +1168,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 18807,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3871,
@@ -1177,8 +1177,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.02892540011697772,
@@ -1186,7 +1186,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 18807,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3873,
@@ -1195,8 +1195,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.029031743499760728,
@@ -1204,7 +1204,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 18807,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3879,
@@ -1213,8 +1213,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.02908491519115223,
@@ -1222,7 +1222,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3882,
@@ -1231,8 +1231,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.02908491519115223,
@@ -1240,7 +1240,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3882,
@@ -1249,8 +1249,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.02908491519115223,
@@ -1258,7 +1258,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 3900,
@@ -1267,8 +1267,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.029988833944807784,
@@ -1276,7 +1276,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 18807,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 4023,
@@ -1285,8 +1285,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.03573137661509013,
@@ -1294,7 +1294,7 @@
             "PersonsFullyVaccinatedChange": 108,
             "Population": 18807,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 4121,
@@ -1303,8 +1303,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.040091455309193384,
@@ -1312,7 +1312,7 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 18807,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 4315,
@@ -1321,8 +1321,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.04929015791992343,
@@ -1330,7 +1330,7 @@
             "PersonsFullyVaccinatedChange": 173,
             "Population": 18807,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 4737,
@@ -1339,8 +1339,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.06981443079704365,
@@ -1348,7 +1348,7 @@
             "PersonsFullyVaccinatedChange": 386,
             "Population": 18807,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 4783,
@@ -1357,8 +1357,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.07183495506992077,
@@ -1366,7 +1366,7 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 18807,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 4808,
@@ -1375,8 +1375,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.07231350029244431,
@@ -1384,7 +1384,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 18807,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 5297,
@@ -1393,8 +1393,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.09129579411921093,
@@ -1402,7 +1402,7 @@
             "PersonsFullyVaccinatedChange": 357,
             "Population": 18807,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 5320,
@@ -1411,8 +1411,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.09193385441590897,
@@ -1420,7 +1420,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 18807,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 5629,
@@ -1429,8 +1429,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.09198702610730047,
@@ -1438,7 +1438,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 6162,
@@ -1447,8 +1447,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.11990216408783963,
@@ -1456,7 +1456,7 @@
             "PersonsFullyVaccinatedChange": 525,
             "Population": 18807,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 6508,
@@ -1465,8 +1465,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.1378741957781677,
@@ -1474,7 +1474,7 @@
             "PersonsFullyVaccinatedChange": 338,
             "Population": 18807,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 6651,
@@ -1483,8 +1483,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.1449460307332376,
@@ -1492,7 +1492,7 @@
             "PersonsFullyVaccinatedChange": 133,
             "Population": 18807,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 6680,
@@ -1501,8 +1501,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.14521188919019515,
@@ -1510,7 +1510,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 18807,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 6789,
@@ -1519,8 +1519,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.14574360610411016,
@@ -1528,7 +1528,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 18807,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 7298,
@@ -1537,8 +1537,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.15547402562875526,
@@ -1546,7 +1546,7 @@
             "PersonsFullyVaccinatedChange": 183,
             "Population": 18807,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 7459,
@@ -1555,8 +1555,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.1629712341149572,
@@ -1564,7 +1564,7 @@
             "PersonsFullyVaccinatedChange": 141,
             "Population": 18807,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 7663,
@@ -1573,8 +1573,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.1648322433136598,
@@ -1582,7 +1582,7 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 18807,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 7667,
@@ -1591,8 +1591,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.1648854150050513,
@@ -1600,7 +1600,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 7689,
@@ -1609,8 +1609,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.16520444515340033,
@@ -1618,7 +1618,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 18807,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 7704,
@@ -1627,8 +1627,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.16525761684479184,
@@ -1636,7 +1636,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 7773,
@@ -1645,8 +1645,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.16552347530174935,
@@ -1654,7 +1654,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 18807,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 7949,
@@ -1663,8 +1663,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.1695645238475036,
@@ -1672,7 +1672,7 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 18807,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 7985,
@@ -1681,8 +1681,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.17084064444089966,
@@ -1690,7 +1690,7 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 18807,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8012,
@@ -1699,8 +1699,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.17201042165151273,
@@ -1708,7 +1708,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 18807,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8166,
@@ -1717,8 +1717,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.17216993672568726,
@@ -1726,7 +1726,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8207,
@@ -1735,8 +1735,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.17243579518264476,
@@ -1744,7 +1744,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 18807,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8237,
@@ -1753,8 +1753,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.17254213856542777,
@@ -1762,7 +1762,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 18807,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8263,
@@ -1771,8 +1771,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.1729143404051683,
@@ -1780,7 +1780,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 18807,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8354,
@@ -1789,8 +1789,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.176476843728399,
@@ -1798,7 +1798,7 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 18807,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8454,
@@ -1807,8 +1807,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.17764662093901207,
@@ -1816,7 +1816,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 18807,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8466,
@@ -1825,8 +1825,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.1780719944701441,
@@ -1834,7 +1834,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 18807,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8553,
@@ -1843,8 +1843,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.17961397352049768,
@@ -1852,7 +1852,7 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 18807,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8567,
@@ -1861,8 +1861,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.18019886212580422,
@@ -1870,7 +1870,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 18807,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8613,
@@ -1879,8 +1879,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.18237890147285585,
@@ -1888,7 +1888,7 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 18807,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 8895,
@@ -1897,8 +1897,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.18918487797096825,
@@ -1906,7 +1906,7 @@
             "PersonsFullyVaccinatedChange": 128,
             "Population": 18807,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 9008,
@@ -1915,8 +1915,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.19450204711011856,
@@ -1924,7 +1924,7 @@
             "PersonsFullyVaccinatedChange": 100,
             "Population": 18807,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 9401,
@@ -1933,8 +1933,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.21130430158983357,
@@ -1942,7 +1942,7 @@
             "PersonsFullyVaccinatedChange": 316,
             "Population": 18807,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 9409,
@@ -1951,8 +1951,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2116765034295741,
@@ -1960,7 +1960,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 18807,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 9416,
@@ -1969,8 +1969,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2119955335779231,
@@ -1978,7 +1978,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 18807,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 9450,
@@ -1987,8 +1987,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.21327165417131919,
@@ -1996,7 +1996,7 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 18807,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 9498,
@@ -2005,8 +2005,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.21561120859254532,
@@ -2014,7 +2014,7 @@
             "PersonsFullyVaccinatedChange": 44,
             "Population": 18807,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 9990,
@@ -2023,8 +2023,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.24145265060881588,
@@ -2032,7 +2032,7 @@
             "PersonsFullyVaccinatedChange": 486,
             "Population": 18807,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10063,
@@ -2041,8 +2041,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2451746690062211,
@@ -2050,7 +2050,7 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 18807,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10093,
@@ -2059,8 +2059,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.24623810283405115,
@@ -2068,7 +2068,7 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 18807,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10102,
@@ -2077,8 +2077,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.24655713298240017,
@@ -2086,7 +2086,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 18807,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10108,
@@ -2095,8 +2095,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.24682299143935768,
@@ -2104,7 +2104,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 18807,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10300,
@@ -2113,8 +2113,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2533099377891211,
@@ -2122,7 +2122,7 @@
             "PersonsFullyVaccinatedChange": 122,
             "Population": 18807,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10321,
@@ -2131,8 +2131,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.25442654330834263,
@@ -2140,7 +2140,7 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 18807,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10500,
@@ -2149,8 +2149,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2591588238421864,
@@ -2158,7 +2158,7 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 18807,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10604,
@@ -2167,8 +2167,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2617642367203701,
@@ -2176,7 +2176,7 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 18807,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10667,
@@ -2185,8 +2185,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.26325304407933214,
@@ -2194,7 +2194,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 18807,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10805,
@@ -2203,8 +2203,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2704312224171851,
@@ -2212,7 +2212,7 @@
             "PersonsFullyVaccinatedChange": 135,
             "Population": 18807,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10855,
@@ -2221,8 +2221,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.27303663529536876,
@@ -2230,7 +2230,7 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 18807,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10859,
@@ -2239,8 +2239,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.27319615036954326,
@@ -2248,7 +2248,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10877,
@@ -2257,8 +2257,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2741532408145903,
@@ -2266,7 +2266,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 18807,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 10984,
@@ -2275,8 +2275,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2787260062742596,
@@ -2284,7 +2284,7 @@
             "PersonsFullyVaccinatedChange": 86,
             "Population": 18807,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11010,
@@ -2293,8 +2293,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.27989578348487265,
@@ -2302,7 +2302,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 18807,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11014,
@@ -2311,8 +2311,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.28005529855904715,
@@ -2320,7 +2320,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11098,
@@ -2329,8 +2329,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.28308608496836285,
@@ -2338,7 +2338,7 @@
             "PersonsFullyVaccinatedChange": 57,
             "Population": 18807,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11098,
@@ -2347,8 +2347,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.28308608496836285,
@@ -2356,7 +2356,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11102,
@@ -2365,8 +2365,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.28313925665975437,
@@ -2374,7 +2374,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11114,
@@ -2383,8 +2383,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.28356463019088635,
@@ -2392,7 +2392,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 18807,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11129,
@@ -2401,8 +2401,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2839900037220184,
@@ -2410,7 +2410,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 18807,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11353,
@@ -2419,8 +2419,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.29302919125857396,
@@ -2428,7 +2428,7 @@
             "PersonsFullyVaccinatedChange": 170,
             "Population": 18807,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11365,
@@ -2437,8 +2437,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2932418780241399,
@@ -2446,7 +2446,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 18807,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11373,
@@ -2455,8 +2455,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2932418780241399,
@@ -2464,7 +2464,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11375,
@@ -2473,8 +2473,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.29329504971553144,
@@ -2482,7 +2482,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11382,
@@ -2491,8 +2491,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.29345456478970594,
@@ -2500,7 +2500,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11410,
@@ -2509,8 +2509,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.294198968469187,
@@ -2518,7 +2518,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 18807,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11429,
@@ -2527,8 +2527,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.29457117030892754,
@@ -2536,7 +2536,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 18807,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11437,
@@ -2545,8 +2545,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.29473068538310204,
@@ -2554,7 +2554,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11516,
@@ -2563,8 +2563,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.29792098686659224,
@@ -2572,7 +2572,7 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 18807,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11530,
@@ -2581,8 +2581,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.29808050194076674,
@@ -2590,7 +2590,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11568,
@@ -2599,8 +2599,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2993566225341628,
@@ -2608,7 +2608,7 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 18807,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11579,
@@ -2617,8 +2617,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.2995693092997288,
@@ -2626,7 +2626,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 18807,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11637,
@@ -2635,8 +2635,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.30164300526399745,
@@ -2644,7 +2644,7 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 18807,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11771,
@@ -2653,8 +2653,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3077045780826288,
@@ -2662,7 +2662,7 @@
             "PersonsFullyVaccinatedChange": 114,
             "Population": 18807,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11796,
@@ -2671,8 +2671,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3086084968362844,
@@ -2680,7 +2680,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 18807,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11825,
@@ -2689,8 +2689,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3089806986760249,
@@ -2698,7 +2698,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 18807,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11835,
@@ -2707,8 +2707,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3089806986760249,
@@ -2716,7 +2716,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11840,
@@ -2725,8 +2725,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3089806986760249,
@@ -2734,7 +2734,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11850,
@@ -2743,8 +2743,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3090870420588079,
@@ -2752,7 +2752,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 18807,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11868,
@@ -2761,8 +2761,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3092465571329824,
@@ -2770,7 +2770,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11942,
@@ -2779,8 +2779,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.31057584941777,
@@ -2788,7 +2788,7 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 18807,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11973,
@@ -2797,8 +2797,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3109480512575105,
@@ -2806,7 +2806,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 18807,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 11992,
@@ -2815,8 +2815,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.311001222948902,
@@ -2824,7 +2824,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12040,
@@ -2833,8 +2833,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.31238368692508106,
@@ -2842,7 +2842,7 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 18807,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12044,
@@ -2851,8 +2851,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.31238368692508106,
@@ -2860,7 +2860,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 18807,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12050,
@@ -2869,8 +2869,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3124368586164726,
@@ -2878,7 +2878,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12063,
@@ -2887,8 +2887,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3126495453820386,
@@ -2896,7 +2896,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 18807,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12139,
@@ -2905,8 +2905,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.31482958472909023,
@@ -2914,7 +2914,7 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 18807,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12263,
@@ -2923,8 +2923,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3162120487052693,
@@ -2932,7 +2932,7 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 18807,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12286,
@@ -2941,8 +2941,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.31679693731057584,
@@ -2950,7 +2950,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 18807,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12298,
@@ -2959,8 +2959,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3172223108417079,
@@ -2968,7 +2968,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 18807,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12301,
@@ -2977,8 +2977,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3172754825330994,
@@ -2986,7 +2986,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 18807,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12307,
@@ -2995,8 +2995,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3174349976072739,
@@ -3004,7 +3004,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12325,
@@ -3013,8 +3013,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3180198862125804,
@@ -3022,7 +3022,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 18807,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12344,
@@ -3031,8 +3031,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3184984314351039,
@@ -3040,7 +3040,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 18807,
             "Report_Date": "2021-06-02T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12363,
@@ -3049,8 +3049,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.319136491731802,
@@ -3058,7 +3058,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 18807,
             "Report_Date": "2021-06-03T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12389,
@@ -3067,8 +3067,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.31982772371989154,
@@ -3076,7 +3076,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 18807,
             "Report_Date": "2021-06-04T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12434,
@@ -3085,8 +3085,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3216887329185941,
@@ -3094,7 +3094,7 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 18807,
             "Report_Date": "2021-06-05T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12439,
@@ -3103,8 +3103,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.32190141968416014,
@@ -3112,7 +3112,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 18807,
             "Report_Date": "2021-06-06T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12453,
@@ -3121,8 +3121,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.32227362152390066,
@@ -3130,7 +3130,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 18807,
             "Report_Date": "2021-06-07T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12471,
@@ -3139,8 +3139,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3231243685861647,
@@ -3148,7 +3148,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 18807,
             "Report_Date": "2021-06-08T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12495,
@@ -3157,8 +3157,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.32354974211729676,
@@ -3166,7 +3166,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 18807,
             "Report_Date": "2021-06-09T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12521,
@@ -3175,8 +3175,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3245600042537353,
@@ -3184,7 +3184,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 18807,
             "Report_Date": "2021-06-10T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12557,
@@ -3193,8 +3193,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3259956399213059,
@@ -3202,7 +3202,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 18807,
             "Report_Date": "2021-06-11T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12563,
@@ -3211,8 +3211,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3263146700696549,
@@ -3220,7 +3220,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 18807,
             "Report_Date": "2021-06-12T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12566,
@@ -3229,8 +3229,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3264741851438294,
@@ -3238,7 +3238,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-06-13T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12596,
@@ -3247,8 +3247,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3279098208114,
@@ -3256,7 +3256,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 18807,
             "Report_Date": "2021-06-14T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12606,
@@ -3265,8 +3265,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.328228850959749,
@@ -3274,7 +3274,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 18807,
             "Report_Date": "2021-06-15T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12620,
@@ -3283,8 +3283,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.32881373956505555,
@@ -3292,7 +3292,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 18807,
             "Report_Date": "2021-06-16T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12754,
@@ -3301,8 +3301,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.33365236348168237,
@@ -3310,7 +3310,7 @@
             "PersonsFullyVaccinatedChange": 91,
             "Population": 18807,
             "Report_Date": "2021-06-17T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12768,
@@ -3319,8 +3319,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3343435954697719,
@@ -3328,7 +3328,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 18807,
             "Report_Date": "2021-06-18T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12812,
@@ -3337,8 +3337,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.336151432977083,
@@ -3346,7 +3346,7 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 18807,
             "Report_Date": "2021-06-19T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12819,
@@ -3355,8 +3355,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3363109480512575,
@@ -3364,7 +3364,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-06-20T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12836,
@@ -3373,8 +3373,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.33710852342213005,
@@ -3382,7 +3382,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 18807,
             "Report_Date": "2021-06-21T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12850,
@@ -3391,8 +3391,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3374275535704791,
@@ -3400,7 +3400,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 18807,
             "Report_Date": "2021-06-22T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12894,
@@ -3409,8 +3409,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3389695326208327,
@@ -3418,7 +3418,7 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 18807,
             "Report_Date": "2021-06-23T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12904,
@@ -3427,8 +3427,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3393949061519647,
@@ -3436,7 +3436,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 18807,
             "Report_Date": "2021-06-24T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12917,
@@ -3445,8 +3445,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3398202796830967,
@@ -3454,7 +3454,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 18807,
             "Report_Date": "2021-06-25T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12927,
@@ -3463,8 +3463,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3402456532142287,
@@ -3472,7 +3472,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 18807,
             "Report_Date": "2021-06-26T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12931,
@@ -3481,8 +3481,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.34035199659701176,
@@ -3490,7 +3490,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 18807,
             "Report_Date": "2021-06-27T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12938,
@@ -3499,8 +3499,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.34051151167118626,
@@ -3508,7 +3508,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 18807,
             "Report_Date": "2021-06-28T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12950,
@@ -3517,8 +3517,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3408837135109268,
@@ -3526,7 +3526,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 18807,
             "Report_Date": "2021-06-29T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12970,
@@ -3535,8 +3535,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.3411495719678843,
@@ -3544,7 +3544,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 18807,
             "Report_Date": "2021-06-30T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
         },
         {
             "AdministeredCount": 12982,
@@ -3553,8 +3553,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 30,
             "CountyName": "Crawford",
-            "InventoryReportDate": "2021-07-01T00:00:00",
-            "LHDReportedInventory": 238,
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
             "Latitude": 39.05,
             "Longitude": -87.7763,
             "PctVaccinatedPopulation": 0.34152177380762483,
@@ -3562,11 +3562,83 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 18807,
             "Report_Date": "2021-07-01T00:00:00",
-            "TotalReportedInventory": 268
+            "TotalReportedInventory": 638
+        },
+        {
+            "AdministeredCount": 13049,
+            "AdministeredCountChange": 67,
+            "AdministeredCountRollAvg": 19.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 30,
+            "CountyName": "Crawford",
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
+            "Latitude": 39.05,
+            "Longitude": -87.7763,
+            "PctVaccinatedPopulation": 0.34258520763545486,
+            "PersonsFullyVaccinated": 6443,
+            "PersonsFullyVaccinatedChange": 20,
+            "Population": 18807,
+            "Report_Date": "2021-07-02T00:00:00",
+            "TotalReportedInventory": 638
+        },
+        {
+            "AdministeredCount": 13051,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 18.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 30,
+            "CountyName": "Crawford",
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
+            "Latitude": 39.05,
+            "Longitude": -87.7763,
+            "PctVaccinatedPopulation": 0.3426915510182379,
+            "PersonsFullyVaccinated": 6445,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 18807,
+            "Report_Date": "2021-07-03T00:00:00",
+            "TotalReportedInventory": 638
+        },
+        {
+            "AdministeredCount": 13052,
+            "AdministeredCountChange": 1,
+            "AdministeredCountRollAvg": 17.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 30,
+            "CountyName": "Crawford",
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
+            "Latitude": 39.05,
+            "Longitude": -87.7763,
+            "PctVaccinatedPopulation": 0.3426915510182379,
+            "PersonsFullyVaccinated": 6445,
+            "PersonsFullyVaccinatedChange": 0,
+            "Population": 18807,
+            "Report_Date": "2021-07-04T00:00:00",
+            "TotalReportedInventory": 638
+        },
+        {
+            "AdministeredCount": 13052,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 16.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 30,
+            "CountyName": "Crawford",
+            "InventoryReportDate": "2021-07-05T00:00:00",
+            "LHDReportedInventory": 608,
+            "Latitude": 39.05,
+            "Longitude": -87.7763,
+            "PctVaccinatedPopulation": 0.3426915510182379,
+            "PersonsFullyVaccinated": 6445,
+            "PersonsFullyVaccinatedChange": 0,
+            "Population": 18807,
+            "Report_Date": "2021-07-05T00:00:00",
+            "TotalReportedInventory": 638
         }
     ],
     "lastUpdatedDate": {
-        "day": 1,
+        "day": 5,
         "month": 7,
         "year": 2021
     }

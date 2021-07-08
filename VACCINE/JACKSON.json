@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 41765,
+        "AdministeredCount": 41791,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 67.0,
+        "AdministeredCountRollAvg": 49.0,
         "AllocatedDoses": 230,
-        "CommunityReportedInventory": 1689,
+        "CommunityReportedInventory": 1679,
         "CountyName": "Jackson",
-        "InventoryReportDate": "2021-07-05T00:00:00",
+        "InventoryReportDate": "2021-07-06T00:00:00",
         "LHDReportedInventory": 2814,
         "Latitude": 37.7218,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.3786725648304568,
-        "PersonsFullyVaccinated": 21743,
-        "PersonsFullyVaccinatedChange": 21743,
+        "PctVaccinatedPopulation": 0.3789338023999025,
+        "PersonsFullyVaccinated": 21758,
+        "PersonsFullyVaccinatedChange": 21758,
         "Population": 57419,
-        "Report_Date": "2021-07-05T00:00:00",
-        "TotalReportedInventory": 4503
+        "Report_Date": "2021-07-06T00:00:00",
+        "TotalReportedInventory": 4493
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 69,
             "AdministeredCountChange": 67,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 480,
             "AdministeredCountChange": 411,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 485,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 485,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 485,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 490,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 490,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 491,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 491,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 491,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 491,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 498,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 510,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 741,
             "AdministeredCountChange": 231,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 786,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 792,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 792,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 792,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 808,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 987,
             "AdministeredCountChange": 179,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 1096,
             "AdministeredCountChange": 109,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 57419,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 1509,
             "AdministeredCountChange": 413,
             "AdministeredCountRollAvg": 103.0,
             "AllocatedDoses": 115,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 225,
             "Population": 57419,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 1741,
             "AdministeredCountChange": 232,
             "AdministeredCountRollAvg": 136.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 215,
             "Population": 57419,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 1745,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 136.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 57419,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 1749,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 1767,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 57419,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 1892,
             "AdministeredCountChange": 125,
             "AdministeredCountRollAvg": 129.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 57419,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 1952,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 57419,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 2241,
             "AdministeredCountChange": 289,
             "AdministeredCountRollAvg": 105.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 57419,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 2264,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 75.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 57419,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 2360,
             "AdministeredCountChange": 96,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 2361,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 2389,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 2755,
             "AdministeredCountChange": 366,
             "AdministeredCountRollAvg": 123.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 57419,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 2810,
             "AdministeredCountChange": 55,
             "AdministeredCountRollAvg": 123.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 57419,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 3288,
             "AdministeredCountChange": 478,
             "AdministeredCountRollAvg": 150.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 57419,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 3321,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 151.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 57419,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 3329,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 138.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 57419,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 3349,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 141.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 57419,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 3399,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 144.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 57419,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 3901,
             "AdministeredCountChange": 502,
             "AdministeredCountRollAvg": 164.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 57419,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 4114,
             "AdministeredCountChange": 213,
             "AdministeredCountRollAvg": 186.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 85,
             "Population": 57419,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 4605,
             "AdministeredCountChange": 491,
             "AdministeredCountRollAvg": 188.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 57419,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 4799,
             "AdministeredCountChange": 194,
             "AdministeredCountRollAvg": 211.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 118,
             "Population": 57419,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 4849,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 217.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 57419,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 4899,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 221.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 57419,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 4965,
             "AdministeredCountChange": 66,
             "AdministeredCountRollAvg": 224.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 57419,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 5517,
             "AdministeredCountChange": 552,
             "AdministeredCountRollAvg": 231.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 57419,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 5598,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 212.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 57419,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 6025,
             "AdministeredCountChange": 427,
             "AdministeredCountRollAvg": 203.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 57419,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 6302,
             "AdministeredCountChange": 277,
             "AdministeredCountRollAvg": 215.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 57419,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 6364,
             "AdministeredCountChange": 62,
             "AdministeredCountRollAvg": 216.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 57419,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 6370,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 210.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 57419,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 6508,
             "AdministeredCountChange": 138,
             "AdministeredCountRollAvg": 220.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 86,
             "Population": 57419,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 6970,
             "AdministeredCountChange": 462,
             "AdministeredCountRollAvg": 208.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 139,
             "Population": 57419,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 7107,
             "AdministeredCountChange": 137,
             "AdministeredCountRollAvg": 216.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 57419,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 7598,
             "AdministeredCountChange": 491,
             "AdministeredCountRollAvg": 225.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 169,
             "Population": 57419,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 7803,
             "AdministeredCountChange": 205,
             "AdministeredCountRollAvg": 214.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 87,
             "Population": 57419,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 7910,
             "AdministeredCountChange": 107,
             "AdministeredCountRollAvg": 221.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 57419,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 8017,
             "AdministeredCountChange": 107,
             "AdministeredCountRollAvg": 235.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 57419,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 8084,
             "AdministeredCountChange": 67,
             "AdministeredCountRollAvg": 225.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 57419,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 8108,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 163.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 57419,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 8282,
             "AdministeredCountChange": 174,
             "AdministeredCountRollAvg": 168.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 125,
             "Population": 57419,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 8347,
             "AdministeredCountChange": 65,
             "AdministeredCountRollAvg": 107.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 57419,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 9524,
             "AdministeredCountChange": 1177,
             "AdministeredCountRollAvg": 246.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 295,
             "Population": 57419,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 9860,
             "AdministeredCountChange": 336,
             "AdministeredCountRollAvg": 279.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 163,
             "Population": 57419,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 10678,
             "AdministeredCountChange": 818,
             "AdministeredCountRollAvg": 380.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 173,
             "Population": 57419,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 11288,
             "AdministeredCountChange": 610,
             "AdministeredCountRollAvg": 458.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 57419,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 11945,
             "AdministeredCountChange": 657,
             "AdministeredCountRollAvg": 548.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 120,
             "Population": 57419,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 12784,
             "AdministeredCountChange": 839,
             "AdministeredCountRollAvg": 643.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 155,
             "Population": 57419,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 13644,
             "AdministeredCountChange": 860,
             "AdministeredCountRollAvg": 757.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 144,
             "Population": 57419,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 14406,
             "AdministeredCountChange": 762,
             "AdministeredCountRollAvg": 697.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 71,
             "Population": 57419,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 14691,
             "AdministeredCountChange": 285,
             "AdministeredCountRollAvg": 690.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 171,
             "Population": 57419,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 14772,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 585.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 57419,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 15024,
             "AdministeredCountChange": 252,
             "AdministeredCountRollAvg": 534.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 65,
             "Population": 57419,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 15863,
             "AdministeredCountChange": 839,
             "AdministeredCountRollAvg": 560.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 483,
             "Population": 57419,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 16366,
             "AdministeredCountChange": 503,
             "AdministeredCountRollAvg": 512.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 118,
             "Population": 57419,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 17172,
             "AdministeredCountChange": 806,
             "AdministeredCountRollAvg": 504.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 489,
             "Population": 57419,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 17727,
             "AdministeredCountChange": 555,
             "AdministeredCountRollAvg": 474.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 57419,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 17982,
             "AdministeredCountChange": 255,
             "AdministeredCountRollAvg": 470.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 57419,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 18009,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 462.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 57419,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 18240,
             "AdministeredCountChange": 231,
             "AdministeredCountRollAvg": 459.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 136,
             "Population": 57419,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 18971,
             "AdministeredCountChange": 731,
             "AdministeredCountRollAvg": 444.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 699,
             "Population": 57419,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 19383,
             "AdministeredCountChange": 412,
             "AdministeredCountRollAvg": 431.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 365,
             "Population": 57419,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 19975,
             "AdministeredCountChange": 592,
             "AdministeredCountRollAvg": 400.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 558,
             "Population": 57419,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 21079,
             "AdministeredCountChange": 1104,
             "AdministeredCountRollAvg": 479.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 985,
             "Population": 57419,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 21798,
             "AdministeredCountChange": 719,
             "AdministeredCountRollAvg": 545.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 626,
             "Population": 57419,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 21914,
             "AdministeredCountChange": 116,
             "AdministeredCountRollAvg": 558.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 99,
             "Population": 57419,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 22453,
             "AdministeredCountChange": 539,
             "AdministeredCountRollAvg": 602.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 504,
             "Population": 57419,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 23683,
             "AdministeredCountChange": 1230,
             "AdministeredCountRollAvg": 673.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 1178,
             "Population": 57419,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 24632,
             "AdministeredCountChange": 949,
             "AdministeredCountRollAvg": 750.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 802,
             "Population": 57419,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 25581,
             "AdministeredCountChange": 949,
             "AdministeredCountRollAvg": 801.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 874,
             "Population": 57419,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 26451,
             "AdministeredCountChange": 870,
             "AdministeredCountRollAvg": 767.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 769,
             "Population": 57419,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 26872,
             "AdministeredCountChange": 421,
             "AdministeredCountRollAvg": 725.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 57419,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 26936,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 717.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 57419,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 27245,
             "AdministeredCountChange": 309,
             "AdministeredCountRollAvg": 685.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 211,
             "Population": 57419,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 27878,
             "AdministeredCountChange": 633,
             "AdministeredCountRollAvg": 599.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 589,
             "Population": 57419,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 28393,
             "AdministeredCountChange": 515,
             "AdministeredCountRollAvg": 537.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 350,
             "Population": 57419,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 28760,
             "AdministeredCountChange": 367,
             "AdministeredCountRollAvg": 454.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 306,
             "Population": 57419,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 29463,
             "AdministeredCountChange": 703,
             "AdministeredCountRollAvg": 430.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 625,
             "Population": 57419,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 29883,
             "AdministeredCountChange": 420,
             "AdministeredCountRollAvg": 430.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 321,
             "Population": 57419,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 30002,
             "AdministeredCountChange": 119,
             "AdministeredCountRollAvg": 438.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 105,
             "Population": 57419,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 30421,
             "AdministeredCountChange": 419,
             "AdministeredCountRollAvg": 454.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 379,
             "Population": 57419,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 30905,
             "AdministeredCountChange": 484,
             "AdministeredCountRollAvg": 432.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 184,
             "Population": 57419,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 31425,
             "AdministeredCountChange": 520,
             "AdministeredCountRollAvg": 433.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 415,
             "Population": 57419,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 31827,
             "AdministeredCountChange": 402,
             "AdministeredCountRollAvg": 438.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 238,
             "Population": 57419,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 32139,
             "AdministeredCountChange": 312,
             "AdministeredCountRollAvg": 382.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 186,
             "Population": 57419,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 32189,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 329.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 57419,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 32215,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 316.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 57419,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 32450,
             "AdministeredCountChange": 235,
             "AdministeredCountRollAvg": 290.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 57419,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 32663,
             "AdministeredCountChange": 213,
             "AdministeredCountRollAvg": 251.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 126,
             "Population": 57419,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 32833,
             "AdministeredCountChange": 170,
             "AdministeredCountRollAvg": 201.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 124,
             "Population": 57419,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 33009,
             "AdministeredCountChange": 176,
             "AdministeredCountRollAvg": 169.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 84,
             "Population": 57419,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 33206,
             "AdministeredCountChange": 197,
             "AdministeredCountRollAvg": 152.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 100,
             "Population": 57419,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 33453,
             "AdministeredCountChange": 247,
             "AdministeredCountRollAvg": 181.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 223,
             "Population": 57419,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 33490,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 182.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2122,16 +2122,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 57419,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 33924,
             "AdministeredCountChange": 434,
             "AdministeredCountRollAvg": 211.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2140,16 +2140,16 @@
             "PersonsFullyVaccinatedChange": 372,
             "Population": 57419,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 34104,
             "AdministeredCountChange": 180,
             "AdministeredCountRollAvg": 206.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2158,16 +2158,16 @@
             "PersonsFullyVaccinatedChange": 86,
             "Population": 57419,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 34223,
             "AdministeredCountChange": 119,
             "AdministeredCountRollAvg": 199.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2176,16 +2176,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 57419,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 34422,
             "AdministeredCountChange": 199,
             "AdministeredCountRollAvg": 202.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2194,16 +2194,16 @@
             "PersonsFullyVaccinatedChange": 140,
             "Population": 57419,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 34507,
             "AdministeredCountChange": 85,
             "AdministeredCountRollAvg": 186.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2212,16 +2212,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 57419,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 34646,
             "AdministeredCountChange": 139,
             "AdministeredCountRollAvg": 170.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2230,16 +2230,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 57419,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 34681,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 170.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2248,16 +2248,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 57419,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 34752,
             "AdministeredCountChange": 71,
             "AdministeredCountRollAvg": 118.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2266,16 +2266,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 57419,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 34908,
             "AdministeredCountChange": 156,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2284,16 +2284,16 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 57419,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 35011,
             "AdministeredCountChange": 103,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2302,16 +2302,16 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 57419,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 35218,
             "AdministeredCountChange": 207,
             "AdministeredCountRollAvg": 114.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2320,16 +2320,16 @@
             "PersonsFullyVaccinatedChange": 149,
             "Population": 57419,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 35367,
             "AdministeredCountChange": 149,
             "AdministeredCountRollAvg": 123.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2338,16 +2338,16 @@
             "PersonsFullyVaccinatedChange": 108,
             "Population": 57419,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 35494,
             "AdministeredCountChange": 127,
             "AdministeredCountRollAvg": 121.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2356,16 +2356,16 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 57419,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 35521,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 120.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2374,16 +2374,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 57419,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 35541,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2392,16 +2392,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 57419,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 35750,
             "AdministeredCountChange": 209,
             "AdministeredCountRollAvg": 120.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2410,16 +2410,16 @@
             "PersonsFullyVaccinatedChange": 152,
             "Population": 57419,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 35926,
             "AdministeredCountChange": 176,
             "AdministeredCountRollAvg": 131.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2428,16 +2428,16 @@
             "PersonsFullyVaccinatedChange": 122,
             "Population": 57419,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36086,
             "AdministeredCountChange": 160,
             "AdministeredCountRollAvg": 124.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2446,16 +2446,16 @@
             "PersonsFullyVaccinatedChange": 94,
             "Population": 57419,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36237,
             "AdministeredCountChange": 151,
             "AdministeredCountRollAvg": 124.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2464,16 +2464,16 @@
             "PersonsFullyVaccinatedChange": 110,
             "Population": 57419,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36323,
             "AdministeredCountChange": 86,
             "AdministeredCountRollAvg": 118.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2482,16 +2482,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 57419,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36329,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2500,16 +2500,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 57419,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36358,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 117.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2518,16 +2518,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 57419,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36497,
             "AdministeredCountChange": 139,
             "AdministeredCountRollAvg": 107.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2536,16 +2536,16 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 57419,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36593,
             "AdministeredCountChange": 96,
             "AdministeredCountRollAvg": 95.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2554,16 +2554,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 57419,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36702,
             "AdministeredCountChange": 109,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2572,16 +2572,16 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 57419,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36821,
             "AdministeredCountChange": 119,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2590,16 +2590,16 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 57419,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36897,
             "AdministeredCountChange": 76,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2608,16 +2608,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 57419,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36951,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2626,16 +2626,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 57419,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 36977,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2644,16 +2644,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 57419,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 37098,
             "AdministeredCountChange": 121,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2662,16 +2662,16 @@
             "PersonsFullyVaccinatedChange": 83,
             "Population": 57419,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 37185,
             "AdministeredCountChange": 87,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2680,16 +2680,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 57419,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 37343,
             "AdministeredCountChange": 158,
             "AdministeredCountRollAvg": 92.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2698,16 +2698,16 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 57419,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 37551,
             "AdministeredCountChange": 208,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2716,16 +2716,16 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 57419,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 37652,
             "AdministeredCountChange": 101,
             "AdministeredCountRollAvg": 108.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2734,16 +2734,16 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 57419,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 37674,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 103.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2752,16 +2752,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 57419,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 37699,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 103.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2770,16 +2770,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 57419,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 37901,
             "AdministeredCountChange": 202,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2788,16 +2788,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 57419,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 38036,
             "AdministeredCountChange": 135,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2806,16 +2806,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 57419,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 38238,
             "AdministeredCountChange": 202,
             "AdministeredCountRollAvg": 128.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2824,16 +2824,16 @@
             "PersonsFullyVaccinatedChange": 99,
             "Population": 57419,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 38388,
             "AdministeredCountChange": 150,
             "AdministeredCountRollAvg": 120.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2842,16 +2842,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 57419,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 38523,
             "AdministeredCountChange": 135,
             "AdministeredCountRollAvg": 124.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2860,16 +2860,16 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 57419,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 38555,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 126.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2878,16 +2878,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 57419,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 38618,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 131.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2896,16 +2896,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 57419,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 38701,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 114.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2914,16 +2914,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 57419,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 38786,
             "AdministeredCountChange": 85,
             "AdministeredCountRollAvg": 107.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2932,16 +2932,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 57419,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 38873,
             "AdministeredCountChange": 87,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2950,16 +2950,16 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 57419,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 38994,
             "AdministeredCountChange": 121,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2968,16 +2968,16 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 57419,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39030,
             "AdministeredCountChange": 36,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -2986,16 +2986,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 57419,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39057,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3004,16 +3004,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 57419,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39077,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3022,16 +3022,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 57419,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39107,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 58.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3040,16 +3040,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 57419,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39198,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 59.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3058,16 +3058,16 @@
             "PersonsFullyVaccinatedChange": 44,
             "Population": 57419,
             "Report_Date": "2021-06-02T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39273,
             "AdministeredCountChange": 75,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3076,16 +3076,16 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 57419,
             "Report_Date": "2021-06-03T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39366,
             "AdministeredCountChange": 93,
             "AdministeredCountRollAvg": 53.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3094,16 +3094,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 57419,
             "Report_Date": "2021-06-04T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39426,
             "AdministeredCountChange": 60,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3112,16 +3112,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 57419,
             "Report_Date": "2021-06-05T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39475,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3130,16 +3130,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 57419,
             "Report_Date": "2021-06-06T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39573,
             "AdministeredCountChange": 98,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3148,16 +3148,16 @@
             "PersonsFullyVaccinatedChange": 68,
             "Population": 57419,
             "Report_Date": "2021-06-07T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39729,
             "AdministeredCountChange": 156,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3166,16 +3166,16 @@
             "PersonsFullyVaccinatedChange": 65,
             "Population": 57419,
             "Report_Date": "2021-06-08T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 39912,
             "AdministeredCountChange": 183,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3184,16 +3184,16 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 57419,
             "Report_Date": "2021-06-09T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40037,
             "AdministeredCountChange": 125,
             "AdministeredCountRollAvg": 109.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3202,16 +3202,16 @@
             "PersonsFullyVaccinatedChange": 78,
             "Population": 57419,
             "Report_Date": "2021-06-10T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40183,
             "AdministeredCountChange": 146,
             "AdministeredCountRollAvg": 117.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3220,16 +3220,16 @@
             "PersonsFullyVaccinatedChange": 104,
             "Population": 57419,
             "Report_Date": "2021-06-11T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40227,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 114.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3238,16 +3238,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 57419,
             "Report_Date": "2021-06-12T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40262,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 112.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3256,16 +3256,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 57419,
             "Report_Date": "2021-06-13T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40367,
             "AdministeredCountChange": 105,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3274,16 +3274,16 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 57419,
             "Report_Date": "2021-06-14T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40464,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 105.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3292,16 +3292,16 @@
             "PersonsFullyVaccinatedChange": 75,
             "Population": 57419,
             "Report_Date": "2021-06-15T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40552,
             "AdministeredCountChange": 88,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3310,16 +3310,16 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 57419,
             "Report_Date": "2021-06-16T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40621,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3328,16 +3328,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 57419,
             "Report_Date": "2021-06-17T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40662,
             "AdministeredCountChange": 41,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3346,16 +3346,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 57419,
             "Report_Date": "2021-06-18T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40727,
             "AdministeredCountChange": 65,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3364,16 +3364,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 57419,
             "Report_Date": "2021-06-19T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40757,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3382,16 +3382,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 57419,
             "Report_Date": "2021-06-20T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40819,
             "AdministeredCountChange": 62,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3400,16 +3400,16 @@
             "PersonsFullyVaccinatedChange": 44,
             "Population": 57419,
             "Report_Date": "2021-06-21T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 40940,
             "AdministeredCountChange": 121,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3418,16 +3418,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 57419,
             "Report_Date": "2021-06-22T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41004,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3436,16 +3436,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 57419,
             "Report_Date": "2021-06-23T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41121,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3454,16 +3454,16 @@
             "PersonsFullyVaccinatedChange": 79,
             "Population": 57419,
             "Report_Date": "2021-06-24T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41195,
             "AdministeredCountChange": 74,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3472,16 +3472,16 @@
             "PersonsFullyVaccinatedChange": 54,
             "Population": 57419,
             "Report_Date": "2021-06-25T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41264,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3490,16 +3490,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 57419,
             "Report_Date": "2021-06-26T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41275,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3508,16 +3508,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 57419,
             "Report_Date": "2021-06-27T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41295,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3526,16 +3526,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 57419,
             "Report_Date": "2021-06-28T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41449,
             "AdministeredCountChange": 154,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3544,16 +3544,16 @@
             "PersonsFullyVaccinatedChange": 103,
             "Population": 57419,
             "Report_Date": "2021-06-29T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41563,
             "AdministeredCountChange": 114,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3562,16 +3562,16 @@
             "PersonsFullyVaccinatedChange": 91,
             "Population": 57419,
             "Report_Date": "2021-06-30T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41656,
             "AdministeredCountChange": 93,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3580,16 +3580,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 57419,
             "Report_Date": "2021-07-01T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41709,
             "AdministeredCountChange": 53,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3598,16 +3598,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 57419,
             "Report_Date": "2021-07-02T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41747,
             "AdministeredCountChange": 38,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3616,16 +3616,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 57419,
             "Report_Date": "2021-07-03T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41765,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3634,16 +3634,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 57419,
             "Report_Date": "2021-07-04T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
         },
         {
             "AdministeredCount": 41765,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 230,
-            "CommunityReportedInventory": 1689,
+            "CommunityReportedInventory": 1679,
             "CountyName": "Jackson",
-            "InventoryReportDate": "2021-07-05T00:00:00",
+            "InventoryReportDate": "2021-07-06T00:00:00",
             "LHDReportedInventory": 2814,
             "Latitude": 37.7218,
             "Longitude": -89.3227,
@@ -3652,11 +3652,29 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 57419,
             "Report_Date": "2021-07-05T00:00:00",
-            "TotalReportedInventory": 4503
+            "TotalReportedInventory": 4493
+        },
+        {
+            "AdministeredCount": 41791,
+            "AdministeredCountChange": 26,
+            "AdministeredCountRollAvg": 49.0,
+            "AllocatedDoses": 230,
+            "CommunityReportedInventory": 1679,
+            "CountyName": "Jackson",
+            "InventoryReportDate": "2021-07-06T00:00:00",
+            "LHDReportedInventory": 2814,
+            "Latitude": 37.7218,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.3789338023999025,
+            "PersonsFullyVaccinated": 21758,
+            "PersonsFullyVaccinatedChange": 15,
+            "Population": 57419,
+            "Report_Date": "2021-07-06T00:00:00",
+            "TotalReportedInventory": 4493
         }
     ],
     "lastUpdatedDate": {
-        "day": 5,
+        "day": 6,
         "month": 7,
         "year": 2021
     }

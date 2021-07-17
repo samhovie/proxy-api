@@ -4368,11 +4368,20 @@
         {
             "CountyName": "McHenry",
             "confirmed_cases": 29321,
-            "deaths": 300,
+            "deaths": 299,
             "latitude": 42.304,
             "longitude": -88.4016,
             "reportDate": "2021-07-15T00:00:00",
             "tested": 383018
+        },
+        {
+            "CountyName": "McHenry",
+            "confirmed_cases": 29333,
+            "deaths": 299,
+            "latitude": 42.304,
+            "longitude": -88.4016,
+            "reportDate": "2021-07-16T00:00:00",
+            "tested": 383360
         }
     ]
 }

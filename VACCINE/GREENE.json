@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7639,
+        "AdministeredCount": 7647,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 8.0,
+        "AdministeredCountRollAvg": 9.0,
         "AllocatedDoses": 140,
         "CommunityReportedInventory": 0,
         "CountyName": "Greene",
-        "InventoryReportDate": "2021-07-19T00:00:00",
+        "InventoryReportDate": "2021-07-20T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 39.403,
         "Longitude": -90.3748,
-        "PctVaccinatedPopulation": 0.2970714504753143,
-        "PersonsFullyVaccinated": 3875,
-        "PersonsFullyVaccinatedChange": 3875,
+        "PctVaccinatedPopulation": 0.297148114075437,
+        "PersonsFullyVaccinated": 3876,
+        "PersonsFullyVaccinatedChange": 3876,
         "Population": 13044,
-        "Report_Date": "2021-07-19T00:00:00",
+        "Report_Date": "2021-07-20T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -3905,10 +3905,28 @@
             "Population": 13044,
             "Report_Date": "2021-07-19T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 7647,
+            "AdministeredCountChange": 8,
+            "AdministeredCountRollAvg": 9.0,
+            "AllocatedDoses": 140,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Greene",
+            "InventoryReportDate": "2021-07-20T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.403,
+            "Longitude": -90.3748,
+            "PctVaccinatedPopulation": 0.297148114075437,
+            "PersonsFullyVaccinated": 3876,
+            "PersonsFullyVaccinatedChange": 1,
+            "Population": 13044,
+            "Report_Date": "2021-07-20T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 19,
+        "day": 20,
         "month": 7,
         "year": 2021
     }

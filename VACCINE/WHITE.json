@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 8139,
+        "AdministeredCount": 8156,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 12.0,
+        "AdministeredCountRollAvg": 13.0,
         "AllocatedDoses": 0,
-        "CommunityReportedInventory": 207,
+        "CommunityReportedInventory": 235,
         "CountyName": "White",
-        "InventoryReportDate": "2021-07-20T00:00:00",
+        "InventoryReportDate": "2021-07-21T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 38.0501,
         "Longitude": -88.2461,
-        "PctVaccinatedPopulation": 0.31050128064398097,
-        "PersonsFullyVaccinated": 4243,
-        "PersonsFullyVaccinatedChange": 4243,
+        "PctVaccinatedPopulation": 0.31079399926820345,
+        "PersonsFullyVaccinated": 4247,
+        "PersonsFullyVaccinatedChange": 4247,
         "Population": 13665,
-        "Report_Date": "2021-07-20T00:00:00",
-        "TotalReportedInventory": 207
+        "Report_Date": "2021-07-21T00:00:00",
+        "TotalReportedInventory": 235
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 19,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 19,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 19,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 19,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 19,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 19,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 19,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 19,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 19,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 19,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 21,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 42,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 61,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 64,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 66,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 68,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 68,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 69,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 75,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 81,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 3.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 153,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13665,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 172,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13665,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 172,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 173,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 260,
             "AdministeredCountChange": 87,
             "AdministeredCountRollAvg": 27.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 303,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 309,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 317,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 321,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 325,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 325,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 380,
             "AdministeredCountChange": 55,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 432,
             "AdministeredCountChange": 52,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 451,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 617,
             "AdministeredCountChange": 166,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 648,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 665,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 49.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 775,
             "AdministeredCountChange": 110,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 107,
             "Population": 13665,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 782,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13665,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 865,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 13665,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 898,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 13665,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1004,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 13665,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1051,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 58.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 13665,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1159,
             "AdministeredCountChange": 108,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1160,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1168,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1172,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13665,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1215,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 45.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13665,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1242,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 13665,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1273,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13665,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1279,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1280,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1284,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13665,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1337,
             "AdministeredCountChange": 53,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 13665,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1341,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1427,
             "AdministeredCountChange": 86,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 13665,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1657,
             "AdministeredCountChange": 230,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 13665,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1671,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1677,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1729,
             "AdministeredCountChange": 52,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 13665,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1729,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1733,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1757,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13665,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1816,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13665,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 1894,
             "AdministeredCountChange": 78,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 13665,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2159,
             "AdministeredCountChange": 265,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 86,
             "Population": 13665,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2176,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2244,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 13665,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2291,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 13665,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2412,
             "AdministeredCountChange": 121,
             "AdministeredCountRollAvg": 94.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 88,
             "Population": 13665,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2557,
             "AdministeredCountChange": 145,
             "AdministeredCountRollAvg": 106.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 13665,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2671,
             "AdministeredCountChange": 114,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 104,
             "Population": 13665,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2676,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13665,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2685,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13665,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2783,
             "AdministeredCountChange": 98,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 2805,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 13665,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 3004,
             "AdministeredCountChange": 199,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 57,
             "Population": 13665,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 3213,
             "AdministeredCountChange": 209,
             "AdministeredCountRollAvg": 94.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13665,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 3356,
             "AdministeredCountChange": 143,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 13665,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 3365,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 3411,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 13665,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 3472,
             "AdministeredCountChange": 61,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 13665,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 3502,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 100.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13665,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 3605,
             "AdministeredCountChange": 103,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 13665,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 3939,
             "AdministeredCountChange": 334,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 255,
             "Population": 13665,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 3975,
             "AdministeredCountChange": 36,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 13665,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4146,
             "AdministeredCountChange": 171,
             "AdministeredCountRollAvg": 112.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 156,
             "Population": 13665,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4331,
             "AdministeredCountChange": 185,
             "AdministeredCountRollAvg": 131.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 167,
             "Population": 13665,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4352,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 126.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13665,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4395,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 128.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 13665,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4478,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 125.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 13665,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4576,
             "AdministeredCountChange": 98,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 13665,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4590,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4613,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 13665,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4637,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4656,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13665,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4747,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 50.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 13665,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4794,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 45.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 13665,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 4987,
             "AdministeredCountChange": 193,
             "AdministeredCountRollAvg": 59.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 168,
             "Population": 13665,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5030,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 13665,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5048,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13665,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5126,
             "AdministeredCountChange": 78,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 13665,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5332,
             "AdministeredCountChange": 206,
             "AdministeredCountRollAvg": 97.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 188,
             "Population": 13665,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5473,
             "AdministeredCountChange": 141,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 127,
             "Population": 13665,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5587,
             "AdministeredCountChange": 114,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 88,
             "Population": 13665,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5695,
             "AdministeredCountChange": 108,
             "AdministeredCountRollAvg": 101.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 90,
             "Population": 13665,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5719,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 13665,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5735,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 13665,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5781,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 94.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 13665,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5813,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 69.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 13665,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5860,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 13665,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 5928,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 49.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 13665,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6040,
             "AdministeredCountChange": 112,
             "AdministeredCountRollAvg": 49.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 83,
             "Population": 13665,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6157,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 106,
             "Population": 13665,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6171,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2122,16 +2122,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13665,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6268,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2140,16 +2140,16 @@
             "PersonsFullyVaccinatedChange": 87,
             "Population": 13665,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6306,
             "AdministeredCountChange": 38,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2158,16 +2158,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 13665,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6328,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2176,16 +2176,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 13665,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6419,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2194,16 +2194,16 @@
             "PersonsFullyVaccinatedChange": 84,
             "Population": 13665,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6543,
             "AdministeredCountChange": 124,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2212,16 +2212,16 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 13665,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6562,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 58.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2230,16 +2230,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 13665,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6572,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2248,16 +2248,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6588,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 46.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2266,16 +2266,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 13665,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6606,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 43.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2284,16 +2284,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 13665,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6624,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2302,16 +2302,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 13665,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6659,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2320,16 +2320,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 13665,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6691,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2338,16 +2338,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 13665,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6723,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2356,16 +2356,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 13665,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6728,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2374,16 +2374,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6752,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2392,16 +2392,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 13665,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6781,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2410,16 +2410,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13665,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6803,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2428,16 +2428,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 13665,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6829,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2446,16 +2446,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 13665,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6875,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2464,16 +2464,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 13665,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6886,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2482,16 +2482,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6895,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2500,16 +2500,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6908,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2518,16 +2518,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6924,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2536,16 +2536,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13665,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6954,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2554,16 +2554,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 13665,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 6998,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2572,16 +2572,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 13665,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7030,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2590,16 +2590,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 13665,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7040,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2608,16 +2608,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7049,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2626,16 +2626,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7074,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2644,16 +2644,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 13665,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7085,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2662,16 +2662,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13665,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7097,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2680,16 +2680,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7158,
             "AdministeredCountChange": 61,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2698,16 +2698,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 13665,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7176,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2716,16 +2716,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 13665,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7189,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2734,16 +2734,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7198,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2752,16 +2752,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 13665,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7215,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2770,16 +2770,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13665,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7243,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2788,16 +2788,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13665,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7276,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2806,16 +2806,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 13665,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7324,
             "AdministeredCountChange": 48,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2824,16 +2824,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 13665,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7351,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2842,16 +2842,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 13665,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7359,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2860,16 +2860,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13665,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7364,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2878,16 +2878,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13665,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7387,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2896,16 +2896,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 13665,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7414,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2914,16 +2914,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 13665,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7430,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2932,16 +2932,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 13665,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7453,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2950,16 +2950,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13665,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7472,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2968,16 +2968,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 13665,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7478,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -2986,16 +2986,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7483,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3004,16 +3004,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7489,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3022,16 +3022,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7503,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3040,16 +3040,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13665,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7519,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3058,16 +3058,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13665,
             "Report_Date": "2021-06-02T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7547,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3076,16 +3076,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 13665,
             "Report_Date": "2021-06-03T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7573,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 14.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3094,16 +3094,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 13665,
             "Report_Date": "2021-06-04T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7586,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3112,16 +3112,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-06-05T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7593,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3130,16 +3130,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-06-06T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7608,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3148,16 +3148,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 13665,
             "Report_Date": "2021-06-07T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7631,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3166,16 +3166,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 13665,
             "Report_Date": "2021-06-08T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7658,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3184,16 +3184,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 13665,
             "Report_Date": "2021-06-09T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7697,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3202,16 +3202,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 13665,
             "Report_Date": "2021-06-10T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7711,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3220,16 +3220,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13665,
             "Report_Date": "2021-06-11T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7714,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3238,16 +3238,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13665,
             "Report_Date": "2021-06-12T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7718,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3256,16 +3256,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-06-13T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7743,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3274,16 +3274,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 13665,
             "Report_Date": "2021-06-14T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7766,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3292,16 +3292,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 13665,
             "Report_Date": "2021-06-15T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7777,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3310,16 +3310,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-06-16T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7801,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3328,16 +3328,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 13665,
             "Report_Date": "2021-06-17T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7813,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3346,16 +3346,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13665,
             "Report_Date": "2021-06-18T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7820,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3364,16 +3364,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13665,
             "Report_Date": "2021-06-19T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7824,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3382,16 +3382,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-06-20T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7835,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3400,16 +3400,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-06-21T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7848,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3418,16 +3418,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-06-22T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7864,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3436,16 +3436,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 13665,
             "Report_Date": "2021-06-23T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7888,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3454,16 +3454,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 13665,
             "Report_Date": "2021-06-24T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7906,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3472,16 +3472,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 13665,
             "Report_Date": "2021-06-25T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7915,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 14.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3490,16 +3490,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-06-26T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7922,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 14.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3508,16 +3508,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13665,
             "Report_Date": "2021-06-27T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7931,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 14.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3526,16 +3526,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-06-28T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7939,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 13.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3544,16 +3544,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13665,
             "Report_Date": "2021-06-29T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7947,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3562,16 +3562,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-06-30T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7959,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3580,16 +3580,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13665,
             "Report_Date": "2021-07-01T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7969,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 9.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3598,16 +3598,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13665,
             "Report_Date": "2021-07-02T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7971,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3616,16 +3616,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13665,
             "Report_Date": "2021-07-03T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7972,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3634,16 +3634,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-07-04T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7972,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3652,16 +3652,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-07-05T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7981,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3670,16 +3670,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-07-06T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 7990,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3688,16 +3688,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-07-07T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8008,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3706,16 +3706,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 13665,
             "Report_Date": "2021-07-08T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8020,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3724,16 +3724,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13665,
             "Report_Date": "2021-07-09T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8024,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3742,16 +3742,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 13665,
             "Report_Date": "2021-07-10T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8025,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3760,16 +3760,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 13665,
             "Report_Date": "2021-07-11T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8044,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3778,16 +3778,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 13665,
             "Report_Date": "2021-07-12T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8054,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3796,16 +3796,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 13665,
             "Report_Date": "2021-07-13T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8066,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 11.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3814,16 +3814,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-07-14T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8081,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3832,16 +3832,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-07-15T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8091,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3850,16 +3850,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13665,
             "Report_Date": "2021-07-16T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8096,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3868,16 +3868,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 13665,
             "Report_Date": "2021-07-17T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8099,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 11.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3886,16 +3886,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 13665,
             "Report_Date": "2021-07-18T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8114,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 10.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3904,16 +3904,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 13665,
             "Report_Date": "2021-07-19T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
         },
         {
             "AdministeredCount": 8139,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 207,
+            "CommunityReportedInventory": 235,
             "CountyName": "White",
-            "InventoryReportDate": "2021-07-20T00:00:00",
+            "InventoryReportDate": "2021-07-21T00:00:00",
             "LHDReportedInventory": 0,
             "Latitude": 38.0501,
             "Longitude": -88.2461,
@@ -3922,11 +3922,29 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 13665,
             "Report_Date": "2021-07-20T00:00:00",
-            "TotalReportedInventory": 207
+            "TotalReportedInventory": 235
+        },
+        {
+            "AdministeredCount": 8156,
+            "AdministeredCountChange": 17,
+            "AdministeredCountRollAvg": 13.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 235,
+            "CountyName": "White",
+            "InventoryReportDate": "2021-07-21T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 38.0501,
+            "Longitude": -88.2461,
+            "PctVaccinatedPopulation": 0.31079399926820345,
+            "PersonsFullyVaccinated": 4247,
+            "PersonsFullyVaccinatedChange": 4,
+            "Population": 13665,
+            "Report_Date": "2021-07-21T00:00:00",
+            "TotalReportedInventory": 235
         }
     ],
     "lastUpdatedDate": {
-        "day": 20,
+        "day": 21,
         "month": 7,
         "year": 2021
     }

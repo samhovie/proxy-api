@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 10564,
+        "AdministeredCount": 10584,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 16.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Menard",
-        "InventoryReportDate": "2021-07-21T00:00:00",
+        "InventoryReportDate": "2021-07-22T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 40.0221,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.4344889322916667,
-        "PersonsFullyVaccinated": 5339,
-        "PersonsFullyVaccinatedChange": 5339,
+        "PctVaccinatedPopulation": 0.4351399739583333,
+        "PersonsFullyVaccinated": 5347,
+        "PersonsFullyVaccinatedChange": 5347,
         "Population": 12288,
-        "Report_Date": "2021-07-21T00:00:00",
+        "Report_Date": "2021-07-22T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -3941,10 +3941,28 @@
             "Population": 12288,
             "Report_Date": "2021-07-21T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 10584,
+            "AdministeredCountChange": 20,
+            "AdministeredCountRollAvg": 16.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Menard",
+            "InventoryReportDate": "2021-07-22T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.0221,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.4351399739583333,
+            "PersonsFullyVaccinated": 5347,
+            "PersonsFullyVaccinatedChange": 8,
+            "Population": 12288,
+            "Report_Date": "2021-07-22T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 21,
+        "day": 22,
         "month": 7,
         "year": 2021
     }

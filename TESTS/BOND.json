@@ -4431,11 +4431,20 @@
         {
             "CountyName": "Bond",
             "confirmed_cases": 2112,
-            "deaths": 24,
+            "deaths": 23,
             "latitude": 38.903,
             "longitude": -89.4742,
             "reportDate": "2021-07-22T00:00:00",
             "tested": 40348
+        },
+        {
+            "CountyName": "Bond",
+            "confirmed_cases": 2115,
+            "deaths": 23,
+            "latitude": 38.903,
+            "longitude": -89.4742,
+            "reportDate": "2021-07-23T00:00:00",
+            "tested": 40391
         }
     ]
 }

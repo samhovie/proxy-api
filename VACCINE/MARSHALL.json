@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 9884,
+        "AdministeredCount": 9961,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 15.0,
+        "AdministeredCountRollAvg": 21.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Marshall",
-        "InventoryReportDate": "2021-07-22T00:00:00",
-        "LHDReportedInventory": 30,
+        "InventoryReportDate": "2021-07-25T00:00:00",
+        "LHDReportedInventory": 20,
         "Latitude": 40.9973,
         "Longitude": -89.3606,
-        "PctVaccinatedPopulation": 0.42821224206693254,
-        "PersonsFullyVaccinated": 4939,
-        "PersonsFullyVaccinatedChange": 4939,
+        "PctVaccinatedPopulation": 0.4314201491243281,
+        "PersonsFullyVaccinated": 4976,
+        "PersonsFullyVaccinatedChange": 4976,
         "Population": 11534,
-        "Report_Date": "2021-07-22T00:00:00",
-        "TotalReportedInventory": 30
+        "Report_Date": "2021-07-25T00:00:00",
+        "TotalReportedInventory": 20
     },
     "VaccineAdministration": [
         {
@@ -25,8 +25,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -34,7 +34,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 13,
@@ -43,8 +43,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -52,7 +52,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 17,
@@ -61,8 +61,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -70,7 +70,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 18,
@@ -79,8 +79,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -88,7 +88,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 18,
@@ -97,8 +97,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -106,7 +106,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 18,
@@ -115,8 +115,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -124,7 +124,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 18,
@@ -133,8 +133,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -142,7 +142,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 18,
@@ -151,8 +151,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -160,7 +160,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 61,
@@ -169,8 +169,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -178,7 +178,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 61,
@@ -187,8 +187,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -196,7 +196,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 61,
@@ -205,8 +205,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -214,7 +214,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 62,
@@ -223,8 +223,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -232,7 +232,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 68,
@@ -241,8 +241,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -250,7 +250,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 78,
@@ -259,8 +259,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -268,7 +268,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 101,
@@ -277,8 +277,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -286,7 +286,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 108,
@@ -295,8 +295,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -304,7 +304,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 163,
@@ -313,8 +313,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -322,7 +322,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 189,
@@ -331,8 +331,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -340,7 +340,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 189,
@@ -349,8 +349,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -358,7 +358,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 195,
@@ -367,8 +367,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -376,7 +376,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 206,
@@ -385,8 +385,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -394,7 +394,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 215,
@@ -403,8 +403,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0,
@@ -412,7 +412,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 234,
@@ -421,8 +421,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0008670019074041963,
@@ -430,7 +430,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 11534,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 298,
@@ -439,8 +439,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.00225420495925091,
@@ -448,7 +448,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 11534,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 300,
@@ -457,8 +457,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.00234090514999133,
@@ -466,7 +466,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 11534,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 306,
@@ -475,8 +475,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.002861106294433848,
@@ -484,7 +484,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 11534,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 310,
@@ -493,8 +493,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0029478064851742674,
@@ -502,7 +502,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 11534,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 327,
@@ -511,8 +511,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0031212068666551067,
@@ -520,7 +520,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 11534,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 338,
@@ -529,8 +529,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0031212068666551067,
@@ -538,7 +538,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 408,
@@ -547,8 +547,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.003207907057395526,
@@ -556,7 +556,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 11534,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 424,
@@ -565,8 +565,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.003294607248135946,
@@ -574,7 +574,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 11534,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 485,
@@ -583,8 +583,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.003294607248135946,
@@ -592,7 +592,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 485,
@@ -601,8 +601,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.003294607248135946,
@@ -610,7 +610,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 489,
@@ -619,8 +619,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.003294607248135946,
@@ -628,7 +628,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 581,
@@ -637,8 +637,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.003294607248135946,
@@ -646,7 +646,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 607,
@@ -655,8 +655,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0035547078203572047,
@@ -664,7 +664,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 733,
@@ -673,8 +673,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.010057222125888677,
@@ -682,7 +682,7 @@
             "PersonsFullyVaccinatedChange": 75,
             "Population": 11534,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 765,
@@ -691,8 +691,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.010230622507369516,
@@ -700,7 +700,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 11534,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 803,
@@ -709,8 +709,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.013351829374024623,
@@ -718,7 +718,7 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 11534,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 929,
@@ -727,8 +727,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.014652332235130917,
@@ -736,7 +736,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 11534,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 974,
@@ -745,8 +745,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.014825732616611756,
@@ -754,7 +754,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 11534,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1061,
@@ -763,8 +763,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.014825732616611756,
@@ -772,7 +772,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1131,
@@ -781,8 +781,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.01621293566845847,
@@ -790,7 +790,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 11534,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1168,
@@ -799,8 +799,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.017686838911045603,
@@ -808,7 +808,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 11534,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1314,
@@ -817,8 +817,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.020201144442517773,
@@ -826,7 +826,7 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 11534,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1341,
@@ -835,8 +835,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.021154846540662388,
@@ -844,7 +844,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 11534,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1351,
@@ -853,8 +853,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.021154846540662388,
@@ -862,7 +862,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1389,
@@ -871,8 +871,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.021675047685104906,
@@ -880,7 +880,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 11534,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1482,
@@ -889,8 +889,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.026877059129530086,
@@ -898,7 +898,7 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 11534,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1533,
@@ -907,8 +907,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.027744061036934282,
@@ -916,7 +916,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 11534,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1590,
@@ -925,8 +925,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.028524362753598057,
@@ -934,7 +934,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 11534,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1683,
@@ -943,8 +943,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.029651465233223512,
@@ -952,7 +952,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 11534,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1755,
@@ -961,8 +961,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.02991156580544477,
@@ -970,7 +970,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1926,
@@ -979,8 +979,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.03251257152765736,
@@ -988,7 +988,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 11534,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 1949,
@@ -997,8 +997,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.0326859719091382,
@@ -1006,7 +1006,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 11534,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2072,
@@ -1015,8 +1015,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.041529391364661,
@@ -1024,7 +1024,7 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 11534,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2094,
@@ -1033,8 +1033,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.042309693081324776,
@@ -1042,7 +1042,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 11534,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2129,
@@ -1051,8 +1051,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.04395699670539275,
@@ -1060,7 +1060,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 11534,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2318,
@@ -1069,8 +1069,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.04803190567019248,
@@ -1078,7 +1078,7 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 11534,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2441,
@@ -1087,8 +1087,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.04985260967574129,
@@ -1096,7 +1096,7 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 11534,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2475,
@@ -1105,8 +1105,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.05019941043870296,
@@ -1114,7 +1114,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 11534,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2490,
@@ -1123,8 +1123,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.05019941043870296,
@@ -1132,7 +1132,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2502,
@@ -1141,8 +1141,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.050893011964626325,
@@ -1150,7 +1150,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 11534,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2526,
@@ -1159,8 +1159,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.051846714062770936,
@@ -1168,7 +1168,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 11534,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2598,
@@ -1177,8 +1177,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.05592162302757066,
@@ -1186,7 +1186,7 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 11534,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2637,
@@ -1195,8 +1195,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.057308826079417376,
@@ -1204,7 +1204,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 11534,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2640,
@@ -1213,8 +1213,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.057308826079417376,
@@ -1222,7 +1222,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2669,
@@ -1231,8 +1231,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.059216230275706605,
@@ -1240,7 +1240,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 11534,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2687,
@@ -1249,8 +1249,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.06034333275533206,
@@ -1258,7 +1258,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 11534,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2715,
@@ -1267,8 +1267,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.06216403676088087,
@@ -1276,7 +1276,7 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 11534,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2758,
@@ -1285,8 +1285,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.06545864400901683,
@@ -1294,7 +1294,7 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 11534,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2820,
@@ -1303,8 +1303,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.06988035373677821,
@@ -1312,7 +1312,7 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 11534,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 2979,
@@ -1321,8 +1321,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.08080457777007109,
@@ -1330,7 +1330,7 @@
             "PersonsFullyVaccinatedChange": 126,
             "Population": 11534,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3206,
@@ -1339,8 +1339,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.09311600485521068,
@@ -1348,7 +1348,7 @@
             "PersonsFullyVaccinatedChange": 142,
             "Population": 11534,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3226,
@@ -1357,8 +1357,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.09424310733483614,
@@ -1366,7 +1366,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 11534,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3258,
@@ -1375,8 +1375,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.09606381134038496,
@@ -1384,7 +1384,7 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 11534,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3304,
@@ -1393,8 +1393,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.09909831801629963,
@@ -1402,7 +1402,7 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 11534,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3330,
@@ -1411,8 +1411,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.10022542049592509,
@@ -1420,7 +1420,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 11534,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3397,
@@ -1429,8 +1429,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.10499393098664817,
@@ -1438,7 +1438,7 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 11534,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3481,
@@ -1447,8 +1447,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.11088954395699671,
@@ -1456,7 +1456,7 @@
             "PersonsFullyVaccinatedChange": 68,
             "Population": 11534,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3832,
@@ -1465,8 +1465,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.12970348534766776,
@@ -1474,7 +1474,7 @@
             "PersonsFullyVaccinatedChange": 217,
             "Population": 11534,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3846,
@@ -1483,8 +1483,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.1307438876365528,
@@ -1492,7 +1492,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 11534,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3869,
@@ -1501,8 +1501,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.13247789145136118,
@@ -1510,7 +1510,7 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 11534,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3907,
@@ -1519,8 +1519,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.13438529564765042,
@@ -1528,7 +1528,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 11534,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 3966,
@@ -1537,8 +1537,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.13759320270504596,
@@ -1546,7 +1546,7 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 11534,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4013,
@@ -1555,8 +1555,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.1391538061383735,
@@ -1564,7 +1564,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 11534,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4437,
@@ -1573,8 +1573,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.1584879486734871,
@@ -1582,7 +1582,7 @@
             "PersonsFullyVaccinatedChange": 223,
             "Population": 11534,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4488,
@@ -1591,8 +1591,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.16091555401421884,
@@ -1600,7 +1600,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 11534,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4506,
@@ -1609,8 +1609,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.16230275706606553,
@@ -1618,7 +1618,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 11534,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4520,
@@ -1627,8 +1627,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.16308305878272933,
@@ -1636,7 +1636,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 11534,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4547,
@@ -1645,8 +1645,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.16412346107161435,
@@ -1654,7 +1654,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 11534,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4577,
@@ -1663,8 +1663,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.16473036240679728,
@@ -1672,7 +1672,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 11534,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4612,
@@ -1681,8 +1681,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.16620426564938443,
@@ -1690,7 +1690,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 11534,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4966,
@@ -1699,8 +1699,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.16811166984567366,
@@ -1708,7 +1708,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 11534,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4985,
@@ -1717,8 +1717,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.16863187099011617,
@@ -1726,7 +1726,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 11534,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 4994,
@@ -1735,8 +1735,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.16897867175307785,
@@ -1744,7 +1744,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 11534,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5011,
@@ -1753,8 +1753,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.1694988728975204,
@@ -1762,7 +1762,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 11534,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5026,
@@ -1771,8 +1771,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.16975897346974164,
@@ -1780,7 +1780,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5068,
@@ -1789,8 +1789,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.17036587480492457,
@@ -1798,7 +1798,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 11534,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5115,
@@ -1807,8 +1807,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.1709727761401075,
@@ -1816,7 +1816,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 11534,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5315,
@@ -1825,8 +1825,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.18059649731229407,
@@ -1834,7 +1834,7 @@
             "PersonsFullyVaccinatedChange": 111,
             "Population": 11534,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5341,
@@ -1843,8 +1843,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.18172359979191954,
@@ -1852,7 +1852,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 11534,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5356,
@@ -1861,8 +1861,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.1819837003641408,
@@ -1870,7 +1870,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5437,
@@ -1879,8 +1879,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.18259060169932373,
@@ -1888,7 +1888,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 11534,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5484,
@@ -1897,8 +1897,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.18519160742153631,
@@ -1906,7 +1906,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 11534,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5511,
@@ -1915,8 +1915,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.18631870990116178,
@@ -1924,7 +1924,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 11534,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5552,
@@ -1933,8 +1933,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.18753251257152767,
@@ -1942,7 +1942,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 11534,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5581,
@@ -1951,8 +1951,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.18848621466967228,
@@ -1960,7 +1960,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 11534,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5597,
@@ -1969,8 +1969,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.18943991676781688,
@@ -1978,7 +1978,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 11534,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5607,
@@ -1987,8 +1987,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.18970001734003814,
@@ -1996,7 +1996,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5824,
@@ -2005,8 +2005,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.1947286284029825,
@@ -2014,7 +2014,7 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 11534,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5923,
@@ -2023,8 +2023,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.2010577423270331,
@@ -2032,7 +2032,7 @@
             "PersonsFullyVaccinatedChange": 73,
             "Population": 11534,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 5968,
@@ -2041,8 +2041,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.20348534766776488,
@@ -2050,7 +2050,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 11534,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6029,
@@ -2059,8 +2059,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.20756025663256458,
@@ -2068,7 +2068,7 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 11534,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6071,
@@ -2077,8 +2077,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.21094156407144096,
@@ -2086,7 +2086,7 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 11534,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6289,
@@ -2095,8 +2095,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.22914860412692908,
@@ -2104,7 +2104,7 @@
             "PersonsFullyVaccinatedChange": 210,
             "Population": 11534,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6295,
@@ -2113,8 +2113,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.22940870469915034,
@@ -2122,7 +2122,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6483,
@@ -2131,8 +2131,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.24440783769724295,
@@ -2140,7 +2140,7 @@
             "PersonsFullyVaccinatedChange": 173,
             "Population": 11534,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6540,
@@ -2149,8 +2149,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.24770244494537888,
@@ -2158,7 +2158,7 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 11534,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6598,
@@ -2167,8 +2167,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.25125715276573607,
@@ -2176,7 +2176,7 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 11534,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6673,
@@ -2185,8 +2185,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.25368475810646784,
@@ -2194,7 +2194,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 11534,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6733,
@@ -2203,8 +2203,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.25654586440090166,
@@ -2212,7 +2212,7 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 11534,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6760,
@@ -2221,8 +2221,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.2577596670712676,
@@ -2230,7 +2230,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 11534,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 6779,
@@ -2239,8 +2239,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.25897346974163343,
@@ -2248,7 +2248,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 11534,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7095,
@@ -2257,8 +2257,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.2856771284896827,
@@ -2266,7 +2266,7 @@
             "PersonsFullyVaccinatedChange": 308,
             "Population": 11534,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7138,
@@ -2275,8 +2275,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.2872377319230102,
@@ -2284,7 +2284,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 11534,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7172,
@@ -2293,8 +2293,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.28905843592855907,
@@ -2302,7 +2302,7 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 11534,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7224,
@@ -2311,8 +2311,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.2916594416507716,
@@ -2320,7 +2320,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 11534,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7294,
@@ -2329,8 +2329,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.294000346800763,
@@ -2338,7 +2338,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 11534,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7342,
@@ -2347,8 +2347,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.2959077509970522,
@@ -2356,7 +2356,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 11534,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7354,
@@ -2365,8 +2365,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.2965146523322351,
@@ -2374,7 +2374,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 11534,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7498,
@@ -2383,8 +2383,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3076989769377493,
@@ -2392,7 +2392,7 @@
             "PersonsFullyVaccinatedChange": 129,
             "Population": 11534,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7523,
@@ -2401,8 +2401,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.30891277960811514,
@@ -2410,7 +2410,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 11534,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7574,
@@ -2419,8 +2419,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.31134038494884686,
@@ -2428,7 +2428,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 11534,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7618,
@@ -2437,8 +2437,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3135945899080978,
@@ -2446,7 +2446,7 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 11534,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7639,
@@ -2455,8 +2455,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.31428819143402115,
@@ -2464,7 +2464,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 11534,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7643,
@@ -2473,8 +2473,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3145482920062424,
@@ -2482,7 +2482,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7647,
@@ -2491,8 +2491,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3145482920062424,
@@ -2500,7 +2500,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7765,
@@ -2509,8 +2509,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.32451881394139065,
@@ -2518,7 +2518,7 @@
             "PersonsFullyVaccinatedChange": 115,
             "Population": 11534,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7806,
@@ -2527,8 +2527,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.32659961851916075,
@@ -2536,7 +2536,7 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 11534,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7850,
@@ -2545,8 +2545,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.32850702271544996,
@@ -2554,7 +2554,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 11534,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7873,
@@ -2563,8 +2563,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.32998092595803713,
@@ -2572,7 +2572,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 11534,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7918,
@@ -2581,8 +2581,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.33197503034506676,
@@ -2590,7 +2590,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 11534,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7937,
@@ -2599,8 +2599,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3327553320617305,
@@ -2608,7 +2608,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 11534,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 7959,
@@ -2617,8 +2617,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.33370903415987513,
@@ -2626,7 +2626,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 11534,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8030,
@@ -2635,8 +2635,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.33769724293393444,
@@ -2644,7 +2644,7 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 11534,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8060,
@@ -2653,8 +2653,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.33934454655800245,
@@ -2662,7 +2662,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 11534,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8087,
@@ -2671,8 +2671,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3413386509450321,
@@ -2680,7 +2680,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 11534,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8114,
@@ -2689,8 +2689,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.34333275533206176,
@@ -2698,7 +2698,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 11534,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8147,
@@ -2707,8 +2707,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3454135599098318,
@@ -2716,7 +2716,7 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 11534,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8202,
@@ -2725,8 +2725,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.348968267730189,
@@ -2734,7 +2734,7 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 11534,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8208,
@@ -2743,8 +2743,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.34914166811166986,
@@ -2752,7 +2752,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 11534,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8217,
@@ -2761,8 +2761,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.34966186925611237,
@@ -2770,7 +2770,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 11534,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8280,
@@ -2779,8 +2779,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3522628749783249,
@@ -2788,7 +2788,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 11534,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8330,
@@ -2797,8 +2797,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3537367782209121,
@@ -2806,7 +2806,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 11534,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8433,
@@ -2815,8 +2815,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.35746488642275015,
@@ -2824,7 +2824,7 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 11534,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8458,
@@ -2833,8 +2833,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.35928559042829894,
@@ -2842,7 +2842,7 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 11534,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8499,
@@ -2851,8 +2851,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.36179989595977113,
@@ -2860,7 +2860,7 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 11534,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8517,
@@ -2869,8 +2869,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.36275359805791574,
@@ -2878,7 +2878,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 11534,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8540,
@@ -2887,8 +2887,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3639674007282816,
@@ -2896,7 +2896,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 11534,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8577,
@@ -2905,8 +2905,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.36509450320790704,
@@ -2914,7 +2914,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 11534,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8625,
@@ -2923,8 +2923,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3663950060690134,
@@ -2932,7 +2932,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 11534,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8667,
@@ -2941,8 +2941,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3680423096930813,
@@ -2950,7 +2950,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 11534,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8714,
@@ -2959,8 +2959,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.37073001560603436,
@@ -2968,7 +2968,7 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 11534,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8735,
@@ -2977,8 +2977,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3713369169412173,
@@ -2986,7 +2986,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 11534,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8744,
@@ -2995,8 +2995,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.37159701751343854,
@@ -3004,7 +3004,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8752,
@@ -3013,8 +3013,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3717704178949194,
@@ -3022,7 +3022,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 11534,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8778,
@@ -3031,8 +3031,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3733310213282469,
@@ -3040,7 +3040,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 11534,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8808,
@@ -3049,8 +3049,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3745448239986128,
@@ -3058,7 +3058,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 11534,
             "Report_Date": "2021-06-02T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8836,
@@ -3067,8 +3067,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.37549852609675743,
@@ -3076,7 +3076,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 11534,
             "Report_Date": "2021-06-03T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8859,
@@ -3085,8 +3085,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.37645222819490204,
@@ -3094,7 +3094,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 11534,
             "Report_Date": "2021-06-04T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8870,
@@ -3103,8 +3103,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3767123287671233,
@@ -3112,7 +3112,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-06-05T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8896,
@@ -3121,8 +3121,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.37835963239119125,
@@ -3130,7 +3130,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 11534,
             "Report_Date": "2021-06-06T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8912,
@@ -3139,8 +3139,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.37922663429859543,
@@ -3148,7 +3148,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 11534,
             "Report_Date": "2021-06-07T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8945,
@@ -3157,8 +3157,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3811340384948847,
@@ -3166,7 +3166,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 11534,
             "Report_Date": "2021-06-08T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 8995,
@@ -3175,8 +3175,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.38373504421709725,
@@ -3184,7 +3184,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 11534,
             "Report_Date": "2021-06-09T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9023,
@@ -3193,8 +3193,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3854690480319057,
@@ -3202,7 +3202,7 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 11534,
             "Report_Date": "2021-06-10T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9034,
@@ -3211,8 +3211,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.38616264955782903,
@@ -3220,7 +3220,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 11534,
             "Report_Date": "2021-06-11T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9039,
@@ -3229,8 +3229,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3865094503207907,
@@ -3238,7 +3238,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 11534,
             "Report_Date": "2021-06-12T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9073,
@@ -3247,8 +3247,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.38720305184671405,
@@ -3256,7 +3256,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 11534,
             "Report_Date": "2021-06-13T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9140,
@@ -3265,8 +3265,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3913646610022542,
@@ -3274,7 +3274,7 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 11534,
             "Report_Date": "2021-06-14T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9183,
@@ -3283,8 +3283,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.39361886596150514,
@@ -3292,7 +3292,7 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 11534,
             "Report_Date": "2021-06-15T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9205,
@@ -3301,8 +3301,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3949193688226114,
@@ -3310,7 +3310,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 11534,
             "Report_Date": "2021-06-16T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9251,
@@ -3319,8 +3319,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3972602739726027,
@@ -3328,7 +3328,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 11534,
             "Report_Date": "2021-06-17T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9267,
@@ -3337,8 +3337,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.3983873764522282,
@@ -3346,7 +3346,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 11534,
             "Report_Date": "2021-06-18T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9313,
@@ -3355,8 +3355,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4002947806485174,
@@ -3364,7 +3364,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 11534,
             "Report_Date": "2021-06-19T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9321,
@@ -3373,8 +3373,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4006415814114791,
@@ -3382,7 +3382,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 11534,
             "Report_Date": "2021-06-20T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9329,
@@ -3391,8 +3391,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.40090168198370035,
@@ -3400,7 +3400,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-06-21T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9365,
@@ -3409,8 +3409,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4031558869429513,
@@ -3418,7 +3418,7 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 11534,
             "Report_Date": "2021-06-22T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9384,
@@ -3427,8 +3427,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4040228888503555,
@@ -3436,7 +3436,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 11534,
             "Report_Date": "2021-06-23T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9419,
@@ -3445,8 +3445,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.40532339171146176,
@@ -3454,7 +3454,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 11534,
             "Report_Date": "2021-06-24T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9455,
@@ -3463,8 +3463,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.40740419628923186,
@@ -3472,7 +3472,7 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 11534,
             "Report_Date": "2021-06-25T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9501,
@@ -3481,8 +3481,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4098318016299636,
@@ -3490,7 +3490,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 11534,
             "Report_Date": "2021-06-26T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9509,
@@ -3499,8 +3499,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4100052020114444,
@@ -3508,7 +3508,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 11534,
             "Report_Date": "2021-06-27T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9514,
@@ -3517,8 +3517,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.41026530258366567,
@@ -3526,7 +3526,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 11534,
             "Report_Date": "2021-06-28T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9542,
@@ -3535,8 +3535,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.41225940697069535,
@@ -3544,7 +3544,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 11534,
             "Report_Date": "2021-06-29T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9565,
@@ -3553,8 +3553,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4132998092595804,
@@ -3562,7 +3562,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 11534,
             "Report_Date": "2021-06-30T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9598,
@@ -3571,8 +3571,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.41460031212068665,
@@ -3580,7 +3580,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 11534,
             "Report_Date": "2021-07-01T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9612,
@@ -3589,8 +3589,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.41529391364661,
@@ -3598,7 +3598,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 11534,
             "Report_Date": "2021-07-02T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9618,
@@ -3607,8 +3607,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4156407144095717,
@@ -3616,7 +3616,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 11534,
             "Report_Date": "2021-07-03T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9620,
@@ -3625,8 +3625,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4158141147910525,
@@ -3634,7 +3634,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 11534,
             "Report_Date": "2021-07-04T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9625,
@@ -3643,8 +3643,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4159875151725334,
@@ -3652,7 +3652,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 11534,
             "Report_Date": "2021-07-05T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9638,
@@ -3661,8 +3661,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4167678168891972,
@@ -3670,7 +3670,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 11534,
             "Report_Date": "2021-07-06T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9659,
@@ -3679,8 +3679,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4178949193688226,
@@ -3688,7 +3688,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 11534,
             "Report_Date": "2021-07-07T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9682,
@@ -3697,8 +3697,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.41893532165770764,
@@ -3706,7 +3706,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 11534,
             "Report_Date": "2021-07-08T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9692,
@@ -3715,8 +3715,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.41936882261140973,
@@ -3724,7 +3724,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 11534,
             "Report_Date": "2021-07-09T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9695,
@@ -3733,8 +3733,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.41936882261140973,
@@ -3742,7 +3742,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 11534,
             "Report_Date": "2021-07-10T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9700,
@@ -3751,8 +3751,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.41945552280215015,
@@ -3760,7 +3760,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 11534,
             "Report_Date": "2021-07-11T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9714,
@@ -3769,8 +3769,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.41988902375585224,
@@ -3778,7 +3778,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 11534,
             "Report_Date": "2021-07-12T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9731,
@@ -3787,8 +3787,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4207560256632565,
@@ -3796,7 +3796,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 11534,
             "Report_Date": "2021-07-13T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9748,
@@ -3805,8 +3805,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.42162302757066067,
@@ -3814,7 +3814,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 11534,
             "Report_Date": "2021-07-14T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9779,
@@ -3823,8 +3823,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.42283683024102653,
@@ -3832,7 +3832,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 11534,
             "Report_Date": "2021-07-15T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9788,
@@ -3841,8 +3841,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4231836310039882,
@@ -3850,7 +3850,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 11534,
             "Report_Date": "2021-07-16T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9806,
@@ -3859,8 +3859,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4240506329113924,
@@ -3868,7 +3868,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 11534,
             "Report_Date": "2021-07-17T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9813,
@@ -3877,8 +3877,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4246575342465753,
@@ -3886,7 +3886,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 11534,
             "Report_Date": "2021-07-18T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9827,
@@ -3895,8 +3895,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4253511357724987,
@@ -3904,7 +3904,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 11534,
             "Report_Date": "2021-07-19T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9838,
@@ -3913,8 +3913,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.42595803710768165,
@@ -3922,7 +3922,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 11534,
             "Report_Date": "2021-07-20T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9852,
@@ -3931,8 +3931,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.4265649384428646,
@@ -3940,7 +3940,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 11534,
             "Report_Date": "2021-07-21T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
         },
         {
             "AdministeredCount": 9884,
@@ -3949,8 +3949,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Marshall",
-            "InventoryReportDate": "2021-07-22T00:00:00",
-            "LHDReportedInventory": 30,
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
             "Latitude": 40.9973,
             "Longitude": -89.3606,
             "PctVaccinatedPopulation": 0.42821224206693254,
@@ -3958,11 +3958,65 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 11534,
             "Report_Date": "2021-07-22T00:00:00",
-            "TotalReportedInventory": 30
+            "TotalReportedInventory": 20
+        },
+        {
+            "AdministeredCount": 9940,
+            "AdministeredCountChange": 56,
+            "AdministeredCountRollAvg": 22.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Marshall",
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
+            "Latitude": 40.9973,
+            "Longitude": -89.3606,
+            "PctVaccinatedPopulation": 0.4305531472169239,
+            "PersonsFullyVaccinated": 4966,
+            "PersonsFullyVaccinatedChange": 27,
+            "Population": 11534,
+            "Report_Date": "2021-07-23T00:00:00",
+            "TotalReportedInventory": 20
+        },
+        {
+            "AdministeredCount": 9958,
+            "AdministeredCountChange": 18,
+            "AdministeredCountRollAvg": 22.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Marshall",
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
+            "Latitude": 40.9973,
+            "Longitude": -89.3606,
+            "PctVaccinatedPopulation": 0.43133344893358766,
+            "PersonsFullyVaccinated": 4975,
+            "PersonsFullyVaccinatedChange": 9,
+            "Population": 11534,
+            "Report_Date": "2021-07-24T00:00:00",
+            "TotalReportedInventory": 20
+        },
+        {
+            "AdministeredCount": 9961,
+            "AdministeredCountChange": 3,
+            "AdministeredCountRollAvg": 21.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Marshall",
+            "InventoryReportDate": "2021-07-25T00:00:00",
+            "LHDReportedInventory": 20,
+            "Latitude": 40.9973,
+            "Longitude": -89.3606,
+            "PctVaccinatedPopulation": 0.4314201491243281,
+            "PersonsFullyVaccinated": 4976,
+            "PersonsFullyVaccinatedChange": 1,
+            "Population": 11534,
+            "Report_Date": "2021-07-25T00:00:00",
+            "TotalReportedInventory": 20
         }
     ],
     "lastUpdatedDate": {
-        "day": 22,
+        "day": 25,
         "month": 7,
         "year": 2021
     }

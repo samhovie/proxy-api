@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 4409,
+        "AdministeredCount": 4421,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 6.0,
+        "AdministeredCountRollAvg": 7.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2021-08-04T00:00:00",
+        "InventoryReportDate": "2021-08-05T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.4092500460659665,
-        "PersonsFullyVaccinated": 2221,
-        "PersonsFullyVaccinatedChange": 2221,
+        "PctVaccinatedPopulation": 0.4103556292611019,
+        "PersonsFullyVaccinated": 2227,
+        "PersonsFullyVaccinatedChange": 2227,
         "Population": 5427,
-        "Report_Date": "2021-08-04T00:00:00",
+        "Report_Date": "2021-08-05T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -4193,10 +4193,28 @@
             "Population": 5427,
             "Report_Date": "2021-08-04T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 4421,
+            "AdministeredCountChange": 12,
+            "AdministeredCountRollAvg": 7.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2021-08-05T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.4103556292611019,
+            "PersonsFullyVaccinated": 2227,
+            "PersonsFullyVaccinatedChange": 6,
+            "Population": 5427,
+            "Report_Date": "2021-08-05T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 4,
+        "day": 5,
         "month": 8,
         "year": 2021
     }

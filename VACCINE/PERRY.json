@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 14993,
+        "AdministeredCount": 15017,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 37.0,
+        "AdministeredCountRollAvg": 36.0,
         "AllocatedDoses": 300,
-        "CommunityReportedInventory": 60,
+        "CommunityReportedInventory": 40,
         "CountyName": "Perry",
-        "InventoryReportDate": "2021-08-04T00:00:00",
+        "InventoryReportDate": "2021-08-05T00:00:00",
         "LHDReportedInventory": 953,
         "Latitude": 38.0612,
         "Longitude": -89.3227,
-        "PctVaccinatedPopulation": 0.35198828752243316,
-        "PersonsFullyVaccinated": 7453,
-        "PersonsFullyVaccinatedChange": 7453,
+        "PctVaccinatedPopulation": 0.3524133371115519,
+        "PersonsFullyVaccinated": 7462,
+        "PersonsFullyVaccinatedChange": 7462,
         "Population": 21174,
-        "Report_Date": "2021-08-04T00:00:00",
-        "TotalReportedInventory": 1013
+        "Report_Date": "2021-08-05T00:00:00",
+        "TotalReportedInventory": 993
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 1.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 58,
             "AdministeredCountChange": 53,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 164,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 181,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 184,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 184,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 191,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 27.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 193,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 27.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 222,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 222,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 8.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 222,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 222,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 226,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 238,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 278,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 303,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 12.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 348,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 360,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 360,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 386,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 426,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 27.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 454,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 508,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 29.0,
             "AllocatedDoses": 150,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 21174,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 680,
             "AdministeredCountChange": 172,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 122,
             "Population": 21174,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 682,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 46.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 21174,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 685,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 46.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 21174,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 708,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 46.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 21174,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 748,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 46.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 21174,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 759,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 21174,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 821,
             "AdministeredCountChange": 62,
             "AdministeredCountRollAvg": 45.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 826,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 877,
             "AdministeredCountChange": 51,
             "AdministeredCountRollAvg": 28.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 878,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 28.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 887,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 952,
             "AdministeredCountChange": 65,
             "AdministeredCountRollAvg": 29.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1079,
             "AdministeredCountChange": 127,
             "AdministeredCountRollAvg": 46.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 21174,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1159,
             "AdministeredCountChange": 80,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1241,
             "AdministeredCountChange": 82,
             "AdministeredCountRollAvg": 59.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 65,
             "Population": 21174,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1259,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 21174,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1262,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1273,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 21174,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1395,
             "AdministeredCountChange": 122,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 21174,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1525,
             "AdministeredCountChange": 130,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 21174,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1647,
             "AdministeredCountChange": 122,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 21174,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1706,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 21174,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1713,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 21174,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1719,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1766,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 21174,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 1956,
             "AdministeredCountChange": 190,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 21174,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 2131,
             "AdministeredCountChange": 175,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 21174,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 2322,
             "AdministeredCountChange": 191,
             "AdministeredCountRollAvg": 96.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 21174,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 2403,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 100.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 21174,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 2441,
             "AdministeredCountChange": 38,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 21174,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 2444,
             "AdministeredCountChange": 3,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 21174,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 2455,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 2559,
             "AdministeredCountChange": 104,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 21174,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 2862,
             "AdministeredCountChange": 303,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 21174,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3025,
             "AdministeredCountChange": 163,
             "AdministeredCountRollAvg": 100.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 21174,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3055,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 93.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 21174,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3067,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 21174,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3083,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 21174,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3093,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3099,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3143,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 40.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 21174,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3235,
             "AdministeredCountChange": 92,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 21174,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3387,
             "AdministeredCountChange": 152,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 21174,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3398,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 21174,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3441,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 21174,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3588,
             "AdministeredCountChange": 147,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3773,
             "AdministeredCountChange": 185,
             "AdministeredCountRollAvg": 96.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 98,
             "Population": 21174,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 3998,
             "AdministeredCountChange": 225,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 123,
             "Population": 21174,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 4249,
             "AdministeredCountChange": 251,
             "AdministeredCountRollAvg": 145.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 21174,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 4368,
             "AdministeredCountChange": 119,
             "AdministeredCountRollAvg": 140.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 21174,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 4395,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 142.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 21174,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 4414,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 139.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 4451,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 123.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 21174,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 4621,
             "AdministeredCountChange": 170,
             "AdministeredCountRollAvg": 121.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 135,
             "Population": 21174,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 5060,
             "AdministeredCountChange": 439,
             "AdministeredCountRollAvg": 152.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 398,
             "Population": 21174,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 5569,
             "AdministeredCountChange": 509,
             "AdministeredCountRollAvg": 189.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 183,
             "Population": 21174,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 5650,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 183.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 21174,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 5669,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 182.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 5676,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 180.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 21174,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 5715,
             "AdministeredCountChange": 39,
             "AdministeredCountRollAvg": 181.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 21174,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 5792,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 167.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 21174,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 6792,
             "AdministeredCountChange": 1000,
             "AdministeredCountRollAvg": 247.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 463,
             "Population": 21174,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 7228,
             "AdministeredCountChange": 436,
             "AdministeredCountRollAvg": 237.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 233,
             "Population": 21174,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 7316,
             "AdministeredCountChange": 88,
             "AdministeredCountRollAvg": 238.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 21174,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 7379,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 244.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 21174,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 7396,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 246.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 21174,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 7507,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 256.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 21174,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 7611,
             "AdministeredCountChange": 104,
             "AdministeredCountRollAvg": 260.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 84,
             "Population": 21174,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 7807,
             "AdministeredCountChange": 196,
             "AdministeredCountRollAvg": 145.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 21174,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8017,
             "AdministeredCountChange": 210,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 21174,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8119,
             "AdministeredCountChange": 102,
             "AdministeredCountRollAvg": 115.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 85,
             "Population": 21174,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8171,
             "AdministeredCountChange": 52,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8171,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8220,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 21174,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8272,
             "AdministeredCountChange": 52,
             "AdministeredCountRollAvg": 94.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 21174,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8527,
             "AdministeredCountChange": 255,
             "AdministeredCountRollAvg": 103.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 122,
             "Population": 21174,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8766,
             "AdministeredCountChange": 239,
             "AdministeredCountRollAvg": 107.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 210,
             "Population": 21174,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8843,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 103.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 21174,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8888,
             "AdministeredCountChange": 45,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 21174,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 8898,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 21174,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 10052,
             "AdministeredCountChange": 1154,
             "AdministeredCountRollAvg": 262.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 777,
             "Population": 21174,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 10147,
             "AdministeredCountChange": 95,
             "AdministeredCountRollAvg": 268.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 21174,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 10210,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 240.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 57,
             "Population": 21174,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 10353,
             "AdministeredCountChange": 143,
             "AdministeredCountRollAvg": 227.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 105,
             "Population": 21174,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 10407,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 223.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 21174,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 10415,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 218.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 10420,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 217.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 21174,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 10613,
             "AdministeredCountChange": 193,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 170,
             "Population": 21174,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 10771,
             "AdministeredCountChange": 158,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 21174,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 10940,
             "AdministeredCountChange": 169,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 126,
             "Population": 21174,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11254,
             "AdministeredCountChange": 314,
             "AdministeredCountRollAvg": 129.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 260,
             "Population": 21174,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11291,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 126.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 21174,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11326,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 130.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 21174,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11347,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 132.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2122,16 +2122,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 21174,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11391,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 111.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2140,16 +2140,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 21174,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11424,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 93.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2158,16 +2158,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 21174,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11571,
             "AdministeredCountChange": 147,
             "AdministeredCountRollAvg": 90.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2176,16 +2176,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 21174,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11848,
             "AdministeredCountChange": 277,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2194,16 +2194,16 @@
             "PersonsFullyVaccinatedChange": 253,
             "Population": 21174,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11896,
             "AdministeredCountChange": 48,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2212,16 +2212,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 21174,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11907,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2230,16 +2230,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 21174,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11923,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2248,16 +2248,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 21174,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11952,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2266,16 +2266,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 21174,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 11976,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 79.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2284,16 +2284,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 21174,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12018,
             "AdministeredCountChange": 42,
             "AdministeredCountRollAvg": 64.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2302,16 +2302,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 21174,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12175,
             "AdministeredCountChange": 157,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2320,16 +2320,16 @@
             "PersonsFullyVaccinatedChange": 139,
             "Population": 21174,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12222,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2338,16 +2338,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 21174,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12238,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2356,16 +2356,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 21174,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12264,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 49.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2374,16 +2374,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 21174,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12281,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 47.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2392,16 +2392,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 21174,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12314,
             "AdministeredCountChange": 33,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2410,16 +2410,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 21174,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12409,
             "AdministeredCountChange": 95,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2428,16 +2428,16 @@
             "PersonsFullyVaccinatedChange": 54,
             "Population": 21174,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12494,
             "AdministeredCountChange": 85,
             "AdministeredCountRollAvg": 46.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2446,16 +2446,16 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 21174,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12517,
             "AdministeredCountChange": 23,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2464,16 +2464,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 21174,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12524,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 41.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2482,16 +2482,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 21174,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12529,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2500,16 +2500,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 21174,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12535,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2518,16 +2518,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12573,
             "AdministeredCountChange": 38,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2536,16 +2536,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 21174,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12616,
             "AdministeredCountChange": 43,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2554,16 +2554,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 21174,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12704,
             "AdministeredCountChange": 88,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2572,16 +2572,16 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 21174,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12734,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 31.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2590,16 +2590,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 21174,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12746,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2608,16 +2608,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 21174,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12751,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 32.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2626,16 +2626,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12764,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2644,16 +2644,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12780,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2662,16 +2662,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 21174,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12908,
             "AdministeredCountChange": 128,
             "AdministeredCountRollAvg": 42.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2680,16 +2680,16 @@
             "PersonsFullyVaccinatedChange": 109,
             "Population": 21174,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12942,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2698,16 +2698,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 21174,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 12988,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2716,16 +2716,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 21174,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13009,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 38.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2734,16 +2734,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 21174,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13022,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 39.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2752,16 +2752,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 21174,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13054,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 41.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2770,16 +2770,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 21174,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13094,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 45.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2788,16 +2788,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 21174,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13166,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2806,16 +2806,16 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 21174,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13222,
             "AdministeredCountChange": 56,
             "AdministeredCountRollAvg": 40.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2824,16 +2824,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 21174,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13250,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2842,16 +2842,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 21174,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13266,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2860,16 +2860,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 21174,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13273,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 36.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2878,16 +2878,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 21174,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13297,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 35.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2896,16 +2896,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 21174,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13327,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2914,16 +2914,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 21174,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13381,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 31.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2932,16 +2932,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 21174,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13435,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2950,16 +2950,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 21174,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13461,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 30.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2968,16 +2968,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 21174,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13470,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 29.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -2986,16 +2986,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 21174,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13478,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 29.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3004,16 +3004,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 21174,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13484,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 27.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3022,16 +3022,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 21174,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13505,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3040,16 +3040,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 21174,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13547,
             "AdministeredCountChange": 42,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3058,16 +3058,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 21174,
             "Report_Date": "2021-06-02T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13562,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3076,16 +3076,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 21174,
             "Report_Date": "2021-06-03T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13588,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3094,16 +3094,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 21174,
             "Report_Date": "2021-06-04T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13597,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3112,16 +3112,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 21174,
             "Report_Date": "2021-06-05T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13607,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3130,16 +3130,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 21174,
             "Report_Date": "2021-06-06T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13626,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3148,16 +3148,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 21174,
             "Report_Date": "2021-06-07T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13645,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3166,16 +3166,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 21174,
             "Report_Date": "2021-06-08T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13698,
             "AdministeredCountChange": 53,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3184,16 +3184,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 21174,
             "Report_Date": "2021-06-09T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13720,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3202,16 +3202,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 21174,
             "Report_Date": "2021-06-10T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13755,
             "AdministeredCountChange": 35,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3220,16 +3220,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 21174,
             "Report_Date": "2021-06-11T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13767,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3238,16 +3238,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 21174,
             "Report_Date": "2021-06-12T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13775,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3256,16 +3256,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-06-13T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13802,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3274,16 +3274,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 21174,
             "Report_Date": "2021-06-14T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13828,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3292,16 +3292,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 21174,
             "Report_Date": "2021-06-15T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13882,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 26.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3310,16 +3310,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 21174,
             "Report_Date": "2021-06-16T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13895,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3328,16 +3328,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 21174,
             "Report_Date": "2021-06-17T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13916,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3346,16 +3346,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 21174,
             "Report_Date": "2021-06-18T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13924,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3364,16 +3364,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-06-19T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13928,
             "AdministeredCountChange": 4,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3382,16 +3382,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-06-20T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13944,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 20.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3400,16 +3400,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 21174,
             "Report_Date": "2021-06-21T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 13960,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3418,16 +3418,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 21174,
             "Report_Date": "2021-06-22T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14040,
             "AdministeredCountChange": 80,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3436,16 +3436,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 21174,
             "Report_Date": "2021-06-23T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14054,
             "AdministeredCountChange": 14,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3454,16 +3454,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 21174,
             "Report_Date": "2021-06-24T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14079,
             "AdministeredCountChange": 25,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3472,16 +3472,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 21174,
             "Report_Date": "2021-06-25T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14092,
             "AdministeredCountChange": 13,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3490,16 +3490,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 21174,
             "Report_Date": "2021-06-26T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14100,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 25.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3508,16 +3508,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-06-27T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14106,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3526,16 +3526,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 21174,
             "Report_Date": "2021-06-28T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14121,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3544,16 +3544,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 21174,
             "Report_Date": "2021-06-29T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14152,
             "AdministeredCountChange": 31,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3562,16 +3562,16 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 21174,
             "Report_Date": "2021-06-30T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14173,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3580,16 +3580,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 21174,
             "Report_Date": "2021-07-01T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14194,
             "AdministeredCountChange": 21,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3598,16 +3598,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 21174,
             "Report_Date": "2021-07-02T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14204,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3616,16 +3616,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 21174,
             "Report_Date": "2021-07-03T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14209,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3634,16 +3634,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-07-04T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14209,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3652,16 +3652,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 21174,
             "Report_Date": "2021-07-05T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14226,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3670,16 +3670,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 21174,
             "Report_Date": "2021-07-06T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14256,
             "AdministeredCountChange": 30,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3688,16 +3688,16 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 21174,
             "Report_Date": "2021-07-07T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14284,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3706,16 +3706,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 21174,
             "Report_Date": "2021-07-08T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14304,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3724,16 +3724,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 21174,
             "Report_Date": "2021-07-09T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14311,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 15.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3742,16 +3742,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-07-10T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14318,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 16.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3760,16 +3760,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-07-11T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14333,
             "AdministeredCountChange": 15,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3778,16 +3778,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 21174,
             "Report_Date": "2021-07-12T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14361,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3796,16 +3796,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 21174,
             "Report_Date": "2021-07-13T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14401,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3814,16 +3814,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 21174,
             "Report_Date": "2021-07-14T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14410,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3832,16 +3832,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 21174,
             "Report_Date": "2021-07-15T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14430,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3850,16 +3850,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 21174,
             "Report_Date": "2021-07-16T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14437,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3868,16 +3868,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 21174,
             "Report_Date": "2021-07-17T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14448,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3886,16 +3886,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 21174,
             "Report_Date": "2021-07-18T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14465,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3904,16 +3904,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-07-19T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14487,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3922,16 +3922,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 21174,
             "Report_Date": "2021-07-20T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14537,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3940,16 +3940,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 21174,
             "Report_Date": "2021-07-21T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14557,
             "AdministeredCountChange": 20,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3958,16 +3958,16 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 21174,
             "Report_Date": "2021-07-22T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14583,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3976,16 +3976,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 21174,
             "Report_Date": "2021-07-23T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14595,
             "AdministeredCountChange": 12,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -3994,16 +3994,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 21174,
             "Report_Date": "2021-07-24T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14600,
             "AdministeredCountChange": 5,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4012,16 +4012,16 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 21174,
             "Report_Date": "2021-07-25T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14626,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4030,16 +4030,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-07-26T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14653,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4048,16 +4048,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 21174,
             "Report_Date": "2021-07-27T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14736,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 28.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4066,16 +4066,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 21174,
             "Report_Date": "2021-07-28T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14763,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 29.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4084,16 +4084,16 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 21174,
             "Report_Date": "2021-07-29T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14813,
             "AdministeredCountChange": 50,
             "AdministeredCountRollAvg": 33.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4102,16 +4102,16 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 21174,
             "Report_Date": "2021-07-30T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14830,
             "AdministeredCountChange": 17,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4120,16 +4120,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 21174,
             "Report_Date": "2021-07-31T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14837,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4138,16 +4138,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 21174,
             "Report_Date": "2021-08-01T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14861,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4156,16 +4156,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 21174,
             "Report_Date": "2021-08-02T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14889,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 34.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4174,16 +4174,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 21174,
             "Report_Date": "2021-08-03T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
         },
         {
             "AdministeredCount": 14993,
             "AdministeredCountChange": 104,
             "AdministeredCountRollAvg": 37.0,
             "AllocatedDoses": 300,
-            "CommunityReportedInventory": 60,
+            "CommunityReportedInventory": 40,
             "CountyName": "Perry",
-            "InventoryReportDate": "2021-08-04T00:00:00",
+            "InventoryReportDate": "2021-08-05T00:00:00",
             "LHDReportedInventory": 953,
             "Latitude": 38.0612,
             "Longitude": -89.3227,
@@ -4192,11 +4192,29 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 21174,
             "Report_Date": "2021-08-04T00:00:00",
-            "TotalReportedInventory": 1013
+            "TotalReportedInventory": 993
+        },
+        {
+            "AdministeredCount": 15017,
+            "AdministeredCountChange": 24,
+            "AdministeredCountRollAvg": 36.0,
+            "AllocatedDoses": 300,
+            "CommunityReportedInventory": 40,
+            "CountyName": "Perry",
+            "InventoryReportDate": "2021-08-05T00:00:00",
+            "LHDReportedInventory": 953,
+            "Latitude": 38.0612,
+            "Longitude": -89.3227,
+            "PctVaccinatedPopulation": 0.3524133371115519,
+            "PersonsFullyVaccinated": 7462,
+            "PersonsFullyVaccinatedChange": 9,
+            "Population": 21174,
+            "Report_Date": "2021-08-05T00:00:00",
+            "TotalReportedInventory": 993
         }
     ],
     "lastUpdatedDate": {
-        "day": 4,
+        "day": 5,
         "month": 8,
         "year": 2021
     }

@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 34320,
+        "AdministeredCount": 34681,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 80.0,
+        "AdministeredCountRollAvg": 100.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Woodford",
-        "InventoryReportDate": "2021-08-12T00:00:00",
-        "LHDReportedInventory": 1139,
+        "InventoryReportDate": "2021-08-15T00:00:00",
+        "LHDReportedInventory": 1073,
         "Latitude": 40.7129,
         "Longitude": -89.1706,
-        "PctVaccinatedPopulation": 0.448846943816135,
-        "PersonsFullyVaccinated": 17264,
-        "PersonsFullyVaccinatedChange": 17264,
+        "PctVaccinatedPopulation": 0.4535527649949302,
+        "PersonsFullyVaccinated": 17445,
+        "PersonsFullyVaccinatedChange": 17445,
         "Population": 38463,
-        "Report_Date": "2021-08-12T00:00:00",
-        "TotalReportedInventory": 1139
+        "Report_Date": "2021-08-15T00:00:00",
+        "TotalReportedInventory": 1073
     },
     "VaccineAdministration": [
         {
@@ -25,8 +25,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -34,7 +34,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 23,
@@ -43,8 +43,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -52,7 +52,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 45,
@@ -61,8 +61,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -70,7 +70,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 57,
@@ -79,8 +79,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -88,7 +88,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 57,
@@ -97,8 +97,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -106,7 +106,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 57,
@@ -115,8 +115,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -124,7 +124,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 57,
@@ -133,8 +133,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -142,7 +142,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 59,
@@ -151,8 +151,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -160,7 +160,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 66,
@@ -169,8 +169,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -178,7 +178,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 67,
@@ -187,8 +187,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -196,7 +196,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 69,
@@ -205,8 +205,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -214,7 +214,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 74,
@@ -223,8 +223,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -232,7 +232,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 85,
@@ -241,8 +241,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -250,7 +250,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 128,
@@ -259,8 +259,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -268,7 +268,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 237,
@@ -277,8 +277,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -286,7 +286,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 271,
@@ -295,8 +295,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -304,7 +304,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 359,
@@ -313,8 +313,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -322,7 +322,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 381,
@@ -331,8 +331,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -340,7 +340,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 381,
@@ -349,8 +349,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -358,7 +358,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 459,
@@ -367,8 +367,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -376,7 +376,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 520,
@@ -385,8 +385,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -394,7 +394,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 575,
@@ -403,8 +403,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0,
@@ -412,7 +412,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 652,
@@ -421,8 +421,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.00020799209630034058,
@@ -430,7 +430,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 38463,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 759,
@@ -439,8 +439,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.002183917011153576,
@@ -448,7 +448,7 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 38463,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 779,
@@ -457,8 +457,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0025479031796791724,
@@ -466,7 +466,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 38463,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 812,
@@ -475,8 +475,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0032758755167303644,
@@ -484,7 +484,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 38463,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 841,
@@ -493,8 +493,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.003301874528767907,
@@ -502,7 +502,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 38463,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 904,
@@ -511,8 +511,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.003353872552842992,
@@ -520,7 +520,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 38463,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 987,
@@ -529,8 +529,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.003457868600993162,
@@ -538,7 +538,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 38463,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 1130,
@@ -547,8 +547,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0035618646491433325,
@@ -556,7 +556,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 38463,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 1263,
@@ -565,8 +565,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.003613862673218418,
@@ -574,7 +574,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 38463,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 1297,
@@ -583,8 +583,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.003613862673218418,
@@ -592,7 +592,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 1299,
@@ -601,8 +601,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.003613862673218418,
@@ -610,7 +610,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 1333,
@@ -619,8 +619,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0036398616852559604,
@@ -628,7 +628,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 38463,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 1667,
@@ -637,8 +637,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.003665860697293503,
@@ -646,7 +646,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 38463,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 1871,
@@ -655,8 +655,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0037438577334061307,
@@ -664,7 +664,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 38463,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 2148,
@@ -673,8 +673,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0050178093232457165,
@@ -682,7 +682,7 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 38463,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 2485,
@@ -691,8 +691,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.006525752021423186,
@@ -700,7 +700,7 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 38463,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 2590,
@@ -709,8 +709,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.006993734238098953,
@@ -718,7 +718,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 38463,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 2614,
@@ -727,8 +727,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0071497283103242075,
@@ -736,7 +736,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 38463,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 2766,
@@ -745,8 +745,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.00878766606868939,
@@ -754,7 +754,7 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 38463,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 3276,
@@ -763,8 +763,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.00948963939370304,
@@ -772,7 +772,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 38463,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 3654,
@@ -781,8 +781,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.015131425005849778,
@@ -790,7 +790,7 @@
             "PersonsFullyVaccinatedChange": 217,
             "Population": 38463,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 3863,
@@ -799,8 +799,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.017835322257754204,
@@ -808,7 +808,7 @@
             "PersonsFullyVaccinatedChange": 104,
             "Population": 38463,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 4282,
@@ -817,8 +817,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.019629254088344643,
@@ -826,7 +826,7 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 38463,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 4453,
@@ -835,8 +835,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.02090320567818423,
@@ -844,7 +844,7 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 38463,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 4469,
@@ -853,8 +853,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.02090320567818423,
@@ -862,7 +862,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 38463,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 4612,
@@ -871,8 +871,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.021683176039310505,
@@ -880,7 +880,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 38463,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 4790,
@@ -889,8 +889,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.02313912071341289,
@@ -898,7 +898,7 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 38463,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 5037,
@@ -907,8 +907,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.024361074279177393,
@@ -916,7 +916,7 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 38463,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 5530,
@@ -925,8 +925,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.025427033772716635,
@@ -934,7 +934,7 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 38463,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 5822,
@@ -943,8 +943,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.02758495177183267,
@@ -952,7 +952,7 @@
             "PersonsFullyVaccinatedChange": 83,
             "Population": 38463,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 6066,
@@ -961,8 +961,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.029456880638535736,
@@ -970,7 +970,7 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 38463,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 6090,
@@ -979,8 +979,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.02948287965057328,
@@ -988,7 +988,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 38463,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 6186,
@@ -997,8 +997,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.029742869770948702,
@@ -1006,7 +1006,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 38463,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 6520,
@@ -1015,8 +1015,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.03507266723864493,
@@ -1024,7 +1024,7 @@
             "PersonsFullyVaccinatedChange": 205,
             "Population": 38463,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 6747,
@@ -1033,8 +1033,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.03595663364792138,
@@ -1042,7 +1042,7 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 38463,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 6969,
@@ -1051,8 +1051,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.03837454176741284,
@@ -1060,7 +1060,7 @@
             "PersonsFullyVaccinatedChange": 93,
             "Population": 38463,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 7151,
@@ -1069,8 +1069,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.039882484465590305,
@@ -1078,7 +1078,7 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 38463,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 7296,
@@ -1087,8 +1087,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.04029846865819099,
@@ -1096,7 +1096,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 38463,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 7444,
@@ -1105,8 +1105,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.04243038764526948,
@@ -1114,7 +1114,7 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 38463,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 7513,
@@ -1123,8 +1123,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.04261238072953228,
@@ -1132,7 +1132,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 38463,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 7684,
@@ -1141,8 +1141,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.04417232145178483,
@@ -1150,7 +1150,7 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 38463,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 7844,
@@ -1159,8 +1159,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.04614824636663807,
@@ -1168,7 +1168,7 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 38463,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 8510,
@@ -1177,8 +1177,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.05805579387983257,
@@ -1186,7 +1186,7 @@
             "PersonsFullyVaccinatedChange": 458,
             "Population": 38463,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 8747,
@@ -1195,8 +1195,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.06148766346878819,
@@ -1204,7 +1204,7 @@
             "PersonsFullyVaccinatedChange": 132,
             "Population": 38463,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 8798,
@@ -1213,8 +1213,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.06234563086602709,
@@ -1222,7 +1222,7 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 38463,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 9120,
@@ -1231,8 +1231,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.06276161505862778,
@@ -1240,7 +1240,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 38463,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 9226,
@@ -1249,8 +1249,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.06450354886514312,
@@ -1258,7 +1258,7 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 38463,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 9388,
@@ -1267,8 +1267,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0666874658762967,
@@ -1276,7 +1276,7 @@
             "PersonsFullyVaccinatedChange": 84,
             "Population": 38463,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 9618,
@@ -1285,8 +1285,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.07001533941710215,
@@ -1294,7 +1294,7 @@
             "PersonsFullyVaccinatedChange": 128,
             "Population": 38463,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 10135,
@@ -1303,8 +1303,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.0766450874866755,
@@ -1312,7 +1312,7 @@
             "PersonsFullyVaccinatedChange": 255,
             "Population": 38463,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 10585,
@@ -1321,8 +1321,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.08717468736188025,
@@ -1330,7 +1330,7 @@
             "PersonsFullyVaccinatedChange": 405,
             "Population": 38463,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 10751,
@@ -1339,8 +1339,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.09063255596287341,
@@ -1348,7 +1348,7 @@
             "PersonsFullyVaccinatedChange": 133,
             "Population": 38463,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 10802,
@@ -1357,8 +1357,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.09143852533603723,
@@ -1366,7 +1366,7 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 38463,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 11107,
@@ -1375,8 +1375,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.09570236331019422,
@@ -1384,7 +1384,7 @@
             "PersonsFullyVaccinatedChange": 164,
             "Population": 38463,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 11398,
@@ -1393,8 +1393,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.09965421313990068,
@@ -1402,7 +1402,7 @@
             "PersonsFullyVaccinatedChange": 152,
             "Population": 38463,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 11703,
@@ -1411,8 +1411,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.10381405506590749,
@@ -1420,7 +1420,7 @@
             "PersonsFullyVaccinatedChange": 160,
             "Population": 38463,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 12222,
@@ -1429,8 +1429,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.11442165197722487,
@@ -1438,7 +1438,7 @@
             "PersonsFullyVaccinatedChange": 408,
             "Population": 38463,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 12518,
@@ -1447,8 +1447,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.11803551465044328,
@@ -1456,7 +1456,7 @@
             "PersonsFullyVaccinatedChange": 139,
             "Population": 38463,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 12687,
@@ -1465,8 +1465,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.1211553960949484,
@@ -1474,7 +1474,7 @@
             "PersonsFullyVaccinatedChange": 120,
             "Population": 38463,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 12723,
@@ -1483,8 +1483,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.12177937238384941,
@@ -1492,7 +1492,7 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 38463,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 12870,
@@ -1501,8 +1501,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.12367730026259002,
@@ -1510,7 +1510,7 @@
             "PersonsFullyVaccinatedChange": 73,
             "Population": 38463,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 13223,
@@ -1519,8 +1519,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.1284871174895354,
@@ -1528,7 +1528,7 @@
             "PersonsFullyVaccinatedChange": 185,
             "Population": 38463,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 13488,
@@ -1537,8 +1537,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.13090502560902686,
@@ -1546,7 +1546,7 @@
             "PersonsFullyVaccinatedChange": 93,
             "Population": 38463,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 13944,
@@ -1555,8 +1555,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.13264695941554222,
@@ -1564,7 +1564,7 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 38463,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 14262,
@@ -1573,8 +1573,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.13724878454618725,
@@ -1582,7 +1582,7 @@
             "PersonsFullyVaccinatedChange": 177,
             "Population": 38463,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 14770,
@@ -1591,8 +1591,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.14837636169825547,
@@ -1600,7 +1600,7 @@
             "PersonsFullyVaccinatedChange": 428,
             "Population": 38463,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 14873,
@@ -1609,8 +1609,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.1508982658658971,
@@ -1618,7 +1618,7 @@
             "PersonsFullyVaccinatedChange": 97,
             "Population": 38463,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 15111,
@@ -1627,8 +1627,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.15550009099654213,
@@ -1636,7 +1636,7 @@
             "PersonsFullyVaccinatedChange": 177,
             "Population": 38463,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 15517,
@@ -1645,8 +1645,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.1613498687049892,
@@ -1654,7 +1654,7 @@
             "PersonsFullyVaccinatedChange": 225,
             "Population": 38463,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 15788,
@@ -1663,8 +1663,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.16238982918649092,
@@ -1672,7 +1672,7 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 38463,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 16066,
@@ -1681,8 +1681,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.16595169383563424,
@@ -1690,7 +1690,7 @@
             "PersonsFullyVaccinatedChange": 137,
             "Population": 38463,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 16356,
@@ -1699,8 +1699,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.16756363258196189,
@@ -1708,7 +1708,7 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 38463,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 16436,
@@ -1717,8 +1717,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.16829160491901307,
@@ -1726,7 +1726,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 38463,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 16462,
@@ -1735,8 +1735,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.16852559602735095,
@@ -1744,7 +1744,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 38463,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 16564,
@@ -1753,8 +1753,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.16990354366534072,
@@ -1762,7 +1762,7 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 38463,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 16749,
@@ -1771,8 +1771,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.1706315160023919,
@@ -1780,7 +1780,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 38463,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 17033,
@@ -1789,8 +1789,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.1717234745079687,
@@ -1798,7 +1798,7 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 38463,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 17553,
@@ -1807,8 +1807,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.17741725814419051,
@@ -1816,7 +1816,7 @@
             "PersonsFullyVaccinatedChange": 219,
             "Population": 38463,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 18035,
@@ -1825,8 +1825,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.18573694199620414,
@@ -1834,7 +1834,7 @@
             "PersonsFullyVaccinatedChange": 320,
             "Population": 38463,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 18151,
@@ -1843,8 +1843,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.18690689753789355,
@@ -1852,7 +1852,7 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 38463,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 18183,
@@ -1861,8 +1861,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.18721888568234407,
@@ -1870,7 +1870,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 38463,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 18294,
@@ -1879,8 +1879,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.1885708343082963,
@@ -1888,7 +1888,7 @@
             "PersonsFullyVaccinatedChange": 52,
             "Population": 38463,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 18702,
@@ -1897,8 +1897,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.19473260016119387,
@@ -1906,7 +1906,7 @@
             "PersonsFullyVaccinatedChange": 237,
             "Population": 38463,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 18915,
@@ -1915,8 +1915,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.19715050828068534,
@@ -1924,7 +1924,7 @@
             "PersonsFullyVaccinatedChange": 93,
             "Population": 38463,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 19342,
@@ -1933,8 +1933,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.20229831266411877,
@@ -1942,7 +1942,7 @@
             "PersonsFullyVaccinatedChange": 198,
             "Population": 38463,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 19596,
@@ -1951,8 +1951,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2060421703975249,
@@ -1960,7 +1960,7 @@
             "PersonsFullyVaccinatedChange": 144,
             "Population": 38463,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 19644,
@@ -1969,8 +1969,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.20684813977068872,
@@ -1978,7 +1978,7 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 38463,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 19670,
@@ -1987,8 +1987,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.20734212099940202,
@@ -1996,7 +1996,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 38463,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 19785,
@@ -2005,8 +2005,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2083040844447911,
@@ -2014,7 +2014,7 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 38463,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 19942,
@@ -2023,8 +2023,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.21012401528741909,
@@ -2032,7 +2032,7 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 38463,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 20674,
@@ -2041,8 +2041,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.22678938200348386,
@@ -2050,7 +2050,7 @@
             "PersonsFullyVaccinatedChange": 641,
             "Population": 38463,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 21189,
@@ -2059,8 +2059,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.23713698879442582,
@@ -2068,7 +2068,7 @@
             "PersonsFullyVaccinatedChange": 398,
             "Population": 38463,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 21560,
@@ -2077,8 +2077,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2448326963575384,
@@ -2086,7 +2086,7 @@
             "PersonsFullyVaccinatedChange": 296,
             "Population": 38463,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 21706,
@@ -2095,8 +2095,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2471466084288797,
@@ -2104,7 +2104,7 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 38463,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 21751,
@@ -2113,8 +2113,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.247640589657593,
@@ -2122,7 +2122,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 38463,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 21936,
@@ -2131,8 +2131,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2511764552946988,
@@ -2140,7 +2140,7 @@
             "PersonsFullyVaccinatedChange": 136,
             "Population": 38463,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 22399,
@@ -2149,8 +2149,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2596001351948626,
@@ -2158,7 +2158,7 @@
             "PersonsFullyVaccinatedChange": 324,
             "Population": 38463,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 22682,
@@ -2167,8 +2167,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2628500116995554,
@@ -2176,7 +2176,7 @@
             "PersonsFullyVaccinatedChange": 125,
             "Population": 38463,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 22944,
@@ -2185,8 +2185,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.26654187140888647,
@@ -2194,7 +2194,7 @@
             "PersonsFullyVaccinatedChange": 142,
             "Population": 38463,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 23512,
@@ -2203,8 +2203,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.27452356810441203,
@@ -2212,7 +2212,7 @@
             "PersonsFullyVaccinatedChange": 307,
             "Population": 38463,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 23694,
@@ -2221,8 +2221,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.27626550191092736,
@@ -2230,7 +2230,7 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 38463,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 23728,
@@ -2239,8 +2239,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2767074851155656,
@@ -2248,7 +2248,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 38463,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 23839,
@@ -2257,8 +2257,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.27826742583781816,
@@ -2266,7 +2266,7 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 38463,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 24059,
@@ -2275,8 +2275,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2809193250656475,
@@ -2284,7 +2284,7 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 38463,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 24176,
@@ -2293,8 +2293,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2829212489925383,
@@ -2302,7 +2302,7 @@
             "PersonsFullyVaccinatedChange": 77,
             "Population": 38463,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 24621,
@@ -2311,8 +2311,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.29329485479551776,
@@ -2320,7 +2320,7 @@
             "PersonsFullyVaccinatedChange": 399,
             "Population": 38463,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 24956,
@@ -2329,8 +2329,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2979746769622754,
@@ -2338,7 +2338,7 @@
             "PersonsFullyVaccinatedChange": 180,
             "Population": 38463,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 25107,
@@ -2347,8 +2347,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.2991186334919273,
@@ -2356,7 +2356,7 @@
             "PersonsFullyVaccinatedChange": 44,
             "Population": 38463,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 25143,
@@ -2365,8 +2365,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.29956061669656553,
@@ -2374,7 +2374,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 38463,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 25268,
@@ -2383,8 +2383,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3017965317317942,
@@ -2392,7 +2392,7 @@
             "PersonsFullyVaccinatedChange": 86,
             "Population": 38463,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 25471,
@@ -2401,8 +2401,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.30502040922444945,
@@ -2410,7 +2410,7 @@
             "PersonsFullyVaccinatedChange": 124,
             "Population": 38463,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 25635,
@@ -2419,8 +2419,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3084522788134051,
@@ -2428,7 +2428,7 @@
             "PersonsFullyVaccinatedChange": 132,
             "Population": 38463,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 25970,
@@ -2437,8 +2437,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3158879962561423,
@@ -2446,7 +2446,7 @@
             "PersonsFullyVaccinatedChange": 286,
             "Population": 38463,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 26096,
@@ -2455,8 +2455,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.31856589449600914,
@@ -2464,7 +2464,7 @@
             "PersonsFullyVaccinatedChange": 103,
             "Population": 38463,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 26111,
@@ -2473,8 +2473,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.318799885604347,
@@ -2482,7 +2482,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 38463,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 26147,
@@ -2491,8 +2491,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3192938668330603,
@@ -2500,7 +2500,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 38463,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 26196,
@@ -2509,8 +2509,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.32007383719418664,
@@ -2518,7 +2518,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 38463,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 26418,
@@ -2527,8 +2527,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.32363570184332996,
@@ -2536,7 +2536,7 @@
             "PersonsFullyVaccinatedChange": 137,
             "Population": 38463,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 26517,
@@ -2545,8 +2545,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3253776356498453,
@@ -2554,7 +2554,7 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 38463,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 26595,
@@ -2563,8 +2563,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.32709357044432313,
@@ -2572,7 +2572,7 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 38463,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 26767,
@@ -2581,8 +2581,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.32977146868419,
@@ -2590,7 +2590,7 @@
             "PersonsFullyVaccinatedChange": 103,
             "Population": 38463,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 26850,
@@ -2599,8 +2599,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3314354054545927,
@@ -2608,7 +2608,7 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 38463,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 26948,
@@ -2617,8 +2617,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.33315134024907056,
@@ -2626,7 +2626,7 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 38463,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 27069,
@@ -2635,8 +2635,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.33577724046486235,
@@ -2644,7 +2644,7 @@
             "PersonsFullyVaccinatedChange": 101,
             "Population": 38463,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 27232,
@@ -2653,8 +2653,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3381951485843538,
@@ -2662,7 +2662,7 @@
             "PersonsFullyVaccinatedChange": 93,
             "Population": 38463,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 27351,
@@ -2671,8 +2671,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3408210488001456,
@@ -2680,7 +2680,7 @@
             "PersonsFullyVaccinatedChange": 101,
             "Population": 38463,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 27445,
@@ -2689,8 +2689,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.34269297766684864,
@@ -2698,7 +2698,7 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 38463,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 27847,
@@ -2707,8 +2707,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3513246496633128,
@@ -2716,7 +2716,7 @@
             "PersonsFullyVaccinatedChange": 332,
             "Population": 38463,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 27980,
@@ -2725,8 +2725,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.35436653407170526,
@@ -2734,7 +2734,7 @@
             "PersonsFullyVaccinatedChange": 117,
             "Population": 38463,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 28039,
@@ -2743,8 +2743,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3550685073967189,
@@ -2752,7 +2752,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 38463,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 28118,
@@ -2761,8 +2761,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.35668044614304656,
@@ -2770,7 +2770,7 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 38463,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 28324,
@@ -2779,8 +2779,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.35915035228661313,
@@ -2788,7 +2788,7 @@
             "PersonsFullyVaccinatedChange": 95,
             "Population": 38463,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 28389,
@@ -2797,8 +2797,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.36013831474403973,
@@ -2806,7 +2806,7 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 38463,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 28580,
@@ -2815,8 +2815,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.36260822088760625,
@@ -2824,7 +2824,7 @@
             "PersonsFullyVaccinatedChange": 95,
             "Population": 38463,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 28819,
@@ -2833,8 +2833,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.36791201934326495,
@@ -2842,7 +2842,7 @@
             "PersonsFullyVaccinatedChange": 204,
             "Population": 38463,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 28979,
@@ -2851,8 +2851,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3712398928840704,
@@ -2860,7 +2860,7 @@
             "PersonsFullyVaccinatedChange": 128,
             "Population": 38463,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29000,
@@ -2869,8 +2869,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.37155188102852094,
@@ -2878,7 +2878,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 38463,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29066,
@@ -2887,8 +2887,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3724098484257598,
@@ -2896,7 +2896,7 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 38463,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29155,
@@ -2905,8 +2905,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.37334581285911134,
@@ -2914,7 +2914,7 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 38463,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29255,
@@ -2923,8 +2923,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3745417674128383,
@@ -2932,7 +2932,7 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 38463,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29390,
@@ -2941,8 +2941,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3762837012193537,
@@ -2950,7 +2950,7 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 38463,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29449,
@@ -2959,8 +2959,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3770376725684424,
@@ -2968,7 +2968,7 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 38463,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29506,
@@ -2977,8 +2977,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.37768764786938097,
@@ -2986,7 +2986,7 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 38463,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29541,
@@ -2995,8 +2995,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.37815563008605674,
@@ -3004,7 +3004,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 38463,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29559,
@@ -3013,8 +3013,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.37841562020643216,
@@ -3022,7 +3022,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 38463,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29701,
@@ -3031,8 +3031,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3811975144944492,
@@ -3040,7 +3040,7 @@
             "PersonsFullyVaccinatedChange": 107,
             "Population": 38463,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29760,
@@ -3049,8 +3049,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3819254868315004,
@@ -3058,7 +3058,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 38463,
             "Report_Date": "2021-06-02T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29870,
@@ -3067,8 +3067,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3840054077945038,
@@ -3076,7 +3076,7 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 38463,
             "Report_Date": "2021-06-03T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 29983,
@@ -3085,8 +3085,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.38626732184177004,
@@ -3094,7 +3094,7 @@
             "PersonsFullyVaccinatedChange": 87,
             "Population": 38463,
             "Report_Date": "2021-06-04T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30054,
@@ -3103,8 +3103,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.38751527441957206,
@@ -3112,7 +3112,7 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 38463,
             "Report_Date": "2021-06-05T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30099,
@@ -3121,8 +3121,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.388373241816811,
@@ -3130,7 +3130,7 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 38463,
             "Report_Date": "2021-06-06T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30159,
@@ -3139,8 +3139,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3894392013103502,
@@ -3148,7 +3148,7 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 38463,
             "Report_Date": "2021-06-07T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30291,
@@ -3157,8 +3157,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3917531133816915,
@@ -3166,7 +3166,7 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 38463,
             "Report_Date": "2021-06-08T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30406,
@@ -3175,8 +3175,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3934690481761693,
@@ -3184,7 +3184,7 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 38463,
             "Report_Date": "2021-06-09T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30476,
@@ -3193,8 +3193,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3946390037178587,
@@ -3202,7 +3202,7 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 38463,
             "Report_Date": "2021-06-10T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30552,
@@ -3211,8 +3211,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3963029404882614,
@@ -3220,7 +3220,7 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 38463,
             "Report_Date": "2021-06-11T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30581,
@@ -3229,8 +3229,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3969529157892,
@@ -3238,7 +3238,7 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 38463,
             "Report_Date": "2021-06-12T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30612,
@@ -3247,8 +3247,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.3976028910901386,
@@ -3256,7 +3256,7 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 38463,
             "Report_Date": "2021-06-13T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30756,
@@ -3265,8 +3265,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4001247952577802,
@@ -3274,7 +3274,7 @@
             "PersonsFullyVaccinatedChange": 97,
             "Population": 38463,
             "Report_Date": "2021-06-14T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30897,
@@ -3283,8 +3283,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.40264669942542186,
@@ -3292,7 +3292,7 @@
             "PersonsFullyVaccinatedChange": 97,
             "Population": 38463,
             "Report_Date": "2021-06-15T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 30970,
@@ -3301,8 +3301,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.40376465694303615,
@@ -3310,7 +3310,7 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 38463,
             "Report_Date": "2021-06-16T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31062,
@@ -3319,8 +3319,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.40550659074955153,
@@ -3328,7 +3328,7 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 38463,
             "Report_Date": "2021-06-17T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31139,
@@ -3337,8 +3337,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.40667654629124095,
@@ -3346,7 +3346,7 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 38463,
             "Report_Date": "2021-06-18T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31209,
@@ -3355,8 +3355,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4076125107245925,
@@ -3364,7 +3364,7 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 38463,
             "Report_Date": "2021-06-19T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31233,
@@ -3373,8 +3373,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4081064919533058,
@@ -3382,7 +3382,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 38463,
             "Report_Date": "2021-06-20T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31274,
@@ -3391,8 +3391,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4086264721940566,
@@ -3400,7 +3400,7 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 38463,
             "Report_Date": "2021-06-21T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31342,
@@ -3409,8 +3409,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4099264227959338,
@@ -3418,7 +3418,7 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 38463,
             "Report_Date": "2021-06-22T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31398,
@@ -3427,8 +3427,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.41096638327743545,
@@ -3436,7 +3436,7 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 38463,
             "Report_Date": "2021-06-23T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31458,
@@ -3445,8 +3445,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.411902347710787,
@@ -3454,7 +3454,7 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 38463,
             "Report_Date": "2021-06-24T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31598,
@@ -3463,8 +3463,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4142942568182409,
@@ -3472,7 +3472,7 @@
             "PersonsFullyVaccinatedChange": 92,
             "Population": 38463,
             "Report_Date": "2021-06-25T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31734,
@@ -3481,8 +3481,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.41616618568494396,
@@ -3490,7 +3490,7 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 38463,
             "Report_Date": "2021-06-26T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31746,
@@ -3499,8 +3499,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.41632217975716923,
@@ -3508,7 +3508,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 38463,
             "Report_Date": "2021-06-27T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31776,
@@ -3517,8 +3517,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.41684215999792007,
@@ -3526,7 +3526,7 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 38463,
             "Report_Date": "2021-06-28T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31856,
@@ -3535,8 +3535,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4182721056599849,
@@ -3544,7 +3544,7 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 38463,
             "Report_Date": "2021-06-29T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31909,
@@ -3553,8 +3553,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.41907807503314876,
@@ -3562,7 +3562,7 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 38463,
             "Report_Date": "2021-06-30T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 31956,
@@ -3571,8 +3571,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.41980604737019994,
@@ -3580,7 +3580,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 38463,
             "Report_Date": "2021-07-01T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32013,
@@ -3589,8 +3589,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.42037802563502585,
@@ -3598,7 +3598,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 38463,
             "Report_Date": "2021-07-02T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32039,
@@ -3607,8 +3607,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4208200088396641,
@@ -3616,7 +3616,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 38463,
             "Report_Date": "2021-07-03T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32058,
@@ -3625,8 +3625,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4210799989600395,
@@ -3634,7 +3634,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 38463,
             "Report_Date": "2021-07-04T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32062,
@@ -3643,8 +3643,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.42115799599615217,
@@ -3652,7 +3652,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 38463,
             "Report_Date": "2021-07-05T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32078,
@@ -3661,8 +3661,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4214439851285651,
@@ -3670,7 +3670,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 38463,
             "Report_Date": "2021-07-06T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32140,
@@ -3679,8 +3679,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4224839456100668,
@@ -3688,7 +3688,7 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 38463,
             "Report_Date": "2021-07-07T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32176,
@@ -3697,8 +3697,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4230819228869303,
@@ -3706,7 +3706,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 38463,
             "Report_Date": "2021-07-08T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32230,
@@ -3715,8 +3715,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.42396588929620677,
@@ -3724,7 +3724,7 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 38463,
             "Report_Date": "2021-07-09T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32289,
@@ -3733,8 +3733,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4249018537295583,
@@ -3742,7 +3742,7 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 38463,
             "Report_Date": "2021-07-10T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32306,
@@ -3751,8 +3751,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4251098458258586,
@@ -3760,7 +3760,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 38463,
             "Report_Date": "2021-07-11T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32354,
@@ -3769,8 +3769,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.42581181915087224,
@@ -3778,7 +3778,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 38463,
             "Report_Date": "2021-07-12T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32395,
@@ -3787,8 +3787,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.426279801367548,
@@ -3796,7 +3796,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 38463,
             "Report_Date": "2021-07-13T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32440,
@@ -3805,8 +3805,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.426851779632374,
@@ -3814,7 +3814,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 38463,
             "Report_Date": "2021-07-14T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32504,
@@ -3823,8 +3823,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4277877440657255,
@@ -3832,7 +3832,7 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 38463,
             "Report_Date": "2021-07-15T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32544,
@@ -3841,8 +3841,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4282037282583262,
@@ -3850,7 +3850,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 38463,
             "Report_Date": "2021-07-16T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32582,
@@ -3859,8 +3859,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4285937134388893,
@@ -3868,7 +3868,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 38463,
             "Report_Date": "2021-07-17T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32597,
@@ -3877,8 +3877,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4287497075111146,
@@ -3886,7 +3886,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 38463,
             "Report_Date": "2021-07-18T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32626,
@@ -3895,8 +3895,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.42890570158333985,
@@ -3904,7 +3904,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 38463,
             "Report_Date": "2021-07-19T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32719,
@@ -3913,8 +3913,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.43004965811299173,
@@ -3922,7 +3922,7 @@
             "PersonsFullyVaccinatedChange": 44,
             "Population": 38463,
             "Report_Date": "2021-07-20T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32768,
@@ -3931,8 +3931,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.43056963835374257,
@@ -3940,7 +3940,7 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 38463,
             "Report_Date": "2021-07-21T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 32817,
@@ -3949,8 +3949,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.43106361958245587,
@@ -3958,7 +3958,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 38463,
             "Report_Date": "2021-07-22T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33004,
@@ -3967,8 +3967,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.43296154746119647,
@@ -3976,7 +3976,7 @@
             "PersonsFullyVaccinatedChange": 73,
             "Population": 38463,
             "Report_Date": "2021-07-23T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33033,
@@ -3985,8 +3985,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4332995346176845,
@@ -3994,7 +3994,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 38463,
             "Report_Date": "2021-07-24T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33048,
@@ -4003,8 +4003,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4335335257260224,
@@ -4012,7 +4012,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 38463,
             "Report_Date": "2021-07-25T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33076,
@@ -4021,8 +4021,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4336375217741726,
@@ -4030,7 +4030,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 38463,
             "Report_Date": "2021-07-26T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33168,
@@ -4039,8 +4039,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.43475547929178693,
@@ -4048,7 +4048,7 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 38463,
             "Report_Date": "2021-07-27T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33248,
@@ -4057,8 +4057,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4353794555806879,
@@ -4066,7 +4066,7 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 38463,
             "Report_Date": "2021-07-28T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33290,
@@ -4075,8 +4075,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.43582143878532614,
@@ -4084,7 +4084,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 38463,
             "Report_Date": "2021-07-29T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33452,
@@ -4093,8 +4093,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.43849933702519306,
@@ -4102,7 +4102,7 @@
             "PersonsFullyVaccinatedChange": 103,
             "Population": 38463,
             "Report_Date": "2021-07-30T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33508,
@@ -4111,8 +4111,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.43912331331409404,
@@ -4120,7 +4120,7 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 38463,
             "Report_Date": "2021-07-31T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33531,
@@ -4129,8 +4129,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4393573044224319,
@@ -4138,7 +4138,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 38463,
             "Report_Date": "2021-08-01T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33562,
@@ -4147,8 +4147,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.43972129059095755,
@@ -4156,7 +4156,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 38463,
             "Report_Date": "2021-08-02T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33625,
@@ -4165,8 +4165,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.44044926292800873,
@@ -4174,7 +4174,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 38463,
             "Report_Date": "2021-08-03T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33689,
@@ -4183,8 +4183,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.441229233289135,
@@ -4192,7 +4192,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 38463,
             "Report_Date": "2021-08-04T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33763,
@@ -4201,8 +4201,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.442139198710449,
@@ -4210,7 +4210,7 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 38463,
             "Report_Date": "2021-08-05T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33825,
@@ -4219,8 +4219,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.44284117203546264,
@@ -4228,7 +4228,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 38463,
             "Report_Date": "2021-08-06T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33940,
@@ -4237,8 +4237,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4442711176975275,
@@ -4246,7 +4246,7 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 38463,
             "Report_Date": "2021-08-07T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 33979,
@@ -4255,8 +4255,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.44468710189012817,
@@ -4264,7 +4264,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 38463,
             "Report_Date": "2021-08-08T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 34019,
@@ -4273,8 +4273,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.44510308608272886,
@@ -4282,7 +4282,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 38463,
             "Report_Date": "2021-08-09T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 34060,
@@ -4291,8 +4291,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.4457010633595923,
@@ -4300,7 +4300,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 38463,
             "Report_Date": "2021-08-10T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 34188,
@@ -4309,8 +4309,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.44715700803369474,
@@ -4318,7 +4318,7 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 38463,
             "Report_Date": "2021-08-11T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
         },
         {
             "AdministeredCount": 34320,
@@ -4327,8 +4327,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 0,
             "CountyName": "Woodford",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 1139,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
             "Latitude": 40.7129,
             "Longitude": -89.1706,
             "PctVaccinatedPopulation": 0.448846943816135,
@@ -4336,11 +4336,65 @@
             "PersonsFullyVaccinatedChange": 65,
             "Population": 38463,
             "Report_Date": "2021-08-12T00:00:00",
-            "TotalReportedInventory": 1139
+            "TotalReportedInventory": 1073
+        },
+        {
+            "AdministeredCount": 34433,
+            "AdministeredCountChange": 113,
+            "AdministeredCountRollAvg": 87.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Woodford",
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
+            "Latitude": 40.7129,
+            "Longitude": -89.1706,
+            "PctVaccinatedPopulation": 0.45030288849023736,
+            "PersonsFullyVaccinated": 17320,
+            "PersonsFullyVaccinatedChange": 56,
+            "Population": 38463,
+            "Report_Date": "2021-08-13T00:00:00",
+            "TotalReportedInventory": 1073
+        },
+        {
+            "AdministeredCount": 34578,
+            "AdministeredCountChange": 145,
+            "AdministeredCountRollAvg": 91.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Woodford",
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
+            "Latitude": 40.7129,
+            "Longitude": -89.1706,
+            "PctVaccinatedPopulation": 0.4520968203208278,
+            "PersonsFullyVaccinated": 17389,
+            "PersonsFullyVaccinatedChange": 69,
+            "Population": 38463,
+            "Report_Date": "2021-08-14T00:00:00",
+            "TotalReportedInventory": 1073
+        },
+        {
+            "AdministeredCount": 34681,
+            "AdministeredCountChange": 103,
+            "AdministeredCountRollAvg": 100.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Woodford",
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 1073,
+            "Latitude": 40.7129,
+            "Longitude": -89.1706,
+            "PctVaccinatedPopulation": 0.4535527649949302,
+            "PersonsFullyVaccinated": 17445,
+            "PersonsFullyVaccinatedChange": 56,
+            "Population": 38463,
+            "Report_Date": "2021-08-15T00:00:00",
+            "TotalReportedInventory": 1073
         }
     ],
     "lastUpdatedDate": {
-        "day": 12,
+        "day": 15,
         "month": 8,
         "year": 2021
     }

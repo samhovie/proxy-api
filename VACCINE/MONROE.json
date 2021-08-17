@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 33451,
+        "AdministeredCount": 33756,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 68.0,
+        "AdministeredCountRollAvg": 85.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 90,
         "CountyName": "Monroe",
-        "InventoryReportDate": "2021-08-12T00:00:00",
-        "LHDReportedInventory": 122,
+        "InventoryReportDate": "2021-08-15T00:00:00",
+        "LHDReportedInventory": 290,
         "Latitude": 38.2743,
         "Longitude": -90.187,
-        "PctVaccinatedPopulation": 0.490694626474443,
-        "PersonsFullyVaccinated": 16848,
-        "PersonsFullyVaccinatedChange": 16848,
+        "PctVaccinatedPopulation": 0.4952672200378622,
+        "PersonsFullyVaccinated": 17005,
+        "PersonsFullyVaccinatedChange": 17005,
         "Population": 34335,
-        "Report_Date": "2021-08-12T00:00:00",
-        "TotalReportedInventory": 212
+        "Report_Date": "2021-08-15T00:00:00",
+        "TotalReportedInventory": 380
     },
     "VaccineAdministration": [
         {
@@ -25,8 +25,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -34,7 +34,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28,
@@ -43,8 +43,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -52,7 +52,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 55,
@@ -61,8 +61,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -70,7 +70,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 85,
@@ -79,8 +79,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -88,7 +88,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 95,
@@ -97,8 +97,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -106,7 +106,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 97,
@@ -115,8 +115,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -124,7 +124,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 107,
@@ -133,8 +133,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -142,7 +142,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 132,
@@ -151,8 +151,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -160,7 +160,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 136,
@@ -169,8 +169,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -178,7 +178,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 136,
@@ -187,8 +187,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -196,7 +196,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 203,
@@ -205,8 +205,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -214,7 +214,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 203,
@@ -223,8 +223,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -232,7 +232,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 210,
@@ -241,8 +241,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -250,7 +250,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 223,
@@ -259,8 +259,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -268,7 +268,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 247,
@@ -277,8 +277,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -286,7 +286,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 261,
@@ -295,8 +295,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -304,7 +304,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 265,
@@ -313,8 +313,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -322,7 +322,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 267,
@@ -331,8 +331,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -340,7 +340,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 267,
@@ -349,8 +349,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -358,7 +358,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 285,
@@ -367,8 +367,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -376,7 +376,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 386,
@@ -385,8 +385,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0,
@@ -394,7 +394,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 417,
@@ -403,8 +403,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.00043687199650502403,
@@ -412,7 +412,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 34335,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 458,
@@ -421,8 +421,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0014562399883500802,
@@ -430,7 +430,7 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 34335,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 703,
@@ -439,8 +439,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0022134847822921216,
@@ -448,7 +448,7 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 34335,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 717,
@@ -457,8 +457,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.002504732779962138,
@@ -466,7 +466,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 34335,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 732,
@@ -475,8 +475,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.002766855977865152,
@@ -484,7 +484,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 34335,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 777,
@@ -493,8 +493,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0029124799767001604,
@@ -502,7 +502,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 34335,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 842,
@@ -511,8 +511,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0030581039755351682,
@@ -520,7 +520,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 34335,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 918,
@@ -529,8 +529,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.00381534876947721,
@@ -538,7 +538,7 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 34335,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 931,
@@ -547,8 +547,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.003873598369011213,
@@ -556,7 +556,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 34335,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 994,
@@ -565,8 +565,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.003873598369011213,
@@ -574,7 +574,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 997,
@@ -583,8 +583,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.003873598369011213,
@@ -592,7 +592,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 999,
@@ -601,8 +601,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.003873598369011213,
@@ -610,7 +610,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1103,
@@ -619,8 +619,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.004077471967380225,
@@ -628,7 +628,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 34335,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1466,
@@ -637,8 +637,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.004106596767147226,
@@ -646,7 +646,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 34335,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1517,
@@ -655,8 +655,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.004106596767147226,
@@ -664,7 +664,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1548,
@@ -673,8 +673,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.004281345565749235,
@@ -682,7 +682,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 34335,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1644,
@@ -691,8 +691,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.006174457550604339,
@@ -700,7 +700,7 @@
             "PersonsFullyVaccinatedChange": 65,
             "Population": 34335,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1647,
@@ -709,8 +709,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.006232707150138342,
@@ -718,7 +718,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 34335,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1651,
@@ -727,8 +727,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.006290956749672346,
@@ -736,7 +736,7 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 34335,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1664,
@@ -745,8 +745,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.006320081549439347,
@@ -754,7 +754,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 34335,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1692,
@@ -763,8 +763,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.006698703946410369,
@@ -772,7 +772,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 34335,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1727,
@@ -781,8 +781,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.007077326343381389,
@@ -790,7 +790,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 34335,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 1842,
@@ -799,8 +799,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.007514198339886413,
@@ -808,7 +808,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 34335,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 2475,
@@ -817,8 +817,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.013368283093053735,
@@ -826,7 +826,7 @@
             "PersonsFullyVaccinatedChange": 201,
             "Population": 34335,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 2479,
@@ -835,8 +835,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.013368283093053735,
@@ -844,7 +844,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 2490,
@@ -853,8 +853,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.013572156691422747,
@@ -862,7 +862,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 34335,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 2776,
@@ -871,8 +871,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.013863404689092763,
@@ -880,7 +880,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 34335,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 2930,
@@ -889,8 +889,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.014649774282801805,
@@ -898,7 +898,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 34335,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 2975,
@@ -907,8 +907,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.015494393476044852,
@@ -916,7 +916,7 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 34335,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 3094,
@@ -925,8 +925,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.01692150866462793,
@@ -934,7 +934,7 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 34335,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 3194,
@@ -943,8 +943,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.01852337265181302,
@@ -952,7 +952,7 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 34335,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 3256,
@@ -961,8 +961,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.019134993446920052,
@@ -970,7 +970,7 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 34335,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 3260,
@@ -979,8 +979,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.019164118246687054,
@@ -988,7 +988,7 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 34335,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 3392,
@@ -997,8 +997,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.019717489442260084,
@@ -1006,7 +1006,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 34335,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 3478,
@@ -1015,8 +1015,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.020270860637833114,
@@ -1024,7 +1024,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 34335,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 3518,
@@ -1033,8 +1033,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.020765982233872143,
@@ -1042,7 +1042,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 34335,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 3599,
@@ -1051,8 +1051,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.021872724625018203,
@@ -1060,7 +1060,7 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 34335,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 3732,
@@ -1069,8 +1069,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.022717343818261248,
@@ -1078,7 +1078,7 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 34335,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 4138,
@@ -1087,8 +1087,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.022804718217562255,
@@ -1096,7 +1096,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 34335,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 4732,
@@ -1105,8 +1105,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.022921217416630262,
@@ -1114,7 +1114,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 34335,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 5152,
@@ -1123,8 +1123,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.024756079801951363,
@@ -1132,7 +1132,7 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 34335,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 5223,
@@ -1141,8 +1141,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.02490170380078637,
@@ -1150,7 +1150,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 34335,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 5277,
@@ -1159,8 +1159,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.025542449395660406,
@@ -1168,7 +1168,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 34335,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 5355,
@@ -1177,8 +1177,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.025950196592398427,
@@ -1186,7 +1186,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 34335,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 5658,
@@ -1195,8 +1195,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.028979175768166592,
@@ -1204,7 +1204,7 @@
             "PersonsFullyVaccinatedChange": 104,
             "Population": 34335,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 5709,
@@ -1213,8 +1213,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.028979175768166592,
@@ -1222,7 +1222,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 5856,
@@ -1231,8 +1231,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.02929954856560361,
@@ -1240,7 +1240,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 34335,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 5994,
@@ -1249,8 +1249,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.02982379496140964,
@@ -1258,7 +1258,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 34335,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 6278,
@@ -1267,8 +1267,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0344255133245959,
@@ -1276,7 +1276,7 @@
             "PersonsFullyVaccinatedChange": 158,
             "Population": 34335,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 6686,
@@ -1285,8 +1285,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.04339595165283239,
@@ -1294,7 +1294,7 @@
             "PersonsFullyVaccinatedChange": 308,
             "Population": 34335,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 6848,
@@ -1303,8 +1303,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.04421144604630843,
@@ -1312,7 +1312,7 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 34335,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 7034,
@@ -1321,8 +1321,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.045463812436289504,
@@ -1330,7 +1330,7 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 34335,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 7163,
@@ -1339,8 +1339,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.04590068443279453,
@@ -1348,7 +1348,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 34335,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 7399,
@@ -1357,8 +1357,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.04919178680646571,
@@ -1366,7 +1366,7 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 34335,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 7708,
@@ -1375,8 +1375,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.05417212756662298,
@@ -1384,7 +1384,7 @@
             "PersonsFullyVaccinatedChange": 171,
             "Population": 34335,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 8289,
@@ -1393,8 +1393,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.06579292267365662,
@@ -1402,7 +1402,7 @@
             "PersonsFullyVaccinatedChange": 399,
             "Population": 34335,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 8646,
@@ -1411,8 +1411,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.07176350662589194,
@@ -1420,7 +1420,7 @@
             "PersonsFullyVaccinatedChange": 205,
             "Population": 34335,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 8895,
@@ -1429,8 +1429,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.07362749381098005,
@@ -1438,7 +1438,7 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 34335,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 9298,
@@ -1447,8 +1447,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.07968545216251638,
@@ -1456,7 +1456,7 @@
             "PersonsFullyVaccinatedChange": 208,
             "Population": 34335,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 9697,
@@ -1465,8 +1465,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.08667540410659677,
@@ -1474,7 +1474,7 @@
             "PersonsFullyVaccinatedChange": 240,
             "Population": 34335,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 9812,
@@ -1483,8 +1483,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.0890636376874909,
@@ -1492,7 +1492,7 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 34335,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 10059,
@@ -1501,8 +1501,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.09378185524974515,
@@ -1510,7 +1510,7 @@
             "PersonsFullyVaccinatedChange": 162,
             "Population": 34335,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 10428,
@@ -1519,8 +1519,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.10132517838939857,
@@ -1528,7 +1528,7 @@
             "PersonsFullyVaccinatedChange": 259,
             "Population": 34335,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 10671,
@@ -1537,8 +1537,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.10615989515072084,
@@ -1546,7 +1546,7 @@
             "PersonsFullyVaccinatedChange": 166,
             "Population": 34335,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 11210,
@@ -1555,8 +1555,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.1145187126838503,
@@ -1564,7 +1564,7 @@
             "PersonsFullyVaccinatedChange": 287,
             "Population": 34335,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 11657,
@@ -1573,8 +1573,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.12037279743701762,
@@ -1582,7 +1582,7 @@
             "PersonsFullyVaccinatedChange": 201,
             "Population": 34335,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 11827,
@@ -1591,8 +1591,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.12436289500509684,
@@ -1600,7 +1600,7 @@
             "PersonsFullyVaccinatedChange": 137,
             "Population": 34335,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 12134,
@@ -1609,8 +1609,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.1328382117372943,
@@ -1618,7 +1618,7 @@
             "PersonsFullyVaccinatedChange": 291,
             "Population": 34335,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 12524,
@@ -1627,8 +1627,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.13749817970001457,
@@ -1636,7 +1636,7 @@
             "PersonsFullyVaccinatedChange": 160,
             "Population": 34335,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 13254,
@@ -1645,8 +1645,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.14352701325178388,
@@ -1654,7 +1654,7 @@
             "PersonsFullyVaccinatedChange": 207,
             "Population": 34335,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 13490,
@@ -1663,8 +1663,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.145158002038736,
@@ -1672,7 +1672,7 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 34335,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 13824,
@@ -1681,8 +1681,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.1474588612203291,
@@ -1690,7 +1690,7 @@
             "PersonsFullyVaccinatedChange": 79,
             "Population": 34335,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 14110,
@@ -1699,8 +1699,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.1511868355905053,
@@ -1708,7 +1708,7 @@
             "PersonsFullyVaccinatedChange": 128,
             "Population": 34335,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 14219,
@@ -1717,8 +1717,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.1526139507790884,
@@ -1726,7 +1726,7 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 34335,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 14288,
@@ -1735,8 +1735,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.15430318916557448,
@@ -1744,7 +1744,7 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 34335,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 14759,
@@ -1753,8 +1753,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.1581185379350517,
@@ -1762,7 +1762,7 @@
             "PersonsFullyVaccinatedChange": 131,
             "Population": 34335,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 15414,
@@ -1771,8 +1771,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.16618610747051113,
@@ -1780,7 +1780,7 @@
             "PersonsFullyVaccinatedChange": 277,
             "Population": 34335,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 15678,
@@ -1789,8 +1789,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.16807921945536625,
@@ -1798,7 +1798,7 @@
             "PersonsFullyVaccinatedChange": 65,
             "Population": 34335,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 15850,
@@ -1807,8 +1807,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.17116644823066843,
@@ -1816,7 +1816,7 @@
             "PersonsFullyVaccinatedChange": 106,
             "Population": 34335,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 16230,
@@ -1825,8 +1825,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.17771952817824377,
@@ -1834,7 +1834,7 @@
             "PersonsFullyVaccinatedChange": 225,
             "Population": 34335,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 16480,
@@ -1843,8 +1843,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.18261249453910006,
@@ -1852,7 +1852,7 @@
             "PersonsFullyVaccinatedChange": 168,
             "Population": 34335,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 16635,
@@ -1861,8 +1861,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.18453473132372214,
@@ -1870,7 +1870,7 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 34335,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 16888,
@@ -1879,8 +1879,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.1890199504878404,
@@ -1888,7 +1888,7 @@
             "PersonsFullyVaccinatedChange": 154,
             "Population": 34335,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 17073,
@@ -1897,8 +1897,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.1912334352701325,
@@ -1906,7 +1906,7 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 34335,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 17240,
@@ -1915,8 +1915,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.19356341925149265,
@@ -1924,7 +1924,7 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 34335,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 17491,
@@ -1933,8 +1933,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.1982233872142129,
@@ -1942,7 +1942,7 @@
             "PersonsFullyVaccinatedChange": 160,
             "Population": 34335,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 17708,
@@ -1951,8 +1951,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.2018057375855541,
@@ -1960,7 +1960,7 @@
             "PersonsFullyVaccinatedChange": 123,
             "Population": 34335,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 17830,
@@ -1969,8 +1969,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.2035532255715742,
@@ -1978,7 +1978,7 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 34335,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 17835,
@@ -1987,8 +1987,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.2036697247706422,
@@ -1996,7 +1996,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 34335,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 17958,
@@ -2005,8 +2005,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.20486384156108928,
@@ -2014,7 +2014,7 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 34335,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 18151,
@@ -2023,8 +2023,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.2075433231396534,
@@ -2032,7 +2032,7 @@
             "PersonsFullyVaccinatedChange": 92,
             "Population": 34335,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 18537,
@@ -2041,8 +2041,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.2108053007135576,
@@ -2050,7 +2050,7 @@
             "PersonsFullyVaccinatedChange": 112,
             "Population": 34335,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 18820,
@@ -2059,8 +2059,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.21537789427697684,
@@ -2068,7 +2068,7 @@
             "PersonsFullyVaccinatedChange": 157,
             "Population": 34335,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 19106,
@@ -2077,8 +2077,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.2200378622396971,
@@ -2086,7 +2086,7 @@
             "PersonsFullyVaccinatedChange": 160,
             "Population": 34335,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 19273,
@@ -2095,8 +2095,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.2216397262268822,
@@ -2104,7 +2104,7 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 34335,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 19372,
@@ -2113,8 +2113,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.22315421581476627,
@@ -2122,7 +2122,7 @@
             "PersonsFullyVaccinatedChange": 52,
             "Population": 34335,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 19749,
@@ -2131,8 +2131,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.22458133100334934,
@@ -2140,7 +2140,7 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 34335,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 20033,
@@ -2149,8 +2149,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.22659094218727246,
@@ -2158,7 +2158,7 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 34335,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 20120,
@@ -2167,8 +2167,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.22752293577981653,
@@ -2176,7 +2176,7 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 34335,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 21446,
@@ -2185,8 +2185,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.25551186835590506,
@@ -2194,7 +2194,7 @@
             "PersonsFullyVaccinatedChange": 961,
             "Population": 34335,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 22707,
@@ -2203,8 +2203,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.2853356633173147,
@@ -2212,7 +2212,7 @@
             "PersonsFullyVaccinatedChange": 1024,
             "Population": 34335,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 23232,
@@ -2221,8 +2221,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.29844182321246543,
@@ -2230,7 +2230,7 @@
             "PersonsFullyVaccinatedChange": 450,
             "Population": 34335,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 24007,
@@ -2239,8 +2239,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3200232998398136,
@@ -2248,7 +2248,7 @@
             "PersonsFullyVaccinatedChange": 741,
             "Population": 34335,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 24346,
@@ -2257,8 +2257,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3290228629678171,
@@ -2266,7 +2266,7 @@
             "PersonsFullyVaccinatedChange": 309,
             "Population": 34335,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 24668,
@@ -2275,8 +2275,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.33283821173729433,
@@ -2284,7 +2284,7 @@
             "PersonsFullyVaccinatedChange": 131,
             "Population": 34335,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 24871,
@@ -2293,8 +2293,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3359254405125965,
@@ -2302,7 +2302,7 @@
             "PersonsFullyVaccinatedChange": 106,
             "Population": 34335,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 25173,
@@ -2311,8 +2311,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.34408038444735695,
@@ -2320,7 +2320,7 @@
             "PersonsFullyVaccinatedChange": 280,
             "Population": 34335,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 25423,
@@ -2329,8 +2329,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3508373379933013,
@@ -2338,7 +2338,7 @@
             "PersonsFullyVaccinatedChange": 232,
             "Population": 34335,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 25502,
@@ -2347,8 +2347,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3524392019804864,
@@ -2356,7 +2356,7 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 34335,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 25629,
@@ -2365,8 +2365,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.35570117955439057,
@@ -2374,7 +2374,7 @@
             "PersonsFullyVaccinatedChange": 112,
             "Population": 34335,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 26031,
@@ -2383,8 +2383,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3617300131061599,
@@ -2392,7 +2392,7 @@
             "PersonsFullyVaccinatedChange": 207,
             "Population": 34335,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 26254,
@@ -2401,8 +2401,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3670598514635212,
@@ -2410,7 +2410,7 @@
             "PersonsFullyVaccinatedChange": 183,
             "Population": 34335,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 26427,
@@ -2419,8 +2419,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3703800786369594,
@@ -2428,7 +2428,7 @@
             "PersonsFullyVaccinatedChange": 114,
             "Population": 34335,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 26577,
@@ -2437,8 +2437,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.37381680500946557,
@@ -2446,7 +2446,7 @@
             "PersonsFullyVaccinatedChange": 118,
             "Population": 34335,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 26649,
@@ -2455,8 +2455,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.37530216979758263,
@@ -2464,7 +2464,7 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 34335,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 26671,
@@ -2473,8 +2473,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.37556429299548566,
@@ -2482,7 +2482,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 34335,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 26687,
@@ -2491,8 +2491,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.37585554099315566,
@@ -2500,7 +2500,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 34335,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 26719,
@@ -2509,8 +2509,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3764671617882627,
@@ -2518,7 +2518,7 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 34335,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 26804,
@@ -2527,8 +2527,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3783311489733508,
@@ -2536,7 +2536,7 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 34335,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 26850,
@@ -2545,8 +2545,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.37935051696519584,
@@ -2554,7 +2554,7 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 34335,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 27036,
@@ -2563,8 +2563,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3833697393330421,
@@ -2572,7 +2572,7 @@
             "PersonsFullyVaccinatedChange": 138,
             "Population": 34335,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 27226,
@@ -2581,8 +2581,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.38811708169506337,
@@ -2590,7 +2590,7 @@
             "PersonsFullyVaccinatedChange": 163,
             "Population": 34335,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 27294,
@@ -2599,8 +2599,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.3894276976845784,
@@ -2608,7 +2608,7 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 34335,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 27388,
@@ -2617,8 +2617,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.39172855686617153,
@@ -2626,7 +2626,7 @@
             "PersonsFullyVaccinatedChange": 79,
             "Population": 34335,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 27711,
@@ -2635,8 +2635,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.399504878403961,
@@ -2644,7 +2644,7 @@
             "PersonsFullyVaccinatedChange": 267,
             "Population": 34335,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 27757,
@@ -2653,8 +2653,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.40037862239697103,
@@ -2662,7 +2662,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 34335,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 27787,
@@ -2671,8 +2671,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.40101936799184507,
@@ -2680,7 +2680,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 34335,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 27823,
@@ -2689,8 +2689,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4015144895878841,
@@ -2698,7 +2698,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 34335,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 27972,
@@ -2707,8 +2707,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4043395951652832,
@@ -2716,7 +2716,7 @@
             "PersonsFullyVaccinatedChange": 97,
             "Population": 34335,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 27996,
@@ -2725,8 +2725,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4046308431629533,
@@ -2734,7 +2734,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 34335,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28047,
@@ -2743,8 +2743,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4051550895587593,
@@ -2752,7 +2752,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 34335,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28082,
@@ -2761,8 +2761,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4054754623561963,
@@ -2770,7 +2770,7 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 34335,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28261,
@@ -2779,8 +2779,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4084461919324305,
@@ -2788,7 +2788,7 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 34335,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28326,
@@ -2797,8 +2797,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4090869375273045,
@@ -2806,7 +2806,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 34335,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28511,
@@ -2815,8 +2815,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4111839231105286,
@@ -2824,7 +2824,7 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 34335,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28585,
@@ -2833,8 +2833,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4122615407019077,
@@ -2842,7 +2842,7 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 34335,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28685,
@@ -2851,8 +2851,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4142711518858308,
@@ -2860,7 +2860,7 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 34335,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28790,
@@ -2869,8 +2869,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4158730158730159,
@@ -2878,7 +2878,7 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 34335,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28805,
@@ -2887,8 +2887,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4160768894713849,
@@ -2896,7 +2896,7 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 34335,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28882,
@@ -2905,8 +2905,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.41727100626183194,
@@ -2914,7 +2914,7 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 34335,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 28962,
@@ -2923,8 +2923,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.418028251055774,
@@ -2932,7 +2932,7 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 34335,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29023,
@@ -2941,8 +2941,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.418698121450415,
@@ -2950,7 +2950,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 34335,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29069,
@@ -2959,8 +2959,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.41928061744575507,
@@ -2968,7 +2968,7 @@
             "PersonsFullyVaccinatedChange": 20,
             "Population": 34335,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29123,
@@ -2977,8 +2977,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4201252366389981,
@@ -2986,7 +2986,7 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 34335,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29145,
@@ -2995,8 +2995,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.42050385903596915,
@@ -3004,7 +3004,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 34335,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29166,
@@ -3013,8 +3013,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.42079510703363915,
@@ -3022,7 +3022,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 34335,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29183,
@@ -3031,8 +3031,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.42108635503130915,
@@ -3040,7 +3040,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 34335,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29212,
@@ -3049,8 +3049,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4215232270278142,
@@ -3058,7 +3058,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 34335,
             "Report_Date": "2021-06-02T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29344,
@@ -3067,8 +3067,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.42443570700451433,
@@ -3076,7 +3076,7 @@
             "PersonsFullyVaccinatedChange": 100,
             "Population": 34335,
             "Report_Date": "2021-06-03T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29414,
@@ -3085,8 +3085,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4254550749963594,
@@ -3094,7 +3094,7 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 34335,
             "Report_Date": "2021-06-04T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29477,
@@ -3103,8 +3103,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4267074413863405,
@@ -3112,7 +3112,7 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 34335,
             "Report_Date": "2021-06-05T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29523,
@@ -3121,8 +3121,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4275811853793505,
@@ -3130,7 +3130,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 34335,
             "Report_Date": "2021-06-06T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29577,
@@ -3139,8 +3139,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.42889180136886557,
@@ -3148,7 +3148,7 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 34335,
             "Report_Date": "2021-06-07T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29670,
@@ -3157,8 +3157,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4304645405562837,
@@ -3166,7 +3166,7 @@
             "PersonsFullyVaccinatedChange": 54,
             "Population": 34335,
             "Report_Date": "2021-06-08T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29756,
@@ -3175,8 +3175,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.43218290374253676,
@@ -3184,7 +3184,7 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 34335,
             "Report_Date": "2021-06-09T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29868,
@@ -3193,8 +3193,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.43477501092179993,
@@ -3202,7 +3202,7 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 34335,
             "Report_Date": "2021-06-10T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29955,
@@ -3211,8 +3211,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.43684287170525704,
@@ -3220,7 +3220,7 @@
             "PersonsFullyVaccinatedChange": 71,
             "Population": 34335,
             "Report_Date": "2021-06-11T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29964,
@@ -3229,8 +3229,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.43707587010339305,
@@ -3238,7 +3238,7 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 34335,
             "Report_Date": "2021-06-12T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 29995,
@@ -3247,8 +3247,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4378622396971021,
@@ -3256,7 +3256,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 34335,
             "Report_Date": "2021-06-13T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30075,
@@ -3265,8 +3265,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.43926023008591814,
@@ -3274,7 +3274,7 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 34335,
             "Report_Date": "2021-06-14T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30139,
@@ -3283,8 +3283,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.44042522207659823,
@@ -3292,7 +3292,7 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 34335,
             "Report_Date": "2021-06-15T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30223,
@@ -3301,8 +3301,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4421727100626183,
@@ -3310,7 +3310,7 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 34335,
             "Report_Date": "2021-06-16T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30288,
@@ -3319,8 +3319,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4432794524537644,
@@ -3328,7 +3328,7 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 34335,
             "Report_Date": "2021-06-17T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30317,
@@ -3337,8 +3337,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4438328236493374,
@@ -3346,7 +3346,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 34335,
             "Report_Date": "2021-06-18T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30406,
@@ -3355,8 +3355,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.44592980923256154,
@@ -3364,7 +3364,7 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 34335,
             "Report_Date": "2021-06-19T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30424,
@@ -3373,8 +3373,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.44633755642929956,
@@ -3382,7 +3382,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 34335,
             "Report_Date": "2021-06-20T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30444,
@@ -3391,8 +3391,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4467453036260376,
@@ -3400,7 +3400,7 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 34335,
             "Report_Date": "2021-06-21T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30521,
@@ -3409,8 +3409,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.44820154361438763,
@@ -3418,7 +3418,7 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 34335,
             "Report_Date": "2021-06-22T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30562,
@@ -3427,8 +3427,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4490752876073977,
@@ -3436,7 +3436,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 34335,
             "Report_Date": "2021-06-23T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30630,
@@ -3445,8 +3445,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.45029852919761176,
@@ -3454,7 +3454,7 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 34335,
             "Report_Date": "2021-06-24T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30757,
@@ -3463,8 +3463,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4527450123780399,
@@ -3472,7 +3472,7 @@
             "PersonsFullyVaccinatedChange": 84,
             "Population": 34335,
             "Report_Date": "2021-06-25T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30917,
@@ -3481,8 +3481,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.45548274355613805,
@@ -3490,7 +3490,7 @@
             "PersonsFullyVaccinatedChange": 94,
             "Population": 34335,
             "Report_Date": "2021-06-26T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30925,
@@ -3499,8 +3499,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4555992427552061,
@@ -3508,7 +3508,7 @@
             "PersonsFullyVaccinatedChange": 4,
             "Population": 34335,
             "Report_Date": "2021-06-27T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 30958,
@@ -3517,8 +3517,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4561234891510121,
@@ -3526,7 +3526,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 34335,
             "Report_Date": "2021-06-28T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31011,
@@ -3535,8 +3535,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.45725935634192516,
@@ -3544,7 +3544,7 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 34335,
             "Report_Date": "2021-06-29T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31067,
@@ -3553,8 +3553,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4581331003349352,
@@ -3562,7 +3562,7 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 34335,
             "Report_Date": "2021-06-30T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31118,
@@ -3571,8 +3571,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.45912334352701323,
@@ -3580,7 +3580,7 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 34335,
             "Report_Date": "2021-07-01T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31189,
@@ -3589,8 +3589,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4603465851172273,
@@ -3598,7 +3598,7 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 34335,
             "Report_Date": "2021-07-02T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31238,
@@ -3607,8 +3607,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4611038299111694,
@@ -3616,7 +3616,7 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 34335,
             "Report_Date": "2021-07-03T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31254,
@@ -3625,8 +3625,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4612494539100044,
@@ -3634,7 +3634,7 @@
             "PersonsFullyVaccinatedChange": 5,
             "Population": 34335,
             "Report_Date": "2021-07-04T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31254,
@@ -3643,8 +3643,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4612494539100044,
@@ -3652,7 +3652,7 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 34335,
             "Report_Date": "2021-07-05T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31258,
@@ -3661,8 +3661,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4613368283093054,
@@ -3670,7 +3670,7 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 34335,
             "Report_Date": "2021-07-06T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31297,
@@ -3679,8 +3679,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.46197757390417943,
@@ -3688,7 +3688,7 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 34335,
             "Report_Date": "2021-07-07T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31397,
@@ -3697,8 +3697,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4634920634920635,
@@ -3706,7 +3706,7 @@
             "PersonsFullyVaccinatedChange": 52,
             "Population": 34335,
             "Report_Date": "2021-07-08T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31468,
@@ -3715,8 +3715,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.46456968108344254,
@@ -3724,7 +3724,7 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 34335,
             "Report_Date": "2021-07-09T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31506,
@@ -3733,8 +3733,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.46494830348041355,
@@ -3742,7 +3742,7 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 34335,
             "Report_Date": "2021-07-10T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31535,
@@ -3751,8 +3751,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4652104266783166,
@@ -3760,7 +3760,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 34335,
             "Report_Date": "2021-07-11T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31588,
@@ -3769,8 +3769,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.46588029707295764,
@@ -3778,7 +3778,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 34335,
             "Report_Date": "2021-07-12T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31631,
@@ -3787,8 +3787,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.46640454346876364,
@@ -3796,7 +3796,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 34335,
             "Report_Date": "2021-07-13T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31679,
@@ -3805,8 +3805,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.46687054026503566,
@@ -3814,7 +3814,7 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 34335,
             "Report_Date": "2021-07-14T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31724,
@@ -3823,8 +3823,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4673656618610747,
@@ -3832,7 +3832,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 34335,
             "Report_Date": "2021-07-15T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31781,
@@ -3841,8 +3841,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4679190330566477,
@@ -3850,7 +3850,7 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 34335,
             "Report_Date": "2021-07-16T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31834,
@@ -3859,8 +3859,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.46861802825105575,
@@ -3868,7 +3868,7 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 34335,
             "Report_Date": "2021-07-17T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31854,
@@ -3877,8 +3877,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.46879277704965777,
@@ -3886,7 +3886,7 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 34335,
             "Report_Date": "2021-07-18T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31883,
@@ -3895,8 +3895,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4692878986456968,
@@ -3904,7 +3904,7 @@
             "PersonsFullyVaccinatedChange": 17,
             "Population": 34335,
             "Report_Date": "2021-07-19T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31931,
@@ -3913,8 +3913,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4698995194408038,
@@ -3922,7 +3922,7 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 34335,
             "Report_Date": "2021-07-20T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 31999,
@@ -3931,8 +3931,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4710062618319499,
@@ -3940,7 +3940,7 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 34335,
             "Report_Date": "2021-07-21T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32101,
@@ -3949,8 +3949,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.47190913062472695,
@@ -3958,7 +3958,7 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 34335,
             "Report_Date": "2021-07-22T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32121,
@@ -3967,8 +3967,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.47220037862239694,
@@ -3976,7 +3976,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 34335,
             "Report_Date": "2021-07-23T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32146,
@@ -3985,8 +3985,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.472549876219601,
@@ -3994,7 +3994,7 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 34335,
             "Report_Date": "2021-07-24T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32167,
@@ -4003,8 +4003,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.472811999417504,
@@ -4012,7 +4012,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 34335,
             "Report_Date": "2021-07-25T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32197,
@@ -4021,8 +4021,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.473103247415174,
@@ -4030,7 +4030,7 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 34335,
             "Report_Date": "2021-07-26T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32282,
@@ -4039,8 +4039,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4743264890053881,
@@ -4048,7 +4048,7 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 34335,
             "Report_Date": "2021-07-27T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32452,
@@ -4057,8 +4057,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4765982233872142,
@@ -4066,7 +4066,7 @@
             "PersonsFullyVaccinatedChange": 78,
             "Population": 34335,
             "Report_Date": "2021-07-28T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32511,
@@ -4075,8 +4075,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.47726809378185525,
@@ -4084,7 +4084,7 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 34335,
             "Report_Date": "2021-07-29T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32627,
@@ -4093,8 +4093,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.47863695937090434,
@@ -4102,7 +4102,7 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 34335,
             "Report_Date": "2021-07-30T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32668,
@@ -4111,8 +4111,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.47916120576671034,
@@ -4120,7 +4120,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 34335,
             "Report_Date": "2021-07-31T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32701,
@@ -4129,8 +4129,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4795980777632154,
@@ -4138,7 +4138,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 34335,
             "Report_Date": "2021-08-01T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32740,
@@ -4147,8 +4147,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4801223241590214,
@@ -4156,7 +4156,7 @@
             "PersonsFullyVaccinatedChange": 18,
             "Population": 34335,
             "Report_Date": "2021-08-02T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32809,
@@ -4165,8 +4165,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.48125819134993447,
@@ -4174,7 +4174,7 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 34335,
             "Report_Date": "2021-08-03T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32854,
@@ -4183,8 +4183,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.48169506334643947,
@@ -4192,7 +4192,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 34335,
             "Report_Date": "2021-08-04T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 32975,
@@ -4201,8 +4201,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4834425513324596,
@@ -4210,7 +4210,7 @@
             "PersonsFullyVaccinatedChange": 60,
             "Population": 34335,
             "Report_Date": "2021-08-05T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 33028,
@@ -4219,8 +4219,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.48422892092616865,
@@ -4228,7 +4228,7 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 34335,
             "Report_Date": "2021-08-06T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 33130,
@@ -4237,8 +4237,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4857142857142857,
@@ -4246,7 +4246,7 @@
             "PersonsFullyVaccinatedChange": 51,
             "Population": 34335,
             "Report_Date": "2021-08-07T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 33160,
@@ -4255,8 +4255,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.48615115771079076,
@@ -4264,7 +4264,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 34335,
             "Report_Date": "2021-08-08T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 33195,
@@ -4273,8 +4273,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.48658802970729575,
@@ -4282,7 +4282,7 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 34335,
             "Report_Date": "2021-08-09T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 33218,
@@ -4291,8 +4291,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.4868501529051988,
@@ -4300,7 +4300,7 @@
             "PersonsFullyVaccinatedChange": 9,
             "Population": 34335,
             "Report_Date": "2021-08-10T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 33327,
@@ -4309,8 +4309,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.48865589049075286,
@@ -4318,7 +4318,7 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 34335,
             "Report_Date": "2021-08-11T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
         },
         {
             "AdministeredCount": 33451,
@@ -4327,8 +4327,8 @@
             "AllocatedDoses": 0,
             "CommunityReportedInventory": 90,
             "CountyName": "Monroe",
-            "InventoryReportDate": "2021-08-12T00:00:00",
-            "LHDReportedInventory": 122,
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
             "Latitude": 38.2743,
             "Longitude": -90.187,
             "PctVaccinatedPopulation": 0.490694626474443,
@@ -4336,11 +4336,65 @@
             "PersonsFullyVaccinatedChange": 70,
             "Population": 34335,
             "Report_Date": "2021-08-12T00:00:00",
-            "TotalReportedInventory": 212
+            "TotalReportedInventory": 380
+        },
+        {
+            "AdministeredCount": 33557,
+            "AdministeredCountChange": 106,
+            "AdministeredCountRollAvg": 76.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 90,
+            "CountyName": "Monroe",
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
+            "Latitude": 38.2743,
+            "Longitude": -90.187,
+            "PctVaccinatedPopulation": 0.4923547400611621,
+            "PersonsFullyVaccinated": 16905,
+            "PersonsFullyVaccinatedChange": 57,
+            "Population": 34335,
+            "Report_Date": "2021-08-13T00:00:00",
+            "TotalReportedInventory": 380
+        },
+        {
+            "AdministeredCount": 33668,
+            "AdministeredCountChange": 111,
+            "AdministeredCountRollAvg": 77.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 90,
+            "CountyName": "Monroe",
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
+            "Latitude": 38.2743,
+            "Longitude": -90.187,
+            "PctVaccinatedPopulation": 0.4939566040483472,
+            "PersonsFullyVaccinated": 16960,
+            "PersonsFullyVaccinatedChange": 55,
+            "Population": 34335,
+            "Report_Date": "2021-08-14T00:00:00",
+            "TotalReportedInventory": 380
+        },
+        {
+            "AdministeredCount": 33756,
+            "AdministeredCountChange": 88,
+            "AdministeredCountRollAvg": 85.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 90,
+            "CountyName": "Monroe",
+            "InventoryReportDate": "2021-08-15T00:00:00",
+            "LHDReportedInventory": 290,
+            "Latitude": 38.2743,
+            "Longitude": -90.187,
+            "PctVaccinatedPopulation": 0.4952672200378622,
+            "PersonsFullyVaccinated": 17005,
+            "PersonsFullyVaccinatedChange": 45,
+            "Population": 34335,
+            "Report_Date": "2021-08-15T00:00:00",
+            "TotalReportedInventory": 380
         }
     ],
     "lastUpdatedDate": {
-        "day": 12,
+        "day": 15,
         "month": 8,
         "year": 2021
     }

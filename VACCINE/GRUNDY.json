@@ -1,21 +1,21 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 46041,
+        "AdministeredCount": 46132,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 100.0,
+        "AdministeredCountRollAvg": 106.0,
         "AllocatedDoses": 0,
-        "CommunityReportedInventory": 0,
+        "CommunityReportedInventory": 25,
         "CountyName": "Grundy",
-        "InventoryReportDate": "2021-08-16T00:00:00",
+        "InventoryReportDate": "2021-08-17T00:00:00",
         "LHDReportedInventory": 461,
         "Latitude": 41.3501,
         "Longitude": -88.4016,
-        "PctVaccinatedPopulation": 0.44391038217060347,
-        "PersonsFullyVaccinated": 22627,
-        "PersonsFullyVaccinatedChange": 22627,
+        "PctVaccinatedPopulation": 0.44477360119281173,
+        "PersonsFullyVaccinated": 22671,
+        "PersonsFullyVaccinatedChange": 22671,
         "Population": 50972,
-        "Report_Date": "2021-08-16T00:00:00",
-        "TotalReportedInventory": 461
+        "Report_Date": "2021-08-17T00:00:00",
+        "TotalReportedInventory": 486
     },
     "VaccineAdministration": [
         {
@@ -23,9 +23,9 @@
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 0.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -34,16 +34,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-16T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 12,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 2.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -52,16 +52,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-17T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 36,
             "AdministeredCountChange": 24,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -70,16 +70,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-18T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 52,
             "AdministeredCountChange": 16,
             "AdministeredCountRollAvg": 7.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -88,16 +88,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-19T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 129,
             "AdministeredCountChange": 77,
             "AdministeredCountRollAvg": 18.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -106,16 +106,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-20T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 147,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 21.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -124,16 +124,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-21T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 156,
             "AdministeredCountChange": 9,
             "AdministeredCountRollAvg": 22.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -142,16 +142,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-22T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 164,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -160,16 +160,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-23T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 171,
             "AdministeredCountChange": 7,
             "AdministeredCountRollAvg": 23.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -178,16 +178,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-24T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 172,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 19.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -196,16 +196,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-25T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 172,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 17.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -214,16 +214,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-26T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 173,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 6.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -232,16 +232,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-27T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 179,
             "AdministeredCountChange": 6,
             "AdministeredCountRollAvg": 5.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -250,16 +250,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-28T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 322,
             "AdministeredCountChange": 143,
             "AdministeredCountRollAvg": 24.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -268,16 +268,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-29T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 481,
             "AdministeredCountChange": 159,
             "AdministeredCountRollAvg": 45.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -286,16 +286,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-30T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 590,
             "AdministeredCountChange": 109,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -304,16 +304,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2020-12-31T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 592,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -322,16 +322,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2021-01-01T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 594,
             "AdministeredCountChange": 2,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -340,16 +340,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2021-01-02T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 595,
             "AdministeredCountChange": 1,
             "AdministeredCountRollAvg": 60.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -358,16 +358,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2021-01-03T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 603,
             "AdministeredCountChange": 8,
             "AdministeredCountRollAvg": 61.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -376,16 +376,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2021-01-04T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 709,
             "AdministeredCountChange": 106,
             "AdministeredCountRollAvg": 55.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -394,16 +394,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2021-01-05T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 763,
             "AdministeredCountChange": 54,
             "AdministeredCountRollAvg": 40.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -412,16 +412,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 50972,
             "Report_Date": "2021-01-06T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 944,
             "AdministeredCountChange": 181,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -430,16 +430,16 @@
             "PersonsFullyVaccinatedChange": 101,
             "Population": 50972,
             "Report_Date": "2021-01-07T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1071,
             "AdministeredCountChange": 127,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -448,16 +448,16 @@
             "PersonsFullyVaccinatedChange": 63,
             "Population": 50972,
             "Report_Date": "2021-01-08T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1260,
             "AdministeredCountChange": 189,
             "AdministeredCountRollAvg": 95.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -466,16 +466,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 50972,
             "Report_Date": "2021-01-09T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1294,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 100.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -484,16 +484,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 50972,
             "Report_Date": "2021-01-10T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1316,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -502,16 +502,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 50972,
             "Report_Date": "2021-01-11T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1457,
             "AdministeredCountChange": 141,
             "AdministeredCountRollAvg": 107.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -520,16 +520,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 50972,
             "Report_Date": "2021-01-12T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1575,
             "AdministeredCountChange": 118,
             "AdministeredCountRollAvg": 116.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -538,16 +538,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 50972,
             "Report_Date": "2021-01-13T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1683,
             "AdministeredCountChange": 108,
             "AdministeredCountRollAvg": 106.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -556,16 +556,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 50972,
             "Report_Date": "2021-01-14T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1727,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 94.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -574,16 +574,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 50972,
             "Report_Date": "2021-01-15T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1817,
             "AdministeredCountChange": 90,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -592,16 +592,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 50972,
             "Report_Date": "2021-01-16T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1828,
             "AdministeredCountChange": 11,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -610,16 +610,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 50972,
             "Report_Date": "2021-01-17T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1846,
             "AdministeredCountChange": 18,
             "AdministeredCountRollAvg": 76.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -628,16 +628,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 50972,
             "Report_Date": "2021-01-18T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1922,
             "AdministeredCountChange": 76,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -646,16 +646,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 50972,
             "Report_Date": "2021-01-19T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1948,
             "AdministeredCountChange": 26,
             "AdministeredCountRollAvg": 53.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -664,16 +664,16 @@
             "PersonsFullyVaccinatedChange": 15,
             "Population": 50972,
             "Report_Date": "2021-01-20T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 1994,
             "AdministeredCountChange": 46,
             "AdministeredCountRollAvg": 44.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -682,16 +682,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 50972,
             "Report_Date": "2021-01-21T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 2066,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 48.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -700,16 +700,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 50972,
             "Report_Date": "2021-01-22T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 2341,
             "AdministeredCountChange": 275,
             "AdministeredCountRollAvg": 75.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -718,16 +718,16 @@
             "PersonsFullyVaccinatedChange": 1,
             "Population": 50972,
             "Report_Date": "2021-01-23T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 2369,
             "AdministeredCountChange": 28,
             "AdministeredCountRollAvg": 77.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -736,16 +736,16 @@
             "PersonsFullyVaccinatedChange": 2,
             "Population": 50972,
             "Report_Date": "2021-01-24T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 2464,
             "AdministeredCountChange": 95,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -754,16 +754,16 @@
             "PersonsFullyVaccinatedChange": 8,
             "Population": 50972,
             "Report_Date": "2021-01-25T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 2752,
             "AdministeredCountChange": 288,
             "AdministeredCountRollAvg": 119.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -772,16 +772,16 @@
             "PersonsFullyVaccinatedChange": 175,
             "Population": 50972,
             "Report_Date": "2021-01-26T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 2927,
             "AdministeredCountChange": 175,
             "AdministeredCountRollAvg": 140.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -790,16 +790,16 @@
             "PersonsFullyVaccinatedChange": 130,
             "Population": 50972,
             "Report_Date": "2021-01-27T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 3289,
             "AdministeredCountChange": 362,
             "AdministeredCountRollAvg": 185.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -808,16 +808,16 @@
             "PersonsFullyVaccinatedChange": 173,
             "Population": 50972,
             "Report_Date": "2021-01-28T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 3438,
             "AdministeredCountChange": 149,
             "AdministeredCountRollAvg": 196.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -826,16 +826,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 50972,
             "Report_Date": "2021-01-29T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 3944,
             "AdministeredCountChange": 506,
             "AdministeredCountRollAvg": 229.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -844,16 +844,16 @@
             "PersonsFullyVaccinatedChange": 138,
             "Population": 50972,
             "Report_Date": "2021-01-30T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 3973,
             "AdministeredCountChange": 29,
             "AdministeredCountRollAvg": 229.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -862,16 +862,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 50972,
             "Report_Date": "2021-01-31T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 4124,
             "AdministeredCountChange": 151,
             "AdministeredCountRollAvg": 237.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -880,16 +880,16 @@
             "PersonsFullyVaccinatedChange": 11,
             "Population": 50972,
             "Report_Date": "2021-02-01T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 4319,
             "AdministeredCountChange": 195,
             "AdministeredCountRollAvg": 224.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -898,16 +898,16 @@
             "PersonsFullyVaccinatedChange": 95,
             "Population": 50972,
             "Report_Date": "2021-02-02T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 4687,
             "AdministeredCountChange": 368,
             "AdministeredCountRollAvg": 251.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -916,16 +916,16 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 50972,
             "Report_Date": "2021-02-03T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 4849,
             "AdministeredCountChange": 162,
             "AdministeredCountRollAvg": 223.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -934,16 +934,16 @@
             "PersonsFullyVaccinatedChange": 99,
             "Population": 50972,
             "Report_Date": "2021-02-04T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 5004,
             "AdministeredCountChange": 155,
             "AdministeredCountRollAvg": 224.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -952,16 +952,16 @@
             "PersonsFullyVaccinatedChange": 81,
             "Population": 50972,
             "Report_Date": "2021-02-05T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 5286,
             "AdministeredCountChange": 282,
             "AdministeredCountRollAvg": 192.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -970,16 +970,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 50972,
             "Report_Date": "2021-02-06T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 5323,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 193.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -988,16 +988,16 @@
             "PersonsFullyVaccinatedChange": 3,
             "Population": 50972,
             "Report_Date": "2021-02-07T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 5420,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 185.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1006,16 +1006,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 50972,
             "Report_Date": "2021-02-08T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 5624,
             "AdministeredCountChange": 204,
             "AdministeredCountRollAvg": 186.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1024,16 +1024,16 @@
             "PersonsFullyVaccinatedChange": 125,
             "Population": 50972,
             "Report_Date": "2021-02-09T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 6029,
             "AdministeredCountChange": 405,
             "AdministeredCountRollAvg": 192.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1042,16 +1042,16 @@
             "PersonsFullyVaccinatedChange": 105,
             "Population": 50972,
             "Report_Date": "2021-02-10T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 6165,
             "AdministeredCountChange": 136,
             "AdministeredCountRollAvg": 188.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1060,16 +1060,16 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 50972,
             "Report_Date": "2021-02-11T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 6317,
             "AdministeredCountChange": 152,
             "AdministeredCountRollAvg": 188.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1078,16 +1078,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 50972,
             "Report_Date": "2021-02-12T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 6420,
             "AdministeredCountChange": 103,
             "AdministeredCountRollAvg": 162.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1096,16 +1096,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 50972,
             "Report_Date": "2021-02-13T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 6492,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 167.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1114,16 +1114,16 @@
             "PersonsFullyVaccinatedChange": 10,
             "Population": 50972,
             "Report_Date": "2021-02-14T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 6532,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 159.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1132,16 +1132,16 @@
             "PersonsFullyVaccinatedChange": 7,
             "Population": 50972,
             "Report_Date": "2021-02-15T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 6589,
             "AdministeredCountChange": 57,
             "AdministeredCountRollAvg": 138.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1150,16 +1150,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 50972,
             "Report_Date": "2021-02-16T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 6719,
             "AdministeredCountChange": 130,
             "AdministeredCountRollAvg": 99.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1168,16 +1168,16 @@
             "PersonsFullyVaccinatedChange": 12,
             "Population": 50972,
             "Report_Date": "2021-02-17T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 6932,
             "AdministeredCountChange": 213,
             "AdministeredCountRollAvg": 110.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1186,16 +1186,16 @@
             "PersonsFullyVaccinatedChange": 80,
             "Population": 50972,
             "Report_Date": "2021-02-18T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 7203,
             "AdministeredCountChange": 271,
             "AdministeredCountRollAvg": 127.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1204,16 +1204,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 50972,
             "Report_Date": "2021-02-19T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 7213,
             "AdministeredCountChange": 10,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1222,16 +1222,16 @@
             "PersonsFullyVaccinatedChange": 6,
             "Population": 50972,
             "Report_Date": "2021-02-20T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 7310,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 117.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1240,16 +1240,16 @@
             "PersonsFullyVaccinatedChange": 56,
             "Population": 50972,
             "Report_Date": "2021-02-21T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 7393,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 123.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1258,16 +1258,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 50972,
             "Report_Date": "2021-02-22T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 7468,
             "AdministeredCountChange": 75,
             "AdministeredCountRollAvg": 126.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1276,16 +1276,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 50972,
             "Report_Date": "2021-02-23T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 7763,
             "AdministeredCountChange": 295,
             "AdministeredCountRollAvg": 149.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1294,16 +1294,16 @@
             "PersonsFullyVaccinatedChange": 118,
             "Population": 50972,
             "Report_Date": "2021-02-24T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 7958,
             "AdministeredCountChange": 195,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1312,16 +1312,16 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 50972,
             "Report_Date": "2021-02-25T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 8025,
             "AdministeredCountChange": 67,
             "AdministeredCountRollAvg": 117.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1330,16 +1330,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 50972,
             "Report_Date": "2021-02-26T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 8718,
             "AdministeredCountChange": 693,
             "AdministeredCountRollAvg": 215.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1348,16 +1348,16 @@
             "PersonsFullyVaccinatedChange": 611,
             "Population": 50972,
             "Report_Date": "2021-02-27T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 8841,
             "AdministeredCountChange": 123,
             "AdministeredCountRollAvg": 219.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1366,16 +1366,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 50972,
             "Report_Date": "2021-02-28T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 9148,
             "AdministeredCountChange": 307,
             "AdministeredCountRollAvg": 251.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1384,16 +1384,16 @@
             "PersonsFullyVaccinatedChange": 181,
             "Population": 50972,
             "Report_Date": "2021-03-01T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 9334,
             "AdministeredCountChange": 186,
             "AdministeredCountRollAvg": 267.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1402,16 +1402,16 @@
             "PersonsFullyVaccinatedChange": 85,
             "Population": 50972,
             "Report_Date": "2021-03-02T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 9901,
             "AdministeredCountChange": 567,
             "AdministeredCountRollAvg": 305.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1420,16 +1420,16 @@
             "PersonsFullyVaccinatedChange": 307,
             "Population": 50972,
             "Report_Date": "2021-03-03T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 10224,
             "AdministeredCountChange": 323,
             "AdministeredCountRollAvg": 324.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1438,16 +1438,16 @@
             "PersonsFullyVaccinatedChange": 106,
             "Population": 50972,
             "Report_Date": "2021-03-04T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 10423,
             "AdministeredCountChange": 199,
             "AdministeredCountRollAvg": 343.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1456,16 +1456,16 @@
             "PersonsFullyVaccinatedChange": 115,
             "Population": 50972,
             "Report_Date": "2021-03-05T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 10910,
             "AdministeredCountChange": 487,
             "AdministeredCountRollAvg": 313.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1474,16 +1474,16 @@
             "PersonsFullyVaccinatedChange": 285,
             "Population": 50972,
             "Report_Date": "2021-03-06T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 10952,
             "AdministeredCountChange": 42,
             "AdministeredCountRollAvg": 302.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1492,16 +1492,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 50972,
             "Report_Date": "2021-03-07T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 11120,
             "AdministeredCountChange": 168,
             "AdministeredCountRollAvg": 282.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1510,16 +1510,16 @@
             "PersonsFullyVaccinatedChange": 61,
             "Population": 50972,
             "Report_Date": "2021-03-08T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 11321,
             "AdministeredCountChange": 201,
             "AdministeredCountRollAvg": 284.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1528,16 +1528,16 @@
             "PersonsFullyVaccinatedChange": 110,
             "Population": 50972,
             "Report_Date": "2021-03-09T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 11945,
             "AdministeredCountChange": 624,
             "AdministeredCountRollAvg": 292.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1546,16 +1546,16 @@
             "PersonsFullyVaccinatedChange": 345,
             "Population": 50972,
             "Report_Date": "2021-03-10T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 12358,
             "AdministeredCountChange": 413,
             "AdministeredCountRollAvg": 305.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1564,16 +1564,16 @@
             "PersonsFullyVaccinatedChange": 196,
             "Population": 50972,
             "Report_Date": "2021-03-11T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 13235,
             "AdministeredCountChange": 877,
             "AdministeredCountRollAvg": 402.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1582,16 +1582,16 @@
             "PersonsFullyVaccinatedChange": 257,
             "Population": 50972,
             "Report_Date": "2021-03-12T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 13815,
             "AdministeredCountChange": 580,
             "AdministeredCountRollAvg": 415.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1600,16 +1600,16 @@
             "PersonsFullyVaccinatedChange": 35,
             "Population": 50972,
             "Report_Date": "2021-03-13T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 13976,
             "AdministeredCountChange": 161,
             "AdministeredCountRollAvg": 432.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1618,16 +1618,16 @@
             "PersonsFullyVaccinatedChange": 97,
             "Population": 50972,
             "Report_Date": "2021-03-14T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 14116,
             "AdministeredCountChange": 140,
             "AdministeredCountRollAvg": 428.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1636,16 +1636,16 @@
             "PersonsFullyVaccinatedChange": 101,
             "Population": 50972,
             "Report_Date": "2021-03-15T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 14308,
             "AdministeredCountChange": 192,
             "AdministeredCountRollAvg": 427.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1654,16 +1654,16 @@
             "PersonsFullyVaccinatedChange": 113,
             "Population": 50972,
             "Report_Date": "2021-03-16T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 14502,
             "AdministeredCountChange": 194,
             "AdministeredCountRollAvg": 365.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1672,16 +1672,16 @@
             "PersonsFullyVaccinatedChange": 100,
             "Population": 50972,
             "Report_Date": "2021-03-17T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 15702,
             "AdministeredCountChange": 1200,
             "AdministeredCountRollAvg": 478.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1690,16 +1690,16 @@
             "PersonsFullyVaccinatedChange": 121,
             "Population": 50972,
             "Report_Date": "2021-03-18T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 16826,
             "AdministeredCountChange": 1124,
             "AdministeredCountRollAvg": 513.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1708,16 +1708,16 @@
             "PersonsFullyVaccinatedChange": 111,
             "Population": 50972,
             "Report_Date": "2021-03-19T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 17650,
             "AdministeredCountChange": 824,
             "AdministeredCountRollAvg": 548.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1726,16 +1726,16 @@
             "PersonsFullyVaccinatedChange": 68,
             "Population": 50972,
             "Report_Date": "2021-03-20T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 17687,
             "AdministeredCountChange": 37,
             "AdministeredCountRollAvg": 530.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1744,16 +1744,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 50972,
             "Report_Date": "2021-03-21T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 17827,
             "AdministeredCountChange": 140,
             "AdministeredCountRollAvg": 530.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1762,16 +1762,16 @@
             "PersonsFullyVaccinatedChange": 79,
             "Population": 50972,
             "Report_Date": "2021-03-22T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 17958,
             "AdministeredCountChange": 131,
             "AdministeredCountRollAvg": 521.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1780,16 +1780,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 50972,
             "Report_Date": "2021-03-23T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 18547,
             "AdministeredCountChange": 589,
             "AdministeredCountRollAvg": 578.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1798,16 +1798,16 @@
             "PersonsFullyVaccinatedChange": 220,
             "Population": 50972,
             "Report_Date": "2021-03-24T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 18694,
             "AdministeredCountChange": 147,
             "AdministeredCountRollAvg": 427.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1816,16 +1816,16 @@
             "PersonsFullyVaccinatedChange": 75,
             "Population": 50972,
             "Report_Date": "2021-03-25T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 18972,
             "AdministeredCountChange": 278,
             "AdministeredCountRollAvg": 307.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1834,16 +1834,16 @@
             "PersonsFullyVaccinatedChange": 192,
             "Population": 50972,
             "Report_Date": "2021-03-26T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 19324,
             "AdministeredCountChange": 352,
             "AdministeredCountRollAvg": 239.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1852,16 +1852,16 @@
             "PersonsFullyVaccinatedChange": 98,
             "Population": 50972,
             "Report_Date": "2021-03-27T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 19390,
             "AdministeredCountChange": 66,
             "AdministeredCountRollAvg": 243.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1870,16 +1870,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 50972,
             "Report_Date": "2021-03-28T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 19515,
             "AdministeredCountChange": 125,
             "AdministeredCountRollAvg": 241.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1888,16 +1888,16 @@
             "PersonsFullyVaccinatedChange": 68,
             "Population": 50972,
             "Report_Date": "2021-03-29T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 19913,
             "AdministeredCountChange": 398,
             "AdministeredCountRollAvg": 279.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1906,16 +1906,16 @@
             "PersonsFullyVaccinatedChange": 261,
             "Population": 50972,
             "Report_Date": "2021-03-30T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 20411,
             "AdministeredCountChange": 498,
             "AdministeredCountRollAvg": 266.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1924,16 +1924,16 @@
             "PersonsFullyVaccinatedChange": 193,
             "Population": 50972,
             "Report_Date": "2021-03-31T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 20978,
             "AdministeredCountChange": 567,
             "AdministeredCountRollAvg": 326.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1942,16 +1942,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 50972,
             "Report_Date": "2021-04-01T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 21599,
             "AdministeredCountChange": 621,
             "AdministeredCountRollAvg": 375.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1960,16 +1960,16 @@
             "PersonsFullyVaccinatedChange": 539,
             "Population": 50972,
             "Report_Date": "2021-04-02T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 22308,
             "AdministeredCountChange": 709,
             "AdministeredCountRollAvg": 426.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1978,16 +1978,16 @@
             "PersonsFullyVaccinatedChange": 637,
             "Population": 50972,
             "Report_Date": "2021-04-03T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 22330,
             "AdministeredCountChange": 22,
             "AdministeredCountRollAvg": 420.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -1996,16 +1996,16 @@
             "PersonsFullyVaccinatedChange": 14,
             "Population": 50972,
             "Report_Date": "2021-04-04T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 22395,
             "AdministeredCountChange": 65,
             "AdministeredCountRollAvg": 411.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2014,16 +2014,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 50972,
             "Report_Date": "2021-04-05T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 22868,
             "AdministeredCountChange": 473,
             "AdministeredCountRollAvg": 422.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2032,16 +2032,16 @@
             "PersonsFullyVaccinatedChange": 119,
             "Population": 50972,
             "Report_Date": "2021-04-06T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 23427,
             "AdministeredCountChange": 559,
             "AdministeredCountRollAvg": 431.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2050,16 +2050,16 @@
             "PersonsFullyVaccinatedChange": 242,
             "Population": 50972,
             "Report_Date": "2021-04-07T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 23822,
             "AdministeredCountChange": 395,
             "AdministeredCountRollAvg": 406.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2068,16 +2068,16 @@
             "PersonsFullyVaccinatedChange": 296,
             "Population": 50972,
             "Report_Date": "2021-04-08T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 25171,
             "AdministeredCountChange": 1349,
             "AdministeredCountRollAvg": 510.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2086,16 +2086,16 @@
             "PersonsFullyVaccinatedChange": 1233,
             "Population": 50972,
             "Report_Date": "2021-04-09T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 25620,
             "AdministeredCountChange": 449,
             "AdministeredCountRollAvg": 473.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2104,16 +2104,16 @@
             "PersonsFullyVaccinatedChange": 76,
             "Population": 50972,
             "Report_Date": "2021-04-10T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 25927,
             "AdministeredCountChange": 307,
             "AdministeredCountRollAvg": 514.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2122,16 +2122,16 @@
             "PersonsFullyVaccinatedChange": 266,
             "Population": 50972,
             "Report_Date": "2021-04-11T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 26018,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 518.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2140,16 +2140,16 @@
             "PersonsFullyVaccinatedChange": 62,
             "Population": 50972,
             "Report_Date": "2021-04-12T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 26702,
             "AdministeredCountChange": 684,
             "AdministeredCountRollAvg": 548.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2158,16 +2158,16 @@
             "PersonsFullyVaccinatedChange": 343,
             "Population": 50972,
             "Report_Date": "2021-04-13T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 27051,
             "AdministeredCountChange": 349,
             "AdministeredCountRollAvg": 518.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2176,16 +2176,16 @@
             "PersonsFullyVaccinatedChange": 147,
             "Population": 50972,
             "Report_Date": "2021-04-14T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 27761,
             "AdministeredCountChange": 710,
             "AdministeredCountRollAvg": 563.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2194,16 +2194,16 @@
             "PersonsFullyVaccinatedChange": 358,
             "Population": 50972,
             "Report_Date": "2021-04-15T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 28268,
             "AdministeredCountChange": 507,
             "AdministeredCountRollAvg": 442.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2212,16 +2212,16 @@
             "PersonsFullyVaccinatedChange": 146,
             "Population": 50972,
             "Report_Date": "2021-04-16T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 29184,
             "AdministeredCountChange": 916,
             "AdministeredCountRollAvg": 509.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2230,16 +2230,16 @@
             "PersonsFullyVaccinatedChange": 838,
             "Population": 50972,
             "Report_Date": "2021-04-17T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 29241,
             "AdministeredCountChange": 57,
             "AdministeredCountRollAvg": 473.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2248,16 +2248,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 50972,
             "Report_Date": "2021-04-18T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 29358,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 477.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2266,16 +2266,16 @@
             "PersonsFullyVaccinatedChange": 89,
             "Population": 50972,
             "Report_Date": "2021-04-19T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 29693,
             "AdministeredCountChange": 335,
             "AdministeredCountRollAvg": 427.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2284,16 +2284,16 @@
             "PersonsFullyVaccinatedChange": 121,
             "Population": 50972,
             "Report_Date": "2021-04-20T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 30123,
             "AdministeredCountChange": 430,
             "AdministeredCountRollAvg": 439.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2302,16 +2302,16 @@
             "PersonsFullyVaccinatedChange": 319,
             "Population": 50972,
             "Report_Date": "2021-04-21T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 30774,
             "AdministeredCountChange": 651,
             "AdministeredCountRollAvg": 430.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2320,16 +2320,16 @@
             "PersonsFullyVaccinatedChange": 480,
             "Population": 50972,
             "Report_Date": "2021-04-22T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 30887,
             "AdministeredCountChange": 113,
             "AdministeredCountRollAvg": 374.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2338,16 +2338,16 @@
             "PersonsFullyVaccinatedChange": 64,
             "Population": 50972,
             "Report_Date": "2021-04-23T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 31320,
             "AdministeredCountChange": 433,
             "AdministeredCountRollAvg": 305.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2356,16 +2356,16 @@
             "PersonsFullyVaccinatedChange": 235,
             "Population": 50972,
             "Report_Date": "2021-04-24T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 31379,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 305.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2374,16 +2374,16 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 50972,
             "Report_Date": "2021-04-25T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 31470,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 302.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2392,16 +2392,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 50972,
             "Report_Date": "2021-04-26T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 32022,
             "AdministeredCountChange": 552,
             "AdministeredCountRollAvg": 333.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2410,16 +2410,16 @@
             "PersonsFullyVaccinatedChange": 412,
             "Population": 50972,
             "Report_Date": "2021-04-27T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 32393,
             "AdministeredCountChange": 371,
             "AdministeredCountRollAvg": 324.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2428,16 +2428,16 @@
             "PersonsFullyVaccinatedChange": 298,
             "Population": 50972,
             "Report_Date": "2021-04-28T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 32583,
             "AdministeredCountChange": 190,
             "AdministeredCountRollAvg": 258.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2446,16 +2446,16 @@
             "PersonsFullyVaccinatedChange": 73,
             "Population": 50972,
             "Report_Date": "2021-04-29T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 32696,
             "AdministeredCountChange": 113,
             "AdministeredCountRollAvg": 258.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2464,16 +2464,16 @@
             "PersonsFullyVaccinatedChange": 79,
             "Population": 50972,
             "Report_Date": "2021-04-30T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 33119,
             "AdministeredCountChange": 423,
             "AdministeredCountRollAvg": 257.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2482,16 +2482,16 @@
             "PersonsFullyVaccinatedChange": 320,
             "Population": 50972,
             "Report_Date": "2021-05-01T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 33146,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 252.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2500,16 +2500,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 50972,
             "Report_Date": "2021-05-02T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 33173,
             "AdministeredCountChange": 27,
             "AdministeredCountRollAvg": 243.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2518,16 +2518,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 50972,
             "Report_Date": "2021-05-03T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 33617,
             "AdministeredCountChange": 444,
             "AdministeredCountRollAvg": 228.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2536,16 +2536,16 @@
             "PersonsFullyVaccinatedChange": 355,
             "Population": 50972,
             "Report_Date": "2021-05-04T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 34053,
             "AdministeredCountChange": 436,
             "AdministeredCountRollAvg": 237.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2554,16 +2554,16 @@
             "PersonsFullyVaccinatedChange": 388,
             "Population": 50972,
             "Report_Date": "2021-05-05T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 34459,
             "AdministeredCountChange": 406,
             "AdministeredCountRollAvg": 268.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2572,16 +2572,16 @@
             "PersonsFullyVaccinatedChange": 326,
             "Population": 50972,
             "Report_Date": "2021-05-06T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 34928,
             "AdministeredCountChange": 469,
             "AdministeredCountRollAvg": 319.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2590,16 +2590,16 @@
             "PersonsFullyVaccinatedChange": 361,
             "Population": 50972,
             "Report_Date": "2021-05-07T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 35053,
             "AdministeredCountChange": 125,
             "AdministeredCountRollAvg": 276.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2608,16 +2608,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 50972,
             "Report_Date": "2021-05-08T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 35184,
             "AdministeredCountChange": 131,
             "AdministeredCountRollAvg": 291.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2626,16 +2626,16 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 50972,
             "Report_Date": "2021-05-09T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 35287,
             "AdministeredCountChange": 103,
             "AdministeredCountRollAvg": 302.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2644,16 +2644,16 @@
             "PersonsFullyVaccinatedChange": 57,
             "Population": 50972,
             "Report_Date": "2021-05-10T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 35404,
             "AdministeredCountChange": 117,
             "AdministeredCountRollAvg": 255.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2662,16 +2662,16 @@
             "PersonsFullyVaccinatedChange": 94,
             "Population": 50972,
             "Report_Date": "2021-05-11T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 35626,
             "AdministeredCountChange": 222,
             "AdministeredCountRollAvg": 225.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2680,16 +2680,16 @@
             "PersonsFullyVaccinatedChange": 152,
             "Population": 50972,
             "Report_Date": "2021-05-12T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 35757,
             "AdministeredCountChange": 131,
             "AdministeredCountRollAvg": 185.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2698,16 +2698,16 @@
             "PersonsFullyVaccinatedChange": 97,
             "Population": 50972,
             "Report_Date": "2021-05-13T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 36268,
             "AdministeredCountChange": 511,
             "AdministeredCountRollAvg": 191.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2716,16 +2716,16 @@
             "PersonsFullyVaccinatedChange": 293,
             "Population": 50972,
             "Report_Date": "2021-05-14T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 36349,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 185.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2734,16 +2734,16 @@
             "PersonsFullyVaccinatedChange": 43,
             "Population": 50972,
             "Report_Date": "2021-05-15T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 36416,
             "AdministeredCountChange": 67,
             "AdministeredCountRollAvg": 176.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2752,16 +2752,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 50972,
             "Report_Date": "2021-05-16T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 36456,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 167.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2770,16 +2770,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 50972,
             "Report_Date": "2021-05-17T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 36635,
             "AdministeredCountChange": 179,
             "AdministeredCountRollAvg": 176.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2788,16 +2788,16 @@
             "PersonsFullyVaccinatedChange": 82,
             "Population": 50972,
             "Report_Date": "2021-05-18T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 36778,
             "AdministeredCountChange": 143,
             "AdministeredCountRollAvg": 165.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2806,16 +2806,16 @@
             "PersonsFullyVaccinatedChange": 68,
             "Population": 50972,
             "Report_Date": "2021-05-19T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 37197,
             "AdministeredCountChange": 419,
             "AdministeredCountRollAvg": 206.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2824,16 +2824,16 @@
             "PersonsFullyVaccinatedChange": 96,
             "Population": 50972,
             "Report_Date": "2021-05-20T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 37298,
             "AdministeredCountChange": 101,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2842,16 +2842,16 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 50972,
             "Report_Date": "2021-05-21T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 37904,
             "AdministeredCountChange": 606,
             "AdministeredCountRollAvg": 222.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2860,16 +2860,16 @@
             "PersonsFullyVaccinatedChange": 412,
             "Population": 50972,
             "Report_Date": "2021-05-22T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 37977,
             "AdministeredCountChange": 73,
             "AdministeredCountRollAvg": 223.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2878,16 +2878,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 50972,
             "Report_Date": "2021-05-23T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 38099,
             "AdministeredCountChange": 122,
             "AdministeredCountRollAvg": 235.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2896,16 +2896,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 50972,
             "Report_Date": "2021-05-24T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 38225,
             "AdministeredCountChange": 126,
             "AdministeredCountRollAvg": 227.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2914,16 +2914,16 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 50972,
             "Report_Date": "2021-05-25T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 38339,
             "AdministeredCountChange": 114,
             "AdministeredCountRollAvg": 223.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2932,16 +2932,16 @@
             "PersonsFullyVaccinatedChange": 58,
             "Population": 50972,
             "Report_Date": "2021-05-26T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 38539,
             "AdministeredCountChange": 200,
             "AdministeredCountRollAvg": 192.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2950,16 +2950,16 @@
             "PersonsFullyVaccinatedChange": 132,
             "Population": 50972,
             "Report_Date": "2021-05-27T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 38778,
             "AdministeredCountChange": 239,
             "AdministeredCountRollAvg": 211.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2968,16 +2968,16 @@
             "PersonsFullyVaccinatedChange": 143,
             "Population": 50972,
             "Report_Date": "2021-05-28T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 38862,
             "AdministeredCountChange": 84,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -2986,16 +2986,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 50972,
             "Report_Date": "2021-05-29T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 38906,
             "AdministeredCountChange": 44,
             "AdministeredCountRollAvg": 133.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3004,16 +3004,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 50972,
             "Report_Date": "2021-05-30T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 38938,
             "AdministeredCountChange": 32,
             "AdministeredCountRollAvg": 120.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3022,16 +3022,16 @@
             "PersonsFullyVaccinatedChange": 16,
             "Population": 50972,
             "Report_Date": "2021-05-31T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 39020,
             "AdministeredCountChange": 82,
             "AdministeredCountRollAvg": 114.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3040,16 +3040,16 @@
             "PersonsFullyVaccinatedChange": 57,
             "Population": 50972,
             "Report_Date": "2021-06-01T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 39120,
             "AdministeredCountChange": 100,
             "AdministeredCountRollAvg": 112.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3058,16 +3058,16 @@
             "PersonsFullyVaccinatedChange": 67,
             "Population": 50972,
             "Report_Date": "2021-06-02T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 39248,
             "AdministeredCountChange": 128,
             "AdministeredCountRollAvg": 101.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3076,16 +3076,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 50972,
             "Report_Date": "2021-06-03T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 39535,
             "AdministeredCountChange": 287,
             "AdministeredCountRollAvg": 108.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3094,16 +3094,16 @@
             "PersonsFullyVaccinatedChange": 172,
             "Population": 50972,
             "Report_Date": "2021-06-04T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 39632,
             "AdministeredCountChange": 97,
             "AdministeredCountRollAvg": 110.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3112,16 +3112,16 @@
             "PersonsFullyVaccinatedChange": 57,
             "Population": 50972,
             "Report_Date": "2021-06-05T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 39696,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3130,16 +3130,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 50972,
             "Report_Date": "2021-06-06T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 39789,
             "AdministeredCountChange": 93,
             "AdministeredCountRollAvg": 122.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3148,16 +3148,16 @@
             "PersonsFullyVaccinatedChange": 72,
             "Population": 50972,
             "Report_Date": "2021-06-07T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 39925,
             "AdministeredCountChange": 136,
             "AdministeredCountRollAvg": 129.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3166,16 +3166,16 @@
             "PersonsFullyVaccinatedChange": 107,
             "Population": 50972,
             "Report_Date": "2021-06-08T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 40082,
             "AdministeredCountChange": 157,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3184,16 +3184,16 @@
             "PersonsFullyVaccinatedChange": 102,
             "Population": 50972,
             "Report_Date": "2021-06-09T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 40154,
             "AdministeredCountChange": 72,
             "AdministeredCountRollAvg": 129.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3202,16 +3202,16 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 50972,
             "Report_Date": "2021-06-10T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 40205,
             "AdministeredCountChange": 51,
             "AdministeredCountRollAvg": 96.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3220,16 +3220,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 50972,
             "Report_Date": "2021-06-11T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 40459,
             "AdministeredCountChange": 254,
             "AdministeredCountRollAvg": 118.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3238,16 +3238,16 @@
             "PersonsFullyVaccinatedChange": 214,
             "Population": 50972,
             "Report_Date": "2021-06-12T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 40506,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 116.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3256,16 +3256,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 50972,
             "Report_Date": "2021-06-13T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 40747,
             "AdministeredCountChange": 241,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3274,16 +3274,16 @@
             "PersonsFullyVaccinatedChange": 175,
             "Population": 50972,
             "Report_Date": "2021-06-14T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 40938,
             "AdministeredCountChange": 191,
             "AdministeredCountRollAvg": 145.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3292,16 +3292,16 @@
             "PersonsFullyVaccinatedChange": 120,
             "Population": 50972,
             "Report_Date": "2021-06-15T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 41041,
             "AdministeredCountChange": 103,
             "AdministeredCountRollAvg": 137.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3310,16 +3310,16 @@
             "PersonsFullyVaccinatedChange": 65,
             "Population": 50972,
             "Report_Date": "2021-06-16T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 41168,
             "AdministeredCountChange": 127,
             "AdministeredCountRollAvg": 145.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3328,16 +3328,16 @@
             "PersonsFullyVaccinatedChange": 88,
             "Population": 50972,
             "Report_Date": "2021-06-17T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 41232,
             "AdministeredCountChange": 64,
             "AdministeredCountRollAvg": 147.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3346,16 +3346,16 @@
             "PersonsFullyVaccinatedChange": 41,
             "Population": 50972,
             "Report_Date": "2021-06-18T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 41379,
             "AdministeredCountChange": 147,
             "AdministeredCountRollAvg": 131.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3364,16 +3364,16 @@
             "PersonsFullyVaccinatedChange": 96,
             "Population": 50972,
             "Report_Date": "2021-06-19T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 41434,
             "AdministeredCountChange": 55,
             "AdministeredCountRollAvg": 133.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3382,16 +3382,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 50972,
             "Report_Date": "2021-06-20T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 41474,
             "AdministeredCountChange": 40,
             "AdministeredCountRollAvg": 104.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3400,16 +3400,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 50972,
             "Report_Date": "2021-06-21T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 41552,
             "AdministeredCountChange": 78,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3418,16 +3418,16 @@
             "PersonsFullyVaccinatedChange": 50,
             "Population": 50972,
             "Report_Date": "2021-06-22T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 41648,
             "AdministeredCountChange": 96,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3436,16 +3436,16 @@
             "PersonsFullyVaccinatedChange": 59,
             "Population": 50972,
             "Report_Date": "2021-06-23T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 41743,
             "AdministeredCountChange": 95,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3454,16 +3454,16 @@
             "PersonsFullyVaccinatedChange": 48,
             "Population": 50972,
             "Report_Date": "2021-06-24T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42013,
             "AdministeredCountChange": 270,
             "AdministeredCountRollAvg": 112.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3472,16 +3472,16 @@
             "PersonsFullyVaccinatedChange": 146,
             "Population": 50972,
             "Report_Date": "2021-06-25T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42208,
             "AdministeredCountChange": 195,
             "AdministeredCountRollAvg": 118.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3490,16 +3490,16 @@
             "PersonsFullyVaccinatedChange": 99,
             "Population": 50972,
             "Report_Date": "2021-06-26T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42227,
             "AdministeredCountChange": 19,
             "AdministeredCountRollAvg": 113.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3508,16 +3508,16 @@
             "PersonsFullyVaccinatedChange": 13,
             "Population": 50972,
             "Report_Date": "2021-06-27T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42298,
             "AdministeredCountChange": 71,
             "AdministeredCountRollAvg": 118.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3526,16 +3526,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 50972,
             "Report_Date": "2021-06-28T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42382,
             "AdministeredCountChange": 84,
             "AdministeredCountRollAvg": 119.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3544,16 +3544,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 50972,
             "Report_Date": "2021-06-29T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42448,
             "AdministeredCountChange": 66,
             "AdministeredCountRollAvg": 114.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3562,16 +3562,16 @@
             "PersonsFullyVaccinatedChange": 47,
             "Population": 50972,
             "Report_Date": "2021-06-30T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42505,
             "AdministeredCountChange": 57,
             "AdministeredCountRollAvg": 109.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3580,16 +3580,16 @@
             "PersonsFullyVaccinatedChange": 27,
             "Population": 50972,
             "Report_Date": "2021-07-01T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42581,
             "AdministeredCountChange": 76,
             "AdministeredCountRollAvg": 81.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3598,16 +3598,16 @@
             "PersonsFullyVaccinatedChange": 49,
             "Population": 50972,
             "Report_Date": "2021-07-02T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42649,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3616,16 +3616,16 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 50972,
             "Report_Date": "2021-07-03T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42696,
             "AdministeredCountChange": 47,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3634,16 +3634,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 50972,
             "Report_Date": "2021-07-04T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42696,
             "AdministeredCountChange": 0,
             "AdministeredCountRollAvg": 57.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3652,16 +3652,16 @@
             "PersonsFullyVaccinatedChange": 0,
             "Population": 50972,
             "Report_Date": "2021-07-05T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42745,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 52.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3670,16 +3670,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 50972,
             "Report_Date": "2021-07-06T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42807,
             "AdministeredCountChange": 62,
             "AdministeredCountRollAvg": 51.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3688,16 +3688,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 50972,
             "Report_Date": "2021-07-07T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42881,
             "AdministeredCountChange": 74,
             "AdministeredCountRollAvg": 54.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3706,16 +3706,16 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 50972,
             "Report_Date": "2021-07-08T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 42955,
             "AdministeredCountChange": 74,
             "AdministeredCountRollAvg": 53.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3724,16 +3724,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 50972,
             "Report_Date": "2021-07-09T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43038,
             "AdministeredCountChange": 83,
             "AdministeredCountRollAvg": 56.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3742,16 +3742,16 @@
             "PersonsFullyVaccinatedChange": 55,
             "Population": 50972,
             "Report_Date": "2021-07-10T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43100,
             "AdministeredCountChange": 62,
             "AdministeredCountRollAvg": 58.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3760,16 +3760,16 @@
             "PersonsFullyVaccinatedChange": 29,
             "Population": 50972,
             "Report_Date": "2021-07-11T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43185,
             "AdministeredCountChange": 85,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3778,16 +3778,16 @@
             "PersonsFullyVaccinatedChange": 34,
             "Population": 50972,
             "Report_Date": "2021-07-12T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43254,
             "AdministeredCountChange": 69,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3796,16 +3796,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 50972,
             "Report_Date": "2021-07-13T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43319,
             "AdministeredCountChange": 65,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3814,16 +3814,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 50972,
             "Report_Date": "2021-07-14T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43403,
             "AdministeredCountChange": 84,
             "AdministeredCountRollAvg": 75.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3832,16 +3832,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 50972,
             "Report_Date": "2021-07-15T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43471,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 74.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3850,16 +3850,16 @@
             "PersonsFullyVaccinatedChange": 38,
             "Population": 50972,
             "Report_Date": "2021-07-16T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43552,
             "AdministeredCountChange": 81,
             "AdministeredCountRollAvg": 73.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3868,16 +3868,16 @@
             "PersonsFullyVaccinatedChange": 46,
             "Population": 50972,
             "Report_Date": "2021-07-17T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43601,
             "AdministeredCountChange": 49,
             "AdministeredCountRollAvg": 72.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3886,16 +3886,16 @@
             "PersonsFullyVaccinatedChange": 24,
             "Population": 50972,
             "Report_Date": "2021-07-18T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43662,
             "AdministeredCountChange": 61,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3904,16 +3904,16 @@
             "PersonsFullyVaccinatedChange": 25,
             "Population": 50972,
             "Report_Date": "2021-07-19T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43744,
             "AdministeredCountChange": 82,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3922,16 +3922,16 @@
             "PersonsFullyVaccinatedChange": 45,
             "Population": 50972,
             "Report_Date": "2021-07-20T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43810,
             "AdministeredCountChange": 66,
             "AdministeredCountRollAvg": 70.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3940,16 +3940,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 50972,
             "Report_Date": "2021-07-21T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43873,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 67.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3958,16 +3958,16 @@
             "PersonsFullyVaccinatedChange": 30,
             "Population": 50972,
             "Report_Date": "2021-07-22T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 43930,
             "AdministeredCountChange": 57,
             "AdministeredCountRollAvg": 66.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3976,16 +3976,16 @@
             "PersonsFullyVaccinatedChange": 19,
             "Population": 50972,
             "Report_Date": "2021-07-23T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44004,
             "AdministeredCountChange": 74,
             "AdministeredCountRollAvg": 65.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -3994,16 +3994,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 50972,
             "Report_Date": "2021-07-24T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44038,
             "AdministeredCountChange": 34,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4012,16 +4012,16 @@
             "PersonsFullyVaccinatedChange": 21,
             "Population": 50972,
             "Report_Date": "2021-07-25T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44097,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 62.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4030,16 +4030,16 @@
             "PersonsFullyVaccinatedChange": 23,
             "Population": 50972,
             "Report_Date": "2021-07-26T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44186,
             "AdministeredCountChange": 89,
             "AdministeredCountRollAvg": 63.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4048,16 +4048,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 50972,
             "Report_Date": "2021-07-27T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44289,
             "AdministeredCountChange": 103,
             "AdministeredCountRollAvg": 68.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4066,16 +4066,16 @@
             "PersonsFullyVaccinatedChange": 40,
             "Population": 50972,
             "Report_Date": "2021-07-28T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44367,
             "AdministeredCountChange": 78,
             "AdministeredCountRollAvg": 71.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4084,16 +4084,16 @@
             "PersonsFullyVaccinatedChange": 39,
             "Population": 50972,
             "Report_Date": "2021-07-29T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44506,
             "AdministeredCountChange": 139,
             "AdministeredCountRollAvg": 82.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4102,16 +4102,16 @@
             "PersonsFullyVaccinatedChange": 69,
             "Population": 50972,
             "Report_Date": "2021-07-30T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44605,
             "AdministeredCountChange": 99,
             "AdministeredCountRollAvg": 86.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4120,16 +4120,16 @@
             "PersonsFullyVaccinatedChange": 28,
             "Population": 50972,
             "Report_Date": "2021-07-31T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44646,
             "AdministeredCountChange": 41,
             "AdministeredCountRollAvg": 87.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4138,16 +4138,16 @@
             "PersonsFullyVaccinatedChange": 26,
             "Population": 50972,
             "Report_Date": "2021-08-01T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44721,
             "AdministeredCountChange": 75,
             "AdministeredCountRollAvg": 89.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4156,16 +4156,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 50972,
             "Report_Date": "2021-08-02T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44832,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 92.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4174,16 +4174,16 @@
             "PersonsFullyVaccinatedChange": 37,
             "Population": 50972,
             "Report_Date": "2021-08-03T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 44925,
             "AdministeredCountChange": 93,
             "AdministeredCountRollAvg": 91.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4192,16 +4192,16 @@
             "PersonsFullyVaccinatedChange": 42,
             "Population": 50972,
             "Report_Date": "2021-08-04T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45016,
             "AdministeredCountChange": 91,
             "AdministeredCountRollAvg": 93.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4210,16 +4210,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 50972,
             "Report_Date": "2021-08-05T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45084,
             "AdministeredCountChange": 68,
             "AdministeredCountRollAvg": 83.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4228,16 +4228,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 50972,
             "Report_Date": "2021-08-06T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45198,
             "AdministeredCountChange": 114,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4246,16 +4246,16 @@
             "PersonsFullyVaccinatedChange": 54,
             "Population": 50972,
             "Report_Date": "2021-08-07T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45261,
             "AdministeredCountChange": 63,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4264,16 +4264,16 @@
             "PersonsFullyVaccinatedChange": 31,
             "Population": 50972,
             "Report_Date": "2021-08-08T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45340,
             "AdministeredCountChange": 79,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4282,16 +4282,16 @@
             "PersonsFullyVaccinatedChange": 22,
             "Population": 50972,
             "Report_Date": "2021-08-09T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45392,
             "AdministeredCountChange": 52,
             "AdministeredCountRollAvg": 80.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4300,16 +4300,16 @@
             "PersonsFullyVaccinatedChange": 32,
             "Population": 50972,
             "Report_Date": "2021-08-10T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45521,
             "AdministeredCountChange": 129,
             "AdministeredCountRollAvg": 85.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4318,16 +4318,16 @@
             "PersonsFullyVaccinatedChange": 66,
             "Population": 50972,
             "Report_Date": "2021-08-11T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45632,
             "AdministeredCountChange": 111,
             "AdministeredCountRollAvg": 88.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4336,16 +4336,16 @@
             "PersonsFullyVaccinatedChange": 53,
             "Population": 50972,
             "Report_Date": "2021-08-12T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45770,
             "AdministeredCountChange": 138,
             "AdministeredCountRollAvg": 98.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4354,16 +4354,16 @@
             "PersonsFullyVaccinatedChange": 74,
             "Population": 50972,
             "Report_Date": "2021-08-13T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45915,
             "AdministeredCountChange": 145,
             "AdministeredCountRollAvg": 102.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4372,16 +4372,16 @@
             "PersonsFullyVaccinatedChange": 83,
             "Population": 50972,
             "Report_Date": "2021-08-14T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 45982,
             "AdministeredCountChange": 67,
             "AdministeredCountRollAvg": 103.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4390,16 +4390,16 @@
             "PersonsFullyVaccinatedChange": 33,
             "Population": 50972,
             "Report_Date": "2021-08-15T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
         },
         {
             "AdministeredCount": 46041,
             "AdministeredCountChange": 59,
             "AdministeredCountRollAvg": 100.0,
             "AllocatedDoses": 0,
-            "CommunityReportedInventory": 0,
+            "CommunityReportedInventory": 25,
             "CountyName": "Grundy",
-            "InventoryReportDate": "2021-08-16T00:00:00",
+            "InventoryReportDate": "2021-08-17T00:00:00",
             "LHDReportedInventory": 461,
             "Latitude": 41.3501,
             "Longitude": -88.4016,
@@ -4408,11 +4408,29 @@
             "PersonsFullyVaccinatedChange": 36,
             "Population": 50972,
             "Report_Date": "2021-08-16T00:00:00",
-            "TotalReportedInventory": 461
+            "TotalReportedInventory": 486
+        },
+        {
+            "AdministeredCount": 46132,
+            "AdministeredCountChange": 91,
+            "AdministeredCountRollAvg": 106.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 25,
+            "CountyName": "Grundy",
+            "InventoryReportDate": "2021-08-17T00:00:00",
+            "LHDReportedInventory": 461,
+            "Latitude": 41.3501,
+            "Longitude": -88.4016,
+            "PctVaccinatedPopulation": 0.44477360119281173,
+            "PersonsFullyVaccinated": 22671,
+            "PersonsFullyVaccinatedChange": 44,
+            "Population": 50972,
+            "Report_Date": "2021-08-17T00:00:00",
+            "TotalReportedInventory": 486
         }
     ],
     "lastUpdatedDate": {
-        "day": 16,
+        "day": 17,
         "month": 8,
         "year": 2021
     }

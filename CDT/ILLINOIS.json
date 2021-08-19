@@ -4665,11 +4665,20 @@
         {
             "CountyName": "Illinois",
             "confirmed_cases": 1470452,
-            "deaths": 23640,
+            "deaths": 23639,
             "latitude": 39.839888,
             "longitude": -89.510168,
             "reportDate": "2021-08-17T00:00:00",
             "tested": 27833923
+        },
+        {
+            "CountyName": "Illinois",
+            "confirmed_cases": 1474285,
+            "deaths": 23685,
+            "latitude": 39.839888,
+            "longitude": -89.510168,
+            "reportDate": "2021-08-18T00:00:00",
+            "tested": 27906468
         }
     ]
 }

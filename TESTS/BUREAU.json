@@ -4665,11 +4665,20 @@
         {
             "CountyName": "Bureau",
             "confirmed_cases": 3958,
-            "deaths": 87,
+            "deaths": 86,
             "latitude": 41.3599,
             "longitude": -89.4742,
             "reportDate": "2021-08-17T00:00:00",
             "tested": 55310
+        },
+        {
+            "CountyName": "Bureau",
+            "confirmed_cases": 3969,
+            "deaths": 86,
+            "latitude": 41.3599,
+            "longitude": -89.4742,
+            "reportDate": "2021-08-18T00:00:00",
+            "tested": 55563
         }
     ]
 }

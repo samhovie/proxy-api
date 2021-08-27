@@ -4737,11 +4737,20 @@
         {
             "CountyName": "Lake",
             "confirmed_cases": 72584,
-            "deaths": 1036,
+            "deaths": 1035,
             "latitude": 42.3689,
             "longitude": -87.8272,
             "reportDate": "2021-08-25T00:00:00",
             "tested": 1331358
+        },
+        {
+            "CountyName": "Lake",
+            "confirmed_cases": 72782,
+            "deaths": 1037,
+            "latitude": 42.3689,
+            "longitude": -87.8272,
+            "reportDate": "2021-08-26T00:00:00",
+            "tested": 1334739
         }
     ]
 }

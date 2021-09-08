@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Lake",
-            "confirmed_cases": 67685,
+            "confirmed_cases": 74480,
             "deaths": 1045,
             "latitude": 42.3689,
             "longitude": -87.8272,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Lake",
-            "confirmed_cases": 67845,
+            "confirmed_cases": 74660,
             "deaths": 1046,
             "latitude": 42.3689,
             "longitude": -87.8272,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Lake",
-            "confirmed_cases": 67970,
+            "confirmed_cases": 74790,
             "deaths": 1046,
             "latitude": 42.3689,
             "longitude": -87.8272,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 1382396
+        },
+        {
+            "CountyName": "Lake",
+            "confirmed_cases": 74910,
+            "deaths": 1046,
+            "latitude": 42.3689,
+            "longitude": -87.8272,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 1384436
         }
     ]
 }

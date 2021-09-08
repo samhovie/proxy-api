@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Franklin",
-            "confirmed_cases": 5833,
+            "confirmed_cases": 6250,
             "deaths": 86,
             "latitude": 38.0157,
             "longitude": -88.9031,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Franklin",
-            "confirmed_cases": 5859,
+            "confirmed_cases": 6278,
             "deaths": 86,
             "latitude": 38.0157,
             "longitude": -88.9031,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Franklin",
-            "confirmed_cases": 5877,
+            "confirmed_cases": 6297,
             "deaths": 86,
             "latitude": 38.0157,
             "longitude": -88.9031,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 71932
+        },
+        {
+            "CountyName": "Franklin",
+            "confirmed_cases": 6326,
+            "deaths": 87,
+            "latitude": 38.0157,
+            "longitude": -88.9031,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 72145
         }
     ]
 }

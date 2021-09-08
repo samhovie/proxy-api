@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Adams",
-            "confirmed_cases": 7211,
+            "confirmed_cases": 11980,
             "deaths": 141,
             "latitude": 40.0578,
             "longitude": -91.1353,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Adams",
-            "confirmed_cases": 7236,
+            "confirmed_cases": 12007,
             "deaths": 141,
             "latitude": 40.0578,
             "longitude": -91.1353,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Adams",
-            "confirmed_cases": 7263,
+            "confirmed_cases": 12039,
             "deaths": 141,
             "latitude": 40.0578,
             "longitude": -91.1353,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 218447
+        },
+        {
+            "CountyName": "Adams",
+            "confirmed_cases": 12075,
+            "deaths": 141,
+            "latitude": 40.0578,
+            "longitude": -91.1353,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 218598
         }
     ]
 }

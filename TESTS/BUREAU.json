@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Bureau",
-            "confirmed_cases": 3040,
+            "confirmed_cases": 4120,
             "deaths": 86,
             "latitude": 41.3599,
             "longitude": -89.4742,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Bureau",
-            "confirmed_cases": 3041,
+            "confirmed_cases": 4125,
             "deaths": 86,
             "latitude": 41.3599,
             "longitude": -89.4742,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Bureau",
-            "confirmed_cases": 3047,
+            "confirmed_cases": 4135,
             "deaths": 86,
             "latitude": 41.3599,
             "longitude": -89.4742,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 58683
+        },
+        {
+            "CountyName": "Bureau",
+            "confirmed_cases": 4136,
+            "deaths": 86,
+            "latitude": 41.3599,
+            "longitude": -89.4742,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 58759
         }
     ]
 }

@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Cass",
-            "confirmed_cases": 1092,
+            "confirmed_cases": 2345,
             "deaths": 27,
             "latitude": 39.9399,
             "longitude": -90.262,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Cass",
-            "confirmed_cases": 1094,
+            "confirmed_cases": 2347,
             "deaths": 27,
             "latitude": 39.9399,
             "longitude": -90.262,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Cass",
-            "confirmed_cases": 1095,
+            "confirmed_cases": 2349,
             "deaths": 27,
             "latitude": 39.9399,
             "longitude": -90.262,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 26954
+        },
+        {
+            "CountyName": "Cass",
+            "confirmed_cases": 2349,
+            "deaths": 27,
+            "latitude": 39.9399,
+            "longitude": -90.262,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 26973
         }
     ]
 }

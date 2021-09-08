@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Alexander",
-            "confirmed_cases": 545,
+            "confirmed_cases": 629,
             "deaths": 11,
             "latitude": 37.167,
             "longitude": -89.3606,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Alexander",
-            "confirmed_cases": 546,
+            "confirmed_cases": 632,
             "deaths": 11,
             "latitude": 37.167,
             "longitude": -89.3606,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Alexander",
-            "confirmed_cases": 546,
+            "confirmed_cases": 632,
             "deaths": 11,
             "latitude": 37.167,
             "longitude": -89.3606,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 7688
+        },
+        {
+            "CountyName": "Alexander",
+            "confirmed_cases": 632,
+            "deaths": 11,
+            "latitude": 37.167,
+            "longitude": -89.3606,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 7702
         }
     ]
 }

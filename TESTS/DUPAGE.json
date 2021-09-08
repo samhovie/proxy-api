@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "DuPage",
-            "confirmed_cases": 91595,
+            "confirmed_cases": 100642,
             "deaths": 1345,
             "latitude": 41.8244,
             "longitude": -88.0901,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "DuPage",
-            "confirmed_cases": 91737,
+            "confirmed_cases": 100796,
             "deaths": 1345,
             "latitude": 41.8244,
             "longitude": -88.0901,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "DuPage",
-            "confirmed_cases": 91877,
+            "confirmed_cases": 100945,
             "deaths": 1345,
             "latitude": 41.8244,
             "longitude": -88.0901,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 1672257
+        },
+        {
+            "CountyName": "DuPage",
+            "confirmed_cases": 101096,
+            "deaths": 1345,
+            "latitude": 41.8244,
+            "longitude": -88.0901,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 1675523
         }
     ]
 }

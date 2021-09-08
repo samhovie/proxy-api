@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Cook",
-            "confirmed_cases": 268452,
+            "confirmed_cases": 290765,
             "deaths": 5146,
             "latitude": 42.050784,
             "longitude": -87.963759,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Cook",
-            "confirmed_cases": 268811,
+            "confirmed_cases": 291162,
             "deaths": 5150,
             "latitude": 42.050784,
             "longitude": -87.963759,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Cook",
-            "confirmed_cases": 269080,
+            "confirmed_cases": 291461,
             "deaths": 5153,
             "latitude": 42.050784,
             "longitude": -87.963759,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 4999349
+        },
+        {
+            "CountyName": "Cook",
+            "confirmed_cases": 291772,
+            "deaths": 5155,
+            "latitude": 42.050784,
+            "longitude": -87.963759,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 5006896
         }
     ]
 }

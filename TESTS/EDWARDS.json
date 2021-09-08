@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Edwards",
-            "confirmed_cases": 642,
+            "confirmed_cases": 872,
             "deaths": 13,
             "latitude": 38.4268,
             "longitude": -88.051,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Edwards",
-            "confirmed_cases": 642,
+            "confirmed_cases": 875,
             "deaths": 13,
             "latitude": 38.4268,
             "longitude": -88.051,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Edwards",
-            "confirmed_cases": 646,
+            "confirmed_cases": 880,
             "deaths": 13,
             "latitude": 38.4268,
             "longitude": -88.051,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 6409
+        },
+        {
+            "CountyName": "Edwards",
+            "confirmed_cases": 889,
+            "deaths": 13,
+            "latitude": 38.4268,
+            "longitude": -88.051,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 6452
         }
     ]
 }

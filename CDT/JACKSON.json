@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Jackson",
-            "confirmed_cases": 6712,
+            "confirmed_cases": 7048,
             "deaths": 74,
             "latitude": 37.7218,
             "longitude": -89.3227,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Jackson",
-            "confirmed_cases": 6755,
+            "confirmed_cases": 7092,
             "deaths": 74,
             "latitude": 37.7218,
             "longitude": -89.3227,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Jackson",
-            "confirmed_cases": 6774,
+            "confirmed_cases": 7112,
             "deaths": 74,
             "latitude": 37.7218,
             "longitude": -89.3227,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 113552
+        },
+        {
+            "CountyName": "Jackson",
+            "confirmed_cases": 7150,
+            "deaths": 74,
+            "latitude": 37.7218,
+            "longitude": -89.3227,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 113903
         }
     ]
 }

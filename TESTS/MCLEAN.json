@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "McLean",
-            "confirmed_cases": 16603,
+            "confirmed_cases": 20837,
             "deaths": 200,
             "latitude": 40.5478,
             "longitude": -88.8647,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "McLean",
-            "confirmed_cases": 16626,
+            "confirmed_cases": 20871,
             "deaths": 200,
             "latitude": 40.5478,
             "longitude": -88.8647,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "McLean",
-            "confirmed_cases": 16657,
+            "confirmed_cases": 20913,
             "deaths": 200,
             "latitude": 40.5478,
             "longitude": -88.8647,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 450524
+        },
+        {
+            "CountyName": "McLean",
+            "confirmed_cases": 20944,
+            "deaths": 201,
+            "latitude": 40.5478,
+            "longitude": -88.8647,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 451079
         }
     ]
 }

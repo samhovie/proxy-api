@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Edgar",
-            "confirmed_cases": 878,
+            "confirmed_cases": 2112,
             "deaths": 42,
             "latitude": 39.7131,
             "longitude": -87.7763,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Edgar",
-            "confirmed_cases": 881,
+            "confirmed_cases": 2126,
             "deaths": 42,
             "latitude": 39.7131,
             "longitude": -87.7763,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Edgar",
-            "confirmed_cases": 888,
+            "confirmed_cases": 2141,
             "deaths": 43,
             "latitude": 39.7131,
             "longitude": -87.7763,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 20317
+        },
+        {
+            "CountyName": "Edgar",
+            "confirmed_cases": 2155,
+            "deaths": 43,
+            "latitude": 39.7131,
+            "longitude": -87.7763,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 20342
         }
     ]
 }

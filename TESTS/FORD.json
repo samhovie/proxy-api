@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Ford",
-            "confirmed_cases": 1230,
+            "confirmed_cases": 2243,
             "deaths": 53,
             "latitude": 40.4989,
             "longitude": -88.2072,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Ford",
-            "confirmed_cases": 1235,
+            "confirmed_cases": 2251,
             "deaths": 54,
             "latitude": 40.4989,
             "longitude": -88.2072,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Ford",
-            "confirmed_cases": 1236,
+            "confirmed_cases": 2252,
             "deaths": 54,
             "latitude": 40.4989,
             "longitude": -88.2072,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 39205
+        },
+        {
+            "CountyName": "Ford",
+            "confirmed_cases": 2266,
+            "deaths": 54,
+            "latitude": 40.4989,
+            "longitude": -88.2072,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 39400
         }
     ]
 }

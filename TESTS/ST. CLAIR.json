@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "St. Clair",
-            "confirmed_cases": 30624,
+            "confirmed_cases": 33850,
             "deaths": 549,
             "latitude": 38.4008,
             "longitude": -89.9253,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "St. Clair",
-            "confirmed_cases": 30670,
+            "confirmed_cases": 33904,
             "deaths": 551,
             "latitude": 38.4008,
             "longitude": -89.9253,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "St. Clair",
-            "confirmed_cases": 30740,
+            "confirmed_cases": 33977,
             "deaths": 551,
             "latitude": 38.4008,
             "longitude": -89.9253,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 509859
+        },
+        {
+            "CountyName": "St. Clair",
+            "confirmed_cases": 34033,
+            "deaths": 551,
+            "latitude": 38.4008,
+            "longitude": -89.9253,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 510601
         }
     ]
 }

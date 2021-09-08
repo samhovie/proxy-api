@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Coles",
-            "confirmed_cases": 6445,
+            "confirmed_cases": 6792,
             "deaths": 105,
             "latitude": 39.556,
             "longitude": -88.2461,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Coles",
-            "confirmed_cases": 6454,
+            "confirmed_cases": 6803,
             "deaths": 105,
             "latitude": 39.556,
             "longitude": -88.2461,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Coles",
-            "confirmed_cases": 6486,
+            "confirmed_cases": 6837,
             "deaths": 106,
             "latitude": 39.556,
             "longitude": -88.2461,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 110116
+        },
+        {
+            "CountyName": "Coles",
+            "confirmed_cases": 6857,
+            "deaths": 106,
+            "latitude": 39.556,
+            "longitude": -88.2461,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 110427
         }
     ]
 }

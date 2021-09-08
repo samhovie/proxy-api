@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Warren",
-            "confirmed_cases": 1698,
+            "confirmed_cases": 2066,
             "deaths": 51,
             "latitude": 40.8759,
             "longitude": -90.6773,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Warren",
-            "confirmed_cases": 1700,
+            "confirmed_cases": 2068,
             "deaths": 51,
             "latitude": 40.8759,
             "longitude": -90.6773,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Warren",
-            "confirmed_cases": 1708,
+            "confirmed_cases": 2077,
             "deaths": 51,
             "latitude": 40.8759,
             "longitude": -90.6773,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 25653
+        },
+        {
+            "CountyName": "Warren",
+            "confirmed_cases": 2084,
+            "deaths": 51,
+            "latitude": 40.8759,
+            "longitude": -90.6773,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 25703
         }
     ]
 }

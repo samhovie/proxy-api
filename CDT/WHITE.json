@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "White",
-            "confirmed_cases": 2079,
+            "confirmed_cases": 2344,
             "deaths": 27,
             "latitude": 38.0501,
             "longitude": -88.2461,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "White",
-            "confirmed_cases": 2091,
+            "confirmed_cases": 2357,
             "deaths": 27,
             "latitude": 38.0501,
             "longitude": -88.2461,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "White",
-            "confirmed_cases": 2102,
+            "confirmed_cases": 2368,
             "deaths": 28,
             "latitude": 38.0501,
             "longitude": -88.2461,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 31067
+        },
+        {
+            "CountyName": "White",
+            "confirmed_cases": 2379,
+            "deaths": 28,
+            "latitude": 38.0501,
+            "longitude": -88.2461,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 31242
         }
     ]
 }

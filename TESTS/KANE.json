@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Kane",
-            "confirmed_cases": 56639,
+            "confirmed_cases": 63980,
             "deaths": 831,
             "latitude": 41.9879,
             "longitude": -88.4016,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Kane",
-            "confirmed_cases": 56707,
+            "confirmed_cases": 64061,
             "deaths": 831,
             "latitude": 41.9879,
             "longitude": -88.4016,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Kane",
-            "confirmed_cases": 56775,
+            "confirmed_cases": 64146,
             "deaths": 831,
             "latitude": 41.9879,
             "longitude": -88.4016,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 848080
+        },
+        {
+            "CountyName": "Kane",
+            "confirmed_cases": 64255,
+            "deaths": 831,
+            "latitude": 41.9879,
+            "longitude": -88.4016,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 849787
         }
     ]
 }

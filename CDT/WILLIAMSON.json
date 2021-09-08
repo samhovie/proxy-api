@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Williamson",
-            "confirmed_cases": 9383,
+            "confirmed_cases": 10412,
             "deaths": 142,
             "latitude": 37.7183,
             "longitude": -88.8647,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Williamson",
-            "confirmed_cases": 9441,
+            "confirmed_cases": 10471,
             "deaths": 142,
             "latitude": 37.7183,
             "longitude": -88.8647,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Williamson",
-            "confirmed_cases": 9472,
+            "confirmed_cases": 10506,
             "deaths": 143,
             "latitude": 37.7183,
             "longitude": -88.8647,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 143356
+        },
+        {
+            "CountyName": "Williamson",
+            "confirmed_cases": 10559,
+            "deaths": 143,
+            "latitude": 37.7183,
+            "longitude": -88.8647,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 143829
         }
     ]
 }

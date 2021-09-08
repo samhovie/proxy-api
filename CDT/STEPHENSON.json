@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Stephenson",
-            "confirmed_cases": 4887,
+            "confirmed_cases": 5192,
             "deaths": 87,
             "latitude": 42.3145,
             "longitude": -89.6252,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Stephenson",
-            "confirmed_cases": 4898,
+            "confirmed_cases": 5204,
             "deaths": 87,
             "latitude": 42.3145,
             "longitude": -89.6252,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Stephenson",
-            "confirmed_cases": 4908,
+            "confirmed_cases": 5215,
             "deaths": 87,
             "latitude": 42.3145,
             "longitude": -89.6252,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 72345
+        },
+        {
+            "CountyName": "Stephenson",
+            "confirmed_cases": 5220,
+            "deaths": 87,
+            "latitude": 42.3145,
+            "longitude": -89.6252,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 72459
         }
     ]
 }

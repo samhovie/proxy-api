@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Sangamon",
-            "confirmed_cases": 19914,
+            "confirmed_cases": 23149,
             "deaths": 254,
             "latitude": 39.7337,
             "longitude": -89.6252,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Sangamon",
-            "confirmed_cases": 19958,
+            "confirmed_cases": 23224,
             "deaths": 255,
             "latitude": 39.7337,
             "longitude": -89.6252,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Sangamon",
-            "confirmed_cases": 19989,
+            "confirmed_cases": 23279,
             "deaths": 255,
             "latitude": 39.7337,
             "longitude": -89.6252,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 473793
+        },
+        {
+            "CountyName": "Sangamon",
+            "confirmed_cases": 23351,
+            "deaths": 255,
+            "latitude": 39.7337,
+            "longitude": -89.6252,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 474783
         }
     ]
 }

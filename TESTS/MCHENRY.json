@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "McHenry",
-            "confirmed_cases": 27024,
+            "confirmed_cases": 31875,
             "deaths": 306,
             "latitude": 42.304,
             "longitude": -88.4016,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "McHenry",
-            "confirmed_cases": 27093,
+            "confirmed_cases": 31951,
             "deaths": 307,
             "latitude": 42.304,
             "longitude": -88.4016,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "McHenry",
-            "confirmed_cases": 27128,
+            "confirmed_cases": 31989,
             "deaths": 307,
             "latitude": 42.304,
             "longitude": -88.4016,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 431405
+        },
+        {
+            "CountyName": "McHenry",
+            "confirmed_cases": 32028,
+            "deaths": 308,
+            "latitude": 42.304,
+            "longitude": -88.4016,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 432094
         }
     ]
 }

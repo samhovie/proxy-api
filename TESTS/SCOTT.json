@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Scott",
-            "confirmed_cases": 382,
+            "confirmed_cases": 672,
             "deaths": 3,
             "latitude": 39.6095,
             "longitude": -90.488,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Scott",
-            "confirmed_cases": 382,
+            "confirmed_cases": 673,
             "deaths": 3,
             "latitude": 39.6095,
             "longitude": -90.488,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Scott",
-            "confirmed_cases": 383,
+            "confirmed_cases": 674,
             "deaths": 3,
             "latitude": 39.6095,
             "longitude": -90.488,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 11660
+        },
+        {
+            "CountyName": "Scott",
+            "confirmed_cases": 674,
+            "deaths": 3,
+            "latitude": 39.6095,
+            "longitude": -90.488,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 11669
         }
     ]
 }

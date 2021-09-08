@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Jefferson",
-            "confirmed_cases": 5419,
+            "confirmed_cases": 5636,
             "deaths": 129,
             "latitude": 38.2267,
             "longitude": -88.8647,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Jefferson",
-            "confirmed_cases": 5441,
+            "confirmed_cases": 5658,
             "deaths": 129,
             "latitude": 38.2267,
             "longitude": -88.8647,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Jefferson",
-            "confirmed_cases": 5453,
+            "confirmed_cases": 5670,
             "deaths": 129,
             "latitude": 38.2267,
             "longitude": -88.8647,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 72453
+        },
+        {
+            "CountyName": "Jefferson",
+            "confirmed_cases": 5686,
+            "deaths": 129,
+            "latitude": 38.2267,
+            "longitude": -88.8647,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 72577
         }
     ]
 }

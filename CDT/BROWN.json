@@ -4826,7 +4826,7 @@
         },
         {
             "CountyName": "Brown",
-            "confirmed_cases": 674,
+            "confirmed_cases": 998,
             "deaths": 7,
             "latitude": 39.938,
             "longitude": -90.7153,
@@ -4835,7 +4835,7 @@
         },
         {
             "CountyName": "Brown",
-            "confirmed_cases": 674,
+            "confirmed_cases": 999,
             "deaths": 7,
             "latitude": 39.938,
             "longitude": -90.7153,
@@ -4844,12 +4844,21 @@
         },
         {
             "CountyName": "Brown",
-            "confirmed_cases": 674,
+            "confirmed_cases": 999,
             "deaths": 7,
             "latitude": 39.938,
             "longitude": -90.7153,
             "reportDate": "2021-09-06T00:00:00",
             "tested": 35664
+        },
+        {
+            "CountyName": "Brown",
+            "confirmed_cases": 999,
+            "deaths": 7,
+            "latitude": 39.938,
+            "longitude": -90.7153,
+            "reportDate": "2021-09-07T00:00:00",
+            "tested": 35665
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 11973,
+        "AdministeredCount": 12011,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 21.0,
+        "AdministeredCountRollAvg": 24.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Menard",
-        "InventoryReportDate": "2021-09-22T00:00:00",
+        "InventoryReportDate": "2021-09-23T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 40.0221,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.4894205729166667,
-        "PersonsFullyVaccinated": 6014,
-        "PersonsFullyVaccinatedChange": 6014,
+        "PctVaccinatedPopulation": 0.4912923177083333,
+        "PersonsFullyVaccinated": 6037,
+        "PersonsFullyVaccinatedChange": 6037,
         "Population": 12288,
-        "Report_Date": "2021-09-22T00:00:00",
+        "Report_Date": "2021-09-23T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -5075,10 +5075,28 @@
             "Population": 12288,
             "Report_Date": "2021-09-22T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 12011,
+            "AdministeredCountChange": 38,
+            "AdministeredCountRollAvg": 24.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Menard",
+            "InventoryReportDate": "2021-09-23T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.0221,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.4912923177083333,
+            "PersonsFullyVaccinated": 6037,
+            "PersonsFullyVaccinatedChange": 23,
+            "Population": 12288,
+            "Report_Date": "2021-09-23T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 22,
+        "day": 23,
         "month": 9,
         "year": 2021
     }

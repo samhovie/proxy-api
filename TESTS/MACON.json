@@ -5034,11 +5034,20 @@
         {
             "CountyName": "Macon",
             "confirmed_cases": 14654,
-            "deaths": 245,
+            "deaths": 244,
             "latitude": 39.8949,
             "longitude": -89.0179,
             "reportDate": "2021-09-27T00:00:00",
             "tested": 257945
+        },
+        {
+            "CountyName": "Macon",
+            "confirmed_cases": 14689,
+            "deaths": 245,
+            "latitude": 39.8949,
+            "longitude": -89.0179,
+            "reportDate": "2021-09-28T00:00:00",
+            "tested": 258896
         }
     ]
 }

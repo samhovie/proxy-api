@@ -6203,6 +6203,39 @@
             "ReportDate": "2021-10-01T00:00:00",
             "TotalTested": 123484,
             "TotalTestedChange": 832
+        },
+        {
+            "CasesChange": 24,
+            "CountyName": "Coles",
+            "CumulativeCases": 7603,
+            "Deaths": 117,
+            "DeathsChange": 0,
+            "ProbableDeaths": 4,
+            "ReportDate": "2021-10-02T00:00:00",
+            "TotalTested": 124507,
+            "TotalTestedChange": 1023
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "Coles",
+            "CumulativeCases": 7613,
+            "Deaths": 117,
+            "DeathsChange": 0,
+            "ProbableDeaths": 5,
+            "ReportDate": "2021-10-03T00:00:00",
+            "TotalTested": 124622,
+            "TotalTestedChange": 115
+        },
+        {
+            "CasesChange": 16,
+            "CountyName": "Coles",
+            "CumulativeCases": 7629,
+            "Deaths": 117,
+            "DeathsChange": 0,
+            "ProbableDeaths": 5,
+            "ReportDate": "2021-10-04T00:00:00",
+            "TotalTested": 125150,
+            "TotalTestedChange": 528
         }
     ]
 }

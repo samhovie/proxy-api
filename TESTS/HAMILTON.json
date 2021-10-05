@@ -6203,6 +6203,39 @@
             "ReportDate": "2021-10-01T00:00:00",
             "TotalTested": 13260,
             "TotalTestedChange": 44
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Hamilton",
+            "CumulativeCases": 1314,
+            "Deaths": 21,
+            "DeathsChange": 0,
+            "ProbableDeaths": 3,
+            "ReportDate": "2021-10-02T00:00:00",
+            "TotalTested": 13320,
+            "TotalTestedChange": 60
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Hamilton",
+            "CumulativeCases": 1314,
+            "Deaths": 21,
+            "DeathsChange": 0,
+            "ProbableDeaths": 3,
+            "ReportDate": "2021-10-03T00:00:00",
+            "TotalTested": 13333,
+            "TotalTestedChange": 13
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Hamilton",
+            "CumulativeCases": 1315,
+            "Deaths": 21,
+            "DeathsChange": 0,
+            "ProbableDeaths": 3,
+            "ReportDate": "2021-10-04T00:00:00",
+            "TotalTested": 13378,
+            "TotalTestedChange": 45
         }
     ]
 }

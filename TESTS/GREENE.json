@@ -6203,6 +6203,39 @@
             "ReportDate": "2021-10-01T00:00:00",
             "TotalTested": 22184,
             "TotalTestedChange": 79
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Greene",
+            "CumulativeCases": 2019,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ProbableDeaths": 20,
+            "ReportDate": "2021-10-02T00:00:00",
+            "TotalTested": 22263,
+            "TotalTestedChange": 79
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Greene",
+            "CumulativeCases": 2019,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ProbableDeaths": 20,
+            "ReportDate": "2021-10-03T00:00:00",
+            "TotalTested": 22289,
+            "TotalTestedChange": 26
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Greene",
+            "CumulativeCases": 2020,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ProbableDeaths": 20,
+            "ReportDate": "2021-10-04T00:00:00",
+            "TotalTested": 22367,
+            "TotalTestedChange": 78
         }
     ]
 }

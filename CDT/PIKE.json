@@ -6203,6 +6203,39 @@
             "ReportDate": "2021-10-01T00:00:00",
             "TotalTested": 33580,
             "TotalTestedChange": 122
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Pike",
+            "CumulativeCases": 2601,
+            "Deaths": 56,
+            "DeathsChange": 0,
+            "ProbableDeaths": 17,
+            "ReportDate": "2021-10-02T00:00:00",
+            "TotalTested": 33832,
+            "TotalTestedChange": 252
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Pike",
+            "CumulativeCases": 2604,
+            "Deaths": 56,
+            "DeathsChange": 0,
+            "ProbableDeaths": 17,
+            "ReportDate": "2021-10-03T00:00:00",
+            "TotalTested": 33930,
+            "TotalTestedChange": 98
+        },
+        {
+            "CasesChange": -2,
+            "CountyName": "Pike",
+            "CumulativeCases": 2602,
+            "Deaths": 56,
+            "DeathsChange": 0,
+            "ProbableDeaths": 17,
+            "ReportDate": "2021-10-04T00:00:00",
+            "TotalTested": 34165,
+            "TotalTestedChange": 235
         }
     ]
 }

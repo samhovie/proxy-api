@@ -6230,12 +6230,23 @@
             "CasesChange": 346,
             "CountyName": "Cook",
             "CumulativeCases": 304280,
-            "Deaths": 5282,
-            "DeathsChange": 3,
+            "Deaths": 5281,
+            "DeathsChange": 2,
             "ProbableDeaths": 387,
             "ReportDate": "2021-10-04T00:00:00",
             "TotalTested": 5587658,
             "TotalTestedChange": 26077
+        },
+        {
+            "CasesChange": 516,
+            "CountyName": "Cook",
+            "CumulativeCases": 304796,
+            "Deaths": 5283,
+            "DeathsChange": 2,
+            "ProbableDeaths": 387,
+            "ReportDate": "2021-10-05T00:00:00",
+            "TotalTested": 5609458,
+            "TotalTestedChange": 21800
         }
     ]
 }

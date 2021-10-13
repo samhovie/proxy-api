@@ -6280,6 +6280,50 @@
             "ReportDate": "2021-10-08T00:00:00",
             "TotalTested": 69410,
             "TotalTestedChange": 239
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Johnson",
+            "CumulativeCases": 2227,
+            "Deaths": 31,
+            "DeathsChange": 0,
+            "ProbableDeaths": 11,
+            "ReportDate": "2021-10-09T00:00:00",
+            "TotalTested": 69482,
+            "TotalTestedChange": 72
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Johnson",
+            "CumulativeCases": 2227,
+            "Deaths": 31,
+            "DeathsChange": 0,
+            "ProbableDeaths": 11,
+            "ReportDate": "2021-10-10T00:00:00",
+            "TotalTested": 69852,
+            "TotalTestedChange": 370
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Johnson",
+            "CumulativeCases": 2229,
+            "Deaths": 31,
+            "DeathsChange": 0,
+            "ProbableDeaths": 11,
+            "ReportDate": "2021-10-11T00:00:00",
+            "TotalTested": 69873,
+            "TotalTestedChange": 21
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Johnson",
+            "CumulativeCases": 2231,
+            "Deaths": 31,
+            "DeathsChange": 0,
+            "ProbableDeaths": 11,
+            "ReportDate": "2021-10-12T00:00:00",
+            "TotalTested": 69961,
+            "TotalTestedChange": 88
         }
     ]
 }

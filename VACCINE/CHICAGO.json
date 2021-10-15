@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 3237535,
+        "AdministeredCount": 3245819,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 6764.0,
+        "AdministeredCountRollAvg": 6375.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Chicago",
-        "InventoryReportDate": "2021-10-12T00:00:00",
+        "InventoryReportDate": "2021-10-13T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.789896,
         "Longitude": -87.627734,
-        "PctVaccinatedPopulation": 0.5786989919415934,
-        "PersonsFullyVaccinated": 1565956,
-        "PersonsFullyVaccinatedChange": 1565956,
+        "PctVaccinatedPopulation": 0.5795031326750909,
+        "PersonsFullyVaccinated": 1568132,
+        "PersonsFullyVaccinatedChange": 1568132,
         "Population": 2705994,
-        "Report_Date": "2021-10-12T00:00:00",
+        "Report_Date": "2021-10-13T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -5435,10 +5435,28 @@
             "Population": 2705994,
             "Report_Date": "2021-10-12T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 3245819,
+            "AdministeredCountChange": 8284,
+            "AdministeredCountRollAvg": 6375.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Chicago",
+            "InventoryReportDate": "2021-10-13T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.789896,
+            "Longitude": -87.627734,
+            "PctVaccinatedPopulation": 0.5795031326750909,
+            "PersonsFullyVaccinated": 1568132,
+            "PersonsFullyVaccinatedChange": 2176,
+            "Population": 2705994,
+            "Report_Date": "2021-10-13T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 12,
+        "day": 13,
         "month": 10,
         "year": 2021
     }

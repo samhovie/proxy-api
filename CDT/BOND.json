@@ -6357,6 +6357,39 @@
             "ReportDate": "2021-10-15T00:00:00",
             "TotalTested": 48729,
             "TotalTestedChange": 148
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Bond",
+            "CumulativeCases": 2551,
+            "Deaths": 25,
+            "DeathsChange": 1,
+            "ProbableDeaths": 12,
+            "ReportDate": "2021-10-16T00:00:00",
+            "TotalTested": 48788,
+            "TotalTestedChange": 59
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Bond",
+            "CumulativeCases": 2551,
+            "Deaths": 25,
+            "DeathsChange": 0,
+            "ProbableDeaths": 12,
+            "ReportDate": "2021-10-17T00:00:00",
+            "TotalTested": 48851,
+            "TotalTestedChange": 63
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Bond",
+            "CumulativeCases": 2556,
+            "Deaths": 25,
+            "DeathsChange": 0,
+            "ProbableDeaths": 12,
+            "ReportDate": "2021-10-18T00:00:00",
+            "TotalTested": 48937,
+            "TotalTestedChange": 86
         }
     ]
 }

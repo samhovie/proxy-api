@@ -6357,6 +6357,39 @@
             "ReportDate": "2021-10-15T00:00:00",
             "TotalTested": 5931,
             "TotalTestedChange": 15
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Pope",
+            "CumulativeCases": 546,
+            "Deaths": 6,
+            "DeathsChange": 0,
+            "ProbableDeaths": 2,
+            "ReportDate": "2021-10-16T00:00:00",
+            "TotalTested": 5960,
+            "TotalTestedChange": 29
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Pope",
+            "CumulativeCases": 546,
+            "Deaths": 6,
+            "DeathsChange": 0,
+            "ProbableDeaths": 2,
+            "ReportDate": "2021-10-17T00:00:00",
+            "TotalTested": 5962,
+            "TotalTestedChange": 2
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Pope",
+            "CumulativeCases": 547,
+            "Deaths": 6,
+            "DeathsChange": 0,
+            "ProbableDeaths": 2,
+            "ReportDate": "2021-10-18T00:00:00",
+            "TotalTested": 5980,
+            "TotalTestedChange": 18
         }
     ]
 }

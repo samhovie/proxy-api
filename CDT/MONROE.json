@@ -6357,6 +6357,39 @@
             "ReportDate": "2021-10-15T00:00:00",
             "TotalTested": 56689,
             "TotalTestedChange": 128
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Monroe",
+            "CumulativeCases": 5237,
+            "Deaths": 100,
+            "DeathsChange": 0,
+            "ProbableDeaths": 1,
+            "ReportDate": "2021-10-16T00:00:00",
+            "TotalTested": 56772,
+            "TotalTestedChange": 83
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Monroe",
+            "CumulativeCases": 5239,
+            "Deaths": 100,
+            "DeathsChange": 0,
+            "ProbableDeaths": 1,
+            "ReportDate": "2021-10-17T00:00:00",
+            "TotalTested": 56915,
+            "TotalTestedChange": 143
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Monroe",
+            "CumulativeCases": 5243,
+            "Deaths": 103,
+            "DeathsChange": 3,
+            "ProbableDeaths": 0,
+            "ReportDate": "2021-10-18T00:00:00",
+            "TotalTested": 56968,
+            "TotalTestedChange": 53
         }
     ]
 }

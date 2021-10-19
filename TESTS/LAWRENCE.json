@@ -6357,6 +6357,39 @@
             "ReportDate": "2021-10-15T00:00:00",
             "TotalTested": 88912,
             "TotalTestedChange": 91
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Lawrence",
+            "CumulativeCases": 3304,
+            "Deaths": 33,
+            "DeathsChange": 1,
+            "ProbableDeaths": 11,
+            "ReportDate": "2021-10-16T00:00:00",
+            "TotalTested": 89221,
+            "TotalTestedChange": 309
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Lawrence",
+            "CumulativeCases": 3305,
+            "Deaths": 33,
+            "DeathsChange": 0,
+            "ProbableDeaths": 11,
+            "ReportDate": "2021-10-17T00:00:00",
+            "TotalTested": 89269,
+            "TotalTestedChange": 48
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Lawrence",
+            "CumulativeCases": 3308,
+            "Deaths": 33,
+            "DeathsChange": 0,
+            "ProbableDeaths": 11,
+            "ReportDate": "2021-10-18T00:00:00",
+            "TotalTested": 89278,
+            "TotalTestedChange": 9
         }
     ]
 }

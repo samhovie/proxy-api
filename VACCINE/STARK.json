@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 4896,
+        "AdministeredCount": 4907,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 7.0,
+        "AdministeredCountRollAvg": 8.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2021-10-17T00:00:00",
+        "InventoryReportDate": "2021-10-18T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
-        "PctVaccinatedPopulation": 0.45126220748111295,
-        "PersonsFullyVaccinated": 2449,
-        "PersonsFullyVaccinatedChange": 2449,
+        "PctVaccinatedPopulation": 0.45163073521282476,
+        "PersonsFullyVaccinated": 2451,
+        "PersonsFullyVaccinatedChange": 2451,
         "Population": 5427,
-        "Report_Date": "2021-10-17T00:00:00",
+        "Report_Date": "2021-10-18T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -5525,10 +5525,28 @@
             "Population": 5427,
             "Report_Date": "2021-10-17T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 4907,
+            "AdministeredCountChange": 11,
+            "AdministeredCountRollAvg": 8.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2021-10-18T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedPopulation": 0.45163073521282476,
+            "PersonsFullyVaccinated": 2451,
+            "PersonsFullyVaccinatedChange": 2,
+            "Population": 5427,
+            "Report_Date": "2021-10-18T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 17,
+        "day": 18,
         "month": 10,
         "year": 2021
     }

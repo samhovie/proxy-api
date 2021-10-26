@@ -6434,6 +6434,39 @@
             "ReportDate": "2021-10-22T00:00:00",
             "TotalTested": 29479,
             "TotalTestedChange": 41
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Marshall",
+            "CumulativeCases": 1416,
+            "Deaths": 21,
+            "DeathsChange": 0,
+            "ProbableDeaths": 5,
+            "ReportDate": "2021-10-23T00:00:00",
+            "TotalTested": 29592,
+            "TotalTestedChange": 113
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Marshall",
+            "CumulativeCases": 1416,
+            "Deaths": 21,
+            "DeathsChange": 0,
+            "ProbableDeaths": 5,
+            "ReportDate": "2021-10-24T00:00:00",
+            "TotalTested": 29616,
+            "TotalTestedChange": 24
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Marshall",
+            "CumulativeCases": 1419,
+            "Deaths": 21,
+            "DeathsChange": 0,
+            "ProbableDeaths": 5,
+            "ReportDate": "2021-10-25T00:00:00",
+            "TotalTested": 29663,
+            "TotalTestedChange": 47
         }
     ]
 }

@@ -6434,6 +6434,39 @@
             "ReportDate": "2021-10-22T00:00:00",
             "TotalTested": 27738,
             "TotalTestedChange": 80
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Clark",
+            "CumulativeCases": 2671,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ProbableDeaths": 9,
+            "ReportDate": "2021-10-23T00:00:00",
+            "TotalTested": 27792,
+            "TotalTestedChange": 54
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Clark",
+            "CumulativeCases": 2670,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ProbableDeaths": 9,
+            "ReportDate": "2021-10-24T00:00:00",
+            "TotalTested": 27803,
+            "TotalTestedChange": 11
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Clark",
+            "CumulativeCases": 2672,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ProbableDeaths": 9,
+            "ReportDate": "2021-10-25T00:00:00",
+            "TotalTested": 27835,
+            "TotalTestedChange": 32
         }
     ]
 }

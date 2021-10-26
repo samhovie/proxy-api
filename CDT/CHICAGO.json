@@ -6434,6 +6434,39 @@
             "ReportDate": "2021-10-22T00:00:00",
             "TotalTested": 6633230,
             "TotalTestedChange": 25230
+        },
+        {
+            "CasesChange": 317,
+            "CountyName": "Chicago",
+            "CumulativeCases": 325178,
+            "Deaths": 5869,
+            "DeathsChange": 5,
+            "ProbableDeaths": 343,
+            "ReportDate": "2021-10-23T00:00:00",
+            "TotalTested": 6661865,
+            "TotalTestedChange": 28635
+        },
+        {
+            "CasesChange": 230,
+            "CountyName": "Chicago",
+            "CumulativeCases": 325408,
+            "Deaths": 5869,
+            "DeathsChange": 0,
+            "ProbableDeaths": 343,
+            "ReportDate": "2021-10-24T00:00:00",
+            "TotalTested": 6684641,
+            "TotalTestedChange": 22776
+        },
+        {
+            "CasesChange": 338,
+            "CountyName": "Chicago",
+            "CumulativeCases": 325746,
+            "Deaths": 5869,
+            "DeathsChange": 0,
+            "ProbableDeaths": 344,
+            "ReportDate": "2021-10-25T00:00:00",
+            "TotalTested": 6702642,
+            "TotalTestedChange": 18001
         }
     ]
 }

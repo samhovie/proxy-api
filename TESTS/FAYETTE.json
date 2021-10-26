@@ -6434,6 +6434,39 @@
             "ReportDate": "2021-10-22T00:00:00",
             "TotalTested": 54343,
             "TotalTestedChange": 180
+        },
+        {
+            "CasesChange": 12,
+            "CountyName": "Fayette",
+            "CumulativeCases": 4336,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ProbableDeaths": 6,
+            "ReportDate": "2021-10-23T00:00:00",
+            "TotalTested": 54477,
+            "TotalTestedChange": 134
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Fayette",
+            "CumulativeCases": 4337,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ProbableDeaths": 6,
+            "ReportDate": "2021-10-24T00:00:00",
+            "TotalTested": 54677,
+            "TotalTestedChange": 200
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Fayette",
+            "CumulativeCases": 4336,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ProbableDeaths": 6,
+            "ReportDate": "2021-10-25T00:00:00",
+            "TotalTested": 54722,
+            "TotalTestedChange": 45
         }
     ]
 }

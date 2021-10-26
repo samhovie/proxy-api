@@ -6434,6 +6434,39 @@
             "ReportDate": "2021-10-22T00:00:00",
             "TotalTested": 105964,
             "TotalTestedChange": 301
+        },
+        {
+            "CasesChange": 11,
+            "CountyName": "Montgomery",
+            "CumulativeCases": 4939,
+            "Deaths": 82,
+            "DeathsChange": 0,
+            "ProbableDeaths": 11,
+            "ReportDate": "2021-10-23T00:00:00",
+            "TotalTested": 106211,
+            "TotalTestedChange": 247
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Montgomery",
+            "CumulativeCases": 4941,
+            "Deaths": 82,
+            "DeathsChange": 0,
+            "ProbableDeaths": 12,
+            "ReportDate": "2021-10-24T00:00:00",
+            "TotalTested": 106321,
+            "TotalTestedChange": 110
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Montgomery",
+            "CumulativeCases": 4941,
+            "Deaths": 83,
+            "DeathsChange": 1,
+            "ProbableDeaths": 12,
+            "ReportDate": "2021-10-25T00:00:00",
+            "TotalTested": 106397,
+            "TotalTestedChange": 76
         }
     ]
 }

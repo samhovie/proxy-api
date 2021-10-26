@@ -6434,6 +6434,39 @@
             "ReportDate": "2021-10-22T00:00:00",
             "TotalTested": 127407,
             "TotalTestedChange": 288
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Lee",
+            "CumulativeCases": 4800,
+            "Deaths": 61,
+            "DeathsChange": 1,
+            "ProbableDeaths": 42,
+            "ReportDate": "2021-10-23T00:00:00",
+            "TotalTested": 127568,
+            "TotalTestedChange": 161
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Lee",
+            "CumulativeCases": 4802,
+            "Deaths": 61,
+            "DeathsChange": 0,
+            "ProbableDeaths": 42,
+            "ReportDate": "2021-10-24T00:00:00",
+            "TotalTested": 127724,
+            "TotalTestedChange": 156
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Lee",
+            "CumulativeCases": 4806,
+            "Deaths": 62,
+            "DeathsChange": 1,
+            "ProbableDeaths": 42,
+            "ReportDate": "2021-10-25T00:00:00",
+            "TotalTested": 128122,
+            "TotalTestedChange": 398
         }
     ]
 }

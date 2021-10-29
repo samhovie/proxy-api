@@ -6483,12 +6483,23 @@
             "CasesChange": 117,
             "CountyName": "Lake",
             "CumulativeCases": 80792,
-            "Deaths": 1092,
-            "DeathsChange": 0,
+            "Deaths": 1091,
+            "DeathsChange": -1,
             "ProbableDeaths": 93,
             "ReportDate": "2021-10-27T00:00:00",
             "TotalTested": 1663639,
             "TotalTestedChange": 3893
+        },
+        {
+            "CasesChange": 148,
+            "CountyName": "Lake",
+            "CumulativeCases": 80940,
+            "Deaths": 1092,
+            "DeathsChange": 1,
+            "ProbableDeaths": 93,
+            "ReportDate": "2021-10-28T00:00:00",
+            "TotalTested": 1671985,
+            "TotalTestedChange": 8346
         }
     ]
 }

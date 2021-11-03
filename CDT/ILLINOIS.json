@@ -5944,11 +5944,21 @@
             "CasesChange": 1585,
             "CountyName": "Illinois",
             "CumulativeCases": 1701649,
-            "Deaths": 25834,
-            "DeathsChange": 15,
+            "Deaths": 25833,
+            "DeathsChange": 14,
             "ReportDate": "2021-11-01T00:00:00",
             "TotalTested": 35600267,
             "TotalTestedChange": 59482
+        },
+        {
+            "CasesChange": 2382,
+            "CountyName": "Illinois",
+            "CumulativeCases": 1704031,
+            "Deaths": 25858,
+            "DeathsChange": 25,
+            "ReportDate": "2021-11-02T00:00:00",
+            "TotalTested": 35681902,
+            "TotalTestedChange": 81635
         }
     ]
 }

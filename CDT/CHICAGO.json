@@ -5944,11 +5944,21 @@
             "CasesChange": 288,
             "CountyName": "Chicago",
             "CumulativeCases": 328249,
-            "Deaths": 5902,
-            "DeathsChange": 0,
+            "Deaths": 5901,
+            "DeathsChange": -1,
             "ReportDate": "2021-11-01T00:00:00",
             "TotalTested": 6858816,
             "TotalTestedChange": 14413
+        },
+        {
+            "CasesChange": 346,
+            "CountyName": "Chicago",
+            "CumulativeCases": 328595,
+            "Deaths": 5913,
+            "DeathsChange": 12,
+            "ReportDate": "2021-11-02T00:00:00",
+            "TotalTested": 6873652,
+            "TotalTestedChange": 14836
         }
     ]
 }

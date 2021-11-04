@@ -5954,11 +5954,21 @@
             "CasesChange": 12,
             "CountyName": "Montgomery",
             "CumulativeCases": 5008,
-            "Deaths": 83,
-            "DeathsChange": 0,
+            "Deaths": 82,
+            "DeathsChange": -1,
             "ReportDate": "2021-11-02T00:00:00",
             "TotalTested": 107760,
             "TotalTestedChange": 95
+        },
+        {
+            "CasesChange": 9,
+            "CountyName": "Montgomery",
+            "CumulativeCases": 5017,
+            "Deaths": 83,
+            "DeathsChange": 1,
+            "ReportDate": "2021-11-03T00:00:00",
+            "TotalTested": 107975,
+            "TotalTestedChange": 215
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 3429502,
+        "AdministeredCount": 3444752,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 13352.0,
+        "AdministeredCountRollAvg": 12244.0,
         "AllocatedDoses": 0,
         "CommunityReportedInventory": 0,
         "CountyName": "Chicago",
-        "InventoryReportDate": "2021-11-02T00:00:00",
+        "InventoryReportDate": "2021-11-04T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.789896,
         "Longitude": -87.627734,
-        "PctVaccinatedPopulation": 0.5965172132680264,
-        "PersonsFullyVaccinated": 1614172,
-        "PersonsFullyVaccinatedChange": 1614172,
+        "PctVaccinatedPopulation": 0.5974913469874656,
+        "PersonsFullyVaccinated": 1616808,
+        "PersonsFullyVaccinatedChange": 1616808,
         "Population": 2705994,
-        "Report_Date": "2021-11-02T00:00:00",
+        "Report_Date": "2021-11-04T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -5813,10 +5813,46 @@
             "Population": 2705994,
             "Report_Date": "2021-11-02T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 3435732,
+            "AdministeredCountChange": 6230,
+            "AdministeredCountRollAvg": 12582.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Chicago",
+            "InventoryReportDate": "2021-11-03T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.789896,
+            "Longitude": -87.627734,
+            "PctVaccinatedPopulation": 0.5969174358849281,
+            "PersonsFullyVaccinated": 1615255,
+            "PersonsFullyVaccinatedChange": 1083,
+            "Population": 2705994,
+            "Report_Date": "2021-11-03T00:00:00",
+            "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 3444752,
+            "AdministeredCountChange": 9020,
+            "AdministeredCountRollAvg": 12244.0,
+            "AllocatedDoses": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Chicago",
+            "InventoryReportDate": "2021-11-04T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.789896,
+            "Longitude": -87.627734,
+            "PctVaccinatedPopulation": 0.5974913469874656,
+            "PersonsFullyVaccinated": 1616808,
+            "PersonsFullyVaccinatedChange": 1553,
+            "Population": 2705994,
+            "Report_Date": "2021-11-04T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 2,
+        "day": 4,
         "month": 11,
         "year": 2021
     }

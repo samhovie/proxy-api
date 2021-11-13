@@ -6039,6 +6039,26 @@
             "ReportDate": "2021-11-10T00:00:00",
             "TotalTested": 41622,
             "TotalTestedChange": 36
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Brown",
+            "CumulativeCases": 1089,
+            "Deaths": 11,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-11T00:00:00",
+            "TotalTested": 41665,
+            "TotalTestedChange": 43
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Brown",
+            "CumulativeCases": 1088,
+            "Deaths": 11,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-12T00:00:00",
+            "TotalTested": 41717,
+            "TotalTestedChange": 52
         }
     ]
 }

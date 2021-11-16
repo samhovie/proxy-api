@@ -6059,6 +6059,36 @@
             "ReportDate": "2021-11-12T00:00:00",
             "TotalTested": 11789,
             "TotalTestedChange": 17
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Henderson",
+            "CumulativeCases": 778,
+            "Deaths": 14,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-13T00:00:00",
+            "TotalTested": 11827,
+            "TotalTestedChange": 38
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Henderson",
+            "CumulativeCases": 779,
+            "Deaths": 14,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-14T00:00:00",
+            "TotalTested": 11868,
+            "TotalTestedChange": 41
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Henderson",
+            "CumulativeCases": 778,
+            "Deaths": 14,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-15T00:00:00",
+            "TotalTested": 11872,
+            "TotalTestedChange": 4
         }
     ]
 }

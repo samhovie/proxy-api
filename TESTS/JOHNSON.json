@@ -6059,6 +6059,36 @@
             "ReportDate": "2021-11-12T00:00:00",
             "TotalTested": 75078,
             "TotalTestedChange": 228
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Johnson",
+            "CumulativeCases": 2389,
+            "Deaths": 32,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-13T00:00:00",
+            "TotalTested": 75153,
+            "TotalTestedChange": 75
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Johnson",
+            "CumulativeCases": 2392,
+            "Deaths": 32,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-14T00:00:00",
+            "TotalTested": 75206,
+            "TotalTestedChange": 53
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Johnson",
+            "CumulativeCases": 2392,
+            "Deaths": 32,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-15T00:00:00",
+            "TotalTested": 75225,
+            "TotalTestedChange": 19
         }
     ]
 }

@@ -6059,6 +6059,36 @@
             "ReportDate": "2021-11-12T00:00:00",
             "TotalTested": 9582,
             "TotalTestedChange": 18
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Alexander",
+            "CumulativeCases": 791,
+            "Deaths": 13,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-13T00:00:00",
+            "TotalTested": 9607,
+            "TotalTestedChange": 25
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Alexander",
+            "CumulativeCases": 792,
+            "Deaths": 13,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-14T00:00:00",
+            "TotalTested": 9618,
+            "TotalTestedChange": 11
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Alexander",
+            "CumulativeCases": 791,
+            "Deaths": 13,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-15T00:00:00",
+            "TotalTested": 9619,
+            "TotalTestedChange": 1
         }
     ]
 }

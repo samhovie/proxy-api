@@ -6179,6 +6179,56 @@
             "ReportDate": "2021-11-24T00:00:00",
             "TotalTested": 42652,
             "TotalTestedChange": 21
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Brown",
+            "CumulativeCases": 1099,
+            "Deaths": 12,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-25T00:00:00",
+            "TotalTested": 42693,
+            "TotalTestedChange": 41
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Brown",
+            "CumulativeCases": 1100,
+            "Deaths": 12,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-26T00:00:00",
+            "TotalTested": 42705,
+            "TotalTestedChange": 12
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Brown",
+            "CumulativeCases": 1100,
+            "Deaths": 12,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-27T00:00:00",
+            "TotalTested": 43022,
+            "TotalTestedChange": 317
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Brown",
+            "CumulativeCases": 1103,
+            "Deaths": 12,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-28T00:00:00",
+            "TotalTested": 43032,
+            "TotalTestedChange": 10
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Brown",
+            "CumulativeCases": 1110,
+            "Deaths": 12,
+            "DeathsChange": 0,
+            "ReportDate": "2021-11-29T00:00:00",
+            "TotalTested": 43041,
+            "TotalTestedChange": 9
         }
     ]
 }

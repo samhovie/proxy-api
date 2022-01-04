@@ -6539,6 +6539,46 @@
             "ReportDate": "2021-12-30T00:00:00",
             "TotalTested": 17670,
             "TotalTestedChange": 91
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Stark",
+            "CumulativeCases": 1025,
+            "Deaths": 29,
+            "DeathsChange": 0,
+            "ReportDate": "2021-12-31T00:00:00",
+            "TotalTested": 17886,
+            "TotalTestedChange": 216
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Stark",
+            "CumulativeCases": 1027,
+            "Deaths": 29,
+            "DeathsChange": 0,
+            "ReportDate": "2022-01-01T00:00:00",
+            "TotalTested": 17923,
+            "TotalTestedChange": 37
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Stark",
+            "CumulativeCases": 1027,
+            "Deaths": 30,
+            "DeathsChange": 1,
+            "ReportDate": "2022-01-02T00:00:00",
+            "TotalTested": 17940,
+            "TotalTestedChange": 17
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Stark",
+            "CumulativeCases": 1030,
+            "Deaths": 30,
+            "DeathsChange": 0,
+            "ReportDate": "2022-01-03T00:00:00",
+            "TotalTested": 18015,
+            "TotalTestedChange": 75
         }
     ]
 }

@@ -6899,6 +6899,36 @@
             "ReportDate": "2022-02-04T00:00:00",
             "TotalTested": 18904,
             "TotalTestedChange": 15
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Scott",
+            "CumulativeCases": 1234,
+            "Deaths": 11,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-05T00:00:00",
+            "TotalTested": 18926,
+            "TotalTestedChange": 22
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Scott",
+            "CumulativeCases": 1234,
+            "Deaths": 11,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-06T00:00:00",
+            "TotalTested": 18930,
+            "TotalTestedChange": 4
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Scott",
+            "CumulativeCases": 1236,
+            "Deaths": 11,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-07T00:00:00",
+            "TotalTested": 18933,
+            "TotalTestedChange": 3
         }
     ]
 }

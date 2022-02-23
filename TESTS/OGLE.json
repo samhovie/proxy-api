@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Ogle",
-            "CumulativeCases": 16,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 2,
             "CountyName": "Ogle",
             "CumulativeCases": 18,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 141959,
             "TotalTestedChange": 352
+        },
+        {
+            "CasesChange": -2,
+            "CountyName": "Ogle",
+            "CumulativeCases": 13722,
+            "Deaths": 128,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 142442,
+            "TotalTestedChange": 483
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "Ogle",
+            "CumulativeCases": 13732,
+            "Deaths": 128,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 142518,
+            "TotalTestedChange": 76
+        },
+        {
+            "CasesChange": 13,
+            "CountyName": "Ogle",
+            "CumulativeCases": 13745,
+            "Deaths": 128,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 142537,
+            "TotalTestedChange": 19
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Ogle",
+            "CumulativeCases": 13752,
+            "Deaths": 128,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 142735,
+            "TotalTestedChange": 198
         }
     ]
 }

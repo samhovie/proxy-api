@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Peoria",
-            "CumulativeCases": 23,
-            "Deaths": 1,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 4,
             "CountyName": "Peoria",
             "CumulativeCases": 27,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 639968,
             "TotalTestedChange": 1562
+        },
+        {
+            "CasesChange": 42,
+            "CountyName": "Peoria",
+            "CumulativeCases": 45684,
+            "Deaths": 493,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 641570,
+            "TotalTestedChange": 1602
+        },
+        {
+            "CasesChange": 29,
+            "CountyName": "Peoria",
+            "CumulativeCases": 45713,
+            "Deaths": 493,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 642120,
+            "TotalTestedChange": 550
+        },
+        {
+            "CasesChange": 25,
+            "CountyName": "Peoria",
+            "CumulativeCases": 45738,
+            "Deaths": 493,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 642281,
+            "TotalTestedChange": 161
+        },
+        {
+            "CasesChange": 32,
+            "CountyName": "Peoria",
+            "CumulativeCases": 45770,
+            "Deaths": 497,
+            "DeathsChange": 4,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 643226,
+            "TotalTestedChange": 945
         }
     ]
 }

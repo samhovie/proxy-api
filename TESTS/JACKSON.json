@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Jackson",
-            "CumulativeCases": 30,
-            "Deaths": 2,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Jackson",
             "CumulativeCases": 31,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 203027,
             "TotalTestedChange": 438
+        },
+        {
+            "CasesChange": 17,
+            "CountyName": "Jackson",
+            "CumulativeCases": 15265,
+            "Deaths": 115,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 203569,
+            "TotalTestedChange": 542
+        },
+        {
+            "CasesChange": 19,
+            "CountyName": "Jackson",
+            "CumulativeCases": 15284,
+            "Deaths": 115,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 203716,
+            "TotalTestedChange": 147
+        },
+        {
+            "CasesChange": 18,
+            "CountyName": "Jackson",
+            "CumulativeCases": 15302,
+            "Deaths": 115,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 203782,
+            "TotalTestedChange": 66
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "Jackson",
+            "CumulativeCases": 15312,
+            "Deaths": 115,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 204281,
+            "TotalTestedChange": 499
         }
     ]
 }

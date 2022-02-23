@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Cook",
-            "CumulativeCases": 5633,
-            "Deaths": 204,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 449,
             "CountyName": "Cook",
             "CumulativeCases": 6082,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 9738587,
             "TotalTestedChange": 31568
+        },
+        {
+            "CasesChange": 350,
+            "CountyName": "Cook",
+            "CumulativeCases": 550783,
+            "Deaths": 6736,
+            "DeathsChange": 15,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 9775818,
+            "TotalTestedChange": 37231
+        },
+        {
+            "CasesChange": 256,
+            "CountyName": "Cook",
+            "CumulativeCases": 551039,
+            "Deaths": 6742,
+            "DeathsChange": 6,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 9791910,
+            "TotalTestedChange": 16092
+        },
+        {
+            "CasesChange": 229,
+            "CountyName": "Cook",
+            "CumulativeCases": 551268,
+            "Deaths": 6752,
+            "DeathsChange": 10,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 9794286,
+            "TotalTestedChange": 2376
+        },
+        {
+            "CasesChange": 246,
+            "CountyName": "Cook",
+            "CumulativeCases": 551514,
+            "Deaths": 6759,
+            "DeathsChange": 7,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 9803233,
+            "TotalTestedChange": 8947
         }
     ]
 }

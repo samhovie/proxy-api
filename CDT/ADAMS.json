@@ -256,16 +256,6 @@
             "CumulativeCases": 25,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Adams",
-            "CumulativeCases": 25,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 331563,
             "TotalTestedChange": 707
+        },
+        {
+            "CasesChange": 23,
+            "CountyName": "Adams",
+            "CumulativeCases": 22008,
+            "Deaths": 198,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 332430,
+            "TotalTestedChange": 867
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "Adams",
+            "CumulativeCases": 22014,
+            "Deaths": 198,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 332606,
+            "TotalTestedChange": 176
+        },
+        {
+            "CasesChange": 23,
+            "CountyName": "Adams",
+            "CumulativeCases": 22037,
+            "Deaths": 198,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 332644,
+            "TotalTestedChange": 38
+        },
+        {
+            "CasesChange": 15,
+            "CountyName": "Adams",
+            "CumulativeCases": 22052,
+            "Deaths": 198,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 332980,
+            "TotalTestedChange": 336
         }
     ]
 }

@@ -256,16 +256,6 @@
             "CumulativeCases": 0,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Johnson",
-            "CumulativeCases": 0,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 104319,
             "TotalTestedChange": 224
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Johnson",
+            "CumulativeCases": 4343,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 104371,
+            "TotalTestedChange": 52
+        },
+        {
+            "CasesChange": 9,
+            "CountyName": "Johnson",
+            "CumulativeCases": 4352,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 105186,
+            "TotalTestedChange": 815
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Johnson",
+            "CumulativeCases": 4357,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 105212,
+            "TotalTestedChange": 26
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Johnson",
+            "CumulativeCases": 4362,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 105248,
+            "TotalTestedChange": 36
         }
     ]
 }

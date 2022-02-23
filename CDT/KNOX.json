@@ -256,16 +256,6 @@
             "CumulativeCases": 2,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Knox",
-            "CumulativeCases": 2,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 219849,
             "TotalTestedChange": 666
+        },
+        {
+            "CasesChange": 8,
+            "CountyName": "Knox",
+            "CumulativeCases": 12375,
+            "Deaths": 206,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 220794,
+            "TotalTestedChange": 945
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Knox",
+            "CumulativeCases": 12380,
+            "Deaths": 206,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 220985,
+            "TotalTestedChange": 191
+        },
+        {
+            "CasesChange": 20,
+            "CountyName": "Knox",
+            "CumulativeCases": 12400,
+            "Deaths": 206,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 221331,
+            "TotalTestedChange": 346
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "Knox",
+            "CumulativeCases": 12406,
+            "Deaths": 206,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 221985,
+            "TotalTestedChange": 654
         }
     ]
 }

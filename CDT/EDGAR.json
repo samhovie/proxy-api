@@ -256,16 +256,6 @@
             "CumulativeCases": 0,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Edgar",
-            "CumulativeCases": 0,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 38162,
             "TotalTestedChange": 166
+        },
+        {
+            "CasesChange": 14,
+            "CountyName": "Edgar",
+            "CumulativeCases": 5063,
+            "Deaths": 57,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 38196,
+            "TotalTestedChange": 34
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Edgar",
+            "CumulativeCases": 5065,
+            "Deaths": 57,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 38283,
+            "TotalTestedChange": 87
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Edgar",
+            "CumulativeCases": 5068,
+            "Deaths": 57,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 38295,
+            "TotalTestedChange": 12
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Edgar",
+            "CumulativeCases": 5069,
+            "Deaths": 57,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 38311,
+            "TotalTestedChange": 16
         }
     ]
 }

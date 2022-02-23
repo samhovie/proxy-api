@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Shelby",
-            "CumulativeCases": 3,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Shelby",
             "CumulativeCases": 4,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 68143,
             "TotalTestedChange": 141
+        },
+        {
+            "CasesChange": 9,
+            "CountyName": "Shelby",
+            "CumulativeCases": 6122,
+            "Deaths": 69,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 68365,
+            "TotalTestedChange": 222
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Shelby",
+            "CumulativeCases": 6123,
+            "Deaths": 69,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 68422,
+            "TotalTestedChange": 57
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Shelby",
+            "CumulativeCases": 6124,
+            "Deaths": 69,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 68448,
+            "TotalTestedChange": 26
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Shelby",
+            "CumulativeCases": 6128,
+            "Deaths": 69,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 68566,
+            "TotalTestedChange": 118
         }
     ]
 }

@@ -256,16 +256,6 @@
             "CumulativeCases": 2,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Massac",
-            "CumulativeCases": 2,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 30442,
             "TotalTestedChange": 107
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "Massac",
+            "CumulativeCases": 3790,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 30517,
+            "TotalTestedChange": 75
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Massac",
+            "CumulativeCases": 3792,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 30555,
+            "TotalTestedChange": 38
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Massac",
+            "CumulativeCases": 3794,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 30561,
+            "TotalTestedChange": 6
+        },
+        {
+            "CasesChange": 9,
+            "CountyName": "Massac",
+            "CumulativeCases": 3803,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 30612,
+            "TotalTestedChange": 51
         }
     ]
 }

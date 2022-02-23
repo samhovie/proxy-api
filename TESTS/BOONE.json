@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Boone",
-            "CumulativeCases": 7,
-            "Deaths": 1,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 4,
             "CountyName": "Boone",
             "CumulativeCases": 11,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 134919,
             "TotalTestedChange": 343
+        },
+        {
+            "CasesChange": 18,
+            "CountyName": "Boone",
+            "CumulativeCases": 13572,
+            "Deaths": 109,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 135410,
+            "TotalTestedChange": 491
+        },
+        {
+            "CasesChange": 14,
+            "CountyName": "Boone",
+            "CumulativeCases": 13586,
+            "Deaths": 109,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 135587,
+            "TotalTestedChange": 177
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "Boone",
+            "CumulativeCases": 13592,
+            "Deaths": 109,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 135616,
+            "TotalTestedChange": 29
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Boone",
+            "CumulativeCases": 13597,
+            "Deaths": 110,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 135772,
+            "TotalTestedChange": 156
         }
     ]
 }

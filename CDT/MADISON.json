@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Madison",
-            "CumulativeCases": 103,
-            "Deaths": 2,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 7,
             "CountyName": "Madison",
             "CumulativeCases": 110,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 753197,
             "TotalTestedChange": 2256
+        },
+        {
+            "CasesChange": 85,
+            "CountyName": "Madison",
+            "CumulativeCases": 69371,
+            "Deaths": 758,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 755742,
+            "TotalTestedChange": 2545
+        },
+        {
+            "CasesChange": 19,
+            "CountyName": "Madison",
+            "CumulativeCases": 69390,
+            "Deaths": 758,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 756311,
+            "TotalTestedChange": 569
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "Madison",
+            "CumulativeCases": 69400,
+            "Deaths": 758,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 756449,
+            "TotalTestedChange": 138
+        },
+        {
+            "CasesChange": 31,
+            "CountyName": "Madison",
+            "CumulativeCases": 69431,
+            "Deaths": 760,
+            "DeathsChange": 2,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 757275,
+            "TotalTestedChange": 826
         }
     ]
 }

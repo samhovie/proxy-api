@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "St. Clair",
-            "CumulativeCases": 173,
-            "Deaths": 7,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 16,
             "CountyName": "St. Clair",
             "CumulativeCases": 189,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 807427,
             "TotalTestedChange": 2026
+        },
+        {
+            "CasesChange": 52,
+            "CountyName": "St. Clair",
+            "CumulativeCases": 62781,
+            "Deaths": 709,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 811211,
+            "TotalTestedChange": 3784
+        },
+        {
+            "CasesChange": 36,
+            "CountyName": "St. Clair",
+            "CumulativeCases": 62817,
+            "Deaths": 709,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 812253,
+            "TotalTestedChange": 1042
+        },
+        {
+            "CasesChange": 24,
+            "CountyName": "St. Clair",
+            "CumulativeCases": 62841,
+            "Deaths": 709,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 812452,
+            "TotalTestedChange": 199
+        },
+        {
+            "CasesChange": 32,
+            "CountyName": "St. Clair",
+            "CumulativeCases": 62873,
+            "Deaths": 709,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 814077,
+            "TotalTestedChange": 1625
         }
     ]
 }

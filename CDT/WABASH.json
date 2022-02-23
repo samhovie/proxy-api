@@ -256,16 +256,6 @@
             "CumulativeCases": 2,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Wabash",
-            "CumulativeCases": 2,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 36951,
             "TotalTestedChange": 55
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Wabash",
+            "CumulativeCases": 3745,
+            "Deaths": 24,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 37114,
+            "TotalTestedChange": 163
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Wabash",
+            "CumulativeCases": 3745,
+            "Deaths": 25,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 37130,
+            "TotalTestedChange": 16
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Wabash",
+            "CumulativeCases": 3747,
+            "Deaths": 25,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 37141,
+            "TotalTestedChange": 11
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Wabash",
+            "CumulativeCases": 3747,
+            "Deaths": 25,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 37163,
+            "TotalTestedChange": 22
         }
     ]
 }

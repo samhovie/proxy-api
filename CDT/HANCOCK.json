@@ -256,16 +256,6 @@
             "CumulativeCases": 1,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Hancock",
-            "CumulativeCases": 1,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 39498,
             "TotalTestedChange": 67
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Hancock",
+            "CumulativeCases": 4320,
+            "Deaths": 44,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 39577,
+            "TotalTestedChange": 79
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Hancock",
+            "CumulativeCases": 4320,
+            "Deaths": 44,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 39599,
+            "TotalTestedChange": 22
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Hancock",
+            "CumulativeCases": 4324,
+            "Deaths": 44,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 39600,
+            "TotalTestedChange": 1
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Hancock",
+            "CumulativeCases": 4328,
+            "Deaths": 45,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 39643,
+            "TotalTestedChange": 43
         }
     ]
 }

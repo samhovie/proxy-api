@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Will",
-            "CumulativeCases": 1126,
-            "Deaths": 56,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 102,
             "CountyName": "Will",
             "CumulativeCases": 1228,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 2216260,
             "TotalTestedChange": 4500
+        },
+        {
+            "CasesChange": 80,
+            "CountyName": "Will",
+            "CumulativeCases": 159135,
+            "Deaths": 1472,
+            "DeathsChange": 5,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 2221927,
+            "TotalTestedChange": 5667
+        },
+        {
+            "CasesChange": 68,
+            "CountyName": "Will",
+            "CumulativeCases": 159203,
+            "Deaths": 1472,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 2224822,
+            "TotalTestedChange": 2895
+        },
+        {
+            "CasesChange": 53,
+            "CountyName": "Will",
+            "CumulativeCases": 159256,
+            "Deaths": 1474,
+            "DeathsChange": 2,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 2225712,
+            "TotalTestedChange": 890
+        },
+        {
+            "CasesChange": 72,
+            "CountyName": "Will",
+            "CumulativeCases": 159328,
+            "Deaths": 1474,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 2228363,
+            "TotalTestedChange": 2651
         }
     ]
 }

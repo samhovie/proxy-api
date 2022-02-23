@@ -256,16 +256,6 @@
             "CumulativeCases": 24,
             "Deaths": 3,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Christian",
-            "CumulativeCases": 24,
-            "Deaths": 3,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 126865,
             "TotalTestedChange": 184
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Christian",
+            "CumulativeCases": 9923,
+            "Deaths": 107,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 127557,
+            "TotalTestedChange": 692
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Christian",
+            "CumulativeCases": 9930,
+            "Deaths": 107,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 127646,
+            "TotalTestedChange": 89
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Christian",
+            "CumulativeCases": 9937,
+            "Deaths": 107,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 127832,
+            "TotalTestedChange": 186
+        },
+        {
+            "CasesChange": 11,
+            "CountyName": "Christian",
+            "CumulativeCases": 9948,
+            "Deaths": 107,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 128195,
+            "TotalTestedChange": 363
         }
     ]
 }

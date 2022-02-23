@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Kankakee",
-            "CumulativeCases": 185,
-            "Deaths": 9,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 19,
             "CountyName": "Kankakee",
             "CumulativeCases": 204,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 450645,
             "TotalTestedChange": 736
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "Kankakee",
+            "CumulativeCases": 28474,
+            "Deaths": 354,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 451420,
+            "TotalTestedChange": 775
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Kankakee",
+            "CumulativeCases": 28481,
+            "Deaths": 355,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 451728,
+            "TotalTestedChange": 308
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "Kankakee",
+            "CumulativeCases": 28487,
+            "Deaths": 355,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 451828,
+            "TotalTestedChange": 100
+        },
+        {
+            "CasesChange": 16,
+            "CountyName": "Kankakee",
+            "CumulativeCases": 28503,
+            "Deaths": 355,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 452263,
+            "TotalTestedChange": 435
         }
     ]
 }

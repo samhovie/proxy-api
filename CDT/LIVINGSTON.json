@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Livingston",
-            "CumulativeCases": 15,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Livingston",
             "CumulativeCases": 16,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 229408,
             "TotalTestedChange": 506
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Livingston",
+            "CumulativeCases": 10554,
+            "Deaths": 133,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 229752,
+            "TotalTestedChange": 344
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Livingston",
+            "CumulativeCases": 10557,
+            "Deaths": 134,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 229833,
+            "TotalTestedChange": 81
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Livingston",
+            "CumulativeCases": 10559,
+            "Deaths": 134,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 229860,
+            "TotalTestedChange": 27
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Livingston",
+            "CumulativeCases": 10566,
+            "Deaths": 134,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 230371,
+            "TotalTestedChange": 511
         }
     ]
 }

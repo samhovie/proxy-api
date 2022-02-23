@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "DeKalb",
-            "CumulativeCases": 33,
-            "Deaths": 1,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "DeKalb",
             "CumulativeCases": 34,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 317920,
             "TotalTestedChange": 1164
+        },
+        {
+            "CasesChange": 11,
+            "CountyName": "DeKalb",
+            "CumulativeCases": 22864,
+            "Deaths": 188,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 319223,
+            "TotalTestedChange": 1303
+        },
+        {
+            "CasesChange": 15,
+            "CountyName": "DeKalb",
+            "CumulativeCases": 22879,
+            "Deaths": 188,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 319469,
+            "TotalTestedChange": 246
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "DeKalb",
+            "CumulativeCases": 22881,
+            "Deaths": 188,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 319534,
+            "TotalTestedChange": 65
+        },
+        {
+            "CasesChange": 11,
+            "CountyName": "DeKalb",
+            "CumulativeCases": 22892,
+            "Deaths": 188,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 320007,
+            "TotalTestedChange": 473
         }
     ]
 }

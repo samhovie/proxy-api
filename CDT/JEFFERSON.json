@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Jefferson",
-            "CumulativeCases": 6,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Jefferson",
             "CumulativeCases": 7,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 135305,
             "TotalTestedChange": 188
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Jefferson",
+            "CumulativeCases": 10898,
+            "Deaths": 167,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 135729,
+            "TotalTestedChange": 424
+        },
+        {
+            "CasesChange": 18,
+            "CountyName": "Jefferson",
+            "CumulativeCases": 10916,
+            "Deaths": 167,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 136811,
+            "TotalTestedChange": 1082
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Jefferson",
+            "CumulativeCases": 10920,
+            "Deaths": 168,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 136841,
+            "TotalTestedChange": 30
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "Jefferson",
+            "CumulativeCases": 10926,
+            "Deaths": 168,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 136984,
+            "TotalTestedChange": 143
         }
     ]
 }

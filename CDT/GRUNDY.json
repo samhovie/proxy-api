@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Grundy",
-            "CumulativeCases": 17,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 4,
             "CountyName": "Grundy",
             "CumulativeCases": 21,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 144082,
             "TotalTestedChange": 206
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Grundy",
+            "CumulativeCases": 12436,
+            "Deaths": 133,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 144375,
+            "TotalTestedChange": 293
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "Grundy",
+            "CumulativeCases": 12446,
+            "Deaths": 133,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 144533,
+            "TotalTestedChange": 158
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Grundy",
+            "CumulativeCases": 12450,
+            "Deaths": 133,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 144559,
+            "TotalTestedChange": 26
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Grundy",
+            "CumulativeCases": 12454,
+            "Deaths": 133,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 144718,
+            "TotalTestedChange": 159
         }
     ]
 }

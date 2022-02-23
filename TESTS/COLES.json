@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Coles",
-            "CumulativeCases": 5,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Coles",
             "CumulativeCases": 6,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 197004,
             "TotalTestedChange": 583
+        },
+        {
+            "CasesChange": 11,
+            "CountyName": "Coles",
+            "CumulativeCases": 15031,
+            "Deaths": 164,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 197512,
+            "TotalTestedChange": 508
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Coles",
+            "CumulativeCases": 15038,
+            "Deaths": 164,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 197658,
+            "TotalTestedChange": 146
+        },
+        {
+            "CasesChange": 11,
+            "CountyName": "Coles",
+            "CumulativeCases": 15049,
+            "Deaths": 164,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 197769,
+            "TotalTestedChange": 111
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Coles",
+            "CumulativeCases": 15051,
+            "Deaths": 164,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 197988,
+            "TotalTestedChange": 219
         }
     ]
 }

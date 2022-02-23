@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "LaSalle",
-            "CumulativeCases": 18,
-            "Deaths": 1,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 2,
             "CountyName": "LaSalle",
             "CumulativeCases": 20,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 451989,
             "TotalTestedChange": 1146
+        },
+        {
+            "CasesChange": 29,
+            "CountyName": "LaSalle",
+            "CumulativeCases": 28419,
+            "Deaths": 374,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 453424,
+            "TotalTestedChange": 1435
+        },
+        {
+            "CasesChange": 12,
+            "CountyName": "LaSalle",
+            "CumulativeCases": 28431,
+            "Deaths": 374,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 453628,
+            "TotalTestedChange": 204
+        },
+        {
+            "CasesChange": 12,
+            "CountyName": "LaSalle",
+            "CumulativeCases": 28443,
+            "Deaths": 374,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 453917,
+            "TotalTestedChange": 289
+        },
+        {
+            "CasesChange": 17,
+            "CountyName": "LaSalle",
+            "CumulativeCases": 28460,
+            "Deaths": 374,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 454686,
+            "TotalTestedChange": 769
         }
     ]
 }

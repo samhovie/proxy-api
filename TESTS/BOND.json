@@ -256,16 +256,6 @@
             "CumulativeCases": 4,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Bond",
-            "CumulativeCases": 4,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 64509,
             "TotalTestedChange": 77
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Bond",
+            "CumulativeCases": 4279,
+            "Deaths": 30,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 64721,
+            "TotalTestedChange": 212
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Bond",
+            "CumulativeCases": 4279,
+            "Deaths": 30,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 64748,
+            "TotalTestedChange": 27
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Bond",
+            "CumulativeCases": 4279,
+            "Deaths": 30,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 64762,
+            "TotalTestedChange": 14
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Bond",
+            "CumulativeCases": 4280,
+            "Deaths": 30,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 64829,
+            "TotalTestedChange": 67
         }
     ]
 }

@@ -256,16 +256,6 @@
             "CumulativeCases": 10,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Williamson",
-            "CumulativeCases": 10,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 247563,
             "TotalTestedChange": 592
+        },
+        {
+            "CasesChange": 8,
+            "CountyName": "Williamson",
+            "CumulativeCases": 22214,
+            "Deaths": 236,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 248113,
+            "TotalTestedChange": 550
+        },
+        {
+            "CasesChange": 15,
+            "CountyName": "Williamson",
+            "CumulativeCases": 22229,
+            "Deaths": 236,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 248387,
+            "TotalTestedChange": 274
+        },
+        {
+            "CasesChange": 16,
+            "CountyName": "Williamson",
+            "CumulativeCases": 22245,
+            "Deaths": 237,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 248499,
+            "TotalTestedChange": 112
+        },
+        {
+            "CasesChange": 9,
+            "CountyName": "Williamson",
+            "CumulativeCases": 22254,
+            "Deaths": 237,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 248968,
+            "TotalTestedChange": 469
         }
     ]
 }

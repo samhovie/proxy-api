@@ -256,16 +256,6 @@
             "CumulativeCases": 7,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Woodford",
-            "CumulativeCases": 7,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 146810,
             "TotalTestedChange": 441
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Woodford",
+            "CumulativeCases": 10207,
+            "Deaths": 110,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 147011,
+            "TotalTestedChange": 201
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Woodford",
+            "CumulativeCases": 10209,
+            "Deaths": 110,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 147135,
+            "TotalTestedChange": 124
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Woodford",
+            "CumulativeCases": 10211,
+            "Deaths": 110,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 147158,
+            "TotalTestedChange": 23
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "Woodford",
+            "CumulativeCases": 10217,
+            "Deaths": 111,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 147279,
+            "TotalTestedChange": 121
         }
     ]
 }

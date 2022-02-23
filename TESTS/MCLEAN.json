@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "McLean",
-            "CumulativeCases": 75,
-            "Deaths": 2,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 2,
             "CountyName": "McLean",
             "CumulativeCases": 77,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 896933,
             "TotalTestedChange": 4607
+        },
+        {
+            "CasesChange": 23,
+            "CountyName": "McLean",
+            "CumulativeCases": 48710,
+            "Deaths": 279,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 899047,
+            "TotalTestedChange": 2114
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "McLean",
+            "CumulativeCases": 48716,
+            "Deaths": 279,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 900401,
+            "TotalTestedChange": 1354
+        },
+        {
+            "CasesChange": 18,
+            "CountyName": "McLean",
+            "CumulativeCases": 48734,
+            "Deaths": 279,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 900589,
+            "TotalTestedChange": 188
+        },
+        {
+            "CasesChange": 32,
+            "CountyName": "McLean",
+            "CumulativeCases": 48766,
+            "Deaths": 280,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 901586,
+            "TotalTestedChange": 997
         }
     ]
 }

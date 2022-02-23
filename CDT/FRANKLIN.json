@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Franklin",
-            "CumulativeCases": 3,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Franklin",
             "CumulativeCases": 4,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 121716,
             "TotalTestedChange": 233
+        },
+        {
+            "CasesChange": 14,
+            "CountyName": "Franklin",
+            "CumulativeCases": 12164,
+            "Deaths": 159,
+            "DeathsChange": 2,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 122066,
+            "TotalTestedChange": 350
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Franklin",
+            "CumulativeCases": 12167,
+            "Deaths": 159,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 122238,
+            "TotalTestedChange": 172
+        },
+        {
+            "CasesChange": 12,
+            "CountyName": "Franklin",
+            "CumulativeCases": 12179,
+            "Deaths": 159,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 122303,
+            "TotalTestedChange": 65
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Franklin",
+            "CumulativeCases": 12181,
+            "Deaths": 159,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 122518,
+            "TotalTestedChange": 215
         }
     ]
 }

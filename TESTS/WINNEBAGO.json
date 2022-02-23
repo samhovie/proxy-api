@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Winnebago",
-            "CumulativeCases": 80,
-            "Deaths": 4,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 14,
             "CountyName": "Winnebago",
             "CumulativeCases": 94,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 909795,
             "TotalTestedChange": 1708
+        },
+        {
+            "CasesChange": 32,
+            "CountyName": "Winnebago",
+            "CumulativeCases": 75346,
+            "Deaths": 785,
+            "DeathsChange": 4,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 912646,
+            "TotalTestedChange": 2851
+        },
+        {
+            "CasesChange": 56,
+            "CountyName": "Winnebago",
+            "CumulativeCases": 75402,
+            "Deaths": 786,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 913454,
+            "TotalTestedChange": 808
+        },
+        {
+            "CasesChange": 29,
+            "CountyName": "Winnebago",
+            "CumulativeCases": 75431,
+            "Deaths": 786,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 913603,
+            "TotalTestedChange": 149
+        },
+        {
+            "CasesChange": 32,
+            "CountyName": "Winnebago",
+            "CumulativeCases": 75463,
+            "Deaths": 786,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 914597,
+            "TotalTestedChange": 994
         }
     ]
 }

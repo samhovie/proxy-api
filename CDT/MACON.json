@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Macon",
-            "CumulativeCases": 23,
-            "Deaths": 1,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 12,
             "CountyName": "Macon",
             "CumulativeCases": 35,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 435394,
             "TotalTestedChange": 885
+        },
+        {
+            "CasesChange": 14,
+            "CountyName": "Macon",
+            "CumulativeCases": 30058,
+            "Deaths": 328,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 436602,
+            "TotalTestedChange": 1208
+        },
+        {
+            "CasesChange": 12,
+            "CountyName": "Macon",
+            "CumulativeCases": 30070,
+            "Deaths": 328,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 437056,
+            "TotalTestedChange": 454
+        },
+        {
+            "CasesChange": 20,
+            "CountyName": "Macon",
+            "CumulativeCases": 30090,
+            "Deaths": 328,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 437252,
+            "TotalTestedChange": 196
+        },
+        {
+            "CasesChange": 33,
+            "CountyName": "Macon",
+            "CumulativeCases": 30123,
+            "Deaths": 328,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 438234,
+            "TotalTestedChange": 982
         }
     ]
 }

@@ -256,16 +256,6 @@
             "CumulativeCases": 0,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Cass",
-            "CumulativeCases": 0,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 45708,
             "TotalTestedChange": 58
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Cass",
+            "CumulativeCases": 4561,
+            "Deaths": 35,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 45797,
+            "TotalTestedChange": 89
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Cass",
+            "CumulativeCases": 4561,
+            "Deaths": 35,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 45824,
+            "TotalTestedChange": 27
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Cass",
+            "CumulativeCases": 4561,
+            "Deaths": 35,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 45830,
+            "TotalTestedChange": 6
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Cass",
+            "CumulativeCases": 4563,
+            "Deaths": 35,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 45862,
+            "TotalTestedChange": 32
         }
     ]
 }

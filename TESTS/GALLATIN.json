@@ -256,16 +256,6 @@
             "CumulativeCases": 1,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Gallatin",
-            "CumulativeCases": 1,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 11470,
             "TotalTestedChange": 42
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Gallatin",
+            "CumulativeCases": 1378,
+            "Deaths": 15,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 11507,
+            "TotalTestedChange": 37
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Gallatin",
+            "CumulativeCases": 1379,
+            "Deaths": 15,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 11519,
+            "TotalTestedChange": 12
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Gallatin",
+            "CumulativeCases": 1380,
+            "Deaths": 15,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 11526,
+            "TotalTestedChange": 7
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Gallatin",
+            "CumulativeCases": 1381,
+            "Deaths": 15,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 11552,
+            "TotalTestedChange": 26
         }
     ]
 }

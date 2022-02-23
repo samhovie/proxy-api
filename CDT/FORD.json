@@ -256,16 +256,6 @@
             "CumulativeCases": 4,
             "Deaths": 1,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Ford",
-            "CumulativeCases": 4,
-            "Deaths": 1,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 70466,
             "TotalTestedChange": 195
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Ford",
+            "CumulativeCases": 4369,
+            "Deaths": 63,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 70718,
+            "TotalTestedChange": 252
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Ford",
+            "CumulativeCases": 4371,
+            "Deaths": 64,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 70812,
+            "TotalTestedChange": 94
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Ford",
+            "CumulativeCases": 4371,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 70841,
+            "TotalTestedChange": 29
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Ford",
+            "CumulativeCases": 4373,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 70961,
+            "TotalTestedChange": 120
         }
     ]
 }

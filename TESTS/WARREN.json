@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Warren",
-            "CumulativeCases": 1,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Warren",
             "CumulativeCases": 2,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 44911,
             "TotalTestedChange": 135
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Warren",
+            "CumulativeCases": 3947,
+            "Deaths": 79,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 45046,
+            "TotalTestedChange": 135
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Warren",
+            "CumulativeCases": 3948,
+            "Deaths": 79,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 45066,
+            "TotalTestedChange": 20
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Warren",
+            "CumulativeCases": 3948,
+            "Deaths": 79,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 45078,
+            "TotalTestedChange": 12
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Warren",
+            "CumulativeCases": 3955,
+            "Deaths": 79,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 45183,
+            "TotalTestedChange": 105
         }
     ]
 }

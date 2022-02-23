@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Fayette",
-            "CumulativeCases": 9,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 2,
             "CountyName": "Fayette",
             "CumulativeCases": 11,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 81832,
             "TotalTestedChange": 116
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Fayette",
+            "CumulativeCases": 7016,
+            "Deaths": 93,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 81907,
+            "TotalTestedChange": 75
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Fayette",
+            "CumulativeCases": 7016,
+            "Deaths": 93,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 82130,
+            "TotalTestedChange": 223
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Fayette",
+            "CumulativeCases": 7017,
+            "Deaths": 93,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 82170,
+            "TotalTestedChange": 40
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Fayette",
+            "CumulativeCases": 7018,
+            "Deaths": 93,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 82255,
+            "TotalTestedChange": 85
         }
     ]
 }

@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Lee",
-            "CumulativeCases": 12,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Lee",
             "CumulativeCases": 13,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 176793,
             "TotalTestedChange": 539
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Lee",
+            "CumulativeCases": 8634,
+            "Deaths": 77,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 177212,
+            "TotalTestedChange": 419
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Lee",
+            "CumulativeCases": 8641,
+            "Deaths": 77,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 177263,
+            "TotalTestedChange": 51
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Lee",
+            "CumulativeCases": 8641,
+            "Deaths": 77,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 177274,
+            "TotalTestedChange": 11
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Lee",
+            "CumulativeCases": 8645,
+            "Deaths": 76,
+            "DeathsChange": -1,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 177348,
+            "TotalTestedChange": 74
         }
     ]
 }

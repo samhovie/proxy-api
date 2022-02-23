@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Lake",
-            "CumulativeCases": 1331,
-            "Deaths": 39,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 114,
             "CountyName": "Lake",
             "CumulativeCases": 1445,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 2538763,
             "TotalTestedChange": 7529
+        },
+        {
+            "CasesChange": 135,
+            "CountyName": "Lake",
+            "CumulativeCases": 146119,
+            "Deaths": 1304,
+            "DeathsChange": 4,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 2548739,
+            "TotalTestedChange": 9976
+        },
+        {
+            "CasesChange": 102,
+            "CountyName": "Lake",
+            "CumulativeCases": 146221,
+            "Deaths": 1306,
+            "DeathsChange": 2,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 2551972,
+            "TotalTestedChange": 3233
+        },
+        {
+            "CasesChange": 85,
+            "CountyName": "Lake",
+            "CumulativeCases": 146306,
+            "Deaths": 1306,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 2552711,
+            "TotalTestedChange": 739
+        },
+        {
+            "CasesChange": 96,
+            "CountyName": "Lake",
+            "CumulativeCases": 146402,
+            "Deaths": 1306,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 2554820,
+            "TotalTestedChange": 2109
         }
     ]
 }

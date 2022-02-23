@@ -256,16 +256,6 @@
             "CumulativeCases": 8,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Stephenson",
-            "CumulativeCases": 8,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 140944,
             "TotalTestedChange": 402
+        },
+        {
+            "CasesChange": 15,
+            "CountyName": "Stephenson",
+            "CumulativeCases": 11324,
+            "Deaths": 152,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 141373,
+            "TotalTestedChange": 429
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Stephenson",
+            "CumulativeCases": 11326,
+            "Deaths": 152,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 141658,
+            "TotalTestedChange": 285
+        },
+        {
+            "CasesChange": 7,
+            "CountyName": "Stephenson",
+            "CumulativeCases": 11333,
+            "Deaths": 152,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 141699,
+            "TotalTestedChange": 41
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Stephenson",
+            "CumulativeCases": 11334,
+            "Deaths": 152,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 142032,
+            "TotalTestedChange": 333
         }
     ]
 }

@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Pulaski",
-            "CumulativeCases": 4,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Pulaski",
             "CumulativeCases": 5,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 16624,
             "TotalTestedChange": 43
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Pulaski",
+            "CumulativeCases": 1701,
+            "Deaths": 16,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 16665,
+            "TotalTestedChange": 41
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Pulaski",
+            "CumulativeCases": 1701,
+            "Deaths": 16,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 16684,
+            "TotalTestedChange": 19
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Pulaski",
+            "CumulativeCases": 1703,
+            "Deaths": 16,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 16695,
+            "TotalTestedChange": 11
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Pulaski",
+            "CumulativeCases": 1702,
+            "Deaths": 16,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 16712,
+            "TotalTestedChange": 17
         }
     ]
 }

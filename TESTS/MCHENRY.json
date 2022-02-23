@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "McHenry",
-            "CumulativeCases": 220,
-            "Deaths": 6,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 15,
             "CountyName": "McHenry",
             "CumulativeCases": 235,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 891881,
             "TotalTestedChange": 2398
+        },
+        {
+            "CasesChange": 42,
+            "CountyName": "McHenry",
+            "CumulativeCases": 74357,
+            "Deaths": 453,
+            "DeathsChange": 5,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 894804,
+            "TotalTestedChange": 2923
+        },
+        {
+            "CasesChange": 44,
+            "CountyName": "McHenry",
+            "CumulativeCases": 74401,
+            "Deaths": 454,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 896067,
+            "TotalTestedChange": 1263
+        },
+        {
+            "CasesChange": 27,
+            "CountyName": "McHenry",
+            "CumulativeCases": 74428,
+            "Deaths": 455,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 896362,
+            "TotalTestedChange": 295
+        },
+        {
+            "CasesChange": 47,
+            "CountyName": "McHenry",
+            "CumulativeCases": 74475,
+            "Deaths": 455,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 897127,
+            "TotalTestedChange": 765
         }
     ]
 }

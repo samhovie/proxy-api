@@ -256,16 +256,6 @@
             "CumulativeCases": 0,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Brown",
-            "CumulativeCases": 0,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 54799,
             "TotalTestedChange": 631
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Brown",
+            "CumulativeCases": 2364,
+            "Deaths": 15,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 54904,
+            "TotalTestedChange": 105
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Brown",
+            "CumulativeCases": 2366,
+            "Deaths": 15,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 54916,
+            "TotalTestedChange": 12
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Brown",
+            "CumulativeCases": 2367,
+            "Deaths": 15,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 54963,
+            "TotalTestedChange": 47
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Brown",
+            "CumulativeCases": 2367,
+            "Deaths": 15,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 55546,
+            "TotalTestedChange": 583
         }
     ]
 }

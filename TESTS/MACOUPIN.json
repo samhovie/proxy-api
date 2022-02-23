@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Macoupin",
-            "CumulativeCases": 14,
-            "Deaths": 0,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 2,
             "CountyName": "Macoupin",
             "CumulativeCases": 16,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 162436,
             "TotalTestedChange": 443
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Macoupin",
+            "CumulativeCases": 12554,
+            "Deaths": 136,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 162984,
+            "TotalTestedChange": 548
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "Macoupin",
+            "CumulativeCases": 12560,
+            "Deaths": 136,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 163113,
+            "TotalTestedChange": 129
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "Macoupin",
+            "CumulativeCases": 12566,
+            "Deaths": 136,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 163160,
+            "TotalTestedChange": 47
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "Macoupin",
+            "CumulativeCases": 12576,
+            "Deaths": 137,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 163539,
+            "TotalTestedChange": 379
         }
     ]
 }

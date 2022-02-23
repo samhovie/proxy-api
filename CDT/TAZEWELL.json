@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Tazewell",
-            "CumulativeCases": 18,
-            "Deaths": 2,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Tazewell",
             "CumulativeCases": 19,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 481129,
             "TotalTestedChange": 1454
+        },
+        {
+            "CasesChange": 16,
+            "CountyName": "Tazewell",
+            "CumulativeCases": 36067,
+            "Deaths": 449,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 482032,
+            "TotalTestedChange": 903
+        },
+        {
+            "CasesChange": 15,
+            "CountyName": "Tazewell",
+            "CumulativeCases": 36082,
+            "Deaths": 449,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 482626,
+            "TotalTestedChange": 594
+        },
+        {
+            "CasesChange": 29,
+            "CountyName": "Tazewell",
+            "CumulativeCases": 36111,
+            "Deaths": 449,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 482759,
+            "TotalTestedChange": 133
+        },
+        {
+            "CasesChange": 26,
+            "CountyName": "Tazewell",
+            "CumulativeCases": 36137,
+            "Deaths": 450,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 483330,
+            "TotalTestedChange": 571
         }
     ]
 }

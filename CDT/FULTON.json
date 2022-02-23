@@ -256,16 +256,6 @@
             "CumulativeCases": 1,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Fulton",
-            "CumulativeCases": 1,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 192580,
             "TotalTestedChange": 147
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Fulton",
+            "CumulativeCases": 9860,
+            "Deaths": 119,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 192848,
+            "TotalTestedChange": 268
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "Fulton",
+            "CumulativeCases": 9870,
+            "Deaths": 119,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 193948,
+            "TotalTestedChange": 1100
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Fulton",
+            "CumulativeCases": 9871,
+            "Deaths": 119,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 193977,
+            "TotalTestedChange": 29
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "Fulton",
+            "CumulativeCases": 9881,
+            "Deaths": 119,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 194106,
+            "TotalTestedChange": 129
         }
     ]
 }

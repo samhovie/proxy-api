@@ -256,16 +256,6 @@
             "CumulativeCases": 0,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Henderson",
-            "CumulativeCases": 0,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 14706,
             "TotalTestedChange": 14
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Henderson",
+            "CumulativeCases": 1132,
+            "Deaths": 17,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 14734,
+            "TotalTestedChange": 28
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Henderson",
+            "CumulativeCases": 1134,
+            "Deaths": 17,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 14743,
+            "TotalTestedChange": 9
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Henderson",
+            "CumulativeCases": 1134,
+            "Deaths": 17,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 14746,
+            "TotalTestedChange": 3
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Henderson",
+            "CumulativeCases": 1134,
+            "Deaths": 17,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 14754,
+            "TotalTestedChange": 8
         }
     ]
 }

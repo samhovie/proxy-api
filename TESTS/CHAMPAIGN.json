@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Champaign",
-            "CumulativeCases": 85,
-            "Deaths": 2,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 1,
             "CountyName": "Champaign",
             "CumulativeCases": 86,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 3469870,
             "TotalTestedChange": 2214
+        },
+        {
+            "CasesChange": 41,
+            "CountyName": "Champaign",
+            "CumulativeCases": 61171,
+            "Deaths": 282,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 3474337,
+            "TotalTestedChange": 4467
+        },
+        {
+            "CasesChange": 23,
+            "CountyName": "Champaign",
+            "CumulativeCases": 61194,
+            "Deaths": 282,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 3475899,
+            "TotalTestedChange": 1562
+        },
+        {
+            "CasesChange": 52,
+            "CountyName": "Champaign",
+            "CumulativeCases": 61246,
+            "Deaths": 282,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 3477803,
+            "TotalTestedChange": 1904
+        },
+        {
+            "CasesChange": 61,
+            "CountyName": "Champaign",
+            "CumulativeCases": 61307,
+            "Deaths": 283,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 3481819,
+            "TotalTestedChange": 4016
         }
     ]
 }

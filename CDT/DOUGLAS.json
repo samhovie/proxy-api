@@ -256,16 +256,6 @@
             "CumulativeCases": 11,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Douglas",
-            "CumulativeCases": 11,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 74724,
             "TotalTestedChange": 89
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Douglas",
+            "CumulativeCases": 6404,
+            "Deaths": 52,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 74947,
+            "TotalTestedChange": 223
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Douglas",
+            "CumulativeCases": 6406,
+            "Deaths": 52,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 74997,
+            "TotalTestedChange": 50
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Douglas",
+            "CumulativeCases": 6406,
+            "Deaths": 52,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 75039,
+            "TotalTestedChange": 42
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Douglas",
+            "CumulativeCases": 6409,
+            "Deaths": 52,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 75114,
+            "TotalTestedChange": 75
         }
     ]
 }

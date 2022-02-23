@@ -256,16 +256,6 @@
             "CumulativeCases": 3,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Clark",
-            "CumulativeCases": 3,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 42892,
             "TotalTestedChange": 118
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Clark",
+            "CumulativeCases": 4773,
+            "Deaths": 50,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 43118,
+            "TotalTestedChange": 226
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Clark",
+            "CumulativeCases": 4774,
+            "Deaths": 50,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 43202,
+            "TotalTestedChange": 84
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Clark",
+            "CumulativeCases": 4776,
+            "Deaths": 50,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 43222,
+            "TotalTestedChange": 20
+        },
+        {
+            "CasesChange": 5,
+            "CountyName": "Clark",
+            "CumulativeCases": 4781,
+            "Deaths": 50,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 43317,
+            "TotalTestedChange": 95
         }
     ]
 }

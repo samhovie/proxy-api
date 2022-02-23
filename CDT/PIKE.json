@@ -256,16 +256,6 @@
             "CumulativeCases": 1,
             "Deaths": 0,
             "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
-            "CasesChange": 0,
-            "CountyName": "Pike",
-            "CumulativeCases": 1,
-            "Deaths": 0,
-            "DeathsChange": 0,
             "ReportDate": "2020-04-12T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 55526,
             "TotalTestedChange": 88
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Pike",
+            "CumulativeCases": 4966,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 55710,
+            "TotalTestedChange": 184
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Pike",
+            "CumulativeCases": 4967,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 55752,
+            "TotalTestedChange": 42
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Pike",
+            "CumulativeCases": 4967,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 55760,
+            "TotalTestedChange": 8
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Pike",
+            "CumulativeCases": 4970,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 55837,
+            "TotalTestedChange": 77
         }
     ]
 }

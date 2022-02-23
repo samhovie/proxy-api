@@ -251,16 +251,6 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 0,
-            "CountyName": "Kendall",
-            "CumulativeCases": 103,
-            "Deaths": 2,
-            "DeathsChange": 0,
-            "ReportDate": "2020-04-11T00:00:00",
-            "TotalTested": 0,
-            "TotalTestedChange": 0
-        },
-        {
             "CasesChange": 2,
             "CountyName": "Kendall",
             "CumulativeCases": 105,
@@ -7039,6 +7029,46 @@
             "ReportDate": "2022-02-18T00:00:00",
             "TotalTested": 343950,
             "TotalTestedChange": 568
+        },
+        {
+            "CasesChange": 16,
+            "CountyName": "Kendall",
+            "CumulativeCases": 30332,
+            "Deaths": 153,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-19T00:00:00",
+            "TotalTested": 344798,
+            "TotalTestedChange": 848
+        },
+        {
+            "CasesChange": 16,
+            "CountyName": "Kendall",
+            "CumulativeCases": 30348,
+            "Deaths": 153,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-20T00:00:00",
+            "TotalTested": 345109,
+            "TotalTestedChange": 311
+        },
+        {
+            "CasesChange": 16,
+            "CountyName": "Kendall",
+            "CumulativeCases": 30364,
+            "Deaths": 153,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-21T00:00:00",
+            "TotalTested": 345211,
+            "TotalTestedChange": 102
+        },
+        {
+            "CasesChange": 23,
+            "CountyName": "Kendall",
+            "CumulativeCases": 30387,
+            "Deaths": 153,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-22T00:00:00",
+            "TotalTested": 346000,
+            "TotalTestedChange": 789
         }
     ]
 }

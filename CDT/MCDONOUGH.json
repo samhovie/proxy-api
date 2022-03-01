@@ -7099,6 +7099,36 @@
             "ReportDate": "2022-02-25T00:00:00",
             "TotalTested": 131894,
             "TotalTestedChange": 575
+        },
+        {
+            "CasesChange": 10,
+            "CountyName": "McDonough",
+            "CumulativeCases": 7113,
+            "Deaths": 85,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-26T00:00:00",
+            "TotalTested": 132257,
+            "TotalTestedChange": 363
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "McDonough",
+            "CumulativeCases": 7114,
+            "Deaths": 86,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-27T00:00:00",
+            "TotalTested": 132314,
+            "TotalTestedChange": 57
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "McDonough",
+            "CumulativeCases": 7113,
+            "Deaths": 86,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-28T00:00:00",
+            "TotalTested": 132328,
+            "TotalTestedChange": 14
         }
     ]
 }

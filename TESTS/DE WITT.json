@@ -7099,6 +7099,36 @@
             "ReportDate": "2022-02-25T00:00:00",
             "TotalTested": 63553,
             "TotalTestedChange": 213
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "De Witt",
+            "CumulativeCases": 4292,
+            "Deaths": 35,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-26T00:00:00",
+            "TotalTested": 63887,
+            "TotalTestedChange": 334
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "De Witt",
+            "CumulativeCases": 4292,
+            "Deaths": 35,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-27T00:00:00",
+            "TotalTested": 63932,
+            "TotalTestedChange": 45
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "De Witt",
+            "CumulativeCases": 4293,
+            "Deaths": 36,
+            "DeathsChange": 1,
+            "ReportDate": "2022-02-28T00:00:00",
+            "TotalTested": 63937,
+            "TotalTestedChange": 5
         }
     ]
 }

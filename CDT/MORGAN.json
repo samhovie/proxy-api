@@ -7099,6 +7099,36 @@
             "ReportDate": "2022-02-25T00:00:00",
             "TotalTested": 144030,
             "TotalTestedChange": 318
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "Morgan",
+            "CumulativeCases": 9359,
+            "Deaths": 126,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-26T00:00:00",
+            "TotalTested": 144600,
+            "TotalTestedChange": 570
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Morgan",
+            "CumulativeCases": 9359,
+            "Deaths": 126,
+            "DeathsChange": 0,
+            "ReportDate": "2022-02-27T00:00:00",
+            "TotalTested": 144654,
+            "TotalTestedChange": 54
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Morgan",
+            "CumulativeCases": 9360,
+            "Deaths": 125,
+            "DeathsChange": -1,
+            "ReportDate": "2022-02-28T00:00:00",
+            "TotalTested": 144664,
+            "TotalTestedChange": 10
         }
     ]
 }

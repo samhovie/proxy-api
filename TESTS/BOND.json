@@ -7169,6 +7169,36 @@
             "ReportDate": "2022-03-04T00:00:00",
             "TotalTested": 65382,
             "TotalTestedChange": 42
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Bond",
+            "CumulativeCases": 4294,
+            "Deaths": 29,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-05T00:00:00",
+            "TotalTested": 65530,
+            "TotalTestedChange": 148
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Bond",
+            "CumulativeCases": 4295,
+            "Deaths": 29,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-06T00:00:00",
+            "TotalTested": 65556,
+            "TotalTestedChange": 26
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Bond",
+            "CumulativeCases": 4295,
+            "Deaths": 29,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-07T00:00:00",
+            "TotalTested": 65563,
+            "TotalTestedChange": 7
         }
     ]
 }

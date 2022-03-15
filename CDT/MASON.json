@@ -7239,6 +7239,36 @@
             "ReportDate": "2022-03-11T00:00:00",
             "TotalTested": 60708,
             "TotalTestedChange": 126
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Mason",
+            "CumulativeCases": 3880,
+            "Deaths": 60,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-12T00:00:00",
+            "TotalTested": 60763,
+            "TotalTestedChange": 55
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Mason",
+            "CumulativeCases": 3881,
+            "Deaths": 60,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-13T00:00:00",
+            "TotalTested": 60800,
+            "TotalTestedChange": 37
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Mason",
+            "CumulativeCases": 3881,
+            "Deaths": 60,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-14T00:00:00",
+            "TotalTested": 60804,
+            "TotalTestedChange": 4
         }
     ]
 }

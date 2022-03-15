@@ -7239,6 +7239,36 @@
             "ReportDate": "2022-03-11T00:00:00",
             "TotalTested": 194861,
             "TotalTestedChange": 468
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Logan",
+            "CumulativeCases": 9410,
+            "Deaths": 84,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-12T00:00:00",
+            "TotalTested": 195106,
+            "TotalTestedChange": 245
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Logan",
+            "CumulativeCases": 9411,
+            "Deaths": 84,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-13T00:00:00",
+            "TotalTested": 195281,
+            "TotalTestedChange": 175
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Logan",
+            "CumulativeCases": 9411,
+            "Deaths": 84,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-14T00:00:00",
+            "TotalTested": 195286,
+            "TotalTestedChange": 5
         }
     ]
 }

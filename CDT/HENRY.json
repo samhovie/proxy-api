@@ -7239,6 +7239,36 @@
             "ReportDate": "2022-03-11T00:00:00",
             "TotalTested": 156467,
             "TotalTestedChange": 196
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Henry",
+            "CumulativeCases": 12591,
+            "Deaths": 118,
+            "DeathsChange": 1,
+            "ReportDate": "2022-03-12T00:00:00",
+            "TotalTested": 156692,
+            "TotalTestedChange": 225
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Henry",
+            "CumulativeCases": 12592,
+            "Deaths": 118,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-13T00:00:00",
+            "TotalTested": 156782,
+            "TotalTestedChange": 90
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Henry",
+            "CumulativeCases": 12594,
+            "Deaths": 118,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-14T00:00:00",
+            "TotalTested": 156813,
+            "TotalTestedChange": 31
         }
     ]
 }

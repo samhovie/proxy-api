@@ -7239,6 +7239,36 @@
             "ReportDate": "2022-03-11T00:00:00",
             "TotalTested": 108255,
             "TotalTestedChange": 56
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Johnson",
+            "CumulativeCases": 4441,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-12T00:00:00",
+            "TotalTested": 108495,
+            "TotalTestedChange": 240
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Johnson",
+            "CumulativeCases": 4442,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-13T00:00:00",
+            "TotalTested": 108511,
+            "TotalTestedChange": 16
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Johnson",
+            "CumulativeCases": 4442,
+            "Deaths": 40,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-14T00:00:00",
+            "TotalTested": 108524,
+            "TotalTestedChange": 13
         }
     ]
 }

@@ -7309,6 +7309,36 @@
             "ReportDate": "2022-03-18T00:00:00",
             "TotalTested": 64789,
             "TotalTestedChange": 34
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Richland",
+            "CumulativeCases": 5153,
+            "Deaths": 74,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-19T00:00:00",
+            "TotalTested": 64854,
+            "TotalTestedChange": 65
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Richland",
+            "CumulativeCases": 5153,
+            "Deaths": 74,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-20T00:00:00",
+            "TotalTested": 64866,
+            "TotalTestedChange": 12
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Richland",
+            "CumulativeCases": 5152,
+            "Deaths": 74,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-21T00:00:00",
+            "TotalTested": 64868,
+            "TotalTestedChange": 2
         }
     ]
 }

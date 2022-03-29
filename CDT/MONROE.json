@@ -7379,6 +7379,36 @@
             "ReportDate": "2022-03-25T00:00:00",
             "TotalTested": 85110,
             "TotalTestedChange": 58
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Monroe",
+            "CumulativeCases": 9450,
+            "Deaths": 127,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-26T00:00:00",
+            "TotalTested": 85200,
+            "TotalTestedChange": 90
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Monroe",
+            "CumulativeCases": 9450,
+            "Deaths": 127,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-27T00:00:00",
+            "TotalTested": 85220,
+            "TotalTestedChange": 20
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Monroe",
+            "CumulativeCases": 9451,
+            "Deaths": 127,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-28T00:00:00",
+            "TotalTested": 85239,
+            "TotalTestedChange": 19
         }
     ]
 }

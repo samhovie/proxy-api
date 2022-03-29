@@ -7379,6 +7379,36 @@
             "ReportDate": "2022-03-25T00:00:00",
             "TotalTested": 109643,
             "TotalTestedChange": 123
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Lawrence",
+            "CumulativeCases": 5473,
+            "Deaths": 42,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-26T00:00:00",
+            "TotalTested": 109678,
+            "TotalTestedChange": 35
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Lawrence",
+            "CumulativeCases": 5473,
+            "Deaths": 42,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-27T00:00:00",
+            "TotalTested": 109684,
+            "TotalTestedChange": 6
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Lawrence",
+            "CumulativeCases": 5474,
+            "Deaths": 42,
+            "DeathsChange": 0,
+            "ReportDate": "2022-03-28T00:00:00",
+            "TotalTested": 109690,
+            "TotalTestedChange": 6
         }
     ]
 }

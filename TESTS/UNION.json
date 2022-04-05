@@ -7449,6 +7449,36 @@
             "ReportDate": "2022-04-01T00:00:00",
             "TotalTested": 93968,
             "TotalTestedChange": 41
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Union",
+            "CumulativeCases": 5366,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-02T00:00:00",
+            "TotalTested": 94093,
+            "TotalTestedChange": 125
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Union",
+            "CumulativeCases": 5367,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-03T00:00:00",
+            "TotalTested": 94135,
+            "TotalTestedChange": 42
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Union",
+            "CumulativeCases": 5366,
+            "Deaths": 64,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-04T00:00:00",
+            "TotalTested": 94154,
+            "TotalTestedChange": 19
         }
     ]
 }

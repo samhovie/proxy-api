@@ -7449,6 +7449,36 @@
             "ReportDate": "2022-04-01T00:00:00",
             "TotalTested": 87276,
             "TotalTestedChange": 121
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Crawford",
+            "CumulativeCases": 6185,
+            "Deaths": 44,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-02T00:00:00",
+            "TotalTested": 87324,
+            "TotalTestedChange": 48
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Crawford",
+            "CumulativeCases": 6186,
+            "Deaths": 44,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-03T00:00:00",
+            "TotalTested": 87336,
+            "TotalTestedChange": 12
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Crawford",
+            "CumulativeCases": 6186,
+            "Deaths": 44,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-04T00:00:00",
+            "TotalTested": 87351,
+            "TotalTestedChange": 15
         }
     ]
 }

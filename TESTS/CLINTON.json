@@ -7449,6 +7449,36 @@
             "ReportDate": "2022-04-01T00:00:00",
             "TotalTested": 150004,
             "TotalTestedChange": 153
+        },
+        {
+            "CasesChange": 6,
+            "CountyName": "Clinton",
+            "CumulativeCases": 11958,
+            "Deaths": 113,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-02T00:00:00",
+            "TotalTested": 150140,
+            "TotalTestedChange": 136
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Clinton",
+            "CumulativeCases": 11958,
+            "Deaths": 113,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-03T00:00:00",
+            "TotalTested": 150193,
+            "TotalTestedChange": 53
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Clinton",
+            "CumulativeCases": 11957,
+            "Deaths": 113,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-04T00:00:00",
+            "TotalTested": 150218,
+            "TotalTestedChange": 25
         }
     ]
 }

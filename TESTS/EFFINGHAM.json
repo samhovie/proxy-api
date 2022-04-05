@@ -7449,6 +7449,36 @@
             "ReportDate": "2022-04-01T00:00:00",
             "TotalTested": 108212,
             "TotalTestedChange": 182
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Effingham",
+            "CumulativeCases": 10642,
+            "Deaths": 135,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-02T00:00:00",
+            "TotalTested": 108346,
+            "TotalTestedChange": 134
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Effingham",
+            "CumulativeCases": 10645,
+            "Deaths": 135,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-03T00:00:00",
+            "TotalTested": 108368,
+            "TotalTestedChange": 22
+        },
+        {
+            "CasesChange": -2,
+            "CountyName": "Effingham",
+            "CumulativeCases": 10643,
+            "Deaths": 135,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-04T00:00:00",
+            "TotalTested": 108388,
+            "TotalTestedChange": 20
         }
     ]
 }

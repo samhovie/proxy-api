@@ -7449,6 +7449,36 @@
             "ReportDate": "2022-04-01T00:00:00",
             "TotalTested": 12331,
             "TotalTestedChange": 9
+        },
+        {
+            "CasesChange": -8,
+            "CountyName": "Edwards",
+            "CumulativeCases": 1742,
+            "Deaths": 28,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-02T00:00:00",
+            "TotalTested": 12343,
+            "TotalTestedChange": 12
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Edwards",
+            "CumulativeCases": 1742,
+            "Deaths": 28,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-03T00:00:00",
+            "TotalTested": 12345,
+            "TotalTestedChange": 2
+        },
+        {
+            "CasesChange": 4,
+            "CountyName": "Edwards",
+            "CumulativeCases": 1746,
+            "Deaths": 28,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-04T00:00:00",
+            "TotalTested": 12345,
+            "TotalTestedChange": 0
         }
     ]
 }

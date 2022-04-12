@@ -7519,6 +7519,36 @@
             "ReportDate": "2022-04-08T00:00:00",
             "TotalTested": 51787,
             "TotalTestedChange": 55
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Wayne",
+            "CumulativeCases": 5291,
+            "Deaths": 84,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-09T00:00:00",
+            "TotalTested": 51934,
+            "TotalTestedChange": 147
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Wayne",
+            "CumulativeCases": 5293,
+            "Deaths": 84,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-10T00:00:00",
+            "TotalTested": 51951,
+            "TotalTestedChange": 17
+        },
+        {
+            "CasesChange": -1,
+            "CountyName": "Wayne",
+            "CumulativeCases": 5292,
+            "Deaths": 84,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-11T00:00:00",
+            "TotalTested": 51965,
+            "TotalTestedChange": 14
         }
     ]
 }

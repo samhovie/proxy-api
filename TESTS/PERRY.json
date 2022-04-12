@@ -7519,6 +7519,36 @@
             "ReportDate": "2022-04-08T00:00:00",
             "TotalTested": 123592,
             "TotalTestedChange": 49
+        },
+        {
+            "CasesChange": -2,
+            "CountyName": "Perry",
+            "CumulativeCases": 7462,
+            "Deaths": 97,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-09T00:00:00",
+            "TotalTested": 123917,
+            "TotalTestedChange": 325
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Perry",
+            "CumulativeCases": 7462,
+            "Deaths": 97,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-10T00:00:00",
+            "TotalTested": 123947,
+            "TotalTestedChange": 30
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Perry",
+            "CumulativeCases": 7463,
+            "Deaths": 97,
+            "DeathsChange": 0,
+            "ReportDate": "2022-04-11T00:00:00",
+            "TotalTested": 123960,
+            "TotalTestedChange": 13
         }
     ]
 }

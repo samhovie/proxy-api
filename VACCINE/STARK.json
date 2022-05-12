@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7234,
+        "AdministeredCount": 7238,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 3.0,
         "AllocatedDoses": 0,
@@ -8,7 +8,7 @@
         "BoosterDoseAdministeredChange": 1558,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2022-05-09T00:00:00",
+        "InventoryReportDate": "2022-05-10T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 2954,
         "PersonsVaccinatedOneDoseChange": 2954,
         "Population": 5427,
-        "Report_Date": "2022-05-09T00:00:00",
+        "Report_Date": "2022-05-10T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -11752,10 +11752,33 @@
             "Population": 5427,
             "Report_Date": "2022-05-09T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 7238,
+            "AdministeredCountChange": 4,
+            "AdministeredCountRollAvg": 3.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1558,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2022-05-10T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedOneDosePopulation": 0.5443154597383453,
+            "PctVaccinatedPopulation": 0.519439837847798,
+            "PersonsFullyVaccinated": 2819,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 2954,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 5427,
+            "Report_Date": "2022-05-10T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 9,
+        "day": 10,
         "month": 5,
         "year": 2022
     }

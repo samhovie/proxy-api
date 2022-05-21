@@ -1,14 +1,14 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7168,
+        "AdministeredCount": 7176,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 3.0,
+        "AdministeredCountRollAvg": 4.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 1542,
-        "BoosterDoseAdministeredChange": 1542,
+        "BoosterDoseAdministered": 1543,
+        "BoosterDoseAdministeredChange": 1543,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2022-05-18T00:00:00",
+        "InventoryReportDate": "2022-05-19T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 2912,
         "PersonsVaccinatedOneDoseChange": 2912,
         "Population": 5427,
-        "Report_Date": "2022-05-18T00:00:00",
+        "Report_Date": "2022-05-19T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -11959,10 +11959,33 @@
             "Population": 5427,
             "Report_Date": "2022-05-18T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 7176,
+            "AdministeredCountChange": 8,
+            "AdministeredCountRollAvg": 4.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1543,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2022-05-19T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedOneDosePopulation": 0.5365763773723973,
+            "PctVaccinatedPopulation": 0.5129906025428413,
+            "PersonsFullyVaccinated": 2784,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 2912,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 5427,
+            "Report_Date": "2022-05-19T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 18,
+        "day": 19,
         "month": 5,
         "year": 2022
     }

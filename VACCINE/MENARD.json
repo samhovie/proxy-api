@@ -1,14 +1,14 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 18387,
+        "AdministeredCount": 18390,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 9.0,
+        "AdministeredCountRollAvg": 7.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 3834,
-        "BoosterDoseAdministeredChange": 3834,
+        "BoosterDoseAdministered": 3835,
+        "BoosterDoseAdministeredChange": 3835,
         "CommunityReportedInventory": 0,
         "CountyName": "Menard",
-        "InventoryReportDate": "2022-06-27T00:00:00",
+        "InventoryReportDate": "2022-06-28T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 40.0221,
         "Longitude": -89.813,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 7407,
         "PersonsVaccinatedOneDoseChange": 7407,
         "Population": 12288,
-        "Report_Date": "2022-06-27T00:00:00",
+        "Report_Date": "2022-06-28T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -12879,10 +12879,33 @@
             "Population": 12288,
             "Report_Date": "2022-06-27T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 18390,
+            "AdministeredCountChange": 3,
+            "AdministeredCountRollAvg": 7.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 3835,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Menard",
+            "InventoryReportDate": "2022-06-28T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.0221,
+            "Longitude": -89.813,
+            "PctVaccinatedOneDosePopulation": 0.602783203125,
+            "PctVaccinatedPopulation": 0.571044921875,
+            "PersonsFullyVaccinated": 7017,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 7407,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 12288,
+            "Report_Date": "2022-06-28T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 27,
+        "day": 28,
         "month": 6,
         "year": 2022
     }

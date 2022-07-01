@@ -1,25 +1,25 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7488,
+        "AdministeredCount": 7490,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 4.0,
+        "AdministeredCountRollAvg": 3.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 1604,
         "BoosterDoseAdministeredChange": 1604,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2022-06-28T00:00:00",
+        "InventoryReportDate": "2022-06-29T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
-        "PctVaccinatedOneDosePopulation": 0.5481850009213193,
+        "PctVaccinatedOneDosePopulation": 0.5483692647871752,
         "PctVaccinatedPopulation": 0.5229408512990602,
         "PersonsFullyVaccinated": 2838,
         "PersonsFullyVaccinatedChange": 2838,
-        "PersonsVaccinatedOneDose": 2975,
-        "PersonsVaccinatedOneDoseChange": 2975,
+        "PersonsVaccinatedOneDose": 2976,
+        "PersonsVaccinatedOneDoseChange": 2976,
         "Population": 5427,
-        "Report_Date": "2022-06-28T00:00:00",
+        "Report_Date": "2022-06-29T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -12902,10 +12902,33 @@
             "Population": 5427,
             "Report_Date": "2022-06-28T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 7490,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 3.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1604,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2022-06-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedOneDosePopulation": 0.5483692647871752,
+            "PctVaccinatedPopulation": 0.5229408512990602,
+            "PersonsFullyVaccinated": 2838,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 2976,
+            "PersonsVaccinatedOneDoseChange": 1,
+            "Population": 5427,
+            "Report_Date": "2022-06-29T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 28,
+        "day": 29,
         "month": 6,
         "year": 2022
     }

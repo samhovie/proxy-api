@@ -1,14 +1,14 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7508,
+        "AdministeredCount": 7513,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 3.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 1608,
-        "BoosterDoseAdministeredChange": 1608,
+        "BoosterDoseAdministered": 1609,
+        "BoosterDoseAdministeredChange": 1609,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2022-07-05T00:00:00",
+        "InventoryReportDate": "2022-07-06T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 2978,
         "PersonsVaccinatedOneDoseChange": 2978,
         "Population": 5427,
-        "Report_Date": "2022-07-05T00:00:00",
+        "Report_Date": "2022-07-06T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -13063,10 +13063,33 @@
             "Population": 5427,
             "Report_Date": "2022-07-05T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 7513,
+            "AdministeredCountChange": 5,
+            "AdministeredCountRollAvg": 3.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1609,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2022-07-06T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedOneDosePopulation": 0.548737792518887,
+            "PctVaccinatedPopulation": 0.5236779067624838,
+            "PersonsFullyVaccinated": 2842,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 2978,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 5427,
+            "Report_Date": "2022-07-06T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 5,
+        "day": 6,
         "month": 7,
         "year": 2022
     }

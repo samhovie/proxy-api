@@ -1,14 +1,14 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 7740,
+        "AdministeredCount": 7748,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 3.0,
+        "AdministeredCountRollAvg": 5.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 1641,
         "BoosterDoseAdministeredChange": 1641,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2022-09-18T00:00:00",
+        "InventoryReportDate": "2022-09-19T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 3005,
         "PersonsVaccinatedOneDoseChange": 3005,
         "Population": 5427,
-        "Report_Date": "2022-09-18T00:00:00",
+        "Report_Date": "2022-09-19T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -14788,10 +14788,33 @@
             "Population": 5427,
             "Report_Date": "2022-09-18T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 7748,
+            "AdministeredCountChange": 8,
+            "AdministeredCountRollAvg": 5.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1641,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2022-09-19T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedOneDosePopulation": 0.5537129168969965,
+            "PctVaccinatedPopulation": 0.527363184079602,
+            "PersonsFullyVaccinated": 2862,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 3005,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 5427,
+            "Report_Date": "2022-09-19T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 18,
+        "day": 19,
         "month": 9,
         "year": 2022
     }

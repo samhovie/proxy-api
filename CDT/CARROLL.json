@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 6,
+            "CasesChange": 4,
             "CountyName": "Carroll",
-            "CumulativeCases": 4837,
+            "CumulativeCases": 4835,
             "Deaths": 51,
             "DeathsChange": 0,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 2,
+            "CountyName": "Carroll",
+            "CumulativeCases": 4837,
+            "Deaths": 52,
+            "DeathsChange": 1,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

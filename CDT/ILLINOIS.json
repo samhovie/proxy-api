@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 5925,
+            "CasesChange": 2975,
             "CountyName": "Illinois",
-            "CumulativeCases": 3796096,
+            "CumulativeCases": 3793146,
             "Deaths": 35160,
             "DeathsChange": 8,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 2892,
+            "CountyName": "Illinois",
+            "CumulativeCases": 3796038,
+            "Deaths": 35168,
+            "DeathsChange": 8,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 8,
+            "CasesChange": 3,
             "CountyName": "Warren",
-            "CumulativeCases": 4729,
+            "CumulativeCases": 4724,
             "Deaths": 87,
             "DeathsChange": 0,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Warren",
+            "CumulativeCases": 4725,
+            "Deaths": 87,
+            "DeathsChange": 0,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

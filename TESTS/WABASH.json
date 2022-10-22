@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 5,
+            "CasesChange": 3,
             "CountyName": "Wabash",
-            "CumulativeCases": 4450,
+            "CumulativeCases": 4448,
             "Deaths": 30,
             "DeathsChange": 0,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Wabash",
+            "CumulativeCases": 4448,
+            "Deaths": 30,
+            "DeathsChange": 0,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 75,
+            "CasesChange": 60,
             "CountyName": "Champaign",
-            "CumulativeCases": 80743,
+            "CumulativeCases": 80728,
             "Deaths": 305,
             "DeathsChange": 0,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 59,
+            "CountyName": "Champaign",
+            "CumulativeCases": 80787,
+            "Deaths": 305,
+            "DeathsChange": 0,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

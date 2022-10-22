@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 5,
+            "CasesChange": 1,
             "CountyName": "Pike",
-            "CumulativeCases": 5722,
+            "CumulativeCases": 5718,
             "Deaths": 70,
             "DeathsChange": 0,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 3,
+            "CountyName": "Pike",
+            "CumulativeCases": 5721,
+            "Deaths": 70,
+            "DeathsChange": 0,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

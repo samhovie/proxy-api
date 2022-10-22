@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 3,
+            "CasesChange": 2,
+            "CountyName": "Putnam",
+            "CumulativeCases": 1337,
+            "Deaths": 10,
+            "DeathsChange": 0,
+            "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 1,
             "CountyName": "Putnam",
             "CumulativeCases": 1338,
             "Deaths": 10,
             "DeathsChange": 0,
-            "ReportDate": "2022-10-20T00:00:00",
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

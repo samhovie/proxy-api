@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 42,
+            "CasesChange": 32,
             "CountyName": "Tazewell",
-            "CumulativeCases": 43061,
+            "CumulativeCases": 43051,
             "Deaths": 491,
             "DeathsChange": 1,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 45,
+            "CountyName": "Tazewell",
+            "CumulativeCases": 43096,
+            "Deaths": 491,
+            "DeathsChange": 0,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

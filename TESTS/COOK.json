@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 801,
+            "CasesChange": 577,
             "CountyName": "Cook",
-            "CumulativeCases": 713243,
+            "CumulativeCases": 713019,
             "Deaths": 7273,
             "DeathsChange": 1,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 631,
+            "CountyName": "Cook",
+            "CumulativeCases": 713650,
+            "Deaths": 7273,
+            "DeathsChange": 0,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

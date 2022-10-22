@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 5,
+            "CasesChange": 3,
             "CountyName": "Clay",
-            "CumulativeCases": 5581,
+            "CumulativeCases": 5579,
             "Deaths": 73,
             "DeathsChange": 0,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 1,
+            "CountyName": "Clay",
+            "CumulativeCases": 5580,
+            "Deaths": 73,
+            "DeathsChange": 0,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

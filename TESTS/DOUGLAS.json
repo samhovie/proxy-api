@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 327,
+            "CasesChange": 2,
             "CountyName": "Douglas",
-            "CumulativeCases": 7844,
+            "CumulativeCases": 7519,
             "Deaths": 59,
             "DeathsChange": 0,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Douglas",
+            "CumulativeCases": 7519,
+            "Deaths": 59,
+            "DeathsChange": 0,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

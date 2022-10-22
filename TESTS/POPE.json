@@ -9461,12 +9461,22 @@
             "TotalTestedChange": 0
         },
         {
-            "CasesChange": 4,
+            "CasesChange": 1,
             "CountyName": "Pope",
-            "CumulativeCases": 1147,
+            "CumulativeCases": 1144,
             "Deaths": 9,
             "DeathsChange": 0,
             "ReportDate": "2022-10-20T00:00:00",
+            "TotalTested": 0,
+            "TotalTestedChange": 0
+        },
+        {
+            "CasesChange": 0,
+            "CountyName": "Pope",
+            "CumulativeCases": 1144,
+            "Deaths": 9,
+            "DeathsChange": 0,
+            "ReportDate": "2022-10-21T00:00:00",
             "TotalTested": 0,
             "TotalTestedChange": 0
         }

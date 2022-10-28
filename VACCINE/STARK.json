@@ -1,14 +1,14 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 8079,
+        "AdministeredCount": 8095,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 10.0,
+        "AdministeredCountRollAvg": 11.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 1686,
-        "BoosterDoseAdministeredChange": 1686,
+        "BoosterDoseAdministered": 1690,
+        "BoosterDoseAdministeredChange": 1690,
         "CommunityReportedInventory": 0,
         "CountyName": "Stark",
-        "InventoryReportDate": "2022-10-25T00:00:00",
+        "InventoryReportDate": "2022-10-26T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.0796,
         "Longitude": -89.813,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 3010,
         "PersonsVaccinatedOneDoseChange": 3010,
         "Population": 5427,
-        "Report_Date": "2022-10-25T00:00:00",
+        "Report_Date": "2022-10-26T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -15639,10 +15639,33 @@
             "Population": 5427,
             "Report_Date": "2022-10-25T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 8095,
+            "AdministeredCountChange": 16,
+            "AdministeredCountRollAvg": 11.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1690,
+            "BoosterDoseAdministeredChange": 4,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Stark",
+            "InventoryReportDate": "2022-10-26T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.0796,
+            "Longitude": -89.813,
+            "PctVaccinatedOneDosePopulation": 0.5546342362262761,
+            "PctVaccinatedPopulation": 0.5260733370186107,
+            "PersonsFullyVaccinated": 2855,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 3010,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 5427,
+            "Report_Date": "2022-10-26T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 25,
+        "day": 26,
         "month": 10,
         "year": 2022
     }

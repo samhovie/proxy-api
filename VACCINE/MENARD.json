@@ -1,14 +1,14 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 20073,
+        "AdministeredCount": 20081,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 15.0,
+        "AdministeredCountRollAvg": 13.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 4056,
         "BoosterDoseAdministeredChange": 4056,
         "CommunityReportedInventory": 0,
         "CountyName": "Menard",
-        "InventoryReportDate": "2022-11-13T00:00:00",
+        "InventoryReportDate": "2022-11-14T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 40.0221,
         "Longitude": -89.813,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 7484,
         "PersonsVaccinatedOneDoseChange": 7484,
         "Population": 12288,
-        "Report_Date": "2022-11-13T00:00:00",
+        "Report_Date": "2022-11-14T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -16076,10 +16076,33 @@
             "Population": 12288,
             "Report_Date": "2022-11-13T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 20081,
+            "AdministeredCountChange": 8,
+            "AdministeredCountRollAvg": 13.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 4056,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Menard",
+            "InventoryReportDate": "2022-11-14T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.0221,
+            "Longitude": -89.813,
+            "PctVaccinatedOneDosePopulation": 0.6090494791666666,
+            "PctVaccinatedPopulation": 0.5745442708333334,
+            "PersonsFullyVaccinated": 7060,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 7484,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 12288,
+            "Report_Date": "2022-11-14T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 13,
+        "day": 14,
         "month": 11,
         "year": 2022
     }

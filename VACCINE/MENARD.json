@@ -1,14 +1,14 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 20240,
+        "AdministeredCount": 20248,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 9.0,
+        "AdministeredCountRollAvg": 8.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 4075,
-        "BoosterDoseAdministeredChange": 4075,
+        "BoosterDoseAdministered": 4076,
+        "BoosterDoseAdministeredChange": 4076,
         "CommunityReportedInventory": 0,
         "CountyName": "Menard",
-        "InventoryReportDate": "2022-11-28T00:00:00",
+        "InventoryReportDate": "2022-11-29T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 40.0221,
         "Longitude": -89.813,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 7489,
         "PersonsVaccinatedOneDoseChange": 7489,
         "Population": 12288,
-        "Report_Date": "2022-11-28T00:00:00",
+        "Report_Date": "2022-11-29T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -32337,10 +32337,33 @@
             "Population": 12288,
             "Report_Date": "2022-11-28T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 20248,
+            "AdministeredCountChange": 8,
+            "AdministeredCountRollAvg": 8.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 4076,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Menard",
+            "InventoryReportDate": "2022-11-29T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.0221,
+            "Longitude": -89.813,
+            "PctVaccinatedOneDosePopulation": 0.6094563802083334,
+            "PctVaccinatedPopulation": 0.574951171875,
+            "PersonsFullyVaccinated": 7065,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 7489,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 12288,
+            "Report_Date": "2022-11-29T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 28,
+        "day": 29,
         "month": 11,
         "year": 2022
     }

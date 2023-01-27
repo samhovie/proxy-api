@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 43312,
+        "AdministeredCount": 43315,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 6187.0,
+        "AdministeredCountRollAvg": 6188.0,
         "AllocatedDoses": 410,
         "BoosterDoseAdministered": 9028,
         "BoosterDoseAdministeredChange": 9028,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 15826,
         "PersonsVaccinatedOneDoseChange": 15826,
         "Population": 29955,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 102870
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 29955,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 102870
+        },
+        {
+            "AdministeredCount": 43315,
+            "AdministeredCountChange": 3,
+            "AdministeredCountRollAvg": 22.0,
+            "AllocatedDoses": 410,
+            "BoosterDoseAdministered": 9028,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 721,
+            "CountyName": "McDonough",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 102149,
+            "Latitude": 40.3885,
+            "Longitude": -90.6773,
+            "PctVaccinatedOneDosePopulation": 0.528325822066433,
+            "PctVaccinatedPopulation": 0.48903355032548823,
+            "PersonsFullyVaccinated": 14649,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 15826,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 29955,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 102870
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

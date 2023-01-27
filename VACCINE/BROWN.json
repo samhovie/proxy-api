@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 3828,
         "PersonsVaccinatedOneDoseChange": 3828,
         "Population": 6556,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 40
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 6556,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 40
+        },
+        {
+            "AdministeredCount": 9407,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 4.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1873,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 40,
+            "CountyName": "Brown",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.938,
+            "Longitude": -90.7153,
+            "PctVaccinatedOneDosePopulation": 0.5838926174496645,
+            "PctVaccinatedPopulation": 0.5413361805979255,
+            "PersonsFullyVaccinated": 3549,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 3828,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 6556,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 40
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

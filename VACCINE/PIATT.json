@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 31547,
+        "AdministeredCount": 31551,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 4507.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 6433,
-        "BoosterDoseAdministeredChange": 6433,
+        "BoosterDoseAdministered": 6434,
+        "BoosterDoseAdministeredChange": 6434,
         "CommunityReportedInventory": 0,
         "CountyName": "Piatt",
         "InventoryReportDate": "2023-01-24T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 11030,
         "PersonsVaccinatedOneDoseChange": 11030,
         "Population": 16396,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 16396,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 31551,
+            "AdministeredCountChange": 4,
+            "AdministeredCountRollAvg": 17.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 6434,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Piatt",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.02861312,
+            "Longitude": -88.57328,
+            "PctVaccinatedOneDosePopulation": 0.672725054891437,
+            "PctVaccinatedPopulation": 0.6292388387411564,
+            "PersonsFullyVaccinated": 10317,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 11030,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 16396,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 27594,
+        "AdministeredCount": 27596,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 3942.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 5441,
-        "BoosterDoseAdministeredChange": 5441,
+        "BoosterDoseAdministered": 5442,
+        "BoosterDoseAdministeredChange": 5442,
         "CommunityReportedInventory": 0,
         "CountyName": "Douglas",
         "InventoryReportDate": "2023-01-24T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 10369,
         "PersonsVaccinatedOneDoseChange": 10369,
         "Population": 19479,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 414
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 19479,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 414
+        },
+        {
+            "AdministeredCount": 27596,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 14.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 5442,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Douglas",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 414,
+            "Latitude": 39.7618,
+            "Longitude": -88.2072,
+            "PctVaccinatedOneDosePopulation": 0.532316854047949,
+            "PctVaccinatedPopulation": 0.49489193490425587,
+            "PersonsFullyVaccinated": 9640,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 10369,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 19479,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 414
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

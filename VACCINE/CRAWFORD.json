@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 26547,
+        "AdministeredCount": 26549,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 3792.0,
+        "AdministeredCountRollAvg": 3793.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 5128,
         "BoosterDoseAdministeredChange": 5128,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 10181,
         "PersonsVaccinatedOneDoseChange": 10181,
         "Population": 18807,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 1864
     },
     "VaccineAdministration": [
@@ -17479,10 +17479,33 @@
             "Population": 18807,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 1864
+        },
+        {
+            "AdministeredCount": 26549,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 15.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 5128,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 52,
+            "CountyName": "Crawford",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 1812,
+            "Latitude": 39.05,
+            "Longitude": -87.7763,
+            "PctVaccinatedOneDosePopulation": 0.5413409900568937,
+            "PctVaccinatedPopulation": 0.5005051310682193,
+            "PersonsFullyVaccinated": 9413,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 10181,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 18807,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 1864
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

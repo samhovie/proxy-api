@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 2401,
         "PersonsVaccinatedOneDoseChange": 2401,
         "Population": 5463,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 510
     },
     "VaccineAdministration": [
@@ -17479,10 +17479,33 @@
             "Population": 5463,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 510
+        },
+        {
+            "AdministeredCount": 5860,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 5.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1068,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 230,
+            "CountyName": "Pulaski",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 280,
+            "Latitude": 37.2512,
+            "Longitude": -89.1325,
+            "PctVaccinatedOneDosePopulation": 0.4395021050704741,
+            "PctVaccinatedPopulation": 0.3935566538531942,
+            "PersonsFullyVaccinated": 2150,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 2401,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 5463,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 510
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

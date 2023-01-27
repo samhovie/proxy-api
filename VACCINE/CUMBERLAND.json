@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 11603,
+        "AdministeredCount": 11604,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 1658.0,
         "AllocatedDoses": 0,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 4538,
         "PersonsVaccinatedOneDoseChange": 4538,
         "Population": 10808,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 260
     },
     "VaccineAdministration": [
@@ -17341,10 +17341,33 @@
             "Population": 10808,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 260
+        },
+        {
+            "AdministeredCount": 11604,
+            "AdministeredCountChange": 1,
+            "AdministeredCountRollAvg": 5.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 2236,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 80,
+            "CountyName": "Cumberland",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 180,
+            "Latitude": 39.2654,
+            "Longitude": -88.2072,
+            "PctVaccinatedOneDosePopulation": 0.4198741672834937,
+            "PctVaccinatedPopulation": 0.3915618060695781,
+            "PersonsFullyVaccinated": 4232,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 4538,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 10808,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 260
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

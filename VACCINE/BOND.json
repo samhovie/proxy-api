@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 23020,
+        "AdministeredCount": 23021,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 3289.0,
         "AllocatedDoses": 0,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 8353,
         "PersonsVaccinatedOneDoseChange": 8353,
         "Population": 16630,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 369
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 16630,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 369
+        },
+        {
+            "AdministeredCount": 23021,
+            "AdministeredCountChange": 1,
+            "AdministeredCountRollAvg": 11.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 4484,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 85,
+            "CountyName": "Bond",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 284,
+            "Latitude": 38.903,
+            "Longitude": -89.4742,
+            "PctVaccinatedOneDosePopulation": 0.5022850270595309,
+            "PctVaccinatedPopulation": 0.47426337943475644,
+            "PersonsFullyVaccinated": 7887,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 8353,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 16630,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 369
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

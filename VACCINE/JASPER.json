@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 4335,
         "PersonsVaccinatedOneDoseChange": 4335,
         "Population": 9611,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 90
     },
     "VaccineAdministration": [
@@ -17479,10 +17479,33 @@
             "Population": 9611,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 90
+        },
+        {
+            "AdministeredCount": 11338,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 4.0,
+            "AllocatedDoses": 40,
+            "BoosterDoseAdministered": 2265,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 60,
+            "CountyName": "Jasper",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 30,
+            "Latitude": 39.0555,
+            "Longitude": -88.0901,
+            "PctVaccinatedOneDosePopulation": 0.45104567682863383,
+            "PctVaccinatedPopulation": 0.4179585891166372,
+            "PersonsFullyVaccinated": 4017,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 4335,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 9611,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 90
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

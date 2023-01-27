@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 58215,
+        "AdministeredCount": 58218,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 8316.0,
+        "AdministeredCountRollAvg": 8317.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 11894,
         "BoosterDoseAdministeredChange": 11894,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 21046,
         "PersonsVaccinatedOneDoseChange": 21046,
         "Population": 34844,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 1565
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 34844,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 1565
+        },
+        {
+            "AdministeredCount": 58218,
+            "AdministeredCountChange": 3,
+            "AdministeredCountRollAvg": 21.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 11894,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 1565,
+            "CountyName": "Fulton",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.5532,
+            "Longitude": -90.2245,
+            "PctVaccinatedOneDosePopulation": 0.6040064286534267,
+            "PctVaccinatedPopulation": 0.5715761680633682,
+            "PersonsFullyVaccinated": 19916,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 21046,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 34844,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 1565
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

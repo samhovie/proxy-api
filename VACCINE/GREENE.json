@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 15616,
+        "AdministeredCount": 15620,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 2231.0,
         "AllocatedDoses": 140,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 6007,
         "PersonsVaccinatedOneDoseChange": 6007,
         "Population": 13044,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 210
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 13044,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 210
+        },
+        {
+            "AdministeredCount": 15620,
+            "AdministeredCountChange": 4,
+            "AdministeredCountRollAvg": 7.0,
+            "AllocatedDoses": 140,
+            "BoosterDoseAdministered": 2927,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Greene",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 210,
+            "Latitude": 39.403,
+            "Longitude": -90.3748,
+            "PctVaccinatedOneDosePopulation": 0.4605182459368292,
+            "PctVaccinatedPopulation": 0.4388991107022386,
+            "PersonsFullyVaccinated": 5725,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 6007,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 13044,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 210
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

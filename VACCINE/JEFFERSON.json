@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 50389,
+        "AdministeredCount": 50390,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 7198.0,
+        "AdministeredCountRollAvg": 7199.0,
         "AllocatedDoses": 750,
         "BoosterDoseAdministered": 9781,
         "BoosterDoseAdministeredChange": 9781,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 19151,
         "PersonsVaccinatedOneDoseChange": 19151,
         "Population": 37820,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 2033
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 37820,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 2033
+        },
+        {
+            "AdministeredCount": 50390,
+            "AdministeredCountChange": 1,
+            "AdministeredCountRollAvg": 24.0,
+            "AllocatedDoses": 750,
+            "BoosterDoseAdministered": 9781,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 772,
+            "CountyName": "Jefferson",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 1261,
+            "Latitude": 38.2267,
+            "Longitude": -88.8647,
+            "PctVaccinatedOneDosePopulation": 0.5063722897937599,
+            "PctVaccinatedPopulation": 0.4657588577472237,
+            "PersonsFullyVaccinated": 17615,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 19151,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 37820,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 2033
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

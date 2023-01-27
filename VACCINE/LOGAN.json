@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 42656,
+        "AdministeredCount": 42659,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 6094.0,
         "AllocatedDoses": 0,
@@ -12,14 +12,14 @@
         "LHDReportedInventory": 760,
         "Latitude": 40.0613,
         "Longitude": -89.3227,
-        "PctVaccinatedOneDosePopulation": 0.5636992221261884,
+        "PctVaccinatedOneDosePopulation": 0.563733794295592,
         "PctVaccinatedPopulation": 0.5333102852203976,
         "PersonsFullyVaccinated": 15426,
         "PersonsFullyVaccinatedChange": 15426,
-        "PersonsVaccinatedOneDose": 16305,
-        "PersonsVaccinatedOneDoseChange": 16305,
+        "PersonsVaccinatedOneDose": 16306,
+        "PersonsVaccinatedOneDoseChange": 16306,
         "Population": 28925,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 760
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 28925,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 760
+        },
+        {
+            "AdministeredCount": 42659,
+            "AdministeredCountChange": 3,
+            "AdministeredCountRollAvg": 17.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 8430,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Logan",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 760,
+            "Latitude": 40.0613,
+            "Longitude": -89.3227,
+            "PctVaccinatedOneDosePopulation": 0.563733794295592,
+            "PctVaccinatedPopulation": 0.5333102852203976,
+            "PersonsFullyVaccinated": 15426,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 16306,
+            "PersonsVaccinatedOneDoseChange": 1,
+            "Population": 28925,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 760
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

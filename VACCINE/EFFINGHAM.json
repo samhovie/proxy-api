@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 46848,
+        "AdministeredCount": 46851,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 6693.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 9130,
-        "BoosterDoseAdministeredChange": 9130,
+        "BoosterDoseAdministered": 9131,
+        "BoosterDoseAdministeredChange": 9131,
         "CommunityReportedInventory": 732,
         "CountyName": "Effingham",
         "InventoryReportDate": "2023-01-24T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 17849,
         "PersonsVaccinatedOneDoseChange": 17849,
         "Population": 34208,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 732
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 34208,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 732
+        },
+        {
+            "AdministeredCount": 46851,
+            "AdministeredCountChange": 3,
+            "AdministeredCountRollAvg": 17.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 9131,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 732,
+            "CountyName": "Effingham",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.0622,
+            "Longitude": -88.5565,
+            "PctVaccinatedOneDosePopulation": 0.5217785313376988,
+            "PctVaccinatedPopulation": 0.4847696445275959,
+            "PersonsFullyVaccinated": 16583,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 17849,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 34208,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 732
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

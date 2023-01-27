@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 8842,
+        "AdministeredCount": 8843,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 1263.0,
         "AllocatedDoses": 0,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 3381,
         "PersonsVaccinatedOneDoseChange": 3381,
         "Population": 8163,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 375
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 8163,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 375
+        },
+        {
+            "AdministeredCount": 8843,
+            "AdministeredCountChange": 1,
+            "AdministeredCountRollAvg": 4.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1770,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 375,
+            "CountyName": "Hamilton",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 38.0543,
+            "Longitude": -88.5565,
+            "PctVaccinatedOneDosePopulation": 0.4141859610437339,
+            "PctVaccinatedPopulation": 0.38686757319612886,
+            "PersonsFullyVaccinated": 3158,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 3381,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 8163,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 375
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

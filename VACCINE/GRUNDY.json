@@ -1,25 +1,25 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 84255,
+        "AdministeredCount": 84267,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 12036.0,
+        "AdministeredCountRollAvg": 12038.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 16221,
-        "BoosterDoseAdministeredChange": 16221,
+        "BoosterDoseAdministered": 16224,
+        "BoosterDoseAdministeredChange": 16224,
         "CommunityReportedInventory": 0,
         "CountyName": "Grundy",
         "InventoryReportDate": "2023-01-24T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 41.3501,
         "Longitude": -88.4016,
-        "PctVaccinatedOneDosePopulation": 0.6314839519736326,
+        "PctVaccinatedOneDosePopulation": 0.6315231892019147,
         "PctVaccinatedPopulation": 0.5841246174370243,
         "PersonsFullyVaccinated": 29774,
         "PersonsFullyVaccinatedChange": 29774,
-        "PersonsVaccinatedOneDose": 32188,
-        "PersonsVaccinatedOneDoseChange": 32188,
+        "PersonsVaccinatedOneDose": 32190,
+        "PersonsVaccinatedOneDoseChange": 32190,
         "Population": 50972,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 50972,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 84267,
+            "AdministeredCountChange": 12,
+            "AdministeredCountRollAvg": 33.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 16224,
+            "BoosterDoseAdministeredChange": 3,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Grundy",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.3501,
+            "Longitude": -88.4016,
+            "PctVaccinatedOneDosePopulation": 0.6315231892019147,
+            "PctVaccinatedPopulation": 0.5841246174370243,
+            "PersonsFullyVaccinated": 29774,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 32190,
+            "PersonsVaccinatedOneDoseChange": 2,
+            "Population": 50972,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

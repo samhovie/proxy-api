@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 22787,
+        "AdministeredCount": 22794,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 3255.0,
+        "AdministeredCountRollAvg": 3256.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 4635,
-        "BoosterDoseAdministeredChange": 4635,
+        "BoosterDoseAdministered": 4636,
+        "BoosterDoseAdministeredChange": 4636,
         "CommunityReportedInventory": 235,
         "CountyName": "Edgar",
         "InventoryReportDate": "2023-01-24T00:00:00",
@@ -13,13 +13,13 @@
         "Latitude": 39.7131,
         "Longitude": -87.7763,
         "PctVaccinatedOneDosePopulation": 0.4941820276497696,
-        "PctVaccinatedPopulation": 0.45777649769585255,
-        "PersonsFullyVaccinated": 7947,
-        "PersonsFullyVaccinatedChange": 7947,
+        "PctVaccinatedPopulation": 0.45794930875576034,
+        "PersonsFullyVaccinated": 7950,
+        "PersonsFullyVaccinatedChange": 7950,
         "PersonsVaccinatedOneDose": 8579,
         "PersonsVaccinatedOneDoseChange": 8579,
         "Population": 17360,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 235
     },
     "VaccineAdministration": [
@@ -17479,10 +17479,33 @@
             "Population": 17360,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 235
+        },
+        {
+            "AdministeredCount": 22794,
+            "AdministeredCountChange": 7,
+            "AdministeredCountRollAvg": 22.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 4636,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 235,
+            "CountyName": "Edgar",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.7131,
+            "Longitude": -87.7763,
+            "PctVaccinatedOneDosePopulation": 0.4941820276497696,
+            "PctVaccinatedPopulation": 0.45794930875576034,
+            "PersonsFullyVaccinated": 7950,
+            "PersonsFullyVaccinatedChange": 3,
+            "PersonsVaccinatedOneDose": 8579,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 17360,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 235
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

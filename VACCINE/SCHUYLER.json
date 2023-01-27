@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 3962,
         "PersonsVaccinatedOneDoseChange": 3962,
         "Population": 6907,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 508
     },
     "VaccineAdministration": [
@@ -17479,10 +17479,33 @@
             "Population": 6907,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 508
+        },
+        {
+            "AdministeredCount": 10959,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 3.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 2211,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 205,
+            "CountyName": "Schuyler",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 303,
+            "Latitude": 40.1845,
+            "Longitude": -90.6394,
+            "PctVaccinatedOneDosePopulation": 0.5736209642391776,
+            "PctVaccinatedPopulation": 0.5491530331547705,
+            "PersonsFullyVaccinated": 3793,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 3962,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 6907,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 508
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

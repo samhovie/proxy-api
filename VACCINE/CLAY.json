@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 5346,
         "PersonsVaccinatedOneDoseChange": 5346,
         "Population": 13253,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 563
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 13253,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 563
+        },
+        {
+            "AdministeredCount": 14029,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 4.0,
+            "AllocatedDoses": 280,
+            "BoosterDoseAdministered": 2760,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 122,
+            "CountyName": "Clay",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 441,
+            "Latitude": 38.7279,
+            "Longitude": -88.5565,
+            "PctVaccinatedOneDosePopulation": 0.4033803667094243,
+            "PctVaccinatedPopulation": 0.38112125556477777,
+            "PersonsFullyVaccinated": 5051,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 5346,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 13253,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 563
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

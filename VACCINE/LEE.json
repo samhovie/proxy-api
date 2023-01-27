@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 59824,
+        "AdministeredCount": 59834,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 8546.0,
+        "AdministeredCountRollAvg": 8548.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 12594,
-        "BoosterDoseAdministeredChange": 12594,
+        "BoosterDoseAdministered": 12596,
+        "BoosterDoseAdministeredChange": 12596,
         "CommunityReportedInventory": 435,
         "CountyName": "Lee",
         "InventoryReportDate": "2023-01-24T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 21564,
         "PersonsVaccinatedOneDoseChange": 21564,
         "Population": 34223,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 520
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 34223,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 520
+        },
+        {
+            "AdministeredCount": 59834,
+            "AdministeredCountChange": 10,
+            "AdministeredCountRollAvg": 24.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 12596,
+            "BoosterDoseAdministeredChange": 2,
+            "CommunityReportedInventory": 435,
+            "CountyName": "Lee",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 85,
+            "Latitude": 41.679,
+            "Longitude": -89.3227,
+            "PctVaccinatedOneDosePopulation": 0.6301025626040967,
+            "PctVaccinatedPopulation": 0.5908891681033224,
+            "PersonsFullyVaccinated": 20222,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 21564,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 34223,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 520
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

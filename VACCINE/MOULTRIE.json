@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 6824,
         "PersonsVaccinatedOneDoseChange": 6824,
         "Population": 14717,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 490
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 14717,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 490
+        },
+        {
+            "AdministeredCount": 18000,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 6.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 3804,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Moultrie",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 490,
+            "Latitude": 39.6021,
+            "Longitude": -88.5952,
+            "PctVaccinatedOneDosePopulation": 0.4636814568186451,
+            "PctVaccinatedPopulation": 0.43623020996126927,
+            "PersonsFullyVaccinated": 6420,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 6824,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 14717,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 490
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 2548,
         "PersonsVaccinatedOneDoseChange": 2548,
         "Population": 6709,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 435
     },
     "VaccineAdministration": [
@@ -17479,10 +17479,33 @@
             "Population": 6709,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 435
+        },
+        {
+            "AdministeredCount": 6756,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 1.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1368,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 225,
+            "CountyName": "Henderson",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 210,
+            "Latitude": 40.8336,
+            "Longitude": -90.9438,
+            "PctVaccinatedOneDosePopulation": 0.37978834401550154,
+            "PctVaccinatedPopulation": 0.3490833209122075,
+            "PersonsFullyVaccinated": 2342,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 2548,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 6709,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 435
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

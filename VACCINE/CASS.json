@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 20783,
+        "AdministeredCount": 20784,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 2969.0,
         "AllocatedDoses": 0,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 8157,
         "PersonsVaccinatedOneDoseChange": 8157,
         "Population": 12260,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 1015
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 12260,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 1015
+        },
+        {
+            "AdministeredCount": 20784,
+            "AdministeredCountChange": 1,
+            "AdministeredCountRollAvg": 7.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 3838,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 1015,
+            "CountyName": "Cass",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.9399,
+            "Longitude": -90.262,
+            "PctVaccinatedOneDosePopulation": 0.6653344208809135,
+            "PctVaccinatedPopulation": 0.6138662316476345,
+            "PersonsFullyVaccinated": 7526,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 8157,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 12260,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 1015
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

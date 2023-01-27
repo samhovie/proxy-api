@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 6898,
         "PersonsVaccinatedOneDoseChange": 6898,
         "Population": 13665,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 984
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 13665,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 984
+        },
+        {
+            "AdministeredCount": 17636,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 7.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 3416,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 984,
+            "CountyName": "White",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 38.0501,
+            "Longitude": -88.2461,
+            "PctVaccinatedOneDosePopulation": 0.5047932674716429,
+            "PctVaccinatedPopulation": 0.4654957921697768,
+            "PersonsFullyVaccinated": 6361,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 6898,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 13665,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 984
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

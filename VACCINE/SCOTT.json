@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 2199,
         "PersonsVaccinatedOneDoseChange": 2199,
         "Population": 4926,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 50
     },
     "VaccineAdministration": [
@@ -17479,10 +17479,33 @@
             "Population": 4926,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 50
+        },
+        {
+            "AdministeredCount": 5982,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 2.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1168,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Scott",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 50,
+            "Latitude": 39.6095,
+            "Longitude": -90.488,
+            "PctVaccinatedOneDosePopulation": 0.4464068209500609,
+            "PctVaccinatedPopulation": 0.42549736094194074,
+            "PersonsFullyVaccinated": 2096,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 2199,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 4926,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 50
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

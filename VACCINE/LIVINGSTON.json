@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 52399,
+        "AdministeredCount": 52404,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 7486.0,
         "AllocatedDoses": 0,
@@ -13,13 +13,13 @@
         "Latitude": 40.8689,
         "Longitude": -88.5565,
         "PctVaccinatedOneDosePopulation": 0.5418193003551355,
-        "PctVaccinatedPopulation": 0.5079555940829396,
-        "PersonsFullyVaccinated": 18165,
-        "PersonsFullyVaccinatedChange": 18165,
+        "PctVaccinatedPopulation": 0.5079835575067811,
+        "PersonsFullyVaccinated": 18166,
+        "PersonsFullyVaccinatedChange": 18166,
         "PersonsVaccinatedOneDose": 19376,
         "PersonsVaccinatedOneDoseChange": 19376,
         "Population": 35761,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 1021
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 35761,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 1021
+        },
+        {
+            "AdministeredCount": 52404,
+            "AdministeredCountChange": 5,
+            "AdministeredCountRollAvg": 25.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 10453,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 85,
+            "CountyName": "Livingston",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 936,
+            "Latitude": 40.8689,
+            "Longitude": -88.5565,
+            "PctVaccinatedOneDosePopulation": 0.5418193003551355,
+            "PctVaccinatedPopulation": 0.5079835575067811,
+            "PersonsFullyVaccinated": 18166,
+            "PersonsFullyVaccinatedChange": 1,
+            "PersonsVaccinatedOneDose": 19376,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 35761,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 1021
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 6609,
         "PersonsVaccinatedOneDoseChange": 6609,
         "Population": 16332,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 472
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 16332,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 472
+        },
+        {
+            "AdministeredCount": 17123,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 7.0,
+            "AllocatedDoses": 210,
+            "BoosterDoseAdministered": 3225,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 357,
+            "CountyName": "Wayne",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 115,
+            "Latitude": 38.39,
+            "Longitude": -88.4016,
+            "PctVaccinatedOneDosePopulation": 0.4046656869948567,
+            "PctVaccinatedPopulation": 0.38323536615233894,
+            "PersonsFullyVaccinated": 6259,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 6609,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 16332,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 472
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

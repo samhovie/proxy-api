@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 11577,
         "PersonsVaccinatedOneDoseChange": 11577,
         "Population": 21174,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 602
     },
     "VaccineAdministration": [
@@ -17502,10 +17502,33 @@
             "Population": 21174,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 602
+        },
+        {
+            "AdministeredCount": 29345,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 15.0,
+            "AllocatedDoses": 300,
+            "BoosterDoseAdministered": 5699,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 372,
+            "CountyName": "Perry",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 230,
+            "Latitude": 38.0612,
+            "Longitude": -89.3227,
+            "PctVaccinatedOneDosePopulation": 0.5467554548030603,
+            "PctVaccinatedPopulation": 0.5001416831963729,
+            "PersonsFullyVaccinated": 10590,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 11577,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 21174,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 602
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 17667,
+        "AdministeredCount": 17668,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 2524.0,
         "AllocatedDoses": 0,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 6906,
         "PersonsVaccinatedOneDoseChange": 6906,
         "Population": 12456,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 355
     },
     "VaccineAdministration": [
@@ -17479,10 +17479,33 @@
             "Population": 12456,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 355
+        },
+        {
+            "AdministeredCount": 17668,
+            "AdministeredCountChange": 1,
+            "AdministeredCountRollAvg": 11.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 3429,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 355,
+            "CountyName": "Johnson",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 37.4204,
+            "Longitude": -88.9031,
+            "PctVaccinatedOneDosePopulation": 0.5544315992292871,
+            "PctVaccinatedPopulation": 0.5057803468208093,
+            "PersonsFullyVaccinated": 6300,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 6906,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 12456,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 355
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

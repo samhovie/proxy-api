@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 18889,
+        "AdministeredCount": 18892,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 2698.0,
+        "AdministeredCountRollAvg": 2699.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 3449,
         "BoosterDoseAdministeredChange": 3449,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 7742,
         "PersonsVaccinatedOneDoseChange": 7742,
         "Population": 17844,
-        "Report_Date": "2023-01-24T00:00:00",
+        "Report_Date": "2023-01-25T00:00:00",
         "TotalReportedInventory": 840
     },
     "VaccineAdministration": [
@@ -17479,10 +17479,33 @@
             "Population": 17844,
             "Report_Date": "2023-01-24T00:00:00",
             "TotalReportedInventory": 840
+        },
+        {
+            "AdministeredCount": 18892,
+            "AdministeredCountChange": 3,
+            "AdministeredCountRollAvg": 12.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 3449,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 800,
+            "CountyName": "Hancock",
+            "InventoryReportDate": "2023-01-24T00:00:00",
+            "LHDReportedInventory": 40,
+            "Latitude": 40.3849,
+            "Longitude": -91.1353,
+            "PctVaccinatedOneDosePopulation": 0.4338713292983636,
+            "PctVaccinatedPopulation": 0.3967159829634611,
+            "PersonsFullyVaccinated": 7079,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 7742,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 17844,
+            "Report_Date": "2023-01-25T00:00:00",
+            "TotalReportedInventory": 840
         }
     ],
     "lastUpdatedDate": {
-        "day": 24,
+        "day": 25,
         "month": 1,
         "year": 2023
     }

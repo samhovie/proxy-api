@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 70258,
+        "AdministeredCount": 70265,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 10037.0,
+        "AdministeredCountRollAvg": 9.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 14851,
-        "BoosterDoseAdministeredChange": 14851,
+        "BoosterDoseAdministered": 14852,
+        "BoosterDoseAdministeredChange": 14852,
         "CommunityReportedInventory": 130,
         "CountyName": "Stephenson",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 25353,
         "PersonsVaccinatedOneDoseChange": 25353,
         "Population": 44753,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 130
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 44753,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 130
+        },
+        {
+            "AdministeredCount": 70265,
+            "AdministeredCountChange": 7,
+            "AdministeredCountRollAvg": 29.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 14852,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 130,
+            "CountyName": "Stephenson",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 42.3145,
+            "Longitude": -89.6252,
+            "PctVaccinatedOneDosePopulation": 0.5665095077424978,
+            "PctVaccinatedPopulation": 0.52675798270507,
+            "PersonsFullyVaccinated": 23574,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 25353,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 44753,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 130
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

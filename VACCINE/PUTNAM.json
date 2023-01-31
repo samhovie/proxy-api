@@ -2,7 +2,7 @@
     "CurrentVaccineAdministration": {
         "AdministeredCount": 10213,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 1459.0,
+        "AdministeredCountRollAvg": 1.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 2124,
         "BoosterDoseAdministeredChange": 2124,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 3529,
         "PersonsVaccinatedOneDoseChange": 3529,
         "Population": 5740,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 30
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 5740,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 30
+        },
+        {
+            "AdministeredCount": 10213,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 2.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 2124,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Putnam",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 30,
+            "Latitude": 41.2385,
+            "Longitude": -89.2847,
+            "PctVaccinatedOneDosePopulation": 0.614808362369338,
+            "PctVaccinatedPopulation": 0.5766550522648084,
+            "PersonsFullyVaccinated": 3310,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 3529,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 5740,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 30
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

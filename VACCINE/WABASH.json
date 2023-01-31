@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 14287,
+        "AdministeredCount": 14289,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 2041.0,
+        "AdministeredCountRollAvg": 1.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 2775,
         "BoosterDoseAdministeredChange": 2775,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 5462,
         "PersonsVaccinatedOneDoseChange": 5462,
         "Population": 11549,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 688
     },
     "VaccineAdministration": [
@@ -17525,10 +17525,33 @@
             "Population": 11549,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 688
+        },
+        {
+            "AdministeredCount": 14289,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 4.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 2775,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Wabash",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 688,
+            "Latitude": 38.4226,
+            "Longitude": -87.8157,
+            "PctVaccinatedOneDosePopulation": 0.47294138020607845,
+            "PctVaccinatedPopulation": 0.44679193003723267,
+            "PersonsFullyVaccinated": 5160,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 5462,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 11549,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 688
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 34535,
+        "AdministeredCount": 34539,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 4934.0,
+        "AdministeredCountRollAvg": 4.0,
         "AllocatedDoses": 250,
         "BoosterDoseAdministered": 6735,
         "BoosterDoseAdministeredChange": 6735,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 12648,
         "PersonsVaccinatedOneDoseChange": 12648,
         "Population": 21847,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 650
     },
     "VaccineAdministration": [
@@ -17525,10 +17525,33 @@
             "Population": 21847,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 650
+        },
+        {
+            "AdministeredCount": 34539,
+            "AdministeredCountChange": 4,
+            "AdministeredCountRollAvg": 15.0,
+            "AllocatedDoses": 250,
+            "BoosterDoseAdministered": 6735,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Jersey",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 650,
+            "Latitude": 39.0705,
+            "Longitude": -90.3748,
+            "PctVaccinatedOneDosePopulation": 0.5789353229276331,
+            "PctVaccinatedPopulation": 0.5468027646816497,
+            "PersonsFullyVaccinated": 11946,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 12648,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 21847,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 650
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

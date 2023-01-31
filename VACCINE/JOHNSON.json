@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 17675,
+        "AdministeredCount": 17679,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 2525.0,
+        "AdministeredCountRollAvg": 2.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 3429,
-        "BoosterDoseAdministeredChange": 3429,
+        "BoosterDoseAdministered": 3431,
+        "BoosterDoseAdministeredChange": 3431,
         "CommunityReportedInventory": 355,
         "CountyName": "Johnson",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 6908,
         "PersonsVaccinatedOneDoseChange": 6908,
         "Population": 12456,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 355
     },
     "VaccineAdministration": [
@@ -17525,10 +17525,33 @@
             "Population": 12456,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 355
+        },
+        {
+            "AdministeredCount": 17679,
+            "AdministeredCountChange": 4,
+            "AdministeredCountRollAvg": 11.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 3431,
+            "BoosterDoseAdministeredChange": 2,
+            "CommunityReportedInventory": 355,
+            "CountyName": "Johnson",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 37.4204,
+            "Longitude": -88.9031,
+            "PctVaccinatedOneDosePopulation": 0.554592164418754,
+            "PctVaccinatedPopulation": 0.5058606294155427,
+            "PersonsFullyVaccinated": 6301,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 6908,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 12456,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 355
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

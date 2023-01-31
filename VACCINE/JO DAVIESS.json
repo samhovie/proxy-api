@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 30611,
+        "AdministeredCount": 30616,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 4373.0,
+        "AdministeredCountRollAvg": 3.0,
         "AllocatedDoses": 170,
-        "BoosterDoseAdministered": 6438,
-        "BoosterDoseAdministeredChange": 6438,
+        "BoosterDoseAdministered": 6439,
+        "BoosterDoseAdministeredChange": 6439,
         "CommunityReportedInventory": 10,
         "CountyName": "Jo Daviess",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 11456,
         "PersonsVaccinatedOneDoseChange": 11456,
         "Population": 21366,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 455
     },
     "VaccineAdministration": [
@@ -17525,10 +17525,33 @@
             "Population": 21366,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 455
+        },
+        {
+            "AdministeredCount": 30616,
+            "AdministeredCountChange": 5,
+            "AdministeredCountRollAvg": 11.0,
+            "AllocatedDoses": 170,
+            "BoosterDoseAdministered": 6439,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 10,
+            "CountyName": "Jo Daviess",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 445,
+            "Latitude": 42.3149,
+            "Longitude": -90.2245,
+            "PctVaccinatedOneDosePopulation": 0.5361789759430872,
+            "PctVaccinatedPopulation": 0.4814190770382851,
+            "PersonsFullyVaccinated": 10286,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 11456,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 21366,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 455
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

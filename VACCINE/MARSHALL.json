@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 19442,
+        "AdministeredCount": 19447,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 2777.0,
+        "AdministeredCountRollAvg": 1.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 4003,
-        "BoosterDoseAdministeredChange": 4003,
+        "BoosterDoseAdministered": 4004,
+        "BoosterDoseAdministeredChange": 4004,
         "CommunityReportedInventory": 0,
         "CountyName": "Marshall",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 6946,
         "PersonsVaccinatedOneDoseChange": 6946,
         "Population": 11534,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 110
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 11534,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 110
+        },
+        {
+            "AdministeredCount": 19447,
+            "AdministeredCountChange": 5,
+            "AdministeredCountRollAvg": 7.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 4004,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Marshall",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 110,
+            "Latitude": 40.9973,
+            "Longitude": -89.3606,
+            "PctVaccinatedOneDosePopulation": 0.6022195248829547,
+            "PctVaccinatedPopulation": 0.5688399514478932,
+            "PersonsFullyVaccinated": 6561,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 6946,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 11534,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 110
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

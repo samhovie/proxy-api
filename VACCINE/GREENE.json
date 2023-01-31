@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 15622,
+        "AdministeredCount": 15624,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 2232.0,
+        "AdministeredCountRollAvg": 1.0,
         "AllocatedDoses": 140,
-        "BoosterDoseAdministered": 2927,
-        "BoosterDoseAdministeredChange": 2927,
+        "BoosterDoseAdministered": 2928,
+        "BoosterDoseAdministeredChange": 2928,
         "CommunityReportedInventory": 0,
         "CountyName": "Greene",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 6008,
         "PersonsVaccinatedOneDoseChange": 6008,
         "Population": 13044,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 210
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 13044,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 210
+        },
+        {
+            "AdministeredCount": 15624,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 8.0,
+            "AllocatedDoses": 140,
+            "BoosterDoseAdministered": 2928,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Greene",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 210,
+            "Latitude": 39.403,
+            "Longitude": -90.3748,
+            "PctVaccinatedOneDosePopulation": 0.46059490953695187,
+            "PctVaccinatedPopulation": 0.43897577430236123,
+            "PersonsFullyVaccinated": 5726,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 6008,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 13044,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 210
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 31553,
+        "AdministeredCount": 31559,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 4508.0,
+        "AdministeredCountRollAvg": 4.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 6434,
         "BoosterDoseAdministeredChange": 6434,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 11030,
         "PersonsVaccinatedOneDoseChange": 11030,
         "Population": 16396,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 16396,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 31559,
+            "AdministeredCountChange": 6,
+            "AdministeredCountRollAvg": 16.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 6434,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Piatt",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.02861312,
+            "Longitude": -88.57328,
+            "PctVaccinatedOneDosePopulation": 0.672725054891437,
+            "PctVaccinatedPopulation": 0.6292388387411564,
+            "PersonsFullyVaccinated": 10317,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 11030,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 16396,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

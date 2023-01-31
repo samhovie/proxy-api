@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 22661,
+        "AdministeredCount": 22673,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 3237.0,
+        "AdministeredCountRollAvg": 4.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 4667,
-        "BoosterDoseAdministeredChange": 4667,
+        "BoosterDoseAdministered": 4668,
+        "BoosterDoseAdministeredChange": 4668,
         "CommunityReportedInventory": 40,
         "CountyName": "Washington",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 8516,
         "PersonsVaccinatedOneDoseChange": 8516,
         "Population": 13995,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 281
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 13995,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 281
+        },
+        {
+            "AdministeredCount": 22673,
+            "AdministeredCountChange": 12,
+            "AdministeredCountRollAvg": 13.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 4668,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 40,
+            "CountyName": "Washington",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 241,
+            "Latitude": 38.3989,
+            "Longitude": -89.3227,
+            "PctVaccinatedOneDosePopulation": 0.6085030367988568,
+            "PctVaccinatedPopulation": 0.5789924973204716,
+            "PersonsFullyVaccinated": 8103,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 8516,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 13995,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 281
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

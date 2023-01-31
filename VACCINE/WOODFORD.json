@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 62927,
+        "AdministeredCount": 62939,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 8990.0,
+        "AdministeredCountRollAvg": 10.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 12749,
-        "BoosterDoseAdministeredChange": 12749,
+        "BoosterDoseAdministered": 12752,
+        "BoosterDoseAdministeredChange": 12752,
         "CommunityReportedInventory": 0,
         "CountyName": "Woodford",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 22270,
         "PersonsVaccinatedOneDoseChange": 22270,
         "Population": 38463,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 240
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 38463,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 240
+        },
+        {
+            "AdministeredCount": 62939,
+            "AdministeredCountChange": 12,
+            "AdministeredCountRollAvg": 29.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 12752,
+            "BoosterDoseAdministeredChange": 3,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Woodford",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 240,
+            "Latitude": 40.7129,
+            "Longitude": -89.1706,
+            "PctVaccinatedOneDosePopulation": 0.5789979980760731,
+            "PctVaccinatedPopulation": 0.5521150196292541,
+            "PersonsFullyVaccinated": 21236,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 22270,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 38463,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 240
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

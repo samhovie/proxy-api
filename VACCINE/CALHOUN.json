@@ -2,7 +2,7 @@
     "CurrentVaccineAdministration": {
         "AdministeredCount": 6801,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 972.0,
+        "AdministeredCountRollAvg": 0.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 1356,
         "BoosterDoseAdministeredChange": 1356,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 2496,
         "PersonsVaccinatedOneDoseChange": 2496,
         "Population": 4802,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 280
     },
     "VaccineAdministration": [
@@ -17525,10 +17525,33 @@
             "Population": 4802,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 280
+        },
+        {
+            "AdministeredCount": 6801,
+            "AdministeredCountChange": 0,
+            "AdministeredCountRollAvg": 3.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 1356,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Calhoun",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 280,
+            "Latitude": 39.1733,
+            "Longitude": -90.6583,
+            "PctVaccinatedOneDosePopulation": 0.519783423573511,
+            "PctVaccinatedPopulation": 0.4943773427738442,
+            "PersonsFullyVaccinated": 2374,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 2496,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 4802,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 280
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

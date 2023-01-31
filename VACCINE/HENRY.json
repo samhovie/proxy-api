@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 84048,
+        "AdministeredCount": 84061,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 12007.0,
+        "AdministeredCountRollAvg": 8.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 17129,
-        "BoosterDoseAdministeredChange": 17129,
+        "BoosterDoseAdministered": 17133,
+        "BoosterDoseAdministeredChange": 17133,
         "CommunityReportedInventory": 0,
         "CountyName": "Henry",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 30293,
         "PersonsVaccinatedOneDoseChange": 30293,
         "Population": 49090,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 49090,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 84061,
+            "AdministeredCountChange": 13,
+            "AdministeredCountRollAvg": 33.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 17133,
+            "BoosterDoseAdministeredChange": 4,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Henry",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 41.3611,
+            "Longitude": -90.0747,
+            "PctVaccinatedOneDosePopulation": 0.6170910572418008,
+            "PctVaccinatedPopulation": 0.573762477082909,
+            "PersonsFullyVaccinated": 28166,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 30293,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 49090,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

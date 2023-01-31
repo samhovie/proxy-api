@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 20605,
+        "AdministeredCount": 20608,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 2944.0,
+        "AdministeredCountRollAvg": 2.0,
         "AllocatedDoses": 220,
         "BoosterDoseAdministered": 4147,
         "BoosterDoseAdministeredChange": 4147,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 7618,
         "PersonsVaccinatedOneDoseChange": 7618,
         "Population": 13565,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 85
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 13565,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 85
+        },
+        {
+            "AdministeredCount": 20608,
+            "AdministeredCountChange": 3,
+            "AdministeredCountRollAvg": 7.0,
+            "AllocatedDoses": 220,
+            "BoosterDoseAdministered": 4147,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Mason",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 85,
+            "Latitude": 40.2271,
+            "Longitude": -89.9253,
+            "PctVaccinatedOneDosePopulation": 0.5615923332104681,
+            "PctVaccinatedPopulation": 0.5362329524511611,
+            "PersonsFullyVaccinated": 7274,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 7618,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 13565,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 85
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

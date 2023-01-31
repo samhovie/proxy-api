@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 17085,
+        "AdministeredCount": 17087,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 2441.0,
+        "AdministeredCountRollAvg": 1.0,
         "AllocatedDoses": 80,
         "BoosterDoseAdministered": 3272,
         "BoosterDoseAdministeredChange": 3272,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 6789,
         "PersonsVaccinatedOneDoseChange": 6789,
         "Population": 15611,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 118
     },
     "VaccineAdministration": [
@@ -17525,10 +17525,33 @@
             "Population": 15611,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 118
+        },
+        {
+            "AdministeredCount": 17087,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 5.0,
+            "AllocatedDoses": 80,
+            "BoosterDoseAdministered": 3272,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Pike",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 118,
+            "Latitude": 39.5662,
+            "Longitude": -90.8294,
+            "PctVaccinatedOneDosePopulation": 0.43488565754916403,
+            "PctVaccinatedPopulation": 0.4049067964896547,
+            "PersonsFullyVaccinated": 6321,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 6789,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 15611,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 118
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 18898,
+        "AdministeredCount": 18903,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 2700.0,
+        "AdministeredCountRollAvg": 3.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 3450,
-        "BoosterDoseAdministeredChange": 3450,
+        "BoosterDoseAdministered": 3452,
+        "BoosterDoseAdministeredChange": 3452,
         "CommunityReportedInventory": 800,
         "CountyName": "Hancock",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 7743,
         "PersonsVaccinatedOneDoseChange": 7743,
         "Population": 17844,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 830
     },
     "VaccineAdministration": [
@@ -17525,10 +17525,33 @@
             "Population": 17844,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 830
+        },
+        {
+            "AdministeredCount": 18903,
+            "AdministeredCountChange": 5,
+            "AdministeredCountRollAvg": 12.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 3452,
+            "BoosterDoseAdministeredChange": 2,
+            "CommunityReportedInventory": 800,
+            "CountyName": "Hancock",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 30,
+            "Latitude": 40.3849,
+            "Longitude": -91.1353,
+            "PctVaccinatedOneDosePopulation": 0.4339273705447209,
+            "PctVaccinatedPopulation": 0.3967159829634611,
+            "PersonsFullyVaccinated": 7079,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 7743,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 17844,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 830
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

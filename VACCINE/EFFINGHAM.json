@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 46860,
+        "AdministeredCount": 46865,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 6694.0,
+        "AdministeredCountRollAvg": 3.0,
         "AllocatedDoses": 0,
-        "BoosterDoseAdministered": 9131,
-        "BoosterDoseAdministeredChange": 9131,
+        "BoosterDoseAdministered": 9134,
+        "BoosterDoseAdministeredChange": 9134,
         "CommunityReportedInventory": 732,
         "CountyName": "Effingham",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 17852,
         "PersonsVaccinatedOneDoseChange": 17852,
         "Population": 34208,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 732
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 34208,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 732
+        },
+        {
+            "AdministeredCount": 46865,
+            "AdministeredCountChange": 5,
+            "AdministeredCountRollAvg": 17.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 9134,
+            "BoosterDoseAdministeredChange": 3,
+            "CommunityReportedInventory": 732,
+            "CountyName": "Effingham",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 39.0622,
+            "Longitude": -88.5565,
+            "PctVaccinatedOneDosePopulation": 0.5218662301216089,
+            "PctVaccinatedPopulation": 0.48479887745556594,
+            "PersonsFullyVaccinated": 16584,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 17852,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 34208,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 732
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

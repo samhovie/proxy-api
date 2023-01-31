@@ -1,8 +1,8 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 17642,
+        "AdministeredCount": 17644,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 2520.0,
+        "AdministeredCountRollAvg": 2.0,
         "AllocatedDoses": 0,
         "BoosterDoseAdministered": 3416,
         "BoosterDoseAdministeredChange": 3416,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 6900,
         "PersonsVaccinatedOneDoseChange": 6900,
         "Population": 13665,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 952
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 13665,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 952
+        },
+        {
+            "AdministeredCount": 17644,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 7.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 3416,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 952,
+            "CountyName": "White",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 38.0501,
+            "Longitude": -88.2461,
+            "PctVaccinatedOneDosePopulation": 0.5049396267837541,
+            "PctVaccinatedPopulation": 0.4654957921697768,
+            "PersonsFullyVaccinated": 6361,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 6900,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 13665,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 952
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

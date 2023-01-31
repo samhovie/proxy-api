@@ -1,11 +1,11 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 24599,
+        "AdministeredCount": 24603,
         "AdministeredCountChange": 0,
-        "AdministeredCountRollAvg": 3514.0,
+        "AdministeredCountRollAvg": 2.0,
         "AllocatedDoses": 240,
-        "BoosterDoseAdministered": 4858,
-        "BoosterDoseAdministeredChange": 4858,
+        "BoosterDoseAdministered": 4859,
+        "BoosterDoseAdministeredChange": 4859,
         "CommunityReportedInventory": 32,
         "CountyName": "Warren",
         "InventoryReportDate": "2023-01-26T00:00:00",
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 8831,
         "PersonsVaccinatedOneDoseChange": 8831,
         "Population": 17032,
-        "Report_Date": "2023-01-26T00:00:00",
+        "Report_Date": "2023-01-29T00:00:00",
         "TotalReportedInventory": 1298
     },
     "VaccineAdministration": [
@@ -17548,10 +17548,33 @@
             "Population": 17032,
             "Report_Date": "2023-01-26T00:00:00",
             "TotalReportedInventory": 1298
+        },
+        {
+            "AdministeredCount": 24603,
+            "AdministeredCountChange": 4,
+            "AdministeredCountRollAvg": 9.0,
+            "AllocatedDoses": 240,
+            "BoosterDoseAdministered": 4859,
+            "BoosterDoseAdministeredChange": 1,
+            "CommunityReportedInventory": 32,
+            "CountyName": "Warren",
+            "InventoryReportDate": "2023-01-26T00:00:00",
+            "LHDReportedInventory": 1266,
+            "Latitude": 40.8759,
+            "Longitude": -90.6773,
+            "PctVaccinatedOneDosePopulation": 0.5184945984030062,
+            "PctVaccinatedPopulation": 0.488492249882574,
+            "PersonsFullyVaccinated": 8320,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 8831,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 17032,
+            "Report_Date": "2023-01-29T00:00:00",
+            "TotalReportedInventory": 1298
         }
     ],
     "lastUpdatedDate": {
-        "day": 26,
+        "day": 29,
         "month": 1,
         "year": 2023
     }

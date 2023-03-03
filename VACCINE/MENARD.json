@@ -1,6 +1,6 @@
 {
     "CurrentVaccineAdministration": {
-        "AdministeredCount": 20594,
+        "AdministeredCount": 20596,
         "AdministeredCountChange": 0,
         "AdministeredCountRollAvg": 2.0,
         "AllocatedDoses": 0,
@@ -8,7 +8,7 @@
         "BoosterDoseAdministeredChange": 4122,
         "CommunityReportedInventory": 0,
         "CountyName": "Menard",
-        "InventoryReportDate": "2023-02-28T00:00:00",
+        "InventoryReportDate": "2023-03-01T00:00:00",
         "LHDReportedInventory": 0,
         "Latitude": 40.0221,
         "Longitude": -89.813,
@@ -19,7 +19,7 @@
         "PersonsVaccinatedOneDose": 7493,
         "PersonsVaccinatedOneDoseChange": 7493,
         "Population": 12288,
-        "Report_Date": "2023-02-28T00:00:00",
+        "Report_Date": "2023-03-01T00:00:00",
         "TotalReportedInventory": 0
     },
     "VaccineAdministration": [
@@ -18537,11 +18537,34 @@
             "Population": 12288,
             "Report_Date": "2023-02-28T00:00:00",
             "TotalReportedInventory": 0
+        },
+        {
+            "AdministeredCount": 20596,
+            "AdministeredCountChange": 2,
+            "AdministeredCountRollAvg": 2.0,
+            "AllocatedDoses": 0,
+            "BoosterDoseAdministered": 4122,
+            "BoosterDoseAdministeredChange": 0,
+            "CommunityReportedInventory": 0,
+            "CountyName": "Menard",
+            "InventoryReportDate": "2023-03-01T00:00:00",
+            "LHDReportedInventory": 0,
+            "Latitude": 40.0221,
+            "Longitude": -89.813,
+            "PctVaccinatedOneDosePopulation": 0.6097819010416666,
+            "PctVaccinatedPopulation": 0.57470703125,
+            "PersonsFullyVaccinated": 7062,
+            "PersonsFullyVaccinatedChange": 0,
+            "PersonsVaccinatedOneDose": 7493,
+            "PersonsVaccinatedOneDoseChange": 0,
+            "Population": 12288,
+            "Report_Date": "2023-03-01T00:00:00",
+            "TotalReportedInventory": 0
         }
     ],
     "lastUpdatedDate": {
-        "day": 28,
-        "month": 2,
+        "day": 1,
+        "month": 3,
         "year": 2023
     }
 }
